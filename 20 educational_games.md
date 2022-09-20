@@ -1,6 +1,6 @@
 # Educational Video Games
 
-![vg_positive_impact](vg_positive_impact.webp)
+![](_img/vg_positive_impact.webp)
 
 ### 4 Positive impacts of gaming for students
 - **Motivational** - encourages an incremental approach

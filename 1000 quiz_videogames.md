@@ -1,7 +1,7 @@
 #  Survey - Do you know videogames?
 
 ### What game is this?
-![](roblox_logo.jpg)
+![](_img/quiz/roblox_logo.jpg)
 
 - Fornite
 - Among Us
@@ -9,7 +9,7 @@
 - **Roblox**
 
 ### What game is this?
-![](minecraft.jpg)
+![](_img/quiz/minecraft.jpg)
 
 - Fornite
 - Among Us

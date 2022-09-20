@@ -1,8 +1,8 @@
 # Identifying Types of Digital Games for Learning
 
+![](_img/CaseGameBasedLearning.jpg)
+
 >  Learning Objectives: learn to identify the different types of digital game available, discusses those that are most appropriate for different types of learning in higher education, and presents two emerging areas in educational gaming.
-
-
 
 ### What we can learn with VG
 Today we can find videogames that can help in quite every learning field.

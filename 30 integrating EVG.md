@@ -15,12 +15,12 @@ After learning about the benefits of educational video games and the characteris
 
 In this unit, we will answer all these questions and provide a guideline and tips that instructors can follow when deciding to select and implement an educational video game.
 
-![tips_vg_classroom](tips_vg_classroom.webp)
+![](_img/tips_vg_classroom.webp)
 
 ## Learning Flow
 Educational Games a special "flow", which is
 
-![](img/cognitive_approach.png)
+![](_img/cognitive_approach.png)
 
 ### Tips for using VG in the classroom
 1. Teachers do not need to be avid gamers, but they should at least be interested in them.
@@ -94,6 +94,13 @@ Games bring together combination of motivating elements not found together in an
 What can schools learn from video games?
 https://youtu.be/3aQxga-SUBg
 <iframe src="https://www.youtube.com/embed/3aQxga-SUBg"></iframe>
+
+## The Flow state
+The Flow state in an experience as the equilibrium point between challenge and ability. If the challenge is quite higher than the ability the result will be the person getting frustrated and with the feeling of anxiety, on the other hand if the person’s skill is higher than the challenge presented he will experience boredom.
+Games should be designed and calibrated the ensure that the player maximises its staying within the *flow channel*
+
+
+![](_img/flow-1.png)
 
 ## Unit review
 Discuss, in your opinion the importance of implementing game-based learning.

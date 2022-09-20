@@ -78,9 +78,6 @@ You can read the [Appendix - Cognitive Skills](90%20appendix%20-%20Cognitive%20S
 ### Moderation
 The impact of video games on society has been the subject of numerous studies. For example a psychologist at the Internet Institute at Oxford University, published a study establishing how much time should children be allowed to devote to video gaming. He reports that those who played less than an hour were more emotionally stable, while those who played for around three hours a day developed social problems. Therefore, when it comes to video games, **moderation is key**. 
 
-### Learn by Doing
-Games model learning by doing perfectly, as they demand the active participation of players all along the way. This is one reason games have such potential as tools for learning: they are really nothing more than complex problems waiting to be solved by players in a way that is both fun and challenging.
-
 ## Unit review
 Now that we have established what is game-based learning and why using educational video games is beneficial, please respond to the following questions:
 
