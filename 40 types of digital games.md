@@ -67,3 +67,7 @@ Another type of game (which isn’t really a genre in itself as there are many d
 Casual games are designed to be played in **short bursts** rather than for prolonged sessions so are **chunked into many small levels** that all follow the same pattern, so that they can be played for a few minutes at a time and easily stopped and restarted. These games cater for players who simply want to play a game for a short time and do not want to make any great commitment in terms of time or learning how to play. They have **simple game play** and comparatively low production values. The rise in the use of casual games shows a movement away from the typical ‘hardcore’ gamer to a wider demographic, particularly female and older players, which is more typical of the whole university student demographic, and casual games may be most appropriate for fitting into specific segments of teaching time.
 
 #TODO Some images of casual games
+
+## Chapter Navigation
+[Go to Previous Chapter](40%20types%20of%20digital%20games.md)
+[Go to Next Chapter](50%20coach%20guide.md)

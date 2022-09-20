@@ -1,5 +1,6 @@
+# Appendix
 
-# Cognitive skills and games 
+## Cognitive skills and games 
 
 Cognitive processes let you:
 1. Understand sensory inputs

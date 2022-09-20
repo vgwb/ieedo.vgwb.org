@@ -107,3 +107,6 @@ Thinking about the activity you have just undertaken, please indicate the level 
 - Feedback I was given was useful
 - I found it easy to get started
 
+## Chapter Navigation
+[Go to Previous Chapter](40%20types%20of%20digital%20games.md)
+[Go to Next Chapter](90%20appendix%20-%20Cognitive%20Skills.md)

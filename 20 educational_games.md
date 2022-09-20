@@ -71,3 +71,8 @@ Gamification takes an element of education and replaces it with a game-based ele
 Discuss in your opinion:
 - What are the important features that a good educational video game should have?
 - What are some necessary features are needed to make sure that an educational video game compliments your pedagogical approach and enhances it?
+
+
+## Chapter Navigation
+[Go to Previous Chapter](20%20educational_games.md)
+[Go to Next Chapter](30%20integrating%20EVG.md)

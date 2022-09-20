@@ -1,5 +1,4 @@
-# Digital Game Based Learning
-an introduction
+
 
 ## Definition
 
@@ -84,3 +83,7 @@ Now that we have established what is game-based learning and why using education
 - Create your own definition of game-based learning
 - How do you believe educational video games would support your pedagogical approaches and enhance your teaching methods?
 - How would you introduce educational video games in your classroom?
+
+## Chapter Navigation
+[Go to Previous Chapter](01%20introduction.md)
+[Go to Next Chapter](20%20educational_games.md)
