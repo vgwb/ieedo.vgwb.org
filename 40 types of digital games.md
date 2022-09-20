@@ -24,31 +24,78 @@ Although the original adventure games were text-based, contemporary commercial a
 
 Adventure games generally depend on **mental agility** rather than physical dexterity and tend **not to be time-dependent**. Some adventures combine elements of both and it is common for adventure games to contain mini-games in another genre. In terms of education, adventure games can **present a context for problem-solving and lateral thinking**, where players have to work out the appropriate actions in order to achieve a goal.
 
-#TODO Some images of adventure games
+**Examples**
+
+#### The tale of Monkey Island
+
+![](_img/games/monakeyisland.webp)
+
+#### Myst
+![](_img/games/myst.webp)
+
+#### Horizon Zero Dawn
+
+![](_img/games/horizonzero.webp)
+
+#### Zelda
+![](_img/games/zelda.webp)
 
 ## Platform
 Platform games involve the movement of the player character through a landscape (usually two-dimensional), jumping up and down between platforms, avoiding obstacles and enemies, and picking up treasure, usually with some overall goal in mind and often in the context of a narrative. Platform games require physical dexterity and the aim is usually to score points and complete levels.
 The types of skills that they develop are **hand–eye coordination**, **planning** and **strategizing, problem-solving** (the sequence of steps required to get over a particular obstacle for instance) and the ability to think quickly.
 
-#TODO Some images of platform games
+#### Braid
+![](_img/games/braid.webp)
+
+#### Limbo
+![](_img/games/limbo.webp)
+
+#### Super Mario Maker 2
+![](_img/games/supermariomaker.webp)
 
 ## Puzzle
 Puzzle games primarily involve problem-solving, can take many forms – including words, logic, mathematics – and are often based on traditional puzzles (for example online crosswords or spot-the-difference). Simple puzzle games can be stand-alone but they are also often embedded within a larger narrative structure so that solving the puzzles will complete some larger quest or story. It is common for puzzles to be embedded within other genres such as adventure games as mini-games. Puzzles can be used to support a variety of **different types of learning** depending on the type of puzzle, including **logic**, **spatial awareness**, **verbal skills**, **numeracy skills**, and **spelling**. I would also include quizzes in this category, and they are an example of a game activity that can be used in almost any area of a curriculum, but primarily for recall of facts.
 
-#TODO Some images of puzzle games
+#### Threes!
+![](_img/games/threes.webp)
+
+#### Ruzzle
+![](_img/games/ruzzle.webp)
+
+#### Monument Valley
+![](_img/games/monumentvalley.webp)
+
+#### The Room
+![](_img/games/theroom.webp)
+
+#### Portal
+![](_img/games/portal.webp)
 
 ## Role Play
 Role play games emerged from the face-to-face role-playing games and involve the player taking on the role of a character in another (usually fantasy-based) world.
 The player can undertake a range of activities including solving quests, fighting, treasure hunting, and interacting with other characters (either other players in the game world or non-player characters). There is usually a mix of problem-solving skills required as well as strategy and sometimes physical dexterity, and although single-player role-playing games exist, they are commonly multi-player. Role play games are usually underpinned by complex statistical models that provide scores for a range of characteristics that determine a character’s abilities and weaknesses.
 In the context of learning, role-playing games are good for providing a context for building **collaborative skills**, **social interaction**, **negotiation**, **management of complex systems** (e.g. character statistics), **strategy**, and working through scenarios.
 
-#TODO Some images of rpg games
+#### Final Fantasy serie
+![](_img/games/finalfantasy.webp)
+#### The Elder Scrolls V: Skyrim
+![](_img/games/skyrim.webp)
+
+#### Ultima
+![](_img/games/ultima.webp)
 
 ## Shooter
 Shooter games have the primary aim of using weapons (or sometimes spells and other special abilities) to defeat opponents, although the action is often embedded within a wider narrative context. They are generally played from a **first person** viewpoint (FPS First Person Shooter) and are played in real time. This is another genre in which **multi-player** games are common. Shooter games involve a combination of strategy and dexterity, exploring virtual worlds and defeating enemies and targets.
 Although this is one genre in which it may be argued that there is less applicability to learning in higher education, there are still many skills that can be acquired by playing such games including forward **planning**, **strategizing**, and **team working**.
 
-#TODO Some images of FPS games
+#### DOOM
+![](_img/games/doom.webp)
+
+#### Call of Duty
+![](_img/games/callofduty.webp)
+
+#### Fortnite
+![](_img/games/fortnite.webp)
 
 ## Sports
 Sports games allow the player to simulate taking part in a sporting event or tournament. They are generally based on physical dexterity and interaction with the gaming interface, but in recent years innovations such as dance mats and consoles that use movement-sensitive devices (the most notable example being the Nintendo consoles) have enabled players to actually undertake physical activity while playing.
@@ -66,7 +113,12 @@ Strategy games can be used for teaching **planning**, **decision-making**, **tes
 Another type of game (which isn’t really a genre in itself as there are many different types) that is currently growing in popularity is casual games. These games are usually downloaded from gaming sites rather than being available in shops and are cheaper than traditional entertainment games (or free to play online).
 Casual games are designed to be played in **short bursts** rather than for prolonged sessions so are **chunked into many small levels** that all follow the same pattern, so that they can be played for a few minutes at a time and easily stopped and restarted. These games cater for players who simply want to play a game for a short time and do not want to make any great commitment in terms of time or learning how to play. They have **simple game play** and comparatively low production values. The rise in the use of casual games shows a movement away from the typical ‘hardcore’ gamer to a wider demographic, particularly female and older players, which is more typical of the whole university student demographic, and casual games may be most appropriate for fitting into specific segments of teaching time.
 
-#TODO Some images of casual games
+#### Fancade
+![](_img/games/fancade.webp)
+
+
+#### Dumb Ways to Die
+![](_img/games/dumbways.webp)
 
 ## Chapter Navigation
 [Go to Previous Chapter](40%20types%20of%20digital%20games.md)
