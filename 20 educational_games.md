@@ -69,6 +69,13 @@ Game-based learning should not be confused with gamification.
 
 Gamification takes an element of education and replaces it with a game-based element. For instance, a teacher may replace grades with levels or experience points.
 
+## The Flow state
+The Flow state in an experience as the equilibrium point between challenge and ability. If the challenge is quite higher than the ability the result will be the person getting frustrated and with the feeling of anxiety, on the other hand if the person’s skill is higher than the challenge presented he will experience boredom.
+Games should be designed and calibrated the ensure that the player maximises its staying within the *flow channel*
+
+
+![](_img/flow-1.png)
+
 ## Unit review
 
 Discuss in your opinion:

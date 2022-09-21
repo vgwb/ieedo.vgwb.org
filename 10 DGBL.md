@@ -77,6 +77,21 @@ You can read the [Appendix - Cognitive Skills](90%20appendix%20-%20Cognitive%20S
 ### Moderation
 The impact of video games on society has been the subject of numerous studies. For example a psychologist at the Internet Institute at Oxford University, published a study establishing how much time should children be allowed to devote to video gaming. He reports that those who played less than an hour were more emotionally stable, while those who played for around three hours a day developed social problems. Therefore, when it comes to video games, **moderation is key**. 
 
+### Games values
+Games bring together combination of motivating elements not found together in any other medium. Indeed games: 
+- are a form of fun -> _enjoyment and pleasure_
+- are a form of play -> intense and passionate _involvement_
+- are rules -> _structure_
+- are goals -> _motivation_
+- are interactive -> _doing_
+- are adaptive -> _flow_
+- have outcomes and feedback -> _learning_
+- have a win state -> ego _gratification_
+- have conflict/competition/challenge/opposition -> _adrenaline_
+- have problem solving -> sparks _creativity_
+- have peer interaction -> _social groups_
+- have characters and story -> _emotions_
+
 ## Unit review
 Now that we have established what is game-based learning and why using educational video games is beneficial, please respond to the following questions:
 

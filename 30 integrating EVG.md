@@ -20,17 +20,15 @@ Educational Games a special "flow", which is
 ![](_img/cognitive_approach.png)
 
 ### Tips for using VG in the classroom
-1. Teachers do not need to be avid gamers, but they should at least be interested in them.
-2.  Videogames should not be the main method for educating students. They are just **one of the tools available**.
-3.  **Check the age recommendations** on videogames. Avoid those for 18 ears and over.
+1. Teachers do not need to be avid gamers, but they should **at least be interested in them**.
+2. Videogames should not be the main method for educating students. They are just **one of the tools available**.
+3. **Check the age recommendations** on videogames. Avoid those for 18 ears and over.
 4. Before you select a videogame, be clear about the **skills and competencies** you want to develop.
 5. Students are **motivated by progressing** from level to level. It Is Important not to set impossible challenges.
 6. Schools must be equipped with **suitable technology** before Introducing videogames into the classroom.
 7. Students can get hooked on videogames so teaching how to **control their use** is also part of classroom education.
 
-## Incorporation of Educational Video Games (EVG)
-
-_How to implement EVGs?_
+## Incorporation of Educational Video Games
 
 There are many strategies and ways for educators to incorporate game-based learning and EVGs into their curriculum and classroom. Here are three ways that teachers can follow to implement game-based learning:
 
@@ -73,31 +71,12 @@ Therefore, choosing to implement EVGs should come as a reason to enhance content
 15. Intrinsic motivation: playing is voluntary and self-driven
 16. Seamless accountability and feedback
 
-### Games values
-Games bring together combination of motivating elements not found together in any other medium. Indeed games: 
-- are a form of fun -> _enjoyment and pleasure_
-- are a form of play -> intense and passionate _involvement_
-- are rules -> _structure_
-- are goals -> _motivation_
-- are interactive -> _doing_
-- are adaptive -> _flow_
-- have outcomes and feedback -> _learning_
-- have a win state -> ego _gratification_
-- have conflict/competition/challenge/opposition -> _adrenaline_
-- have problem solving -> sparks _creativity_
-- have peer interaction -> _social groups_
-- have characters and story -> _emotions_
-
 What can schools learn from video games?
 https://youtu.be/3aQxga-SUBg
 <iframe src="https://www.youtube.com/embed/3aQxga-SUBg"></iframe>
 
-## The Flow state
-The Flow state in an experience as the equilibrium point between challenge and ability. If the challenge is quite higher than the ability the result will be the person getting frustrated and with the feeling of anxiety, on the other hand if the person’s skill is higher than the challenge presented he will experience boredom.
-Games should be designed and calibrated the ensure that the player maximises its staying within the *flow channel*
 
-
-![](_img/flow-1.png)
+## 5 Steps ti
 
 ## Unit review
 Discuss, in your opinion the importance of implementing game-based learning.
