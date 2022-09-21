@@ -256,5 +256,5 @@ Minecraft is an open-world game, allowing players opportunity for unlimited expl
 **Possible skills taught:** Writing; critical thinking; exploration; experimentation; cause and effect; mapping; building; design; creativity; resource management; communication
 
 ## Chapter Navigation
-[Go to Previous Chapter](40%20types%20of%20digital%20games.md)
+[Go to Previous Chapter](30%20integrating%20EVG.md)
 [Go to Next Chapter](50%20coach%20guide.md)
