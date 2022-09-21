@@ -1,4 +1,4 @@
-
+# Digital Game Based Learning
 
 ## Definition
 
@@ -6,6 +6,7 @@ Game based learning (GBL) is a type of _game play_ that has _defined learning ou
 **Digital** game based learning (DGBL) refers to using actual digital video games as learning tools.
 
 ## Engagement
+
 Engaging students in classroom content is always a hard task, and traditional forms of education have become expected and somewhat redundant, that the learning capacities of students are very weak. When students aren’t engaged, they’re more likely to disrupt class, less likely to accept challenges, have lower grades, and aren’t confident in their ability to learn.
 
 Additionally, sustaining engagement is very important to ensure that the student is gaining the most out of their learning experience and that their **cognitive skills are always stimulated**. Engaging through educational video games that are built on educational content has proven to be a great way not only to keep students engaged but also to deliver complex theories/topics in an interactive manner allowing students to have a **deeper comprehension of the content**.
@@ -62,15 +63,14 @@ CONS
 ### Skills
 
 Additionally, playing video games has a huge impact on the development of **cognitive**, **collaboration**, **creative problem solving**, and **communication skills** of students. 
-
 As well as improving learning abilities, there are other benefits. Here are some of them:
 
-- They **speed up response times**: Researchers at Rochester University have found that they improve troubleshooting skills by posing problems that must be solved in a set time.
-- They **encourage teamwork**: According to the Californian organization, the Institute for the Future (IFTF), multiplayer games boost teamwork in problem-solving.
-- They **stimulate creativity, focus, and visual memory**: The University of California has found that they stimulate these aspects by setting goals that require concentration, imagination, and remembering details to achieve them.
-- They **improve strategy and leadership**: Video games put players in command, honing their abilities to resolve disputes, interact with other players and make decisions, found Pittsburgh University.
-- They **teach languages**: Helsinki University found that they are useful for learning other languages through on-screen instructions, chats for communicating with other players, or the narration of the story itself.
-- **Critical thinking**: Monterrey Institute of Technology published an article underlining the underlying ethical, philosophical and social basis of these games, and their ability to make players think and improve their critical thinking.
+- Games **speed up response times**: improve troubleshooting skills by posing problems that must be solved in a set time.
+- Games **encourage teamwork**: multiplayer games boost teamwork in problem-solving.
+- Games **stimulate creativity, focus, and visual memory**: stimulate these aspects by setting goals that require concentration, imagination, and remembering details to achieve them.
+- Games **improve strategy and leadership**: put players in command, honing their abilities to resolve disputes, interact with other players and make decisions.
+- Games **teach languages**: they are useful for learning other languages through on-screen instructions, chats for communicating with other players, or the narration of the story itself.
+- Games improve **Critical thinking**: with underlying ethical, philosophical and social basis, and their ability to make players think.
 
 You can read the [Appendix - Cognitive Skills](90%20appendix%20-%20Cognitive%20Skills.md) for more details.
 

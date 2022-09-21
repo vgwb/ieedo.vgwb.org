@@ -1,15 +1,12 @@
 # Integration of Education Games
 
 **Learning Objectives:**
+- when to implement educational video games?
+- why implementing educational video games is important?
 
-- Understand when to implement educational video games in your own classroom
-- Understand why implementing educational video games is important
-
-Recap James Paul Gee, the gaming expert, shares insights into why video games are such effective learning tools:
+Let's see this video where James Paul Gee shares insights into why video games are such effective learning tools:
 [James Paul Gee on Learning with Video Games](https://youtu.be/JnEN2Sm4IIQ)
 <iframe src="https://www.youtube.com/embed/JnEN2Sm4IIQ"></iframe>
-
-## Introduction
 
 After learning about the benefits of educational video games and the characteristics of a good educational video game, we arrive at the question: how do we incorporate game-based learning for maximum benefit as well as when and where in the curriculum? Also, what about class management, how do we manage the environment of the class and students while playing the game?
 

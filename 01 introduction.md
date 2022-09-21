@@ -8,7 +8,7 @@ by Video Games Without Borders
 - [20 educational_games](20%20educational_games.md)
 - [30 integrating EVG](30%20integrating%20EVG.md)
 - [40 types of digital games](40%20types%20of%20digital%20games.md)
-- [50 coach guide](50%20coach%20guide.md)
+- [50 teacher guide](50%20teacher%20guide.md)
 - [90 appendix - Cognitive Skills](90%20appendix%20-%20Cognitive%20Skills.md)
 - [100 resources](100%20resources.md)
 
@@ -25,11 +25,7 @@ They must become familiar with the theoretical underpinnings of DGBL, learn abou
 
 It is important to know the theory and the tools because games do not work by themselves and not all refugees/adults/coaches are comfortable with digital games. 
 
-## Topics
-5.1 How DGBL works, requirements and issues 
-5.2 Students pre-evaluation and setup
-5.3 Team and individual facilitation
-5.4 Evaluation tools
+
 
 ### Knowledge
 - DGBL terminology
@@ -40,13 +36,6 @@ It is important to know the theory and the tools because games do not work by th
 - How to evaluate the outcomes
 - Foreign Cultures and psychology
 - Play and Games in Pedagogy
-
-### Skills
-- Basic Digital Skills
-- Minimal game playing experience
-- Deep understanding of how a game can help learning and its differences with a  classic book/course
-- Recognise different players skills and support their game play
-- Engage students in playing and progression
 
 ### Competences
 - use DGBL as pedagogy tool

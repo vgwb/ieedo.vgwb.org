@@ -2,17 +2,22 @@
 
 ![](_img/CaseGameBasedLearning.jpg)
 
->  Learning Objectives: learn to identify the different types of digital game available, discusses those that are most appropriate for different types of learning in higher education, and presents two emerging areas in educational gaming.
+> **Learning Objectives:**
+>  In this Unit we learn to identify the different types of digital game available, discusses those that are most appropriate for different types of learning in higher education, and presents two emerging areas in educational gaming.
 
 ### What we can learn with VG
-Today we can find videogames that can help in quite every learning field.
+Today we can find videogames that can help in every learning field.
 For example:
-
-- Language Learning
+- Language Learning / Literacy
 - Mathematics and Science (STEM)
 - Social Studies and History
 - Development of Cognitive Skills
 - Rehabilitation
+- Music 
+- Art / Creative skills
+- Emotional Health / Wellbeing
+- Ethics and Ethical Thinking
+- Management
 
 ## Types of Digital Game Available to Educators
 Many researchers have tried to categorize computer games into types or taxonomies, and although there are often large differences between them, there is also much similarity in terms of the general classifications. Here is a try to group them in general categories.
@@ -257,4 +262,4 @@ Minecraft is an open-world game, allowing players opportunity for unlimited expl
 
 ## Chapter Navigation
 [Go to Previous Chapter](30%20integrating%20EVG.md)
-[Go to Next Chapter](50%20coach%20guide.md)
+[Go to Next Chapter](50%20teacher%20guide.md)

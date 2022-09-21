@@ -1,3 +1,8 @@
+# Teacher guide
+
+> **Learning Objectives:**
+> In this Unit we see how a teacher can setup a learning session with students, the minimal procedure and sills required and the final assessment and evaluation
+
 ## A Digital Game Based Learning session
 We can summarize a DGBL session in these five steps:
 

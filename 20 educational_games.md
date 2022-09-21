@@ -1,12 +1,15 @@
 # Educational Video Games
 
+> **Learning Objectives:**
+> learn about video games and the learning principles
+
 ![](_img/vg_positive_impact.webp)
 
 ### 4 Positive impacts of gaming for students
 - **Motivational** - encourages an incremental approach
 - **Cognitive** -improves attention, focus, and reaction time
 - **Social** - translates the social skills learned into relations outside the gaming environment
-- **Emotional** -encourages positive mood states and adaptive emotion regulation
+- **Emotional** - encourages positive mood states and adaptive emotion regulation
 
 ## Games selection
 
