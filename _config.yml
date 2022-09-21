@@ -1,0 +1,7 @@
+title: "DGBL"
+remote_theme: just-the-docs/just-the-docs
+color_scheme: "light"
+search_enabled: true
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
