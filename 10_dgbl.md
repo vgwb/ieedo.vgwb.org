@@ -23,7 +23,7 @@ Additionally, sustaining engagement is very important to ensure that the student
 
 <iframe src="https://www.youtube.com/embed/o6IELVV2xLQ"></iframe>
 
-#quiz Preliminary survey on [Game Based Learning](1000%20quiz_GBL.md)
+#quiz Preliminary survey on [Game Based Learning](1000_quiz_gbl.md)
 
 ## What is game based learning?
 
@@ -77,7 +77,7 @@ As well as improving learning abilities, there are other benefits. Here are some
 - Games **teach languages**: they are useful for learning other languages through on-screen instructions, chats for communicating with other players, or the narration of the story itself.
 - Games improve **Critical thinking**: with underlying ethical, philosophical and social basis, and their ability to make players think.
 
-You can read the [Appendix - Cognitive Skills](110%20appendix%20-%20Cognitive%20Skills.md) for more details.
+You can read the [Appendix - Cognitive Skills](110_appendix_cognitive_skills.md) for more details.
 
 ### Moderation
 The impact of video games on society has been the subject of numerous studies. For example a psychologist at the Internet Institute at Oxford University, published a study establishing how much time should children be allowed to devote to video gaming. He reports that those who played less than an hour were more emotionally stable, while those who played for around three hours a day developed social problems. Therefore, when it comes to video games, **moderation is key**. 
@@ -105,5 +105,5 @@ Now that we have established what is game-based learning and why using education
 - How would you introduce educational video games in your classroom?
 
 ## Chapter Navigation
-[Go to Previous Chapter](01%20introduction.md)
-[Go to Next Chapter](20%20educational_games.md)
+[Go to Previous Chapter](01_introduction.md)
+[Go to Next Chapter](20_educational_games.md)

@@ -8,18 +8,18 @@ an introductive guide
 
 by Video Games Without Borders
 
-- [01 introduction](01%20introduction.md)
-- [10 DGBL](10%20DGBL.md)
-- [20 educational_games](20%20educational_games.md)
-- [30 integrating EVG](30%20integrating%20EVG.md)
-- [40 types of digital games](40%20types%20of%20digital%20games.md)
-- [50 teacher guide](50%20teacher%20guide.md)
-- [110 appendix - Cognitive Skills](110%20appendix%20-%20Cognitive%20Skills.md)
-- [100 resources](100%20resources.md)
+- [01_introduction](01_introduction.md)
+- [10_dgbl](10_dgbl.md)
+- [20_educational_games](20_educational_games.md)
+- [30_integrating_games](30_integrating_games.md)
+- [40_case_studies](40_case_studies.md)
+- [50_teacher_guide](50_teacher_guide.md)
+- [110_appendix_cognitive_skills](110_appendix_cognitive_skills.md)
+- [100_resources](100_resources.md)
 
-- [1000 quiz_GBL](1000%20quiz_GBL.md)
-- [1000 quiz_digital](1000%20quiz_digital.md)
-- [1000 quiz_videogames](1000%20quiz_videogames.md)
+- [1000_quiz_gbl](1000_quiz_gbl.md)
+- [1000_quiz_digital](1000_quiz_digital.md)
+- [1000_quiz_videogames](1000_quiz_videogames.md)
 
 
 The approach to Digital Game-Based Learning needs to be well planned and organized to engage in learning and to produce the appropriate outcomes.

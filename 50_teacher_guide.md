@@ -76,11 +76,11 @@ There are seven aspects that should be examined when determining the effectivene
 ### Hardware and Digital Skills evaluation
 We want to know how much the user knows about digital world, hardware, smartphone
 
-📄 [Survey Digital Skills](1000%20quiz_digital.md)
+📄 [Survey Digital Skills](1000_quiz_digital.md)
 
 ### VG Evaluation
 We want to know if user knows a bit about videogames
-📄 [Survey Videogames](1000%20quiz_videogames.md)
+📄 [Survey Videogames](1000_quiz_videogames.md)
 
 ### Setup device
 Install the game on the device and run it once.
@@ -119,5 +119,5 @@ Thinking about the activity you have just undertaken, please indicate the level 
 - I found it easy to get started
 
 ## Chapter Navigation
-[Go to Previous Chapter](40%20types%20of%20digital%20games.md)
-[Go to Next Chapter](110%20appendix%20-%20Cognitive%20Skills.md)
+[Go to Previous Chapter](40_case_studies.md)
+[Go to Next Chapter](110_appendix_cognitive_skills.md)

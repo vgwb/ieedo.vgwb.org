@@ -88,5 +88,5 @@ Discuss, in your opinion the importance of implementing game-based learning.
 Could there be complications to this process? if so, what would they be?
 
 ## Chapter Navigation
-[Go to Previous Chapter](20%20educational_games.md)
-[Go to Next Chapter](40%20types%20of%20digital%20games.md)
+[Go to Previous Chapter](20_educational_games.md)
+[Go to Next Chapter](40_case_studies.md)

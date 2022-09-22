@@ -23,7 +23,7 @@ There are many educational video games available for class implementation, howev
 In this unit, we will discuss the characteristics of a good educational video game, its attributes, and how educators can ensure that they are providing their students with the best quality of learning through the selected video game.
 
 Before we dive deep into our unit, take a moment to solve this quiz on videogames
-✅ [Videogames QUIZ](1000%20quiz_videogames.md)
+✅ [Videogames QUIZ](1000_quiz_videogames.md)
 
 ## What makes a good educational video game good?
 
@@ -89,5 +89,5 @@ Discuss in your opinion:
 
 
 ## Chapter Navigation
-[Go to Previous Chapter](20%20educational_games.md)
-[Go to Next Chapter](30%20integrating%20EVG.md)
+[Go to Previous Chapter](20_educational_games.md)
+[Go to Next Chapter](30_integrating_games.md)
