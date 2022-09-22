@@ -8,7 +8,7 @@ nav_order: 30
 > **Learning Objectives:**
 > learn about video games and the learning principles
 
-![](_img/vg_positive_impact.webp)
+![](img/vg_positive_impact.webp)
 
 ### 4 Positive impacts of gaming for students
 - **Motivational** - encourages an incremental approach
@@ -79,7 +79,7 @@ The Flow state in an experience as the equilibrium point between challenge and a
 Games should be designed and calibrated the ensure that the player maximises its staying within the *flow channel*
 
 
-![](_img/flow-1.png)
+![](img/flow-1.png)
 
 ## Unit review
 

@@ -8,14 +8,14 @@ nav_order: 20
 # Survey - Digital skills
 
 ### What is the name of this piece of ICT equipment?
-![](_img/quiz/mouse.jpg)
+![](img/quiz/mouse.jpg)
 USB
 Keyboard
 Mouse
 Webcam
 
 ### In emails, what does this icon indicate?
-![](_img/quiz/attacchment.jpg)
+![](img/quiz/attacchment.jpg)
 A file is attached
 It is a long email
 The email is private
@@ -23,7 +23,7 @@ The email needs printing
 
 
 ### What is the name of this piece of ICT equipment?
-![](_img/quiz/keyboard.jpg)
+![](img/quiz/keyboard.jpg)
 Scanner
 Monitor
 Keyboard
@@ -36,14 +36,14 @@ Pretty Computer
 Personal credit
 
 ### This picture shows what type of computer?
-![](_img/quiz/laptop.jpg)
+![](img/quiz/laptop.jpg)
 Tablet
 Mainframe
 Desktop
 Laptop
 
 ### What does this piece of ICT equipment do?
-![](_img/quiz/printer.jpg)
+![](img/quiz/printer.jpg)
 Stores information
 Takes photos
 Helps keep the computer safe
@@ -116,7 +116,7 @@ Central Processing Unit
 Computer Problems Unite
 
 ### Identify this social media application
-![](_img/quiz/snapchat.png)
+![](img/quiz/snapchat.png)
 Twitter
 Snapchat
 Facebook
@@ -154,7 +154,7 @@ Snapchat
 
 
 ### What is this called?
-![](_img/quiz/usbkey.jpg)
+![](img/quiz/usbkey.jpg)
 USB
 Flash Drive
 All of these
@@ -162,21 +162,21 @@ Memory stick
 
 
 ### Name this social media app
-![](_img/quiz/app-instagram.jpg)
+![](img/quiz/app-instagram.jpg)
 Instagram
 Facebook
 Twitter
 Snapchat
 
 ### What is this image the icon for?
-![](_img/quiz/app-word.jpg)
+![](img/quiz/app-word.jpg)
 Microsoft Access
 Microsoft Excel
 Microsoft PowerPoint
 Microsoft Word
 
 ### What is this image the icon for?
-![](_img/quiz/app-excel.png)
+![](img/quiz/app-excel.png)
 Microsoft Word
 Microsoft Publisher
 Microsoft Excel

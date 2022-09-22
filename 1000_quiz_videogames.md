@@ -8,7 +8,7 @@ nav_order: 20
 #  Survey - Do you know videogames?
 
 ### What game is this?
-![](_img/quiz/roblox_logo.jpg)
+![](img/quiz/roblox_logo.jpg)
 
 - Fornite
 - Among Us
@@ -16,7 +16,7 @@ nav_order: 20
 - **Roblox**
 
 ### What game is this?
-![](_img/quiz/minecraft.jpg)
+![](img/quiz/minecraft.jpg)
 
 - Fornite
 - Among Us

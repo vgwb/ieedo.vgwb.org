@@ -6,6 +6,8 @@ nav_order: 1
 an introductive guide  
 by Video Games Without Borders
 
+![](img/CaseGameBasedLearning.jpg)
+
 ### [1 - Introduction](01_introduction.md)
 to this guide
 ### [2 - DGBL](20_dgbl.md)
@@ -20,5 +22,3 @@ Let's analyze some games.
 The handbook for the teacher
 ### [Resources and appendices](100_resources.md)
 To go deeper in the various topics
-
-![](img/games.png)

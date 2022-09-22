@@ -56,7 +56,7 @@ There could be some difficulties and challenges to be solved in order to achieve
 ## Analytics
 The analysts part is the more important 
 
-![](_img/game_learning_analytics.webp)
+![](img/game_learning_analytics.webp)
 
 # Assessment of Learning from Digital Games
 

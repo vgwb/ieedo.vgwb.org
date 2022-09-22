@@ -46,7 +46,7 @@ Introducing video games into the classroom **enhances many learning and teaching
 2. It **boosts motivation**: students are the main characters in the story and their success is rewarded with medals, extra lives, bonuses, etc. This capture and keeps their interest in learning.
 3. It gives **opportunities to practice** students can apply the knowledge they acquire without getting into dangerous situations. This is what flight and navigation simulators, for instance, are all about.
 
-![](_img/vg_pro-cons.webp)
+![](img/vg_pro-cons.webp)
 
 ### How effective are video games in the classroom?
 PROS:
