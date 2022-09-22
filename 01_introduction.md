@@ -1,5 +1,5 @@
 ---
-title: 1 - Introduction
+title: Introduction
 has_children: false
 nav_order: 5
 ---

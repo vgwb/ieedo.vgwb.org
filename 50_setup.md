@@ -4,7 +4,7 @@ has_children: false
 nav_order: 50
 ---
 
-# Teacher guide: setup
+# 5. Teacher guide: setup
 
 > **Learning Objectives:**
 > In this Unit we see how a teacher can setup a learning session with students, the minimal procedure and sills required and the final assessment and evaluation

@@ -4,9 +4,21 @@ has_children: false
 nav_order: 40
 ---
 
-{:toc}
+# Navigation Structure
+{: .no_toc }
 
-# Identifying Types of Digital Games for Learning
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
+
+## Identifying Types of Digital Games for Learning
 
 ![](img/CaseGameBasedLearning.jpg)
 
