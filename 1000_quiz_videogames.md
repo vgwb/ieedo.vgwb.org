@@ -1,3 +1,10 @@
+---
+title: Survey - videogames 
+parent: Resources
+has_children: false
+nav_order: 20
+---
+
 #  Survey - Do you know videogames?
 
 ### What game is this?

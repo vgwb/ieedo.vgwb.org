@@ -1,5 +1,5 @@
 ---
-title: ## Cognitive skills and games 
+title: Cognitive skills and games 
 parent: Resources
 has_children: false
 nav_order: 10

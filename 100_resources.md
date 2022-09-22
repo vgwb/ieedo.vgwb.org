@@ -3,6 +3,7 @@ title: Resources
 has_children: true
 nav_order: 100
 ---
+# Resources
 
 ## More recourses on implementation of EVGs
 

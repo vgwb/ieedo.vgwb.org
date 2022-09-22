@@ -1,3 +1,10 @@
+---
+title: Survey - Digital Skills 
+parent: Resources
+has_children: false
+nav_order: 20
+---
+
 # Survey - Digital skills
 
 ### What is the name of this piece of ICT equipment?

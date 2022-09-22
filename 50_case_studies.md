@@ -1,7 +1,7 @@
 ---
-title: Case studies
+title: 5 - Case studies
 has_children: false
-nav_order: 40
+nav_order: 50
 ---
 
 # Identifying Types of Digital Games for Learning
@@ -267,5 +267,5 @@ Minecraft is an open-world game, allowing players opportunity for unlimited expl
 **Possible skills taught:** Writing; critical thinking; exploration; experimentation; cause and effect; mapping; building; design; creativity; resource management; communication
 
 ## Chapter Navigation
-[Go to Previous Chapter](30_integrating_games.md)
-[Go to Next Chapter](50_teacher_guide.md)
+[Go to Previous Chapter](40_integrating_games.md)
+[Go to Next Chapter](60_teacher_guide.md)

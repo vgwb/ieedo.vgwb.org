@@ -1,5 +1,5 @@
 ---
-title: Educational Video Games
+title: 3 - Educational Video Games
 has_children: false
 nav_order: 30
 ---
@@ -89,5 +89,5 @@ Discuss in your opinion:
 
 
 ## Chapter Navigation
-[Go to Previous Chapter](20_educational_games.md)
-[Go to Next Chapter](30_integrating_games.md)
+[Go to Previous Chapter](30_educational_games.md)
+[Go to Next Chapter](40_integrating_games.md)

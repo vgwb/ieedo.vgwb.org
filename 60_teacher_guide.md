@@ -1,7 +1,7 @@
 ---
-title: Teacher guide
+title: 6 - Teacher guide
 has_children: false
-nav_order: 50
+nav_order: 60
 ---
 
 # Teacher guide
@@ -119,5 +119,5 @@ Thinking about the activity you have just undertaken, please indicate the level 
 - I found it easy to get started
 
 ## Chapter Navigation
-[Go to Previous Chapter](40_case_studies.md)
+[Go to Previous Chapter](50_case_studies.md)
 [Go to Next Chapter](110_appendix_cognitive_skills.md)

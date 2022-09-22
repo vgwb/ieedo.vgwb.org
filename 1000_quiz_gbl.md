@@ -1,3 +1,10 @@
+---
+title: Survey - DGBL 
+parent: Resources
+has_children: false
+nav_order: 20
+---
+
 # Survey - Game-based Learning
 
 ### Have you heard of game-based learning ?
