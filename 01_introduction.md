@@ -30,3 +30,6 @@ Here is what you'll learn with this guide:
 - use DGBL as pedagogy tool
 - motivate and understand different cultures in relation with games
 - engage in digital activities and teach how to use tech devices
+
+---
+[Go to Next Chapter](20_dgbl.md)

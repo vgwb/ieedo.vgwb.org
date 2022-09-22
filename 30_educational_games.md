@@ -10,7 +10,7 @@ nav_order: 30
 
 ![](img/vg_positive_impact.webp)
 
-### 4 Positive impacts of gaming for students
+## 4 Positive impacts of gaming for students
 - **Motivational** - encourages an incremental approach
 - **Cognitive** -improves attention, focus, and reaction time
 - **Social** - translates the social skills learned into relations outside the gaming environment
@@ -78,7 +78,6 @@ Gamification takes an element of education and replaces it with a game-based ele
 The Flow state in an experience as the equilibrium point between challenge and ability. If the challenge is quite higher than the ability the result will be the person getting frustrated and with the feeling of anxiety, on the other hand if the person’s skill is higher than the challenge presented he will experience boredom.
 Games should be designed and calibrated the ensure that the player maximises its staying within the *flow channel*
 
-
 ![](img/flow-1.png)
 
 ## Unit review
@@ -87,7 +86,6 @@ Discuss in your opinion:
 - What are the important features that a good educational video game should have?
 - What are some necessary features are needed to make sure that an educational video game compliments your pedagogical approach and enhances it?
 
-
-## Chapter Navigation
+---
 [Go to Previous Chapter](30_educational_games.md)
 [Go to Next Chapter](40_integrating_games.md)

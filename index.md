@@ -6,8 +6,6 @@ nav_order: 1
 an introductive guide  
 by Video Games Without Borders
 
-![](img/CaseGameBasedLearning.jpg)
-
 ### [1 - Introduction](01_introduction.md)
 to this guide
 ### [2 - DGBL](20_dgbl.md)

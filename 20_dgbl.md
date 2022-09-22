@@ -1,12 +1,12 @@
 ---
-title: 2 - Digital Game Based Learning
+title: 2 - What is DGBL
 has_children: false
 nav_order: 20
 ---
 ## DGBL Definition
 
-Game based learning (GBL) is a type of _game play_ that has _defined learning outcomes_. 
-**Digital** game based learning (DGBL) refers to using actual digital video games as learning tools.
+> Game based learning (GBL) is a type of _game play_ that has _defined learning outcomes_.  
+> **Digital** game based learning (DGBL) refers to using actual digital video games as learning tools.
 
 ## Engagement
 
@@ -16,12 +16,10 @@ Additionally, sustaining engagement is very important to ensure that the student
 
 > Game-based learning and video games provide much more learning opportunities than expected.
 
+> 📽 #VIDEO [Using Games in the Classroom](https://youtu.be/o6IELVV2xLQ)
+<iframe height="450" width="800" src="https://www.youtube.com/embed/o6IELVV2xLQ"></iframe>
 
-#video [Using Games in the Classroom](https://youtu.be/o6IELVV2xLQ)
-
-<iframe src="https://www.youtube.com/embed/o6IELVV2xLQ"></iframe>
-
-#quiz Preliminary survey on [Game Based Learning](1000_quiz_gbl.md)
+> 🧑🏻‍🎓 #quiz Preliminary survey on [Game Based Learning](1000_quiz_gbl.md)
 
 ## What is game based learning?
 
@@ -31,10 +29,8 @@ For example, in an Economics course, students might compete in a virtual stock-t
 
 **Gaming is inherently motivating**, which may allow learners to gain skills and knowledge, by leveraging entertainment and weaving it within learning environments. Research studies indicate that video games in particular have great engagement and education related benefits. 
 
-#video [# Games and the Future of Education](https://www.youtube.com/watch?v=BiK2MPeg8k4)
-
-<iframe src="https://www.youtube.com/embed/BiK2MPeg8k4"></iframe>
-
+> 📽 #VIDEO [Games and the Future of Education](https://www.youtube.com/watch?v=BiK2MPeg8k4)
+<iframe height="450" width="800" src="https://www.youtube.com/embed/BiK2MPeg8k4"></iframe>
 
 ## Video Games and new teaching method
 
@@ -102,6 +98,6 @@ Now that we have established what is game-based learning and why using education
 - How do you believe educational video games would support your pedagogical approaches and enhance your teaching methods?
 - How would you introduce educational video games in your classroom?
 
-## Chapter Navigation
+---
 [Go to Previous Chapter](01_introduction.md)
 [Go to Next Chapter](30_educational_games.md)

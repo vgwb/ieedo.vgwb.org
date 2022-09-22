@@ -10,7 +10,8 @@ nav_order: 40
 - why implementing educational video games is important?
 
 Let's see this video where James Paul Gee shares insights into why video games are such effective learning tools:
-> VIDEO [James Paul Gee on Learning with Video Games](https://youtu.be/JnEN2Sm4IIQ)
+
+> 📽 VIDEO [James Paul Gee on Learning with Video Games](https://youtu.be/JnEN2Sm4IIQ)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/JnEN2Sm4IIQ"></iframe>
 
 After learning about the benefits of educational video games and the characteristics of a good educational video game, we arrive at the question: how do we incorporate game-based learning for maximum benefit as well as when and where in the curriculum? Also, what about class management, how do we manage the environment of the class and students while playing the game?
@@ -50,8 +51,10 @@ Each game tells a *story*.
 These games are built on model real-world systems. They give students the opportunity to create their own models within the game. A teacher states that he makes students play [Werewolf](https://teambuilding.com/blog/werewolf-game-rules), and discuss “different actions that mirror the events of the Salem witch trials, McCarthyism, and other witch hunts. I also have students play the board game [Pandemic](https://www.zmangames.com/en/games/pandemic/), as well as the mobile game [Plague, Inc](https://www.ndemiccreations.com/en/22-plague-inc). These games illustrate how diseases travel the interconnected networks of the world. Students learn how the bubonic plague traveled along the Silk Road.”. He states that these games model causes that have effects, which subsequently have effects that teaches the **21st-century skill of systems thinking**.
 
 ### Other tools
-Teachers also can create their own form of EVGs by creating learning games in Google Classroom: https://youtu.be/5TOXvl3Vig4
-<iframe src="https://www.youtube.com/embed/5TOXvl3Vig4"></iframe>
+Teachers also can create their own form of EVGs by creating learning games in Google Classroom
+
+> 📽 #VIDEO [How to create learning games in Google Classroom](https://www.youtube.com/watch?v=5TOXvl3Vig4)
+<iframe height="450" width="800" src="https://www.youtube.com/embed/5TOXvl3Vig4"></iframe>
 
 ### When and why implement EVGs?
 You must remember that game-based learning and EVGs are tools that should supplement/facilitate your pedagogy, they are not the teacher. When using these techniques in your classroom, **do not grade play**, **instead assess the learning transfer** that has been facilitated from the game experience to the curriculum.
@@ -76,10 +79,8 @@ Therefore, choosing to implement EVGs should come as a reason to enhance content
 15. Intrinsic motivation: playing is voluntary and self-driven
 16. Seamless accountability and feedback
 
-What can schools learn from video games?
-https://youtu.be/3aQxga-SUBg
-<iframe src="https://www.youtube.com/embed/3aQxga-SUBg"></iframe>
-
+> 📽 #VIDEO [What can schools learn from video games?](https://www.youtube.com/watch?v=3aQxga-SUBg)
+<iframe height="450" width="800" src="https://www.youtube.com/embed/3aQxga-SUBg"></iframe>
 
 ## 5 Steps ti
 
@@ -87,6 +88,6 @@ https://youtu.be/3aQxga-SUBg
 Discuss, in your opinion the importance of implementing game-based learning.
 Could there be complications to this process? if so, what would they be?
 
-## Chapter Navigation
+---
 [Go to Previous Chapter](30_educational_games.md)
 [Go to Next Chapter](50_case_studies.md)

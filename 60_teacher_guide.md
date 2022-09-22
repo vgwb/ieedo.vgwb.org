@@ -118,6 +118,6 @@ Thinking about the activity you have just undertaken, please indicate the level 
 - Feedback I was given was useful
 - I found it easy to get started
 
-## Chapter Navigation
+---
 [Go to Previous Chapter](50_case_studies.md)
 [Go to Next Chapter](110_appendix_cognitive_skills.md)
