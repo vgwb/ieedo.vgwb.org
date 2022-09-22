@@ -1,3 +1,8 @@
+---
+title: Digital Game Based Learning
+has_children: false
+nav_order: 20
+---
 # Digital Game Based Learning
 
 ## Definition
@@ -72,7 +77,7 @@ As well as improving learning abilities, there are other benefits. Here are some
 - Games **teach languages**: they are useful for learning other languages through on-screen instructions, chats for communicating with other players, or the narration of the story itself.
 - Games improve **Critical thinking**: with underlying ethical, philosophical and social basis, and their ability to make players think.
 
-You can read the [Appendix - Cognitive Skills](90%20appendix%20-%20Cognitive%20Skills.md) for more details.
+You can read the [Appendix - Cognitive Skills](110%20appendix%20-%20Cognitive%20Skills.md) for more details.
 
 ### Moderation
 The impact of video games on society has been the subject of numerous studies. For example a psychologist at the Internet Institute at Oxford University, published a study establishing how much time should children be allowed to devote to video gaming. He reports that those who played less than an hour were more emotionally stable, while those who played for around three hours a day developed social problems. Therefore, when it comes to video games, **moderation is key**. 

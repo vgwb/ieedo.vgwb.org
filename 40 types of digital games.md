@@ -1,3 +1,9 @@
+---
+title: Case studies
+has_children: false
+nav_order: 40
+---
+
 # Identifying Types of Digital Games for Learning
 
 ![](_img/CaseGameBasedLearning.jpg)

@@ -1,3 +1,8 @@
+---
+title: Educational Video Games
+has_children: false
+nav_order: 30
+---
 # Educational Video Games
 
 > **Learning Objectives:**

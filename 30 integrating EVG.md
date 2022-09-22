@@ -1,3 +1,8 @@
+---
+title: Integration of Education Games
+has_children: false
+nav_order: 30
+---
 # Integration of Education Games
 
 **Learning Objectives:**

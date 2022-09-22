@@ -1,3 +1,9 @@
+---
+title: Teacher guide
+has_children: false
+nav_order: 50
+---
+
 # Teacher guide
 
 > **Learning Objectives:**
@@ -114,4 +120,4 @@ Thinking about the activity you have just undertaken, please indicate the level 
 
 ## Chapter Navigation
 [Go to Previous Chapter](40%20types%20of%20digital%20games.md)
-[Go to Next Chapter](90%20appendix%20-%20Cognitive%20Skills.md)
+[Go to Next Chapter](110%20appendix%20-%20Cognitive%20Skills.md)

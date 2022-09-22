@@ -1,3 +1,10 @@
+---
+title: ## Cognitive skills and games 
+parent: Resources
+has_children: false
+nav_order: 10
+---
+
 # Appendix
 
 ## Cognitive skills and games 

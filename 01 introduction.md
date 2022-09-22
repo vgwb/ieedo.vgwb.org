@@ -1,3 +1,8 @@
+---
+title: Introduction
+has_children: false
+nav_order: 10
+---
 # Digital Game Based Learning
 an introductive guide
 
@@ -9,7 +14,7 @@ by Video Games Without Borders
 - [30 integrating EVG](30%20integrating%20EVG.md)
 - [40 types of digital games](40%20types%20of%20digital%20games.md)
 - [50 teacher guide](50%20teacher%20guide.md)
-- [90 appendix - Cognitive Skills](90%20appendix%20-%20Cognitive%20Skills.md)
+- [110 appendix - Cognitive Skills](110%20appendix%20-%20Cognitive%20Skills.md)
 - [100 resources](100%20resources.md)
 
 - [1000 quiz_GBL](1000%20quiz_GBL.md)
