@@ -6,7 +6,7 @@ nav_order: 50
 
 # Identifying Types of Digital Games for Learning
 
-![](_img/CaseGameBasedLearning.jpg)
+![](./_img/CaseGameBasedLearning.jpg)
 
 > **Learning Objectives:**
 >  In this Unit we learn to identify the different types of digital game available, discusses those that are most appropriate for different types of learning in higher education, and presents two emerging areas in educational gaming.
