@@ -5,6 +5,7 @@ nav_order: 10
 ---
 # 1 - Introduction
 
+{: .highlight }
 The approach to Digital Game-Based Learning needs to be well planned and organized to engage in learning and to produce the appropriate outcomes.
 
 The coaches must learn to set the stage, providing relevant game information and support the students in their attempts to construct, deconstruct and reconstruct relevant forms of knowledge (both in relation to the game context, curricular goals and real life phenomena).
