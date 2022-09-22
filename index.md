@@ -20,3 +20,5 @@ Let's analyze some games.
 The handbook for the teacher
 ### [Resources and appendices](100_resources.md)
 To go deeper in the various topics
+
+![](img/games.png)
