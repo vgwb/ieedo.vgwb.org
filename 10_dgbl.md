@@ -1,12 +1,15 @@
 ---
-title: 2 - What is DGBL
+title: 1 - What is DGBL
 has_children: false
-nav_order: 20
+nav_order: 10
 ---
 ## DGBL Definition
 
-> Game based learning (GBL) is a type of _game play_ that has _defined learning outcomes_.  
-> **Digital** game based learning (DGBL) refers to using actual digital video games as learning tools.
+Digital game-based learning refers to learning by solving problems or accomplishing tasks through computers, mobile phones, or tablets.
+There are several elements in digital game-based learning, such as fun, play, goals, competition, and problem-solving. Studies have investigated digital game-based learning in different subjects, such as Literacy, Maths, Sciences, and STEAM. The results indicate that digital game-based learning has gradually become a trend and that digital game-based learning could improve students’ learning motivation, learning performance, reduce their cognitive load and anxiety.
+
+> Game based learning (**GBL**) is a type of _game play_ that has _defined learning outcomes_.  
+> **Digital** game based learning (**DGBL**) refers to using actual digital video games as learning tools.
 
 ## Engagement
 
@@ -100,4 +103,4 @@ Now that we have established what is game-based learning and why using education
 
 ---
 [Go to Previous Chapter](01_introduction.md)
-[Go to Next Chapter](30_educational_games.md)
+[Go to Next Chapter](20_educational_games.md)

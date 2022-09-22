@@ -6,17 +6,17 @@ nav_order: 1
 an introductive guide  
 by Video Games Without Borders
 
-### [1 - Introduction](01_introduction.md)
+### [Introduction](01_introduction.md)
 to this guide
-### [2 - DGBL](20_dgbl.md)
+### [1 - DGBL](10_dgbl.md)
 What is Digital Games Based Learning
-### [3 - Educational Videogames](30_educational_games.md)
+### [2 - Educational Videogames](20_educational_games.md)
 How do they work?
-### [4 - Games in the classroom](40_integrating_games.md)
+### [3 - Games in the classroom](30_integrating_games.md)
 How to use videogames in classroom?
-### [5 - Case studies](50_case_studies.md)
+### [4 - Case studies](40_case_studies.md)
 Let's analyze some games.
-### [6 - Teacher guide](60_teacher_guide.md)
+### [5 - Teacher guide](50_setup.md)
 The handbook for the teacher
 ### [Resources and appendices](100_resources.md)
 To go deeper in the various topics

@@ -1,7 +1,7 @@
 ---
 title: 1 - Introduction
 has_children: false
-nav_order: 10
+nav_order: 5
 ---
 # 1 - Introduction
 
@@ -16,20 +16,15 @@ It is important to know the theory and the tools because games do not work by th
 
 Here is what you'll learn with this guide:
 
-### Knowledge
 - DGBL terminology
 - How to choose and introduce a game 
 - How to help and stimulate engagement playing the game
 - How to customize lesson pacing and clear expectations
 - How to debrief a game session
 - How to evaluate the outcomes
-- Foreign Cultures and psychology
 - Play and Games in Pedagogy
-
-### Competences
-- use DGBL as pedagogy tool
-- motivate and understand different cultures in relation with games
+- How to use DGBL as pedagogy tool
 - engage in digital activities and teach how to use tech devices
 
 ---
-[Go to Next Chapter](20_dgbl.md)
+[Go to Next Chapter](10_dgbl.md)

@@ -1,7 +1,7 @@
 ---
-title: 4 - Games in Classroom
+title: 3 - Games in Classroom
 has_children: false
-nav_order: 40
+nav_order: 30
 ---
 # Integration of Education Games
 
@@ -89,5 +89,5 @@ Discuss, in your opinion the importance of implementing game-based learning.
 Could there be complications to this process? if so, what would they be?
 
 ---
-[Go to Previous Chapter](30_educational_games.md)
-[Go to Next Chapter](50_case_studies.md)
+[Go to Previous Chapter](20_educational_games.md)
+[Go to Next Chapter](40_case_studies.md)

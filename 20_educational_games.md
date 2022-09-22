@@ -1,7 +1,7 @@
 ---
-title: 3 - Educational Video Games
+title: 2 - Educational Video Games
 has_children: false
-nav_order: 30
+nav_order: 20
 ---
 # Educational Video Games
 
@@ -87,5 +87,5 @@ Discuss in your opinion:
 - What are some necessary features are needed to make sure that an educational video game compliments your pedagogical approach and enhances it?
 
 ---
-[Go to Previous Chapter](30_educational_games.md)
-[Go to Next Chapter](40_integrating_games.md)
+[Go to Previous Chapter](20_educational_games.md)
+[Go to Next Chapter](30_integrating_games.md)
