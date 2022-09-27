@@ -80,6 +80,20 @@ Games should be designed and calibrated the ensure that the player maximises its
 
 ![](img/flow-1.png)
 
+## What we can learn with EVG
+Today we can find videogames that can help in every learning field.
+For example:
+- Language Learning / Literacy
+- Mathematics and Science (STEM)
+- Social Studies and History
+- Development of Cognitive Skills
+- Rehabilitation
+- Music 
+- Art / Creative skills
+- Emotional Health / Wellbeing
+- Ethics and Ethical Thinking
+- Management
+-
 ## Unit review
 
 Discuss in your opinion:

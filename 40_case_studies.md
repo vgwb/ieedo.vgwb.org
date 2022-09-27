@@ -5,16 +5,6 @@ nav_order: 40
 ---
 
 # Navigation Structure
-{: .no_toc }
-
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-- TOC
-{:toc}
-</details>
 
 ---
 
@@ -25,19 +15,6 @@ nav_order: 40
 > **Learning Objectives:**
 >  In this Unit we learn to identify the different types of digital game available, discusses those that are most appropriate for different types of learning in higher education, and presents two emerging areas in educational gaming.
 
-## What we can learn with VG
-Today we can find videogames that can help in every learning field.
-For example:
-- Language Learning / Literacy
-- Mathematics and Science (STEM)
-- Social Studies and History
-- Development of Cognitive Skills
-- Rehabilitation
-- Music 
-- Art / Creative skills
-- Emotional Health / Wellbeing
-- Ethics and Ethical Thinking
-- Management
 
 ## Types of Digital Game Available to Educators
 Many researchers have tried to categorize computer games into types or taxonomies, and although there are often large differences between them, there is also much similarity in terms of the general classifications. Here is a try to group them in general categories.

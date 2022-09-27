@@ -6,13 +6,16 @@ nav_order: 60
 
 # 6.  Teacher guide: Assessment
 
+6.1 Evaluation tools
+
+
 
 ## Analytics
 The analysts part is the more important 
 
 ![](img/game_learning_analytics.webp)
 
-# Assessment of Learning from Digital Games
+## Assessment of Learning from Digital Games
 
 The way in which any game is assessed is crucial if it is to be purposeful, to be seen as appropriate by the students and to encourage them to engage in the learning experience.
 There are seven aspects that should be examined when determining the effectiveness of game-based learning.
@@ -25,22 +28,7 @@ There are seven aspects that should be examined when determining the effectivene
 - **Preferences** - inclinations of the learners and teachers towards, for example, different learning styles or modes of interaction.
 - Game-Based Learning **Environment** - factors associated with the game itself, such as the design of the environment, use of scaffolding, usability, levels of social presence and the way in which the game is deployed.
 
-## 5.2 Students pre-evaluation and setup 
-
-### Hardware and Digital Skills evaluation
-We want to know how much the user knows about digital world, hardware, smartphone
-
-📄 [Survey Digital Skills](1000_quiz_digital.md)
-
-### VG Evaluation
-We want to know if user knows a bit about videogames
-📄 [Survey Videogames](1000_quiz_videogames.md)
-
-### Setup device
-Install the game on the device and run it once.
-If needed do some Android tuning (notifications, for example)
-
-## 5.4 Evaluation tools
+## Evaluation tools
 
 ### Engagement Survey:
 This questionnaire can be used after an activity has been completed to evaluate the level of engagement relative to another activity. In order to analyse the results and compare levels of engagement between two different activities the following steps should be taken.
