@@ -75,8 +75,5 @@ We want to know if user knows a bit about videogames
 Install the game on the device and run it once.
 If needed do some Android tuning (notifications, for example)
 
-
-
 ---
-[Go to Previous Chapter](40_case_studies.md)
-[Go to Next Chapter](110_appendix_cognitive_skills.md)
+## Unit Review

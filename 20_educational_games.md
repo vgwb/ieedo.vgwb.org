@@ -99,12 +99,8 @@ For example:
 - Ethics and Ethical Thinking
 - Management
 
+---
 ## Unit review
-
 Discuss in your opinion:
 - What are the important features that a good educational video game should have?
 - What are some necessary features are needed to make sure that an educational video game compliments your pedagogical approach and enhances it?
-
----
-[Go to Previous Chapter](20_educational_games.md)
-[Go to Next Chapter](30_integrating_games.md)

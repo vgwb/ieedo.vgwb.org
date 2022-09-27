@@ -6,8 +6,6 @@ nav_order: 1
 an introductive guide  
 by Video Games Without Borders
 
-### [Moodle Modules](00:course_modules.md)
-
 ### [Introduction](01_introduction.md)
 to this guide
 ### [1 - DGBL](10_dgbl.md)
@@ -17,7 +15,7 @@ How do they work?
 ### [3 - Games in the classroom](30_integrating_games.md)
 How to use videogames in classroom?
 ### [4 - Case studies](40_case_studies.md)
-Let's analyze some games.
+Let's analyse some games.
 ### [5 - Teacher guide](50_setup.md)
 The handbook for the teacher
 ### [Resources and appendices](100_resources.md)

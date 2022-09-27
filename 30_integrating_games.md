@@ -80,11 +80,7 @@ Therefore, choosing to implement EVGs should come as a reason to enhance content
 
 > 📽 #VIDEO [What can schools learn from video games?](https://www.youtube.com/watch?v=3aQxga-SUBg)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/3aQxga-SUBg"></iframe>
-
+---
 ## Unit review
 Discuss, in your opinion the importance of implementing game-based learning.
 Could there be complications to this process? if so, what would they be?
-
----
-[Go to Previous Chapter](20_educational_games.md)
-[Go to Next Chapter](40_case_studies.md)

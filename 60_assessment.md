@@ -60,5 +60,4 @@ Thinking about the activity you have just undertaken, please indicate the level 
 - I found it easy to get started
 
 ---
-[Go to Previous Chapter](40_case_studies.md)
-[Go to Next Chapter](110_appendix_cognitive_skills.md)
+## Unit Review

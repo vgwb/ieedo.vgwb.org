@@ -24,6 +24,3 @@ Here is what you'll learn with this guide:
 - Play and Games in Pedagogy
 - How to use DGBL as pedagogy tool
 - engage in digital activities and teach how to use tech devices
-
----
-[Go to Next Chapter](10_dgbl.md)
