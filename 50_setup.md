@@ -3,8 +3,11 @@ title: 5 - Setup
 has_children: false
 nav_order: 50
 ---
-
 # 5. Teacher guide: setup
+{: .no_toc }
+
+- TOC
+{:toc}
 
 ## Learning Objectives
 - How to setup a DGBL session

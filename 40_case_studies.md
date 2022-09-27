@@ -3,8 +3,11 @@ title: 4 - Case studies
 has_children: false
 nav_order: 40
 ---
-
 # 4. Case Studies
+{: .no_toc }
+
+- TOC
+{:toc}
 
 ## Learning Objectives
 - types and categories of EVG

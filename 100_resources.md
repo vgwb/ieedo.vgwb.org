@@ -4,6 +4,10 @@ has_children: true
 nav_order: 100
 ---
 # Resources
+{: .no_toc }
+
+- TOC
+{:toc}
 
 ## Articles
 

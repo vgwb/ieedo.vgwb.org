@@ -1,5 +1,6 @@
 title: "DGBL"
-remote_theme: just-the-docs/just-the-docs@v0.4.0.rc2
+remote_theme: just-the-docs/just-the-docs
+
 color_scheme: "light"
 search_enabled: true
 

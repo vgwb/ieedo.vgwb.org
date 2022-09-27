@@ -4,6 +4,10 @@ has_children: false
 nav_order: 20
 ---
 # 2. Educational Video Games
+{: .no_toc }
+
+- TOC
+{:toc}
 
 ## Learning Objectives
 - what is an EVG?
