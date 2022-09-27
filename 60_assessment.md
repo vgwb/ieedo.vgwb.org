@@ -6,16 +6,12 @@ nav_order: 60
 
 # 6.  Teacher guide: Assessment
 
-6.1 Evaluation tools
+## Learning Objectives
+- How to assess the outcome of a VG
+- What are game analytics?
+- What to assess?
 
-
-
-## Analytics
-The analysts part is the more important 
-
-![](img/game_learning_analytics.webp)
-
-## Assessment of Learning from Digital Games
+## 6.1 Assessment of Learning from Digital Games
 
 The way in which any game is assessed is crucial if it is to be purposeful, to be seen as appropriate by the students and to encourage them to engage in the learning experience.
 There are seven aspects that should be examined when determining the effectiveness of game-based learning.
@@ -28,9 +24,12 @@ There are seven aspects that should be examined when determining the effectivene
 - **Preferences** - inclinations of the learners and teachers towards, for example, different learning styles or modes of interaction.
 - Game-Based Learning **Environment** - factors associated with the game itself, such as the design of the environment, use of scaffolding, usability, levels of social presence and the way in which the game is deployed.
 
-## Evaluation tools
+## 6.2 Evaluation Tools: Analytics
+The analysts part is the more important 
 
-### Engagement Survey:
+![](img/game_learning_analytics.webp)
+
+## 6.3 Engagement Survey
 This questionnaire can be used after an activity has been completed to evaluate the level of engagement relative to another activity. In order to analyse the results and compare levels of engagement between two different activities the following steps should be taken.
 
 - Allocate a value to each answer, where strongly disagree = -2 to strongly agree = 2

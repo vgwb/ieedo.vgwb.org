@@ -1,7 +1,7 @@
 ---
-title: 0 - Course Modules
+title: Course Modules
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Module: Digital Game Based Learning

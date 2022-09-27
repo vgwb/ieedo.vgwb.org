@@ -6,10 +6,14 @@ nav_order: 50
 
 # 5. Teacher guide: setup
 
-> **Learning Objectives:**
-> In this Unit we see how a teacher can setup a learning session with students, the minimal procedure and sills required and the final assessment and evaluation
+## Learning Objectives
+- How to setup a DGBL session
+- What skills a teacher needs to develop
+- What challenges are there in DGBL?
+- What hardware do we need and how to set it up?
+- What Skills does student needs to start?
 
-## A Digital Game Based Learning session
+## 5.1 A Digital Game Based Learning session
 We can summarize a DGBL session in these five steps:
 
 ### 1. Introduction to videogame
@@ -29,7 +33,7 @@ student and the teacher analyse together the outcome
 
 > exercise: order the 5 steps
 
-# Teacher Skills
+## 5.2 Teacher Skills
 The teacher has to develop or at least know something about these topics:
 
 - ICT / Basic Digital Skills
@@ -38,7 +42,7 @@ The teacher has to develop or at least know something about these topics:
 - Recognise different players skills and support their game play
 - Engage students in playing and progression
 
-# Challenges
+## 5.3 Challenges
 There could be some difficulties and challenges to be solved in order to achieve better results in DGBL sessions.
 
 **Curriculum**: identify how a certain game can connect to the curriculum. 
@@ -53,7 +57,10 @@ There could be some difficulties and challenges to be solved in order to achieve
 
 **Developers** encourage and support game developers in the creation of better educational games
 
-## 5.2 Students pre-evaluation and setup 
+### 5.3.1 Moderation
+The impact of video games on society has been the subject of numerous studies. For example a psychologist at the Internet Institute at Oxford University, published a study establishing how much time should children be allowed to devote to video gaming. He reports that those who played less than an hour were more emotionally stable, while those who played for around three hours a day developed social problems. Therefore, when it comes to video games, **moderation is key**. 
+
+## 5.4 Students pre-evaluation and setup 
 
 ### Hardware and Digital Skills evaluation
 We want to know how much the user knows about digital world, hardware, smartphone

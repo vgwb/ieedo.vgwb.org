@@ -4,11 +4,13 @@ has_children: false
 nav_order: 40
 ---
 
-# Navigation Structure
+# 4. Case Studies
 
----
+## Learning Objectives
+- types and categories of EVG
+- know most famous VG and their educational values
 
-## Identifying Types of Digital Games for Learning
+## 4.1 Identifying Types of Digital Games for Learning
 
 ![](img/CaseGameBasedLearning.jpg)
 

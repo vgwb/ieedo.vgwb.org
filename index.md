@@ -6,6 +6,8 @@ nav_order: 1
 an introductive guide  
 by Video Games Without Borders
 
+### [Moodle Modules](00:course_modules.md)
+
 ### [Introduction](01_introduction.md)
 to this guide
 ### [1 - DGBL](10_dgbl.md)

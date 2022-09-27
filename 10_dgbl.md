@@ -3,7 +3,15 @@ title: 1 - What is DGBL
 has_children: false
 nav_order: 10
 ---
-## DGBL Definition
+# 1. DGBL
+
+## Learning Objectives
+- DGBL definition
+- the power of Engagement
+- How Game Based Learning works
+- What skills does DGBL develop?
+
+## 1.1 Definition
 
 Digital game-based learning refers to learning by solving problems or accomplishing tasks through computers, mobile phones, or tablets.
 There are several elements in digital game-based learning, such as fun, play, goals, competition, and problem-solving. Studies have investigated digital game-based learning in different subjects, such as Literacy, Maths, Sciences, and STEAM. The results indicate that digital game-based learning has gradually become a trend and that digital game-based learning could improve students’ learning motivation, learning performance, reduce their cognitive load and anxiety.
@@ -11,7 +19,7 @@ There are several elements in digital game-based learning, such as fun, play, go
 > Game based learning (**GBL**) is a type of _game play_ that has _defined learning outcomes_.  
 > **Digital** game based learning (**DGBL**) refers to using actual digital video games as learning tools.
 
-## Engagement
+## 1.2 Engagement
 
 Engaging students in classroom content is always a hard task, and traditional forms of education have become expected and somewhat redundant, that the learning capacities of students are very weak. When students aren’t engaged, they’re more likely to disrupt class, less likely to accept challenges, have lower grades, and aren’t confident in their ability to learn.
 
@@ -24,7 +32,7 @@ Additionally, sustaining engagement is very important to ensure that the student
 
 > 🧑🏻‍🎓 #quiz Preliminary survey on [Game Based Learning](1000_quiz_gbl.md)
 
-## What is game based learning?
+## 1.3 What is game based learning?
 
 Designing more engaging curriculum we need to include techniques that teaches students how to be **critical**, **confident** and **creative** as well as abilities that they will need for success in the **work-a-day future life**. Many schools have adopted game-based learning, a pedagogical approach that involves **designing learning activities through video games where the game characteristics and game principles inhere within the learning activities themselves**.
 
@@ -35,7 +43,7 @@ For example, in an Economics course, students might compete in a virtual stock-t
 > 📽 #VIDEO [Games and the Future of Education](https://www.youtube.com/watch?v=BiK2MPeg8k4)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/BiK2MPeg8k4"></iframe>
 
-## Video Games and new teaching method
+## 1.4 Video Games and new teaching method
 
 Recent studies have shown that introducing educational video games and adopting a game-based learning teaching approach, has helped students achieve better learning performance, improved student **engagement**, promote **motivation** and **active processing** of educational content.
 
@@ -47,7 +55,7 @@ Introducing video games into the classroom **enhances many learning and teaching
 
 ![](img/vg_pro-cons.webp)
 
-### How effective are video games in the classroom?
+## 1.5 How effective are video games in the classroom?
 PROS:
 - Games teach students
 - Tech Literacy
@@ -62,7 +70,7 @@ CONS
 - Social isolation
 - Shortened attention span
 
-### Skills
+## 1.6 Skills developed
 
 Additionally, playing video games has a huge impact on the development of **cognitive**, **collaboration**, **creative problem solving**, and **communication skills** of students. 
 As well as improving learning abilities, there are other benefits. Here are some of them:
@@ -76,10 +84,7 @@ As well as improving learning abilities, there are other benefits. Here are some
 
 You can read the [Appendix - Cognitive Skills](110_appendix_cognitive_skills.md) for more details.
 
-### Moderation
-The impact of video games on society has been the subject of numerous studies. For example a psychologist at the Internet Institute at Oxford University, published a study establishing how much time should children be allowed to devote to video gaming. He reports that those who played less than an hour were more emotionally stable, while those who played for around three hours a day developed social problems. Therefore, when it comes to video games, **moderation is key**. 
-
-### Games values
+## 1.7 Games values
 Games bring together combination of motivating elements not found together in any other medium. Indeed games: 
 - are a form of fun -> _enjoyment and pleasure_
 - are a form of play -> intense and passionate _involvement_

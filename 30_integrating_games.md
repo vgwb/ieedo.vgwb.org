@@ -3,11 +3,11 @@ title: 3 - Games in Classroom
 has_children: false
 nav_order: 30
 ---
-# Integration of Education Games
+# 3. Integration of Education Games
 
-**Learning Objectives:**
-- when to implement educational video games?
-- why implementing educational video games is important?
+## Learning Objectives
+- when to implement EVG in classroom?
+- why implementing EVG is important?
 
 Let's see this video where James Paul Gee shares insights into why video games are such effective learning tools:
 
@@ -20,12 +20,12 @@ In this unit, we will answer all these questions and provide a guideline and tip
 
 ![](img/tips_vg_classroom.webp)
 
-## Learning Flow
+## 3.2 Learning Flow
 Educational Games a special "flow", which is
 
 ![](img/cognitive_approach.png)
 
-### Tips for using VG in the classroom
+## 3.3 Tips for using VG in the classroom
 1. Teachers do not need to be avid gamers, but they should **at least be interested in them**.
 2. Videogames should not be the main method for educating students. They are just **one of the tools available**.
 3. **Check the age recommendations** on videogames. Avoid those for 18 ears and over.
@@ -34,8 +34,7 @@ Educational Games a special "flow", which is
 6. Schools must be equipped with **suitable technology** before Introducing videogames into the classroom.
 7. Students can get hooked on videogames so teaching how to **control their use** is also part of classroom education.
 
-## Incorporation of Educational Video Games
-
+## 3.3 How to implement GBL?
 There are many strategies and ways for educators to incorporate game-based learning and EVGs into their curriculum and classroom. Here are three ways that teachers can follow to implement game-based learning:
 
 ### Games as shared Experience
@@ -56,11 +55,11 @@ Teachers also can create their own form of EVGs by creating learning games in Go
 > 📽 #VIDEO [How to create learning games in Google Classroom](https://www.youtube.com/watch?v=5TOXvl3Vig4)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/5TOXvl3Vig4"></iframe>
 
-### When and why implement EVGs?
+## 3.4 When and why implement EVGs?
 You must remember that game-based learning and EVGs are tools that should supplement/facilitate your pedagogy, they are not the teacher. When using these techniques in your classroom, **do not grade play**, **instead assess the learning transfer** that has been facilitated from the game experience to the curriculum.
 Therefore, choosing to implement EVGs should come as a reason to enhance content delivery and comprehension as well as motivate students to understand complex theories/content in a mind engaging and challenging manner.
 
-### 16 reasons as to why to implement EVGs in the classroom
+## 3.5 16 reasons as to why to implement EVGs in the classroom
 
 1. Promote technology exploration
 2. Develop problem-solving skills
@@ -81,8 +80,6 @@ Therefore, choosing to implement EVGs should come as a reason to enhance content
 
 > 📽 #VIDEO [What can schools learn from video games?](https://www.youtube.com/watch?v=3aQxga-SUBg)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/3aQxga-SUBg"></iframe>
-
-## 5 Steps ti
 
 ## Unit review
 Discuss, in your opinion the importance of implementing game-based learning.
