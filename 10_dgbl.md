@@ -4,15 +4,16 @@ has_children: false
 nav_order: 10
 ---
 # 1. DGBL
+{: .no_toc }
+
+- TOC
+{:toc}
 
 ## Learning Objectives
 - DGBL definition
 - the power of Engagement
 - How Game Based Learning works
 - What skills does DGBL develop?
-
-1. TOC
-{:toc}
 
 ## 1.1 Definition
 
