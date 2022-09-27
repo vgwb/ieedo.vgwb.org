@@ -24,3 +24,26 @@ Here is what you'll learn with this guide:
 - Play and Games in Pedagogy
 - How to use DGBL as pedagogy tool
 - engage in digital activities and teach how to use tech devices
+
+
+## Test Typography
+
+{: .warning }
+These callout names are *not* pre-defined by the theme: you need to define your own names.
+
+{: .important-title }
+> This is a title
+>
+> A paragraph
+>
+> Another paragraph
+>
+> The last paragraph
+
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
