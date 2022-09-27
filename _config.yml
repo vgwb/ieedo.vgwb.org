@@ -6,3 +6,11 @@ search_enabled: true
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
+
+callouts:
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: Important
+    color: red
