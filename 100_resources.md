@@ -15,10 +15,26 @@ Paul Darvasi - “Exploring Ancient History with Video Games” [https://www.edu
 
 Further guidelines on incorporating EVGs: [https://www.researchgate.net/publication/273210149_Playability_Guidelines_for_Educational_Video_Games](https://www.researchgate.net/publication/273210149_Playability_Guidelines_for_Educational_Video_Games)
 
+## Websites
+
+https://games.ngo/
+
+http://www.gamesandlearning.org/
+
+https://www.onlinecolleges.net/50-great-sites-for-serious-educational-games/
+
 ## Courses
+**Educational Game Design**
 https://www.udemy.com/course/baude-egd/
 
+**Leading Change: Go Beyond Gamification with Gameful Learning**
+<https://courses.edx.org/courses/course-v1:MichiganX+GL101x+3T2018/course/>
+
+**Gamification & Behavioral Design: The Octalysis Framework** 
+<https://www.udemy.com/course/gamification-behavioral-design-the-octalysis-framework/>
+
 ## Events
+
 ### UNESCO - Mobile Learning Week
 <https://en.unesco.org/mlw/>
 
