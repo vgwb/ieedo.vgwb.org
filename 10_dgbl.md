@@ -17,6 +17,9 @@ nav_order: 10
 
 ## 1.1 Definition
 
+{: .warning }
+These callout names are *not* pre-defined by the theme: you need to define your own names.
+
 Digital game-based learning refers to learning by solving problems or accomplishing tasks through computers, mobile phones, or tablets.
 There are several elements in digital game-based learning, such as fun, play, goals, competition, and problem-solving. Studies have investigated digital game-based learning in different subjects, such as Literacy, Maths, Sciences, and STEAM. The results indicate that digital game-based learning has gradually become a trend and that digital game-based learning could improve students’ learning motivation, learning performance, reduce their cognitive load and anxiety.
 
