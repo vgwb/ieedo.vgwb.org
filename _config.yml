@@ -7,10 +7,28 @@ search_enabled: true
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
+# Enable or disable heading anchors
+heading_anchors: true
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "by Video Games Without Borders"
+
+callouts_level: quiet # or loud
 callouts:
-  warning:
-    title: Warning
-    color: red
+  highlight:
+    color: yellow
   important:
     title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
     color: red
