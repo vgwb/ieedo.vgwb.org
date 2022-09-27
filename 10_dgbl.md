@@ -11,6 +11,9 @@ nav_order: 10
 - How Game Based Learning works
 - What skills does DGBL develop?
 
+1. TOC
+{:toc}
+
 ## 1.1 Definition
 
 Digital game-based learning refers to learning by solving problems or accomplishing tasks through computers, mobile phones, or tablets.
