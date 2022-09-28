@@ -16,6 +16,9 @@ back_to_top_text: "Back to top"
 
 footer_content: "by Video Games Without Borders"
 
+kramdown:
+  toc_levels: 1..2
+
 callouts_level: quiet # or loud
 callouts:
   highlight:
