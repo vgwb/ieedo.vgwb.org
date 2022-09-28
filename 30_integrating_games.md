@@ -13,7 +13,8 @@ nav_order: 30
 - when to implement EVG in classroom?
 - why implementing EVG is important?
 
-Let's see this video where James Paul Gee shares insights into why video games are such effective learning tools:
+## 3.1 Recap and introduction
+Let's see this video about why video games are such effective learning tools:
 
 > 📽 VIDEO [James Paul Gee on Learning with Video Games](https://youtu.be/JnEN2Sm4IIQ)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/JnEN2Sm4IIQ"></iframe>
@@ -24,12 +25,7 @@ In this unit, we will answer all these questions and provide a guideline and tip
 
 ![](img/tips_vg_classroom.webp)
 
-## 3.2 Learning Flow
-Educational Games a special "flow", which is
-
-![](img/cognitive_approach.png)
-
-## 3.3 Tips for using VG in the classroom
+## 3.2 Tips for using VG in the classroom
 1. Teachers do not need to be avid gamers, but they should **at least be interested in them**.
 2. Videogames should not be the main method for educating students. They are just **one of the tools available**.
 3. **Check the age recommendations** on videogames. Avoid those for 18 ears and over.
@@ -42,7 +38,7 @@ Educational Games a special "flow", which is
 There are many strategies and ways for educators to incorporate game-based learning and EVGs into their curriculum and classroom. Here are three ways that teachers can follow to implement game-based learning:
 
 ### Games as shared Experience
-Where the EVGs selected plays more on experience, giving students the feel of being on a field trip. **Like a field trip**, students are first given instructions on what to expect and are then given freedom to explore an out-of-school location. And then back in the classroom, **instructors facilitate and emphasize the connections of the game to the curriculum**. These games, provide meaning for students.
+The EVGs selected plays more on experience, giving students the feel of being on a field trip. **Like a field trip**, students are first given instructions on what to expect and are then given freedom to explore an out-of-school location. And then back in the classroom, **instructors facilitate and emphasize the connections of the game to the curriculum**. These games, provide meaning for students.
 For example in MineCraft students build structures and “When night comes and creepers attack, only the students who stayed in fortified structures survive. After play, we discuss the difficulties of setting up a colony in a hostile environment. Students understand the dangers of settling new worlds because they have experienced them”.
 
 ### Games as Text
@@ -61,6 +57,7 @@ Teachers also can create their own form of EVGs by creating learning games in Go
 
 ## 3.4 When and why implement EVGs?
 You must remember that game-based learning and EVGs are tools that should supplement/facilitate your pedagogy, they are not the teacher. When using these techniques in your classroom, **do not grade play**, **instead assess the learning transfer** that has been facilitated from the game experience to the curriculum.
+
 Therefore, choosing to implement EVGs should come as a reason to enhance content delivery and comprehension as well as motivate students to understand complex theories/content in a mind engaging and challenging manner.
 
 ## 3.5 16 reasons as to why to implement EVGs in the classroom
@@ -83,7 +80,7 @@ Therefore, choosing to implement EVGs should come as a reason to enhance content
 16. Seamless accountability and feedback
 
 > 📽 #VIDEO [What can schools learn from video games?](https://www.youtube.com/watch?v=3aQxga-SUBg)
-<iframe height="450" width="800" src="https://www.youtube.com/embed/3aQxga-SUBg"></iframe>
+> <iframe height="450" width="800" src="https://www.youtube.com/embed/3aQxga-SUBg"></iframe>
 ---
 ## Unit review
 Discuss, in your opinion the importance of implementing game-based learning.

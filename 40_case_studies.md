@@ -13,16 +13,229 @@ nav_order: 40
 - types and categories of EVG
 - know most famous VG and their educational values
 
-## 4.1 Identifying Types of Digital Games for Learning
+## 4.1 Where to find EVG
+When choosing an EVG we have several options where to look.
+We could:
 
-![](img/CaseGameBasedLearning.jpg)
+- Use entertainment/**commercial games**. These games are already in the stores and could have additional or not explicit educational content (Assassin's Creed / Civilization)
+- **Modify** entertainment games. Many commercial games allow to create custom missions or quests (Kerbal Space Academy)
+- Use **virtual worlds**. There are many "sandbox" games where the player sparks creativity and teacher could pre-build the learning environment (Minecraft)
+- Use **educational games** created ad hoc (MinecraftEdu)
+- **Create original games**. If a special requirements is needed, you could develop or ask to develop a custom game (Antura)
+- **Let students create games**, to design a game you have to study and manage the learning content very deeply
 
-> **Learning Objectives:**
->  In this Unit we learn to identify the different types of digital game available, discusses those that are most appropriate for different types of learning in higher education, and presents two emerging areas in educational gaming.
+## 4.2  Training and simulation
 
+**Build better cities**
+https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/
 
-## Types of Digital Game Available to Educators
+Some titles:
+- Democracy, political strategy game - positech.co.uk/democracy/
+- Flight Simulator <https://www.flightsimulator.com/>
+- "ViPOL" (virtual training for police forces)
+- Lost Earth 2307 (image interpretation, military)
+- 3DSim@GBT (planning, railroad construction)
+- Mega Airport.. (series) (visualization, flight simulators)
+- Ship Simulator: Maritime Search and Rescue
+- SchaVIS (flooding simulation and prevention)
+- Seconds (supply chain management)
+- Learn2work (company simulation and training)
+- Sharkworld (project management training)
+- Houthoff Buruma (recruitment and assessment)
+
+## 4.3 Educational games
+
+#### Dumb Ways to Die
+![](img/games/dumbways.webp)
+
+An Australian public campaign made by Metro Trains in Melbourne, Victoria, Australia, to promote railway safety.
+http://www.dumbwaystodie.com
+
+#### Kerbal Space Program
+Take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbol solar system, constructing bases and space stations to expand the reach of your expedition.
+https://www.kerbalspaceprogram.com
+
+#### SimCityEDU
+With SimCityEDU, educators have more than a just digital game. They have the tools and content they need to make learning come alive for their students. In the game, students play the role of mayor, doing the challenging work of addressing environmental impact while balancing the employment needs and the happiness of the city's residents.
+
+https://www.commonsense.org/education/game/simcityedu-pollution-challenge
+
+#### iCivics
+**iCivics** exists to engage students in meaningful civic learning. We provide teachers well-written, inventive, and free resources that enhance their practice and inspire their classrooms. about. **iCivics** reimagines civic education for American democracy.
+https://www.icivics.org
+
+#### Some titles
+- “Ludwig (educational game for physics)
+- Physikus HD (learn adventure for physics)
+- 80Days (adaptive educational game for geography)
+- Roma Nova (teaching history with brain interfaces)
+- Uni Game (insights to universities and campus life)
+- Internet Hero (learning the pros & cons of the internet)
+- Yes or Know (family quiz game)
+- Bionigma (science game for protein exploration)
+- Meister Cody (educational game for dyscalculia)
+
+## 4.4 Health
+
+### The Game that can give you 10 extra years of life
+
+Game designer Jane McGonigal firmly believes that video games are not just about mashing buttons and getting to the next level. In fact, during her talk at TEDGlobal 2012, McGonigal gave several surprising statistics: that online gaming can be more effective than pharmaceuticals in treating **clinical depression** and that just 30 minutes a day is correlated with significant **increases in happiness**.
+
+https://blog.ted.com/10-online-games-with-a-social-purpose/
+
+VIDEO:
+https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life
+
+### Some titles
+- **Zombie Run**
+- “Play Forward (HIV prevention)
+- Respir Games (asthma therapy)
+- BalanceFit (balance, coordination and strength training)
+- Dance with ALFRED (collaborative dancing)
+- NeuroVitAALis (personalized cognitive training)
+- KickAss (autism game for adolescents)
+- Zirkus Empathica (autism game for children)
+- SPARX (mental health game for youths & adolescents)
+
+## 4.5 Games 4 Good
+Chiamati anche **Games for good**, hanno come pilastro il trattare temi di rilevanza sociale pubblica, quali
+- Politica e Storia
+- Religione
+- Conflitti
+- Epidemie
+- Sexism e razzismo
+- Clima
+- Energia
+
+Solitamente sono finanziati dal settore pubblico o fondazioni.
+In alcuni casi la grande industria per motivi di immagine.
+
+Come i giochi educativi, anche qui i giocatori imparano qualcosa rilevante le questioni sociali giocando.
+Come nei giochi per la salute, alcuni videogiochi persuasivi sono stati validati
+
+### Empathy
+
+> Capacità di porsi in maniera immediata nello stato d'animo o nella situazione di un'altra persona.
+
+#### This War of Mine
+Non impersoni il  classico soldato impegnato in combattimento, ma un gruppo di civili che cercano di sopravvivere all'assedio della città, con mancanza di medicinali, cibo e pericolo di incursioni.
+
+http://www.thiswarofmine.com
+
+#### Papers, Please
+Sei un ispettore dell'immigrazione dell'immaginario paese Arstotzka, devi controllare i documenti dei richiedenti permesso di soggiorno, imparando a contenere la sicurezza e gestire i propri problemi personali.
+
+http://www.papersplea.se
+
+#### High School Story 30
+Simulazione della vita degli studenti in una scuola.. permette ai giocatori di esplorare complessi problemi morali ed etici
+
+https://www.highschoolstory.com
+
+#### Bounden
+Bounded è un fantasioso gioco di ballo per due persone con le coreografie del Balletto Nazionale Olandese.
+
+Afferrando un’estremità del dispositivo e ruotandolo attorno a una sfera virtuale i “due giocatori” seguono una serie di circonferenze. Disegnano archi con le braccia, girano su se stessi e, senza particolare impegno si 
+
+http://playbounden.com
+
+#### IF... The Emotional IQ Game
+Una storia interattiva che fa vivere e suggerisce, episodio dopo episodio, come divertirsi imparando a gestire lo stress, l'ansietà, la rabbia, la tristezza e la frustrazione. 
+
+I genitori possono interagire, partecipare e seguire lo sviluppo del gioco insieme ai propri figli.
+
+http://ifyoucan.org
+
+### Ethics
+> L'arte e la scienza del comportamento e del valutare il bene e il male.
+
+#### PeaceMaker
+Il giocatore è invitato a trovare una soluzione nonviolenta al conflitto Israele/Palestina, impersonificando di volta in volta le due opposte fazioni. 
+
+http://peacemakergame.com
+
+#### Phone Story
+Per conoscere cosa sta dietro la produzione dei nostri beneamati cellulari e computer: 
+
+dall'estrazione del Coltan in Congo, alle alienanti catene di montaggio in Cina, passando ai rifiuti elettronici in Pakistan, fino al consumismo sfrenato in occidente. 
+
+http://phonestory.org
+
+#### Unmanned
+Impersonificazione delle nuove tipologie di soldato che non combattono in prima linea, ma comandano da posti sicuri, lontani dallo scenario dei droni micidiali. 
+
+Nel gioco il soldato non dovrà salvarsi dai conflitti della guerra, ma da quelli che questa causa all'interno della sua testa.
+
+http://unmanned.molleindustria.org
+
+#### Data Dealer
+Intelligente gioco sul tema della privacy e della gestione dei dati personali. 
+
+L’utente compra e vende informazioni private sulla gente, e costruisce il più grande impero di dati mai creato. 
+
+https://datadealer.com
+
+#### Half the Sky Movement
+Un'avventura / simulazione che può far conoscere e aiutare la realtà della donne e delle ragazze nel mondo, raccogliendo donazioni reali. 
+
+Il gioco crea relazioni tra persone che hanno condiviso le stesse situazioni e permettono un confronto positivo.
+
+http://www.halftheskymovement.org
+
+#### Fate of the World
+Un gioco di strategia che mette il futuro del mondo nelle tue mani: come darai risposte ai problemi del riscaldamento globale, della crescita della popolazione, delle risorse naturali e dalla scomparsa di specie animali? i prossimi 200 anni sono nelle tue mani
+
+https://www.soothsayergames.com
+
+### 10 Games for a specific social good
+**World Without Oil**
+Also a McGonigal creation, players in this game are dropped into a world where oil resources have been tapped and where they must get creative to survive the massive global shortage. The best part of the game? It teaches easy ways to use less oil in the real world—habits that players report keeping up when they aren’t playing.
+http://www.worldwithoutoil.org
+
+**FoldIt**
+An online protein folding game, FoldIt allows its quarter million players to help with scientific research by stabilizing strings of amino acids. Think of it like biological Tetris — FoldIt makes a competition out of biological pattern recognition, leading to innovative solutions to problems that have frustrated scientific communities for years.
+http://fold.it/portal
+
+**WAY**
+Communicating across languages and cultures isn’t easy. But in this online game, two anonymous players — culled from different locations around the globe — must learn how to speak to each other as they navigate obstacles. Developed by CoCo & Co, this game took top honors at this year’s Games for Change Awards.
+http://www.makeourway.com/
+
+**Budget Hero**
+Think you could balance the national budget? Then you’ll want to play this game from American Public Media, which lets players see what happens to the national deficit when they increase funding to programs or opt to make difficult cuts. “Every member of Congress should be required to play this game,” said one of its creators.
+http://www.marketplace.org/topics/economy/budget-hero
+
+**Pain Squad**
+Children and teenagers with cancer are often asked to keep pain diaries — paperwork that is not only boring but focuses their attention on their discomfort. The iOS app Pain Squad makes the whole process fun and interactive — while also helping doctors provide better treatments for young patients.
+http://www.campaignpage.ca/sickkidsapp/
+
+**Spent**
+When your bank account is in the black, it’s easy to think that anyone could pull themselves out of poverty by their boot straps. But in this online game, players are charged with looking for work while surviving on $1000 a month — highlighting that poverty and unemployment are systematic and not just the result of character flaws.
+http://playspent.org/
+
+**Evoke**
+Created by the World Bank Institute in conjunction with McGonigal, this game is a 10-week crash course in social innovation, giving players challenges from “food security” to “urban resilience,” and encouraging them to become a think tank on local challenges.
+http://www.urgentevoke.com
+
+**Unmanned**
+Most video shoot-em-up video games make war seem action-packed and glamorous. Unmanned aims to paint a far more realistic portrait, casting players as a soldier dealing with boredom and traumatic dreams, in addition to military duties.
+http://unmanned.molleindustria.org
+
+**Plot.Form**
+This slick game seeks to make charitable giving fun and interactive, rather than passive and forgettable. Currently fundraising to build homes for teenagers on the street in Moshi, Tanzania, Plot.form allows users to donate—and pick out building materials, colors and more for parts of the homes.
+http://plotform.eu
+
+### Altri titoli
+- Mission for Life (exploring the world’s social problems)
+- Friend Ship (holocaust remembrance)
+- Purpose (racism and sexism)
+- Utopolis (democracy simulation)
+- The Great Flu (awareness game for the flu virus) - http://www.thegreatflu.com/
+- Global Conflicts series (tackling social problems)
+
+## 4.6 Genres and Commercial games
 Many researchers have tried to categorize computer games into types or taxonomies, and although there are often large differences between them, there is also much similarity in terms of the general classifications. Here is a try to group them in general categories.
+
+For the selected games we try to extract the **curricular connections** (learning topics) and the **possible skills taught**.
 
 ## Adventure
 Adventure games are one of the oldest forms of computer game, going back to the early text adventures and interactive fiction of the 1970s and 1980s. They involve the player undertaking series of tasks or puzzles in which they must interact with the virtual world, performing actions, talking to characters and manipulating objects in order to achieve the objectives of the game, often to solve some mystery or complete a quest.
@@ -251,8 +464,7 @@ The educational goal of the game is to help players to acquire the basics of Ara
 ![](img/games/fancade.webp)
 
 
-### Dumb Ways to Die
-![](img/games/dumbways.webp)
+
 
 ## Sandbox
 ### Minecraft
