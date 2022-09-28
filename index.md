@@ -1,5 +1,5 @@
 ---
-title: Digital Game Based Learning Guide
+title: Digital Game Based Learning
 nav_order: 1
 ---
 # Digital Game Based Learning
