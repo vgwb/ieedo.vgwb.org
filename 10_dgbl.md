@@ -97,7 +97,7 @@ As well as improving learning abilities, here are some other benefits of Games:
 - **teach languages**: they are useful for learning other languages through on-screen instructions, chats for communicating with other players, or the narration of the story itself.
 - improve **critical thinking**: with underlying ethical, philosophical and social basis, and their ability to make players think.
 
-## 1.8 Cognitive skills and games
+## 1.7 Cognitive skills and games
 
 Cognitive processes let you:
 1. Understand sensory inputs
@@ -107,86 +107,86 @@ Cognitive processes let you:
 
 Here is a list of cognitive skills that can be developed by playing Video Games
 
-## Attention
+### Attention
 
-### Focused Attention
+#### Focused Attention
 The ability to focus attention on a single stimulus
 
-### Divided Attention
+#### Divided Attention
 The ability to execute more than one action at a time, while paying attention to a few channels of information.
 
-### Inhibition
+#### Inhibition
 The ability to ignore irrelevant stimuli or suppress irrelevant reactions while performing a task.
 
-### Updating
+#### Updating
 The ability to respond in a flexible and adaptive manner in order to keep up with the changes in the environment.
 
-## Memory
+### Memory
 
-### Short-Term Memory
+#### Short-Term Memory
 The ability to hold a small amount of information in a readily, available state for a short period of time.
 
-### Naming
+#### Naming
 The ability to retrieve a word from our semantic lexicon and is considered to be a basic ability.
 
-### Working Memory
+#### Working Memory
 Refers to the temporary storage and manipulation of the information necessary for complex cognitive tasks.
 
-### Contextual Memory
+#### Contextual Memory
 The conscious recall of the source and circumstances of a specific memory.
 
-### Visual Short-Term Memory
+#### Visual Short-Term Memory
 The ability to temporarily retain a small amount of visual information.
 
-### Non-verbal Memory
+#### Non-verbal Memory
 The ability to store and retrieve information which are non-verbal by nature.
 
-### Phonological Short-term Memory
+#### Phonological Short-term Memory
 The ability to remember phonological information over a brief period of time.
 
-## Sensation and Perception
+### Sensation and Perception
 
-### Auditory perception
+#### Auditory perception
 Auditory Perception is the ability to perceive and understand the difference between sounds.
 
-### Visual Perception
+#### Visual Perception
 The ability to interpret information from the effects of visible light reaching the eye.
 
-### Spatial Perception
+#### Spatial Perception
 The ability to evaluate how things are arranged in space, and investigate their relations in the environment.
 
-### Visual Scanning
+#### Visual Scanning
 The ability to actively find relevant information in our surroundings quickly and efficiently.
 
-### Estimation
+#### Estimation
 The ability to estimate an object's future location based on its current speed and distance.
 
-### Width of Field of View
+#### Width of Field of View
 Corresponds to amount of information we receive from around when looking straight ahead.
 
-### Recognition
+#### Recognition
 The ability to retrieve information from the past and to recognise certain events, places or other information.
 
-## Reasoning and Comprehension
+### Reasoning and Comprehension
 
-### Processing Speed
+#### Processing Speed
 Involves the ability to fluently perform easy or over-learned tasks.
 
-### Planning
+#### Planning
 The ability to "think ahead", to mentally anticipate the correct way to execute a task.
 
-### Shifting
+#### Shifting
 Ability to adapt behaviour and thoughts to new, changing, or unexpected circumstances
 
-## Coordination
+### Coordination
 
-### Hand-eye Coordination
+#### Hand-eye Coordination
 The level of sensitivity with which the hand and eye are synchronised.
 
-### Response Time
+#### Response Time
 The ability to perceive and process a simple stimulus and respond to it.
 
-## 1.7 What games provide
+## 1.8 What games provide
 Games bring together combination of motivating elements not found together in any other medium.
 Here we can see some games virtues and the positive consequence:
 
