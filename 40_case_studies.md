@@ -98,32 +98,28 @@ https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_yea
 - SPARX (mental health game for youths & adolescents)
 
 ## 4.5 Games 4 Good
-Chiamati anche **Games for good**, hanno come pilastro il trattare temi di rilevanza sociale pubblica, quali
-- Politica e Storia
-- Religione
-- Conflitti
-- Epidemie
-- Sexism e razzismo
-- Clima
-- Energia
+**Games for good** have the mission to help improving the world, with positive social impact, improved knowledge about social issues, with direct experience of human problems.
 
-Solitamente sono finanziati dal settore pubblico o fondazioni.
-In alcuni casi la grande industria per motivi di immagine.
-
-Come i giochi educativi, anche qui i giocatori imparano qualcosa rilevante le questioni sociali giocando.
-Come nei giochi per la salute, alcuni videogiochi persuasivi sono stati validati
+- Empathy
+- Politics and History
+- Religion
+- Wars
+- Epidemics
+- Sexism and racism
+- Environment and Climate change
+- Energy
 
 ### Empathy
 
-> Capacità di porsi in maniera immediata nello stato d'animo o nella situazione di un'altra persona.
+> The ability to identify with or understand another's situation or feelings
 
 #### This War of Mine
-Non impersoni il  classico soldato impegnato in combattimento, ma un gruppo di civili che cercano di sopravvivere all'assedio della città, con mancanza di medicinali, cibo e pericolo di incursioni.
+This War of Mine is a war survival game that differs from most war-themed video games by focusing on the civilian experience of war rather than front line combat. Characters have to make many difficult decisions in order to survive everyday dangers. There are various endings for each character, depending on the decisions made in the game.
 
 http://www.thiswarofmine.com
 
 #### Papers, Please
-Sei un ispettore dell'immigrazione dell'immaginario paese Arstotzka, devi controllare i documenti dei richiedenti permesso di soggiorno, imparando a contenere la sicurezza e gestire i propri problemi personali.
+Papers, Please is a single-player “Dystopian Document Thriller” in which the player steps into the role of an immigration inspector in the fictional country of Arstotzka in the year 1982. As the player stands on the threshold between two different countries, a unique perspective of immigration and border security springs out of the mundane task of inspecting papers. On a second layer, the player must simultaneously provide for their family using the salary earned from the job, which pays based on how many people have been processed through in a day. Balancing border security with the needs of the family is uniquely human, creating a juxtaposition that is new and interesting.
 
 http://www.papersplea.se
 
@@ -133,61 +129,41 @@ Simulazione della vita degli studenti in una scuola.. permette ai giocatori di e
 https://www.highschoolstory.com
 
 #### Bounden
-Bounded è un fantasioso gioco di ballo per due persone con le coreografie del Balletto Nazionale Olandese.
-
-Afferrando un’estremità del dispositivo e ruotandolo attorno a una sfera virtuale i “due giocatori” seguono una serie di circonferenze. Disegnano archi con le braccia, girano su se stessi e, senza particolare impegno si 
-
+Bounden is a smartphone dance game that gets players to use their bodies. Two people hold opposite ends of one smartphone then move together to keep a cursor over the ball. What starts as a novel way to interact with the game slowly encourages the two players to move creatively together as they complete each level.
 http://playbounden.com
 
-#### IF... The Emotional IQ Game
-Una storia interattiva che fa vivere e suggerisce, episodio dopo episodio, come divertirsi imparando a gestire lo stress, l'ansietà, la rabbia, la tristezza e la frustrazione. 
-
-I genitori possono interagire, partecipare e seguire lo sviluppo del gioco insieme ai propri figli.
-
-http://ifyoucan.org
-
 ### Ethics
-> L'arte e la scienza del comportamento e del valutare il bene e il male.
+> Ethics is the art and science of analysing issues of good, bad, right, wrong, just, and unjust.
 
 #### PeaceMaker
-Il giocatore è invitato a trovare una soluzione nonviolenta al conflitto Israele/Palestina, impersonificando di volta in volta le due opposte fazioni. 
-
+A government simulation game which simulates the Israeli–Palestinian conflict. 
 http://peacemakergame.com
 
 #### Phone Story
-Per conoscere cosa sta dietro la produzione dei nostri beneamati cellulari e computer: 
-
-dall'estrazione del Coltan in Congo, alle alienanti catene di montaggio in Cina, passando ai rifiuti elettronici in Pakistan, fino al consumismo sfrenato in occidente. 
-
+Phone Story is a game for smartphone devices that attempts to provoke a critical reflection on its own technological platform. Under the shiny surface of our electronic gadgets, behind its polished interface, hides the product of a troubling supply chain that stretches across the globe. Phone Story represents this process with four educational games that make the player symbolically complicit in coltan extraction in Congo, outsourced labor in China, e-waste in Pakistan and gadget consumerism in the West.
 http://phonestory.org
 
 #### Unmanned
-Impersonificazione delle nuove tipologie di soldato che non combattono in prima linea, ma comandano da posti sicuri, lontani dallo scenario dei droni micidiali. 
-
-Nel gioco il soldato non dovrà salvarsi dai conflitti della guerra, ma da quelli che questa causa all'interno della sua testa.
-
+Most video shoot-em-up video games make war seem action-packed and glamorous. Unmanned aims to paint a far more realistic portrait, casting players as a soldier dealing with boredom and traumatic dreams, in addition to military duties.
 http://unmanned.molleindustria.org
 
 #### Data Dealer
-Intelligente gioco sul tema della privacy e della gestione dei dati personali. 
-
-L’utente compra e vende informazioni private sulla gente, e costruisce il più grande impero di dati mai creato. 
+Data Dealer is an online game about collecting and selling personal data - full of irony and gleeful sarcasm. It'´'s a browser/serious/edu/impact game about digital culture and surveillance and aims to raise awareness about online privacy in a new and fun way.
 
 https://datadealer.com
 
 #### Half the Sky Movement
-Un'avventura / simulazione che può far conoscere e aiutare la realtà della donne e delle ragazze nel mondo, raccogliendo donazioni reali. 
-
-Il gioco crea relazioni tra persone che hanno condiviso le stesse situazioni e permettono un confronto positivo.
+The Game is a game-based adventure that aims to reach mainstream audiences to raise awareness and donations to empower women and girls around the world.
 
 http://www.halftheskymovement.org
 
 #### Fate of the World
-Un gioco di strategia che mette il futuro del mondo nelle tue mani: come darai risposte ai problemi del riscaldamento globale, della crescita della popolazione, delle risorse naturali e dalla scomparsa di specie animali? i prossimi 200 anni sono nelle tue mani
+Fate of the World is a dramatic global strategy game that puts all our futures in your hands. The game features a dramatic set of scenarios based on the latest science covering the next two centuries. You must manage a balancing act of protecting the Earth's resources and climate versus the needs of an ever-growing world population
 
 https://www.soothsayergames.com
 
-### 10 Games for a specific social good
+### Other games for social good
+
 **World Without Oil**
 Also a McGonigal creation, players in this game are dropped into a world where oil resources have been tapped and where they must get creative to survive the massive global shortage. The best part of the game? It teaches easy ways to use less oil in the real world—habits that players report keeping up when they aren’t playing.
 http://www.worldwithoutoil.org
@@ -215,22 +191,6 @@ http://playspent.org/
 **Evoke**
 Created by the World Bank Institute in conjunction with McGonigal, this game is a 10-week crash course in social innovation, giving players challenges from “food security” to “urban resilience,” and encouraging them to become a think tank on local challenges.
 http://www.urgentevoke.com
-
-**Unmanned**
-Most video shoot-em-up video games make war seem action-packed and glamorous. Unmanned aims to paint a far more realistic portrait, casting players as a soldier dealing with boredom and traumatic dreams, in addition to military duties.
-http://unmanned.molleindustria.org
-
-**Plot.Form**
-This slick game seeks to make charitable giving fun and interactive, rather than passive and forgettable. Currently fundraising to build homes for teenagers on the street in Moshi, Tanzania, Plot.form allows users to donate—and pick out building materials, colors and more for parts of the homes.
-http://plotform.eu
-
-### Altri titoli
-- Mission for Life (exploring the world’s social problems)
-- Friend Ship (holocaust remembrance)
-- Purpose (racism and sexism)
-- Utopolis (democracy simulation)
-- The Great Flu (awareness game for the flu virus) - http://www.thegreatflu.com/
-- Global Conflicts series (tackling social problems)
 
 ## 4.6 Genres and Commercial games
 Many researchers have tried to categorize computer games into types or taxonomies, and although there are often large differences between them, there is also much similarity in terms of the general classifications. Here is a try to group them in general categories.
