@@ -10,8 +10,8 @@ nav_order: 30
 {:toc}
 
 ## Learning Objectives
-- when to implement EVG in classroom?
-- why implementing EVG is important?
+- Who to implement EVG in classroom
+- Why implementing EVG is important?
 
 ## 3.1 Recap and introduction
 Let's see this video about why video games are such effective learning tools:

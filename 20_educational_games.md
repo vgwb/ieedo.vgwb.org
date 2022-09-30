@@ -25,12 +25,12 @@ nav_order: 20
 - **Social** - translates the social skills learned into relations outside the gaming environment
 - **Emotional** - encourages positive mood states and adaptive emotion regulation
 
-## 2.1.2 Video Learning through "serious games" 
+## 2.2 Video Learning through "serious games" 
 
 > 📽 VIDEO [Video Learning through "serious games"](https://youtu.be/MUn3hVZ-ejk)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/MUn3hVZ-ejk"></iframe>
 
-## 2.2 Games selection
+## 2.3 Games selection
 
 After we have established the definition of game-based learning, its basis, and how its implementation enhances several social and cognitive skills, the question now diverts to **how we can select an educational video game that elicit engagement and motivation as well as ensure that it is designed with the intended educational content**.
 There are many educational video games available for class implementation, however, many are redundant, easy or stimulatingly boring that students are just not as interested or motivated to play.
@@ -44,7 +44,7 @@ Before we dive deep into our unit, take a moment to solve this quiz on videogame
 ---
 
 
-## 2.3 What makes a good educational video game good?
+## 2.4 What makes a good educational video game good?
 
 How good video game designers create games that manage to get new players to learn long, complex and difficult games?
 They build these games based on the good principles of learning that involve 3 main criteria, **Empowered Learners**, **Problem Solving** and **Understanding**. 
@@ -70,7 +70,7 @@ The first attribute of a good educational video game is **how engaging it is**?
 Engagement is a broad category that involves many properties in order to sustain it.
 Here is an outline of the learning principles of a good video educational video game.
 
-## 2.4 Learning Principles
+## 2.5 Learning Principles
 Here are the 16 principles of good video-game based learning:
 
 1. **Identity**: Players build a sense of identity throughout the video game, either through direct input or an on-screen character they inherit.
@@ -92,7 +92,7 @@ Here are the 16 principles of good video-game based learning:
 
 These learning principles should be applied to school learning at all times, not just through educational video games. They change the current trend for skill-and-drill, scripted instruction, and standardized multiple-choice testing.
 
-## 2.5 Gamification
+## 2.6 Gamification
 Game-based learning should not be confused with gamification.
 
 Gamification is the process of using game mechanics, elements, and principles and applying them to non-game contexts to engage users better.
@@ -106,13 +106,13 @@ Some examples of game mechanics used in gamification are:
 
 Gamification takes an element of education and replaces it with a game-based element. For instance, a teacher may replace grades with levels or experience points.
 
-## 2.6 The Flow state
+## 2.7 The Flow state
 The Flow state in an experience as the equilibrium point between challenge and ability. If the challenge is quite higher than the ability the result will be the person getting frustrated and with the feeling of anxiety, on the other hand if the person’s skill is higher than the challenge presented he will experience boredom.
 Games should be designed and calibrated the ensure that the player maximises its staying within the *flow channel*
 
 ![](img/flow-1.png)
 
-## 2.7 Learning Flow
+## 2.8 Learning Flow
 Educational Games a special "flow", which is
 
 ![](img/cognitive_approach.png)
@@ -120,7 +120,7 @@ Educational Games a special "flow", which is
 
 ![](img/GBLModel.webp)
 
-## 2.8 What we can learn with EVG
+## 2.9 What we can learn with EVG
 Today we can find videogames that can help in every learning field.
 
 For example:

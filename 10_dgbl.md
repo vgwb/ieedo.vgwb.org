@@ -53,8 +53,8 @@ For example, in an Economics course, students might compete in a virtual stock-t
 - who can use DGBL? (students, everyone, teachers, kids)
 - why is DGBL so powerful? (cheap, easy, engaging)
 - is Engagement good for learners? (yes, no, we don't know yet)
----
 
+---
 
 ## 1.4 Video Games and new teaching methods
 
@@ -63,7 +63,7 @@ Recent studies have shown that introducing educational video games (EVG) and ado
 Introducing video games into the classroom **enhances many learning and teaching skills** that can help elevate the educational experience of the classroom. This teaching method uses beneficial aspects of video games to transmit knowledge to students. It is based on **three key factors**:
 
 1. It breathes life into education: it transforms learning into an **enjoyable**, thrilling game without boring lessons. Students assimilate and retain information almost without noticing.
-2. It **boosts motivation**: students are the main characters in the story and their success is rewarded with medals, extra lives, bonuses, etc. This capture and keeps their interest in learning.
+2. It **boosts motivation**: students are the main characters in the story and their success is rewarded with medals, extra lives, bonuses, etc. This captures and keeps their interest in learning.
 3. It gives **opportunities to practice** students can apply the knowledge they acquire without getting into dangerous situations. This is what flight and navigation simulators, for instance, are all about.
 
 ![](img/vg_pro-cons.webp)
