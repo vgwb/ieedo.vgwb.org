@@ -4,10 +4,6 @@ has_children: false
 nav_order: 40
 ---
 # 4. Case Studies
-{: .no_toc }
-
-- TOC
-{:toc}
 
 ## Learning Objectives
 - types and categories of EVG
@@ -26,7 +22,7 @@ We could:
 
 ## 4.2  Training and simulation
 
-**Build better cities**
+VIDEO **Build better cities** with games
 https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/
 
 Some titles:

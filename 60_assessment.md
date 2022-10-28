@@ -4,10 +4,6 @@ has_children: false
 nav_order: 60
 ---
 # 6.  Teacher guide: Assessment
-{: .no_toc }
-
-- TOC
-{:toc}
 
 ## Learning Objectives
 - How to assess the outcome of a VG

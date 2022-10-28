@@ -5,7 +5,7 @@ has_children: false
 nav_order: 20
 ---
 
-#  Survey - Do you know videogames?
+# Survey - Do you know videogames?
 
 ### What game is this?
 ![](img/quiz/roblox_logo.jpg)

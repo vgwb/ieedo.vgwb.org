@@ -4,10 +4,6 @@ has_children: false
 nav_order: 30
 ---
 # 3. Integration of Education Games
-{: .no_toc }
-
-- TOC
-{:toc}
 
 ## Learning Objectives
 - Who to implement EVG in classroom
