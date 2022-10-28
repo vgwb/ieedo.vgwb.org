@@ -2,6 +2,7 @@
 title: New teaching Methods
 parent: 1 - What is DGBL
 has_children: false
+nav_order: 15
 ---
 
 ## 1.4 Video Games and new teaching methods

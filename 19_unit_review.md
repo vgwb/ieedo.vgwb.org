@@ -2,6 +2,7 @@
 title: Unit Review
 parent: 1 - What is DGBL
 has_children: false
+nav_order: 17
 ---
 ## Unit review
 Now that we have established what is game-based learning and why using educational video games is beneficial, please respond to the following questions:

@@ -2,6 +2,7 @@
 title: Games benefits
 parent: 1 - What is DGBL
 has_children: false
+nav_order: 16
 ---
 
 ## 1.6 Games benefits

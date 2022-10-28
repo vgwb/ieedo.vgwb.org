@@ -2,6 +2,7 @@
 title: What is?
 parent: 1 - What is DGBL
 has_children: false
+nav_order: 13
 ---
 
 ## 1.3 What is game based learning?

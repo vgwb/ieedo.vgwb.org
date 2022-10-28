@@ -2,6 +2,7 @@
 title: Definition
 parent: 1 - What is DGBL
 has_children: false
+nav_order: 11
 ---
 
 ## 1.1 Definition
