@@ -90,7 +90,7 @@ Making your password easy to guess
 
 Tell your parents
 Change it immediately
-Cry
+Close the browser
 Do nothing
 
 
@@ -115,28 +115,12 @@ Central Puppies Unit
 Central Processing Unit
 Computer Problems Unite
 
-### Identify this social media application
-![](img/quiz/snapchat.png)
-Twitter
-Snapchat
-Facebook
-LinkedIn
-
 ### What does WWW stand for?
 
-Wonder Woman's Wig
+World Without Wars
 Where World Was
-Wicked Wizard Web
+Winter Wizard Web
 World Wide Web
-
-
-### Which leading computer software business created programs like Word, Excel and PowerPoint
-
-Google
-Apple
-Microsoft
-DELL
-
 
 ### Which of these is NOT a type of computer?
 Apple
@@ -144,43 +128,11 @@ Laptop
 Lada
 Notebook
 
-
-### What social media application allows users to send or leave tweets?
-
-Twitter
-Facebook
-Instagram
-Snapchat
-
-
-### What is this called?
-![](img/quiz/usbkey.jpg)
-USB
-Flash Drive
-All of these
-Memory stick
-
-
-### Name this social media app
-![](img/quiz/app-instagram.jpg)
-Instagram
-Facebook
-Twitter
-Snapchat
-
-### What is this image the icon for?
-![](img/quiz/app-word.jpg)
-Microsoft Access
-Microsoft Excel
-Microsoft PowerPoint
-Microsoft Word
-
-### What is this image the icon for?
-![](img/quiz/app-excel.png)
-Microsoft Word
-Microsoft Publisher
-Microsoft Excel
-Microsoft PowerPoint
+### How is digital memory measured?
+- bytes
+- mega
+- giga
+- a number
 
 ### A website is secure when it has...?
 A smiley face
