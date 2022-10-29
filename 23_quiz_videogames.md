@@ -1,9 +1,10 @@
 ---
-title: Survey - videogames 
-parent: Resources
+title: Survey - videogames
+parent: 2 - Educational Video Games
 has_children: false
-nav_order: 20
+nav_order: 23
 ---
+Before we dive deep into our unit, take a moment to solve this quiz on videogames
 
 # Survey - Do you know videogames?
 

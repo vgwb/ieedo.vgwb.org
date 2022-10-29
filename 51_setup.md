@@ -1,19 +1,13 @@
 ---
 title: 5 - Setup
+parent: 5 - Teacher Guide
 has_children: false
-nav_order: 50
+nav_order: 51
 ---
 # 5. Teacher guide: setup
 
-## Learning Objectives
-- How to setup a DGBL session
-- What skills a teacher needs to develop
-- What challenges are there in DGBL?
-- What hardware do we need and how to set it up?
-- What Skills does student needs to start?
-
 ## 5.1 A Digital Game Based Learning session
-We can summarize a DGBL session in these five steps:
+We can summarise a DGBL session in these five steps:
 
 ### 1. Introduction to videogame
 The teacher explains the game and helps installing it on the students devices.
@@ -30,7 +24,7 @@ student and the teacher analyse together the outcome
 
 ### 5. forming abstract concepts + real world application
 
-> exercise: order the 5 steps
+> #exercise: order the 5 steps
 
 ## 5.2 Teacher Skills
 The teacher has to develop or at least know something about these topics:
@@ -58,21 +52,3 @@ There could be some difficulties and challenges to be solved in order to achieve
 
 ### 5.3.1 Moderation
 The impact of video games on society has been the subject of numerous studies. For example a psychologist at the Internet Institute at Oxford University, published a study establishing how much time should children be allowed to devote to video gaming. He reports that those who played less than an hour were more emotionally stable, while those who played for around three hours a day developed social problems. Therefore, when it comes to video games, **moderation is key**. 
-
-## 5.4 Students pre-evaluation and setup 
-
-### Hardware and Digital Skills evaluation
-We want to know how much the user knows about digital world, hardware, smartphone
-
-📄 [Survey Digital Skills](1000_quiz_digital.md)
-
-### VG Evaluation
-We want to know if user knows a bit about videogames
-📄 [Survey Videogames](1000_quiz_videogames.md)
-
-### Setup device
-Install the game on the device and run it once.
-If needed do some Android tuning (notifications, for example)
-
----
-## Unit Review

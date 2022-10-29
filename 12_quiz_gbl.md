@@ -1,30 +1,31 @@
 ---
-title: Survey - DGBL 
-parent: Resources
+title: Quiz
+parent: 1 - What is DGBL
 has_children: false
-nav_order: 20
+nav_order: 12
 ---
+🧑🏻‍🎓 #quiz Preliminary survey on **Game Based Learning**
 
 # Survey - Game-based Learning
 
 ### Have you heard of game-based learning ?
-Yes
-No
+- Yes
+- No
 
 ### What do you know about game-based learning ?
 
 
 ### Have you been exposed to game-based learning ?
-Yes
-No
+- Yes
+- No
 
 ### Have you used or know of educational video games ?
-Yes
-No
+- Yes
+- No
 
 ### Do you know any educational video game ?
-Yes
-No
+- Yes
+- No
 
 ### If yes, could you share it and describe it ?
 

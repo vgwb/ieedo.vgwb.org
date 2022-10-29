@@ -1,6 +1,6 @@
 ---
 title: Resources 
-has_children: true
+has_children: false
 nav_order: 100
 ---
 # Resources

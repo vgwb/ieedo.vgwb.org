@@ -1,8 +1,8 @@
 ---
 title: Survey - Digital Skills 
-parent: Resources
+parent: 5 - Teacher Guide
 has_children: false
-nav_order: 20
+nav_order: 55
 ---
 
 # Survey - Digital skills
