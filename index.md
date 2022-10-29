@@ -8,7 +8,7 @@ by Video Games Without Borders
 
 ### [Introduction](01_introduction.md)
 to this guide
-### [1 - DGBL](10_dgbl.md)
+### [1 - DGBL](10_dgbl/10_dgbl.md)
 What is Digital Games Based Learning
 ### [2 - Educational Videogames](20_educational_games.md)
 How do they work?
