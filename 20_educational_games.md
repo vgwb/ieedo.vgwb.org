@@ -1,6 +1,6 @@
 ---
 title: 2 - Educational Video Games
-has_children: false
+has_children: true
 nav_order: 20
 ---
 # 2. Educational Video Games
