@@ -16,7 +16,7 @@ How do they work?
 How to use videogames in classroom?
 ### [4 - Case studies](40_case_studies.md)
 Let's analyse some games.
-### [5 - Teacher guide](51_setup.md)
+### [5 - Teacher guide](50_teacher.md)
 The handbook for the teacher
 ### [Resources and appendices](100_resources.md)
 To go deeper in the various topics

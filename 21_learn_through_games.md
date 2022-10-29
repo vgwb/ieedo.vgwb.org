@@ -1,5 +1,5 @@
 ---
-title: Learn through "serious games"
+title: Learn through games
 parent: 2 - Educational Video Games
 has_children: false
 nav_order: 21

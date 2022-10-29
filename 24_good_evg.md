@@ -51,5 +51,3 @@ Here are the 16 principles of good video-game based learning:
 16. **Performance before Competence**: Competency occurs through taking action in the game, reversing the typical model in which students are required to learn before being allowed to act.
 
 These learning principles should be applied to school learning at all times, not just through educational video games. They change the current trend for skill-and-drill, scripted instruction, and standardized multiple-choice testing.
-
-[26_gamification](26_gamification.md)

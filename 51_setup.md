@@ -1,5 +1,5 @@
 ---
-title: 5 - Setup
+title: Setup
 parent: 5 - Teacher Guide
 has_children: false
 nav_order: 51

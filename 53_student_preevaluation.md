@@ -2,7 +2,7 @@
 title: Students pre-evaluation
 parent: 5 - Teacher Guide
 has_children: false
-nav_order: 54
+nav_order: 53
 ---
 
 ## 5.4 Students pre-evaluation and setup 
@@ -10,7 +10,7 @@ nav_order: 54
 ### Hardware and Digital Skills evaluation
 We want to know how much the user knows about digital world, hardware, smartphone
 
-📄 [Survey Digital Skills](55_quiz_digital.md)
+📄 [Survey Digital Skills](54_quiz_digital.md)
 
 ### VG Evaluation
 We want to know if user knows a bit about videogames
