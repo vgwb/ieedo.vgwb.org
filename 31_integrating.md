@@ -14,6 +14,9 @@ After learning about the benefits of educational video games and the characteris
 
 In this unit, we will answer all these questions and provide a guideline and tips that instructors can follow when deciding to select and implement an educational video game.
 
+> 📽 #VIDEO [Using Games in the Classroom](https://youtu.be/o6IELVV2xLQ)
+<iframe height="450" width="800" src="https://www.youtube.com/embed/o6IELVV2xLQ"></iframe>
+
 ![](img/tips_vg_classroom.webp)
 
 ## 3.2 Tips for using VG in the classroom

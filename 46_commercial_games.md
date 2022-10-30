@@ -99,9 +99,13 @@ Keep Talking and Nobody Explodes is a cooperative puzzle virtual reality (VR) ga
 
 ### Threes!
 ![](img/games/threes.webp)
+**Curricular connections**: mathematics 
+**Possible skills taught**: Logic; Problem solving
 
 ### Ruzzle
 ![](img/games/ruzzle.webp)
+**Curricular connections**: communication; reading 
+**Possible skills taught**: Logic; Problem solving; verbal communication; reading comprehension; teamwork
 
 ### Monument Valley
 ![](img/games/monumentvalley.webp)
@@ -128,6 +132,8 @@ In the context of learning, role-playing games are good for providing a context 
 
 ### Final Fantasy serie
 ![](img/games/finalfantasy.webp)
+**Curricular connections:** Modern literature; science fiction; cultural studies; media studies, humanities; psychology; urban studies  
+**Possible skills taught:** critical thinking, creativity, ethical judgment
 
 ### World of Warcraft
 ![](img/games/wow.webp)
@@ -232,11 +238,12 @@ The educational goal of the game is to help players to acquire the basics of Ara
 > **Curricular connections**: Language learning; Arabic literacy; social and emotional learning 
 > **Possible skills taught**: Recognizing letters (shapes, names, phonemes); syllables and word reading; vocabulary
 
+website: [antura.org](https://www.antura.org)
+
 ### Fancade
 ![](img/games/fancade.webp)
-
-
-
+Fancade is a huge collection of simple games. Play them instantly, or make your own game using drag-n-drop building blocks!
+website: [fancade.com](https://www.fancade.com)
 
 ## Sandbox
 ### Minecraft
@@ -245,3 +252,5 @@ Minecraft is an open-world game, allowing players opportunity for unlimited expl
 
 **Curricular connections:** Foundational knowledge (English language arts, geography); meta-knowledge (cause and effect, narrative experience); humanistic knowledge (cultural competence)   
 **Possible skills taught:** Writing; critical thinking; exploration; experimentation; cause and effect; mapping; building; design; creativity; resource management; communication
+
+website: [minecraft.net](https://www.minecraft.net)

@@ -20,7 +20,14 @@ Engaging students in classroom content is always a hard task, and traditional fo
 
 Additionally, **sustaining engagement** is very important to ensure that the student is gaining the most out of their learning experience and that their **cognitive skills are always stimulated**. Engaging through educational video games that are built on educational content has proven to be a great way not only to keep students engaged but also to **deliver complex theories/topics in an interactive manner** allowing students to have a **deeper comprehension of the content**.
 
-> Game-based learning and video games provide much more learning opportunities than expected.
 
-> 📽 #VIDEO [Using Games in the Classroom](https://youtu.be/o6IELVV2xLQ)
-<iframe height="450" width="800" src="https://www.youtube.com/embed/o6IELVV2xLQ"></iframe>
+## 1.3 What is game based learning?
+
+The design of more engaging curriculum we need to include techniques that teaches students how to be **critical**, **confident** and **creative** as well as abilities that they will need for success in the **work-a-day future life**. Many schools have adopted game-based learning, a pedagogical approach that involves **designing learning activities through video games where the game characteristics and game principles inhere within the learning activities themselves**.
+
+For example, in an Economics course, students might compete in a virtual stock-trading competition, in a science class, students learn about genetics through *Geniventure*, a dragon hereditary game. There are many forms of game-based learning, including introduction of badges, leaderboards, and educational video games. Our focus here is educational video games and how they can be utilised to enhance curriculum development and student content comprehension.
+
+**Gaming is inherently motivating**, which may allow learners to gain skills and knowledge, by leveraging entertainment and weaving it within learning environments. Research studies indicate that video games in particular have great engagement and education related benefits. 
+
+📽 #VIDEO [Games and the Future of Education](https://www.youtube.com/watch?v=BiK2MPeg8k4)
+<iframe height="450" width="800" src="https://www.youtube.com/embed/BiK2MPeg8k4"></iframe>
