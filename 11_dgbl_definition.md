@@ -29,11 +29,14 @@ The design of more engaging curriculum we need to include techniques that teache
 📽 #VIDEO [Games and the Future of Education](https://www.youtube.com/watch?v=BiK2MPeg8k4)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/BiK2MPeg8k4"></iframe>
 
+# Motivation
+Motivation is the force behind human performance. It can arise from physiological or psychological needs, thoughts, or emotions. Our physiological needs help us preserve optimal physical functioning, while psychological needs typically help us thrive.
+
+The source of motivation can come from within ourselves or be external to us.
+
 ## Intrinsic Motivation
 
 > **Intrinsic motivation** is when you are motivated by personal satisfaction or enjoyment instead of external factors like reward or punishment. There are ways to make tasks more intrinsically motivating.
-
-### Overview
 
 Intrinsic motivation is the act of doing something without any obvious external rewards. You do it because it’s enjoyable and interesting, rather than because of an outside incentive or pressure to do it, such as a reward or deadline.
 
@@ -48,6 +51,9 @@ The most recognized theory of intrinsic motivation was first based on people’s
 Just like these biological needs, people also have psychological needs that must be satisfied in order to develop and thrive. These include the need for competence, autonomy, and relatedness.
 
 Along with satisfying these underlying psychological needs, intrinsic motivation also involves seeking out and engaging in activities that we find challenging, interesting, and internally rewarding without the prospect of any external reward.
+
+📽 #VIDEO [# The puzzle of motivation | Dan Pink](https://youtu.be/rrkrvAUbU9Y)
+<iframe height="450" width="800" src="https://www.youtube.com/embed/rrkrvAUbU9Y"></iframe>
 
 ### Intrinsic motivation vs. extrinsic motivation
 

@@ -6,9 +6,12 @@ nav_order: 27
 ---
 
 ## Gamification
+
 Game-based learning should not be confused with gamification.
 
-Gamification is the process of using game mechanics, elements, and principles and applying them to non-game contexts to engage users better.
+**DGBL** offers a delicate balance between in-class lessons and educational gameplay. Teachers introduce students to new concepts and show them how they work. Then students practise these concepts through digital games.
+
+**Gamification** involves taking elements from games -- such as game mechanics, leaderboards, levels, or points --  and applying them to non-game contexts to engage users better. The purpose of this is to make lessons that might not be enjoyable more engaging for students.
 
 Some examples of game mechanics used in gamification are:
 - **Goals** - Complete the task and get a reward, such as a **badge** or points.

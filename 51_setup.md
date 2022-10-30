@@ -37,13 +37,16 @@ The teacher has to develop or at least know something about these topics:
 ## Challenges
 There could be some difficulties and challenges to be solved in order to achieve better results in DGBL sessions.
 
-**Curriculum**: identify how a certain game can connect to the curriculum. 
+**Curriculum**: it’s hard to find games that fit the current curriculum or to identify how a certain game can connect to the curriculum.
+Check out [commonsense.org/education](https://www.commonsense.org/education) for ideas. Remember that the best way to use games is as a supplemental reinforcement for your traditional teaching. Don’t look for games that will teach your curriculum. Instead, look for games that might approach the same subject area from a different perspective.
 
 **Game related**: identify the accuracy and appropriateness of the content of the game. Irrelevant or distracting content from the game that could not be removed.
 
 **Attitudes**: persuading all stakeholders and non-players about the educational value of the game.
 
 **Educators and Teachers support**: make them aware of how to use games more effectively in education.
+
+**Technology** many teacher are unfamiliar with technology. That’s okay. Most of the writing about game-based learning focuses on digital media, but the truth is that you don’t necessarily need devices. At the Quest To Learn school in New York City, game design is a way of thinking, a paradigm. A great deal of their curriculum uses paper-based games rather than digital games. 
 
 **Assessment**: Traditional assessments do not often align with GBL, so new models and approaches must be considered.
 
