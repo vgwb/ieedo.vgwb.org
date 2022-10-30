@@ -20,6 +20,9 @@ Engaging students in classroom content is always a hard task, and traditional fo
 
 Additionally, **sustaining engagement** is very important to ensure that the student is gaining the most out of their learning experience and that their **cognitive skills are always stimulated**. Engaging through educational video games that are built on educational content has proven to be a great way not only to keep students engaged but also to **deliver complex theories/topics in an interactive manner** allowing students to have a **deeper comprehension of the content**.
 
+![games-engagement](img/games-engagement.webp)
+
+
 ## What is game based learning?
 
 The design of more engaging curriculum we need to include techniques that teaches students how to be **critical**, **confident** and **creative** as well as abilities that they will need for success in the **work-a-day future life**. Many schools have adopted game-based learning, a pedagogical approach that involves **designing learning activities through video games where the game characteristics and game principles inhere within the learning activities themselves**.
