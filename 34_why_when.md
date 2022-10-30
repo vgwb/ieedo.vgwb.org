@@ -28,5 +28,5 @@ Therefore, choosing to implement EVGs should come as a reason to enhance content
 15. Intrinsic motivation: playing is voluntary and self-driven
 16. Seamless accountability and feedback
 
-> 📽 #VIDEO [What can schools learn from video games?](https://www.youtube.com/watch?v=3aQxga-SUBg)
-> <iframe height="450" width="800" src="https://www.youtube.com/embed/3aQxga-SUBg"></iframe>
+📽 #VIDEO [What can schools learn from video games?](https://www.youtube.com/watch?v=3aQxga-SUBg)
+<iframe height="450" width="800" src="https://www.youtube.com/embed/3aQxga-SUBg"></iframe>

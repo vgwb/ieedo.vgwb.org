@@ -6,5 +6,6 @@ nav_order: 40
 # 4. Case Studies
 
 ## Learning Objectives
-- types and categories of EVG
+- which existing videogames can we use?
+- types and categories
 - know most famous VG and their educational values

@@ -24,7 +24,6 @@ student and the teacher analyse together the outcome
 
 ### 5. forming abstract concepts + real world application
 
-> #exercise: order the 5 steps
 
 ## 5.2 Teacher Skills
 The teacher has to develop or at least know something about these topics:

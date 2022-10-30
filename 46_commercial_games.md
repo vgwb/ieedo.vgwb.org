@@ -21,21 +21,20 @@ Adventure games generally depend on **mental agility** rather than physical dext
 
 A first-person exploration game where the player plays as Kaitlin Greenbriar, a student returning from a trip abroad. Most disconcerting is the whereabouts of Kaitlin’s younger sister Sam who has vanished, though not without a trace. To help determine what happened to Sam, the player must follow clues and journal entries to uncover numerous secrets hidden throughout the house.
 
-**Curricular connections:** English language arts; narrative studies; social and emotional learning; media literacy  
-**Possible skills taught:** Environmental storytelling; character development; genre; linear vs. nonlinear narrative; game mechanics and narrative; intertextuality; perspective-taking
+> **Curricular connections:** English language arts; narrative studies; social and emotional learning; media literacy  
+> **Possible skills taught:** Environmental storytelling; character development; genre; linear vs. nonlinear narrative; game mechanics and narrative; intertextuality; perspective-taking
 
 ### The walking dead
 ![](img/games/thewalkingdead.webp)
 
 The Walking Dead tells the story Lee Everett, a teacher from Atlanta caught right in the middle of a zombie apocalypse. During the game, the player plays as Lee through the trials and challenges that he and other survivors have to overcome. The gameplay is fairly straightforward, consisting mostly of controlling Lee to explore his surroundings and choosing his dialogue lines in conversation with other characters. As part of this, the player needs to act on Lee’s behalf in difficult, complex moral dilemmas.
 
-**Curricular connections:** Moral philosophy; ethics; social norms, history of ideas  
-
-**Possible skills taught:** Decision making; systems thinking; higher-order thinking skills, such as cause and effect; critical thinking; reflection; game-to-self connections; game-to-world connections; mindfulness
+> **Curricular connections:** Moral philosophy; ethics; social norms, history of ideas  
+> **Possible skills taught:** Decision making; systems thinking; higher-order thinking skills, such as cause and effect; critical thinking; reflection; game-to-self connections; game-to-world connections; mindfulness
 
 Tips:
-1.  Teachers should play the episode they will be using at least twice, as deep knowledge of the game is crucial to make the necessary curricular connections.
-2.  Teachers should encourage students to base their arguments on ethical theories, and not just their “gut feeling.”
+1. Teachers should play the episode they will be using at least twice, as deep knowledge of the game is crucial to make the necessary curricular connections.
+2. Teachers should encourage students to base their arguments on ethical theories, and not just their “gut feeling.”
 
 ### Life is Strange
 ![](img/games/lifeisstrange.webp)
@@ -46,26 +45,27 @@ The player confronts several challenging moral dilemmas that require the player 
 
 In addition, the player can undo consequences by activating the rewinding clock game mechanic to travel to prior timepoints, and by making different decisions that can shape future events.
 
-**Curricular connections:** Philosophy; ethics; logic; English language arts; social and emotional skills  
-**Possible skills taught:** Philosophical analysis; ethical analysis; narrative design; logical thinking; analyzing moral dilemmas; narrative design
+> **Curricular connections:** Philosophy; ethics; logic; English language arts; social and emotional skills  
+> **Possible skills taught:** Philosophical analysis; ethical analysis; narrative design; logical thinking; analyzing moral dilemmas; narrative design
 
 ### Assassin’s Creed (series)
 ![](img/games/assassin.webp)
 The series comprises ten narrative-driven standard game chapters, each covering different chronological eras and locations, with a narrative arc that spans from Ptolemaic Egypt through the Holy Land at the time of the third Crusade; Renaissance Italy; the Americas in the Colonial Era; and the French Revolution. Gameplay is centered on open-world exploration, collecting hints and evidence and gathering or delivering information
 
-**Curricular connections**: World history; World cultures; arts; English language learning; language learning; history of art and architecture; colonial history; piratical history; music
-**Possible skills taught**: art and architecture appreciation; music appreciation; task-based problem solving; listening and reading comprehension (ESL, foreign languages); ethical decision-making; argumentation; empathy; analyzing moral dilemmas
+> **Curricular connections**: World history; World cultures; arts; English language learning; language learning; history of art and architecture; colonial history; piratical history; music  
+> **Possible skills taught**: art and architecture appreciation; music appreciation; task-based problem solving; listening and reading comprehension (ESL, foreign languages); ethical decision-making; argumentation; empathy; analyzing moral dilemmas
 
 ### The Legend of Zelda: Breath of the Wild
 ![](img/games/zelda.webp)
 
 This game drops the player in a vast, open-world landscape, giving Link complete freedom to explore the game’s many locations as he takes on a plethora of adventures, monsters, and puzzles. Because the game encourages experimentation and exploration, each player can shape the story according to their own pace and skills.
 
-**Curricular connections:** Social and emotional skills; management  
-**Possible skills taught**: Focus, organization, time management; working memory; executive function
+> **Curricular connections:** Social and emotional skills; management  
+> **Possible skills taught**: Focus, organization, time management; working memory; executive function
+
 **Tips:** 
-1.  After the students play Breath of the Wild, teachers should ensure that they understand how the executive functioning skills were used in the game.
-2.  One way teachers can support reflection on skills used in the game is by encouraging students to write down specific examples of when success completion of quests required the use of each skill.
+1. After the students play Breath of the Wild, teachers should ensure that they understand how the executive functioning skills were used in the game.
+2. One way teachers can support reflection on skills used in the game is by encouraging students to write down specific examples of when success completion of quests required the use of each skill.
 
 ## Platform
 Platform games involve the movement of the player character through a landscape (usually two-dimensional), jumping up and down between platforms, avoiding obstacles and enemies, and picking up treasure, usually with some overall goal in mind and often in the context of a narrative. Platform games require physical dexterity and the aim is usually to score points and complete levels.
@@ -73,14 +73,16 @@ The types of skills that they develop are **hand–eye coordination**, **plannin
 
 ### Braid
 ![](img/games/braid.webp)
+BRAID is a side-scrolling adventure. Each of the game's six worlds features a different **time-shifting game mechanic** that is used to decipher a series of **mind-bending puzzles**. Depending on the level and circumstance, time might slow down, enemies might move forwards or backwards depending on the direction in which our little blue-suited hero is running, or the clock may stop altogether. **Players can rewind time** as much as they like at any time and in any level.
+
 
 ### Never Alone
 ![](img/games/neveralone.webp)
 
 In Never Alone you play as a young Inupiat girl, Nuna, who goes off on a journey to discover the source of an eternal blizzard that is threatening to destroy her village. Along the way she encounters an Arctic fox and a series of spirit creatures who aid her in her journey. Never Alone is a puzzle platformer in which the player can either control both Nuna and her artic fox companion to solve a series of puzzles that require an understanding of how various Inupiat tools, environmental elements (e.g., wild animals and weather) and NPCs (usually in the form of Inupiat spirit creatures) work. 
 
-**Curricular connections:** Social studies; social and emotional learning  
-**Possible skills taught:** Systems thinking; collaboration; decision-making
+> **Curricular connections:** Social studies; social and emotional learning  
+> **Possible skills taught:** Systems thinking; collaboration; decision-making
 
 ### Super Mario Maker 2
 ![](img/games/supermariomaker.webp)
@@ -103,20 +105,21 @@ Keep Talking and Nobody Explodes is a cooperative puzzle virtual reality (VR) ga
 
 ### Monument Valley
 ![](img/games/monumentvalley.webp)
+Monument Valley is an MC Escher-inspired puzzle game that bends architecture and follows a silent princess through a captivating world. 
+What makes this unique is the game's landscapes. Players can drag and turn parts of certain buildings to create a path from one area to the next. And, in others, stepping on trigger squares will change gravity and have you walking along the side of a wall. The game's physics is based on perception, so if you're able to position elements so there appears to be a path, you can use it, even if that path wouldn't exist in the real world.
 
 ### The Room
 ![](img/games/theroom.webp)
 
-**Curricular connections:** mathematics; social studies; art; media studies; computer science; psychology; sociology; anthropology; biology; chemistry  
-**Possible skills taught:** information literacy; quantitative reasoning; critical thinking; technological literacy; programming
+> **Curricular connections:** mathematics; social studies; art; media studies; computer science; psychology; sociology; anthropology; biology; chemistry  
+> **Possible skills taught:** information literacy; quantitative reasoning; critical thinking; technological literacy; programming
 
 ### Portal 2
 ![](img/games/portal.webp)
 Portal 2 (Valve Corporation, 2011) is a sequel to the original Portal both of which are enormously popular first-person puzzle-platform games where the player moves around the environment by shooting starting and ending portals into otherwise disconnected surfaces, thereby creating a link through which the player may move objects, including themselves. The game requires **extensive spatial acuity** and was quickly recognized for its potential use for **learning physics, problem solving, and critical thinking**.
 
-**Curricular connections:** Physics, geometry, English language arts; social and emotional learning
-
-**Possible skills taught:** Communication skills; teamwork; problem-solving; critical thinking; logical thinking; spatial analysis; employment/career skills
+> **Curricular connections:** Physics, geometry, English language arts; social and emotional learning
+> **Possible skills taught:** Communication skills; teamwork; problem-solving; critical thinking; logical thinking; spatial analysis; employment/career skills
 
 ## Role Play
 Role play games emerged from the face-to-face role-playing games and involve the player taking on the role of a character in another (usually fantasy-based) world.
@@ -130,8 +133,8 @@ In the context of learning, role-playing games are good for providing a context 
 ![](img/games/wow.webp)
 World of Warcraft (WoW) is one of the first and largest subscription-based massively multiplayer online role-playing games (MMORPGs) today. WoW offers players two factions (Alliance and Horde) who compete and collaborate to protect their world, Azeroth, against external and internal threats. Players can participate in a mix of activities such as **individual** and **collaborative** quests, gathering and crafting professions, raiding, battlegrounds, arenas, social and private text chat, and a combined open bid auction house. Players can also choose between individual gameplay, joining groups of up to 40 players, or joining guilds with 100s of members.
 
-**Curricular connections:** Accounting; business; supply chain management  
-**Possible skills taught:** Market research; financial statements; marketing; accounting spreadsheets; trading
+> **Curricular connections:** Accounting; business; supply chain management  
+> **Possible skills taught:** Market research; financial statements; marketing; accounting spreadsheets; trading
 
 ### Deus EX - Human Revolution
 ![](img/games/deusex.webp)
@@ -152,21 +155,19 @@ Although this is one genre in which it may be argued that there is less applicab
 ![](img/games/callofduty.webp)
 In the **single-player** campaign, the player takes on the roles of various characters, including a United States Marine and a British Special Air Service (SAS) operative. The player’s perspective changes dependent on the character and as the plot evolves through non-playable events and playable missions. Missions typically include objectives based around eliminating enemies, passing checkpoints, securing objectives against attackers or destroying an enemy location. In the **multiplayer** version, the series utilizes these mechanics for various team-based and deathmatch-based modes across various maps.
 
-**Curricular connections:** History; politics; international relations; ethics   
-**Possible skills taught:** Ethical decision-making; ethical design; analyzing moral dilemmas, narrative design
+> **Curricular connections:** History; politics; international relations; ethics   
+> **Possible skills taught:** Ethical decision-making; ethical design; analyzing moral dilemmas, narrative design
 
 ### Fortnite
 ![](img/games/fortnite.webp)
 Fortnite is an online action game published by Epic Games in 2017. It is set in a near future and adopts a third person perspective and cartoonish aesthetics. It includes three different modalities.
 
-Fortnite: **Battle Royale** mimics the PlayerUnknown’s Battlegrounds formula by presenting a ludic system where up to 100 players compete in one-versus- one or team-versus-team modes.
+- Fortnite: **Battle Royale** mimics the PlayerUnknown’s Battlegrounds formula by presenting a ludic system where up to 100 players compete in one-versus- one or team-versus-team modes.
+- Fortnite: **Save the World** is a cooperative survival experience where four players are asked to complete several missions against the game. Tasks span killing enemies, collecting materials, and building shelters for stopping armies of zombies.
+- Fortnite **Creative** is a creative mode that provides several editing tools. Players can build and craft different structures and objects on personalized islands.
 
-Fortnite: **Save the World** is a cooperative survival experience where four players are asked to complete several missions against the game. Tasks span killing enemies, collecting materials, and building shelters for stopping armies of zombies.
-
-Fortnite **Creative** is a creative mode that provides several editing tools. Players can build and craft different structures and objects on personalized islands.
-
-**Curricular connections:** Critical theory; digital cultures; educational technology; social and emotional learning  
-**Possible skills taught:** Collaborative thinking; connectivist thinking; creativity; critical thinking; social media literacy
+> **Curricular connections:** Critical theory; digital cultures; educational technology; social and emotional learning  
+> **Possible skills taught:** Collaborative thinking; connectivist thinking; creativity; critical thinking; social media literacy
 
 ## Sports
 Sports games allow the player to simulate taking part in a sporting event or tournament. They are generally based on physical dexterity and interaction with the gaming interface, but in recent years innovations such as dance mats and consoles that use movement-sensitive devices (the most notable example being the Nintendo consoles) have enabled players to actually undertake physical activity while playing.
@@ -184,8 +185,8 @@ Strategy games can be used for teaching **planning**, **decision-making**, **tes
 ![](img/games/civilization.webp)
 Players guide a civilization from the bronze age to the near-future competing against other humans or an artificially intelligent computer player, earning points for how powerful and advanced their civilization becomes. Before starting a game, players choose one of multiple civilizations to lead, each with unique gameplay abilities based on the circumstances or achievements of their real-life counterparts.
 
-**Curricular connections:** History; geography; civics; economics; sociology  
-**Possible skills taught:** critical thinking; experimentation; cost-benefit analysis; cooperation; inquiry- based learning
+> **Curricular connections:** History; geography; civics; economics; sociology  
+> **Possible skills taught:** critical thinking; experimentation; cost-benefit analysis; cooperation; inquiry- based learning
 
 **Tips:**
 1. Teachers should take time to learn the structure, controls, and mechanics of the game before introducing students to it.
@@ -228,8 +229,8 @@ Casual games are designed to be played in **short bursts** rather than for prolo
 ![](img/games/antura.webp)
 The educational goal of the game is to help players to acquire the basics of Arabic literacy, including Arabic letters, reading comprehension, and some vocabulary. But the game also has a social well-being objective to support flow, engagement, and motivation
 
-**Curricular connections**: Language learning; Arabic literacy; social and emotional learning (SEL)
-**Possible skills taught**: Recognizing letters (shapes, names, phonemes); syllables and word reading; vocabulary
+> **Curricular connections**: Language learning; Arabic literacy; social and emotional learning 
+> **Possible skills taught**: Recognizing letters (shapes, names, phonemes); syllables and word reading; vocabulary
 
 ### Fancade
 ![](img/games/fancade.webp)

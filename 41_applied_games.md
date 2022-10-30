@@ -17,12 +17,11 @@ We could:
 
 # 4.2  Training and simulation
 
-VIDEO **Build better cities** with games
-https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/
+#VIDEO [**Build better cities** with games](https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/)
 
 Some titles:
 - Democracy, political strategy game - positech.co.uk/democracy/
-- Flight Simulator <https://www.flightsimulator.com/>
+- Flight Simulator <https://www.flightsimulator.com>
 - "ViPOL" (virtual training for police forces)
 - Lost Earth 2307 (image interpretation, military)
 - 3DSim@GBT (planning, railroad construction)
