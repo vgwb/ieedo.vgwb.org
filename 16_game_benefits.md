@@ -107,8 +107,7 @@ The level of sensitivity with which the hand and eye are synchronised.
 The ability to perceive and process a simple stimulus and respond to it.
 
 ## 1.8 What games provide
-Games bring together combination of motivating elements not found together in any other medium.
-Here we can see some games virtues and the positive consequence:
+Games bring together combination of motivating elements not found together in any other medium. Here we can see some games virtues and the positive consequence:
 
 - Games are a form of fun -> _enjoyment and pleasure_
 - Games are a form of play -> intense and passionate *engagement*

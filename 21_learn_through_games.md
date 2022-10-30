@@ -16,7 +16,7 @@ nav_order: 21
 
 ## 2.2 Video Learning through "serious games" 
 
-> 📽 VIDEO [Video Learning through "serious games"](https://youtu.be/MUn3hVZ-ejk)
+📽 VIDEO [Video Learning through "serious games"](https://youtu.be/MUn3hVZ-ejk)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/MUn3hVZ-ejk"></iframe>
 
 ## 2.3 Games selection

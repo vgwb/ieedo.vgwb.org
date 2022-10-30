@@ -10,7 +10,7 @@ Game-based learning should not be confused with gamification.
 Gamification is the process of using game mechanics, elements, and principles and applying them to non-game contexts to engage users better.
 
 Some examples of game mechanics used in gamification are:
-- **Goals** - Complete the task and get a reward, such as a **badge** or points**.**
+- **Goals** - Complete the task and get a reward, such as a **badge** or points.
 - **Status** - Users increase their level or rank through completing activities. **Leaderboards** show who is ‘winning’ and inspire users to work harder to compete.
 - **Community** - Users are paired or put in groups to solve problems, complete activities, or otherwise achieve an objective.
 - **Education** - Tips, tricks and quizzes are given to the user throughout the process.
