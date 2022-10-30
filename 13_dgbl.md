@@ -13,5 +13,5 @@ For example, in an Economics course, students might compete in a virtual stock-t
 
 **Gaming is inherently motivating**, which may allow learners to gain skills and knowledge, by leveraging entertainment and weaving it within learning environments. Research studies indicate that video games in particular have great engagement and education related benefits. 
 
-> 📽 #VIDEO [Games and the Future of Education](https://www.youtube.com/watch?v=BiK2MPeg8k4)
+📽 #VIDEO [Games and the Future of Education](https://www.youtube.com/watch?v=BiK2MPeg8k4)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/BiK2MPeg8k4"></iframe>

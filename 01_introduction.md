@@ -14,7 +14,6 @@ They must become familiar with the theoretical underpinnings of DGBL, learn abou
 It is important to know the theory and the tools because games do not work by themselves and not all refugees/adults/coaches are comfortable with digital games. 
 
 Here is what you'll learn with this guide:
-
 - DGBL terminology
 - How to choose and introduce a game 
 - How to help and stimulate engagement playing the game
