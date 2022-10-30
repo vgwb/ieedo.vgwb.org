@@ -4,7 +4,7 @@ parent: 4 - Case studies
 has_children: false
 nav_order: 41
 ---
-# 4.1 Where to find EVG
+# Where to find EVG
 When choosing an EVG we have several options where to look. We could:
 
 - Use entertainment/**commercial games**. These games are already in the stores and could have additional or not explicit educational content (Assassin's Creed / Civilization)
@@ -14,7 +14,7 @@ When choosing an EVG we have several options where to look. We could:
 - **Create original games**. If a special requirements is needed, you could develop or ask to develop a custom game (Antura)
 - **Let students create games**, to design a game you have to study and manage the learning content very deeply
 
-# 4.2  Training and simulation
+# Training and simulation
 
 📽 #VIDEO [Build better cities with games](https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/)
 <iframe width="937" height="527" src="https://www.youtube.com/embed/qYUmI5kGsYk" title="How a video game might help us build better cities | Karoliina Korppoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -34,7 +34,7 @@ Some titles:
 - Sharkworld (project management training)
 - Houthoff Buruma (recruitment and assessment)
 
-# 4.3 Educational games
+# Educational games
 
 ### Dumb Ways to Die
 ![](img/games/dumbways.webp)
@@ -63,7 +63,7 @@ https://www.icivics.org
 - Bionigma (science game for protein exploration)
 - Meister Cody (educational game for dyscalculia)
 
-# 4.4 Health
+# Health
 
 ### The Game that can give you 10 extra years of life
 
@@ -83,7 +83,7 @@ Game designer Jane McGonigal firmly believes that video games are not just about
 - Zirkus Empathica (autism game for children)
 - SPARX (mental health game for youths & adolescents)
 
-# 4.5 Games 4 Good
+# Games 4 Good
 **Games for good** have the mission to help improving the world, with positive social impact, improved knowledge about social issues, with direct experience of human problems.
 
 - Empathy

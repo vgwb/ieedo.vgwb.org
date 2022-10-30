@@ -5,7 +5,7 @@ has_children: false
 nav_order: 53
 ---
 
-## 5.4 Students pre-evaluation and setup 
+## Students pre-evaluation and setup 
 
 ### Hardware and Digital Skills evaluation
 We want to know how much the user knows about digital world, hardware, smartphone

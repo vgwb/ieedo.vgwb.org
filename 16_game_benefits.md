@@ -5,7 +5,7 @@ has_children: false
 nav_order: 16
 ---
 
-## 1.6 Games benefits
+## Games benefits
 
 Additionally, playing video games has a huge impact on the development of **cognitive**, **collaboration**, **creative problem solving**, and **communication skills** of students. 
 As well as improving learning abilities, here are some other benefits of Games:
@@ -17,7 +17,7 @@ As well as improving learning abilities, here are some other benefits of Games:
 - **teach languages**: they are useful for learning other languages through on-screen instructions, chats for communicating with other players, or the narration of the story itself.
 - improve **critical thinking**: with underlying ethical, philosophical and social basis, and their ability to make players think.
 
-## 1.7 Cognitive skills and games
+## Cognitive skills and games
 
 Cognitive processes let you:
 1. Understand sensory inputs
@@ -106,7 +106,7 @@ The level of sensitivity with which the hand and eye are synchronised.
 #### Response Time
 The ability to perceive and process a simple stimulus and respond to it.
 
-## 1.8 What games provide
+## What games provide
 Games bring together combination of motivating elements not found together in any other medium. Here we can see some games virtues and the positive consequence:
 
 - Games are a form of fun -> _enjoyment and pleasure_

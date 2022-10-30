@@ -5,7 +5,7 @@ has_children: false
 nav_order: 55
 ---
 
-## 5.5 Assessment of Learning from Digital Games
+## Assessment of Learning from Digital Games
 
 The way in which any game is assessed is crucial if it is to be purposeful, to be seen as appropriate by the students and to encourage them to engage in the learning experience.
 There are seven aspects that should be examined when determining the effectiveness of game-based learning.
@@ -18,7 +18,7 @@ There are seven aspects that should be examined when determining the effectivene
 - **Preferences** - inclinations of the learners and teachers towards, for example, different learning styles or modes of interaction.
 - Game-Based Learning **Environment** - factors associated with the game itself, such as the design of the environment, use of scaffolding, usability, levels of social presence and the way in which the game is deployed.
 
-## 5.6 Evaluation Tools: Analytics
+## Evaluation Tools: Analytics
 The analysts part is the more important 
 
 ![](img/game_learning_analytics.webp)

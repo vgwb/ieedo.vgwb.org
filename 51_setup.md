@@ -4,9 +4,9 @@ parent: 5 - Teacher Guide
 has_children: false
 nav_order: 51
 ---
-# 5. Teacher guide: setup
+# Teacher guide: setup
 
-## 5.1 A Digital Game Based Learning session
+## A Digital Game Based Learning session
 We can summarise a DGBL session in these five steps:
 
 ### 1. Introduction to videogame
@@ -25,7 +25,7 @@ student and the teacher analyse together the outcome
 ### 5. forming abstract concepts + real world application
 
 
-## 5.2 Teacher Skills
+## Teacher Skills
 The teacher has to develop or at least know something about these topics:
 
 - ICT / Basic Digital Skills
@@ -34,7 +34,7 @@ The teacher has to develop or at least know something about these topics:
 - Recognise different players skills and support their game play
 - Engage students in playing and progression
 
-## 5.3 Challenges
+## Challenges
 There could be some difficulties and challenges to be solved in order to achieve better results in DGBL sessions.
 
 **Curriculum**: identify how a certain game can connect to the curriculum. 
@@ -49,5 +49,5 @@ There could be some difficulties and challenges to be solved in order to achieve
 
 **Developers** encourage and support game developers in the creation of better educational games
 
-### 5.3.1 Moderation
+### Moderation
 The impact of video games on society has been the subject of numerous studies. For example a psychologist at the Internet Institute at Oxford University, published a study establishing how much time should children be allowed to devote to video gaming. He reports that those who played less than an hour were more emotionally stable, while those who played for around three hours a day developed social problems. Therefore, when it comes to video games, **moderation is key**. 

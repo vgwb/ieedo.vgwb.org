@@ -5,7 +5,7 @@ has_children: false
 nav_order: 27
 ---
 
-## 2.6 Gamification
+## Gamification
 Game-based learning should not be confused with gamification.
 
 Gamification is the process of using game mechanics, elements, and principles and applying them to non-game contexts to engage users better.
@@ -19,13 +19,13 @@ Some examples of game mechanics used in gamification are:
 
 Gamification takes an element of education and replaces it with a game-based element. For instance, a teacher may replace grades with levels or experience points.
 
-## 2.7 The Flow state
+## The Flow state
 The Flow state in an experience as the equilibrium point between challenge and ability. If the challenge is quite higher than the ability the result will be the person getting frustrated and with the feeling of anxiety, on the other hand if the person’s skill is higher than the challenge presented he will experience boredom.
 Games should be designed and calibrated the ensure that the player maximises its staying within the *flow channel*
 
 ![](img/flow-1.png)
 
-## 2.8 Learning Flow
+## Learning Flow
 Educational Games a special "flow", which is
 
 ![](img/cognitive_approach.png)

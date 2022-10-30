@@ -4,7 +4,7 @@ parent: 2 - Educational Video Games
 has_children: false
 nav_order: 24
 ---
-## 2.4 What makes a good educational video game good?
+## What makes a good educational video game good?
 
 How good video game designers create games that manage to get new players to learn long, complex and difficult games?
 They build these games based on the good principles of learning that involve 3 main criteria, **Empowered Learners**, **Problem Solving** and **Understanding**. 
@@ -28,7 +28,7 @@ _**So what are the learning principles that a good educational video game is bui
 Engagement is a broad category that involves many properties in order to sustain it.
 Here is an outline of the learning principles of a good video educational video game.
 
-## 2.5 Learning Principles
+## Learning Principles
 Here are the 16 principles of good video-game based learning:
 
 1. **Identity**: Players build a sense of identity throughout the video game, either through direct input or an on-screen character they inherit.

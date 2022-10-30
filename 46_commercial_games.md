@@ -4,7 +4,7 @@ parent: 4 - Case studies
 has_children: false
 nav_order: 46
 ---
-# 4.6 Genres and Commercial games
+# Genres and Commercial games
 Many researchers have tried to categorize computer games into types or taxonomies, and although there are often large differences between them, there is also much similarity in terms of the general classifications. Here is a try to group them in general categories.
 
 For the selected games we try to extract the **curricular connections** (learning topics) and the **possible skills taught**.

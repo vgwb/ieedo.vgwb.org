@@ -4,7 +4,7 @@ parent: 3 - Games in Classroom
 has_children: false
 nav_order: 31
 ---
-## 3.1 Recap and introduction
+
 Let's see this video about why video games are such effective learning tools:
 
 > 📽 VIDEO [James Paul Gee on Learning with Video Games](https://youtu.be/JnEN2Sm4IIQ)
@@ -19,7 +19,7 @@ In this unit, we will answer all these questions and provide a guideline and tip
 
 ![](img/tips_vg_classroom.webp)
 
-## 3.2 Tips for using VG in the classroom
+## Tips for using VG in the classroom
 1. Teachers do not need to be avid gamers, but they should **at least be interested in them**.
 2. Videogames should not be the main method for educating students. They are just **one of the tools available**.
 3. **Check the age recommendations** on videogames. Avoid those for 18 ears and over.
@@ -28,7 +28,7 @@ In this unit, we will answer all these questions and provide a guideline and tip
 6. Schools must be equipped with **suitable technology** before Introducing videogames into the classroom.
 7. Students can get hooked on videogames so teaching how to **control their use** is also part of classroom education.
 
-## 3.3 What we can learn with EVG
+## What we can learn with EVG
 Today we can find videogames that can help in every learning field.
 
 For example:
@@ -43,7 +43,7 @@ For example:
 - Ethics and Ethical Thinking
 - Management
 
-## 3.3 How to implement GBL?
+## How to implement GBL?
 There are many strategies and ways for educators to incorporate game-based learning and EVGs into their curriculum and classroom. Here are three ways that teachers can follow to implement game-based learning:
 
 ### Games as shared Experience

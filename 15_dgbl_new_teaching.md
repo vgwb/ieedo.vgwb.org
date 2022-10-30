@@ -5,7 +5,7 @@ has_children: false
 nav_order: 15
 ---
 
-## 1.4 Video Games and new teaching methods
+## Video Games and new teaching methods
 
 Recent studies have shown that introducing educational video games (EVG) and adopting a game-based learning teaching approach, has helped students achieve better learning performance, improved student **engagement**, promote **motivation** and **active processing** of educational content.
 
@@ -17,7 +17,7 @@ Introducing video games into the classroom **enhances many learning and teaching
 
 ![](img/vg_pro-cons.webp)
 
-## 1.5 How effective are video games in the classroom?
+## How effective are video games in the classroom?
 
 Let's see some Pros and Cons of video games
 

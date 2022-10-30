@@ -5,7 +5,7 @@ has_children: false
 nav_order: 58
 ---
 
-## 5.8 Engagement Survey
+## Engagement Survey
 This questionnaire can be used after an activity has been completed to evaluate the level of engagement relative to another activity. In order to analyse the results and compare levels of engagement between two different activities the following steps should be taken.
 
 - Allocate a value to each answer, where strongly disagree = -2 to strongly agree = 2
