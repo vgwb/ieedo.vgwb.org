@@ -5,8 +5,7 @@ has_children: false
 nav_order: 41
 ---
 # 4.1 Where to find EVG
-When choosing an EVG we have several options where to look.
-We could:
+When choosing an EVG we have several options where to look. We could:
 
 - Use entertainment/**commercial games**. These games are already in the stores and could have additional or not explicit educational content (Assassin's Creed / Civilization)
 - **Modify** entertainment games. Many commercial games allow to create custom missions or quests (Kerbal Space Academy)
@@ -17,7 +16,9 @@ We could:
 
 # 4.2  Training and simulation
 
-#VIDEO [**Build better cities** with games](https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/)
+📽 #VIDEO [Build better cities with games](https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/)
+<iframe width="937" height="527" src="https://www.youtube.com/embed/qYUmI5kGsYk" title="How a video game might help us build better cities | Karoliina Korppoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Some titles:
 - Democracy, political strategy game - positech.co.uk/democracy/
@@ -42,13 +43,10 @@ An Australian public campaign made by Metro Trains in Melbourne, Victoria, Austr
 http://www.dumbwaystodie.com
 
 ### Kerbal Space Program
+![](img/games/kerbal.webp)
+
 Take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbol solar system, constructing bases and space stations to expand the reach of your expedition.
 https://www.kerbalspaceprogram.com
-
-### SimCityEDU
-With SimCityEDU, educators have more than a just digital game. They have the tools and content they need to make learning come alive for their students. In the game, students play the role of mayor, doing the challenging work of addressing environmental impact while balancing the employment needs and the happiness of the city's residents.
-
-https://www.commonsense.org/education/game/simcityedu-pollution-challenge
 
 ### iCivics
 **iCivics** exists to engage students in meaningful civic learning. We provide teachers well-written, inventive, and free resources that enhance their practice and inspire their classrooms. about. **iCivics** reimagines civic education for American democracy.
@@ -71,13 +69,11 @@ https://www.icivics.org
 
 Game designer Jane McGonigal firmly believes that video games are not just about mashing buttons and getting to the next level. In fact, during her talk at TEDGlobal 2012, McGonigal gave several surprising statistics: that online gaming can be more effective than pharmaceuticals in treating **clinical depression** and that just 30 minutes a day is correlated with significant **increases in happiness**.
 
-https://blog.ted.com/10-online-games-with-a-social-purpose/
-
-VIDEO:
-https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life
+📽 #VIDEO [# The game that can give you 10 extra years of life](https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life)
+<iframe width="937" height="527" src="https://www.youtube.com/embed/lfBpsV1Hwqs" title="The game that can give you 10 extra years of life | Jane McGonigal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Some titles
-- **Zombie Run**
+- [Zombie Run](https://zombiesrungame.com) - Run in the Real World. Become a Hero in Another.
 - “Play Forward (HIV prevention)
 - Respir Games (asthma therapy)
 - BalanceFit (balance, coordination and strength training)
@@ -104,13 +100,13 @@ https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_yea
 > The ability to identify with or understand another's situation or feelings
 
 ### This War of Mine
+![](img/games/thiswarofmine.webp)
 This War of Mine is a war survival game that differs from most war-themed video games by focusing on the civilian experience of war rather than front line combat. Characters have to make many difficult decisions in order to survive everyday dangers. There are various endings for each character, depending on the decisions made in the game.
-
 http://www.thiswarofmine.com
 
 ### Papers, Please
+![](img/games/papers_please.webp)
 Papers, Please is a single-player “Dystopian Document Thriller” in which the player steps into the role of an immigration inspector in the fictional country of Arstotzka in the year 1982. As the player stands on the threshold between two different countries, a unique perspective of immigration and border security springs out of the mundane task of inspecting papers. On a second layer, the player must simultaneously provide for their family using the salary earned from the job, which pays based on how many people have been processed through in a day. Balancing border security with the needs of the family is uniquely human, creating a juxtaposition that is new and interesting.
-
 http://www.papersplea.se
 
 ### High School Story 30
