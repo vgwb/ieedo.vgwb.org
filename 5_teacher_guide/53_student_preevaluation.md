@@ -14,7 +14,7 @@ We want to know how much the user knows about digital world, hardware, smartphon
 
 ### VG Evaluation
 We want to know if user knows a bit about videogames
-📄 [Survey Videogames](2_videogames/23_quiz_videogames.md)
+📄 [Survey Videogames](../2_videogames/31_quiz_videogames.md)
 
 ### Setup device
 Install the game on the device and run it once.

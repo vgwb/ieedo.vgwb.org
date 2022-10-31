@@ -4,7 +4,18 @@ parent: 5 - Teacher Guide
 has_children: false
 nav_order: 51
 ---
-# Teacher guide: setup
+# Teacher guide
+
+![dgbl_flowchart](../img/dgbl_flowchart.webp)
+
+## Approach
+The approach to Digital Game-Based Learning needs to be well planned and organized to engage in learning and to produce the appropriate outcomes.
+
+The coaches must learn to set the stage, providing relevant game information and support the students in their attempts to construct, deconstruct and reconstruct relevant forms of knowledge (both in relation to the game context, curricular goals and real life phenomena).
+
+They must become familiar with the theoretical underpinnings of DGBL, learn about the specific games they will be using: techniques, gameplay, curriculum, outcomes, assistance, evaluation. For all that, we’ll provide a list of digital learning games as case studies for the coaches.
+
+It is important to know the theory and the tools because games do not work by themselves and not all refugees/adults/coaches are comfortable with digital games.
 
 ## A Digital Game Based Learning session
 We can summarise a DGBL session in these five steps:

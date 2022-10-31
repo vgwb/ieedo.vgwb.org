@@ -6,6 +6,9 @@ nav_order: 100
 # Resources
 
 ## Articles
+
+[A Serious Look at Game-Based Learning](https://www.edsurge.com/news/2022-10-25-a-serious-look-at-game-based-learning)
+
 Carol Rawlings Miller  
 [How to Use Games to Build Community in Distance Learning](https://www.edutopia.org/article/how-use-games-build-community-distance-learning)
 
@@ -27,6 +30,21 @@ Amy Jo Kim
 - [games.ngo](https://games.ngo/)
 - [www.gamesandlearning.org](http://www.gamesandlearning.org)
 - [50-great-sites-for-serious-educational-games](https://www.onlinecolleges.net/50-great-sites-for-serious-educational-games/)
+
+## Books
+
+- Bogost, I. (2007). _Persuasive games: The expressive power of videogames_. MIT Press.
+- Gee, J. P. (2003). _What video games have to teach us about literacy and learning_. Palgrave Macmillan
+- Prensky, M. (2001). _Digital game-based learning_. McGraw-Hill.
+- Salen Tekinbaş, K., & Zimmerman, E. (2003). _Rules of play: Game design fundamentals_. MIT Press.
+- Schrier, K. (2016). _Knowledge games: How playing games can solve problems, create insight, and make change_. Johns Hopkins University Press.
+
+## Game Design
+[G4C Intro to Game Design - Teacher](https://gamesforchange.org/studentchallenge/teachers-resources/)
+[G4C Intro to Game Design - Student](https://gamesforchange.org/studentchallenge/student-resources/)
+
+## Schools
+- [Quest to Learn](https://www.q2l.org) - a public 6–12 school with an innovative educational philosophy developed by top educators and game theorists at The Institute of Play
 
 ## Courses
 **EdX: Leading Change: Go Beyond Gamification with Gameful Learning**
@@ -61,7 +79,7 @@ The conference aims at bringing together **researchers, developers, practitioner
 [conf.seriousgamessociety.org](https://conf.seriousgamessociety.org/)
 [2018 winners](https://conf.seriousgamessociety.org/compwinners2018/)
 
-## Examples Games
+## GBL Platforms
 Cognitive
 [cognifit.com/brain-games](https://www.cognifit.com/brain-games)
 
@@ -69,6 +87,5 @@ Soft skills
 [ionos.it](https://www.ionos.it/startupguide/produttivita/soft-skills/)
 
 ## Communities
-### Facebook groups
-[Gamification in Education](https://www.facebook.com/groups/466549617346987/)
+[Gamification in Education](https://www.facebook.com/groups/466549617346987/) - Facebook group
 

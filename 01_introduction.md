@@ -5,6 +5,8 @@ nav_order: 5
 ---
 # Introduction
 
+> "Real, good, serious stuff can happen even inside of a playful ecosystem."
+
 Here is what you'll learn with this guide:
 - DGBL terminology
 - How to choose and introduce a game 

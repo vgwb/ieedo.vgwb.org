@@ -7,21 +7,33 @@ nav_order: 11
 
 ## DGBL Definition
 
-Digital game-based learning refers to learning by solving problems or accomplishing tasks through computers, mobile phones, or tablets.
-There are several elements in digital game-based learning, such as fun, play, goals, competition, and problem-solving. Studies have investigated digital game-based learning in different subjects, such as Literacy, Maths, Sciences, and STEAM. The results indicate that digital game-based learning has gradually become a trend and that digital game-based learning could improve students’ learning motivation, learning performance, reduce their cognitive load and anxiety.
+Digital game-based learning refers to learning by solving problems or accomplishing tasks through computers, mobile phones, or tablets. There are several elements in digital game-based learning, such as *fun*, play*,* *goals*, *competition*, and *problem-solving*. Studies have investigated digital game-based learning in different subjects, such as Literacy, Maths, Sciences, and STEAM. The results indicate that digital game-based learning has gradually become a trend and that digital game-based learning could improve students’ learning motivation, learning performance, reduce their cognitive load and anxiety.
 
 {: .highlight }
 > Game based learning (**GBL**) is a type of _game play_ that has _defined learning outcomes_.  
 > **Digital** game based learning (**DGBL**) refers to using actual digital video games as learning tools.
 
-## Approach
-The approach to Digital Game-Based Learning needs to be well planned and organized to engage in learning and to produce the appropriate outcomes.
 
-The coaches must learn to set the stage, providing relevant game information and support the students in their attempts to construct, deconstruct and reconstruct relevant forms of knowledge (both in relation to the game context, curricular goals and real life phenomena).
+## What is Learning
+Defining what constitutes _game-based learning_ in DGBL necessitates a recognition of the contested nature of _learning_ itself as a concept. Broadly speaking, there are two general metaphors that have been historically utilized by the educational research community to define and describe learning.
+1. The first view characterizes _learning as acquisition_, be it the acquisition of knowledge, skills, dispositions, behaviors, or other outcomes deemed desirable by educators and institutions. This generally aligns with what scholars call a cognitive perspective on learning, which emphasizes internal mental processes such as memory, decision-making, thinking, and knowledge construction as fundamental to learning. It also speaks to behaviorist conceptions of learning, which tend to emphasize observable behaviors as indicators of learning.
+2. The second metaphor characterizes _learning as participation_ and emphasizes processes of socialization, mentorship, participation, and social practice. Within the field of education, this metaphor generally informs scholarship identified with a sociocultural perspective on learning, which tends to highlight social practices, identities, and relationships as core to learning.
 
-They must become familiar with the theoretical underpinnings of DGBL, learn about the specific games they will be using: techniques, gameplay, curriculum, outcomes, assistance, evaluation. For all that, we’ll provide a list of digital learning games as case studies for the coaches.
+## What is a Game?
+Turning to discussions of what constitutes “games” in relation to learning, it is first important to recognize that across a range of disciplines and perspectives, definitions have varied. Synthesizing a number of these perspectives on games, play, and culture, game designers Katie Salen Tekinbaş and Eric Zimmerman defined
 
-It is important to know the theory and the tools because games do not work by themselves and not all refugees/adults/coaches are comfortable with digital games. 
+> a game as a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome
+
+A game is a **system** because it involves a set of things (rules, objects, players, etc.) that affect each other within an environment to form a larger pattern that is different from any of the individual parts.
+A game also involves **players**-active participants interacting with the system of the game in order to experience the play of the game. Although people may not always associate games with **conflict**, but not all games need be a contest between players (e.g., solo games such as solitaire or cooperative games).
+All games involve **rules** that provide the structure out of which gameplay emerges, by delimiting what a player can or cannot do.
+Finally, this definition asserts that all games involve some kind of **quantifiable outcome** - in its simplest form, a state of victory or defeat. 
+
+#### Digital Versus Analog Games
+
+Just as analog games can take on a variety of forms, so too can digital games appear on a multitude of computer-based electronic platforms. These include games installed as software on personal computers, as well as games played through television-attached gaming consoles such as the Sony PlayStation or Microsoft Xbox. Digital game platforms also include dedicated handheld platforms, such as the Nintendo Gameboy and its various incarnations, as well as mobile smartphones and tablet computers. These games can be engaged as a single player, with multiple players in a single physical location, or with players across distances using online connective features.
+
+[Salen Tekinbaş and Zimmerman (2003)](https://oxfordre.com/education/view/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-1438#acrefore-9780190264093-e-1438-bibItem-0054) suggested there are at least four key traits that distinguish digital games from non-digital ones. Each trait has important implications for DGBL across a variety of contexts. The first is that digital games can offer experiences of interactivity that are generally characterized by both immediacy and focus. This is largely by virtue of the fact that digital games are programmed into computer consoles. Programming provides increased immediacy of feedback because the system is automated to respond to player input. Programming also provides a narrowed range of interactivity because possible player inputs and outcomes are limited by what a digital game developer has programmed into the software. Second, digital games and digital media more broadly make use of a computer’s affordances for collecting, storing, retrieving, manipulating, revealing, or even concealing information in the form of images, text, animations, sound, and even player behavioral data ([Murray, 1997](https://oxfordre.com/education/view/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-1438#acrefore-9780190264093-e-1438-bibItem-0042), [2017](https://oxfordre.com/education/view/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-1438#acrefore-9780190264093-e-1438-bibItem-0043)). Third, due to their computational nature, digital games have the potential to automate systems and procedures that may be far more complex for non-digital games to simulate. Examples of these complex systems include simulated environmental features in computer-based role-playing games: terrain–movement interactions, lines of sight, weather cycles, and even interactions with animals or non-player characters in the virtual game world ([Dunnigan, 2000](https://oxfordre.com/education/view/10.1093/acrefore/9780190264093.001.0001/acrefore-9780190264093-e-1438#acrefore-9780190264093-e-1438-bibItem-0027)). Finally, many (although not all) contemporary digital games have the ability to facilitate communication between players across networks, such as the online networks that connect players in multiplayer, internet-connected games. These communication-facilitating features can include technologies that enable voice or text chat between players within a particular game.
 
 ## Engagement
 
@@ -29,7 +41,7 @@ Engaging students in classroom content is always a hard task, and traditional fo
 
 Additionally, **sustaining engagement** is very important to ensure that the student is gaining the most out of their learning experience and that their **cognitive skills are always stimulated**. Engaging through educational video games that are built on educational content has proven to be a great way not only to keep students engaged but also to **deliver complex theories/topics in an interactive manner** allowing students to have a **deeper comprehension of the content**.
 
-![games-engagement](img/games-engagement.webp)
+![games-engagement](../img/games-engagement.webp)
 
 
 ## What is game based learning?
