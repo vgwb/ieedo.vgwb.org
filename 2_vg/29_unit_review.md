@@ -7,7 +7,7 @@ nav_order: 29
 ## Unit review
 
 QUIZ:
-- Select all virtues of VIdeogames ()
+- Select all virtues of Videogames ()
 - Select what we can learn by playing videogames ()
 
 Discuss in your opinion:
