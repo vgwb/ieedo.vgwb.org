@@ -2,13 +2,8 @@
 title: Integrating EVG
 parent: 3 - Games in Classroom
 has_children: false
-nav_order: 31
+nav_order: 32
 ---
-
-Let's see this video about why video games are such effective learning tools:
-
-> 📽 VIDEO [James Paul Gee on Learning with Video Games](https://youtu.be/JnEN2Sm4IIQ)
-<iframe height="450" width="800" src="https://www.youtube.com/embed/JnEN2Sm4IIQ"></iframe>
 
 After learning about the benefits of educational video games and the characteristics of a good educational video game, we arrive at the question: how do we incorporate game-based learning for maximum benefit as well as when and where in the curriculum? Also, what about class management, how do we manage the environment of the class and students while playing the game?
 

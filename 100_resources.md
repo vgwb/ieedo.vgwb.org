@@ -18,6 +18,9 @@ Paul Darvasi
 Further guidelines on incorporating EVGs:   
 [Playability Guidelines for Educational Video Games](https://www.researchgate.net/publication/273210149_Playability_Guidelines_for_Educational_Video_Games)
 
+Amy Jo Kim
+[What makes games so engaging?](https://amyjokim.medium.com/what-makes-games-so-engaging-2a06ca3eadf1)
+
 ## Websites
 - [www.edutopia.org](https://www.edutopia.org)
 - [www.gamesforchange.org](https://www.gamesforchange.org/)

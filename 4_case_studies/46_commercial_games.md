@@ -231,15 +231,6 @@ Unlike a typical war game where players usually assume the role of capable soldi
 Another type of game (which isn’t really a genre in itself as there are many different types) that is currently growing in popularity is casual games. These games are usually downloaded from gaming sites rather than being available in shops and are cheaper than traditional entertainment games (or free to play online).
 Casual games are designed to be played in **short bursts** rather than for prolonged sessions so are **chunked into many small levels** that all follow the same pattern, so that they can be played for a few minutes at a time and easily stopped and restarted. These games cater for players who simply want to play a game for a short time and do not want to make any great commitment in terms of time or learning how to play. They have **simple game play** and comparatively low production values. The rise in the use of casual games shows a movement away from the typical ‘hardcore’ gamer to a wider demographic, particularly female and older players, which is more typical of the whole university student demographic, and casual games may be most appropriate for fitting into specific segments of teaching time.
 
-### Antura & the Letters
-![](img/games/antura.webp)
-The educational goal of the game is to help players to acquire the basics of Arabic literacy, including Arabic letters, reading comprehension, and some vocabulary. But the game also has a social well-being objective to support flow, engagement, and motivation
-
-> **Curricular connections**: Language learning; Arabic literacy; social and emotional learning 
-> **Possible skills taught**: Recognizing letters (shapes, names, phonemes); syllables and word reading; vocabulary
-
-website: [antura.org](https://www.antura.org)
-
 ### Fancade
 ![](img/games/fancade.webp)
 Fancade is a huge collection of simple games. Play them instantly, or make your own game using drag-n-drop building blocks!
@@ -254,3 +245,9 @@ Minecraft is an open-world game, allowing players opportunity for unlimited expl
 **Possible skills taught:** Writing; critical thinking; exploration; experimentation; cause and effect; mapping; building; design; creativity; resource management; communication
 
 website: [minecraft.net](https://www.minecraft.net)
+
+### Kerbal Space Program
+![](img/games/kerbal.webp)
+
+Take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbol solar system, constructing bases and space stations to expand the reach of your expedition.  
+website: [kerbalspaceprogram.com](https://www.kerbalspaceprogram.com)

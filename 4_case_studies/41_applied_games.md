@@ -4,31 +4,31 @@ parent: 4 - Case studies
 has_children: false
 nav_order: 41
 ---
-# Where to find EVG
-When choosing an EVG we have several options where to look. We could:
+# Games 4 Good
+**Games for good** have the mission to help improving the world, with positive social impact, improved knowledge about social issues, with direct experience of human problems.
 
-- Use entertainment/**commercial games**. These games are already in the stores and could have additional or not explicit educational content (Assassin's Creed / Civilization)
-- **Modify** entertainment games. Many commercial games allow to create custom missions or quests (Kerbal Space Academy)
-- Use **virtual worlds**. There are many "sandbox" games where the player sparks creativity and teacher could pre-build the learning environment (Minecraft)
-- Use **educational games** created ad hoc (MinecraftEdu)
-- **Create original games**. If a special requirements is needed, you could develop or ask to develop a custom game (Antura)
-- **Let students create games**, to design a game you have to study and manage the learning content very deeply
-
-# Training and simulation
-
-📽 #VIDEO [Build better cities with games](https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/)
-<iframe width="937" height="527" src="https://www.youtube.com/embed/qYUmI5kGsYk" title="How a video game might help us build better cities | Karoliina Korppoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Some titles:
-- [Democracy](https://positech.co.uk/democracy/) - political strategy game
-- [Flight Simulator](https://www.flightsimulator.com)
-- [Lost Earth 2307](https://www.iosb.fraunhofer.de/en/projects-and-products/lost-earth-2307.html) - image interpretation, military
-- [Ship Simulator](https://www.shipsim.com) - Maritime Search and Rescue
-- [SchaVIS](https://www.youtube.com/watch?v=xMvV7oOJozw) - flooding simulation and prevention
-- [Sharkworld](https://www.xmediaworks.nl/en/portfolio-items/sharkworld-a-project-management-game/) - project management training
-- [Houthoff Buruma](https://annex.fandom.com/wiki/Houthoff_Buruma_The_Game) - recruitment and assessment
+- Education
+- Health
+- Empathy
+- Ethics
+- Politics and History
+- Religion
+- Wars
+- Epidemics
+- Sexism and racism
+- Environment and Climate change
+- Energy
 
 # Educational games
+
+### Antura & the Letters
+![](img/games/antura.webp)
+The educational goal of the game is to help players to acquire the basics of Arabic literacy, including Arabic letters, reading comprehension, and some vocabulary. But the game also has a social well-being objective to support flow, engagement, and motivation
+
+> **Curricular connections**: Language learning; Arabic literacy; social and emotional learning 
+> **Possible skills taught**: Recognizing letters (shapes, names, phonemes); syllables and word reading; vocabulary
+
+website: [antura.org](https://www.antura.org)
 
 ### Dumb Ways to Die
 ![](img/games/dumbways.webp)
@@ -36,17 +36,11 @@ Some titles:
 An Australian public campaign made by Metro Trains in Melbourne, Victoria, Australia, to promote railway safety.   
 website: [dumbwaystodie.com](http://www.dumbwaystodie.com)
 
-### Kerbal Space Program
-![](img/games/kerbal.webp)
-
-Take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbol solar system, constructing bases and space stations to expand the reach of your expedition.  
-website: [kerbalspaceprogram.com](https://www.kerbalspaceprogram.com)
-
 ### iCivics
 **iCivics** exists to engage students in meaningful civic learning. We provide teachers well-written, inventive, and free resources that enhance their practice and inspire their classrooms. about. **iCivics** reimagines civic education for American democracy.
 website: [icivics.org](https://www.icivics.org)
 
-### Some other titles
+### Other titles
 - [Ludwig](http://www.playludwig.com) - educational game for physics
 - [80 Days](https://www.inklestudios.com/80days/) - adaptive educational game for geography
 - [Roma Nova](https://www.irit.fr/~David.Panzoli/romanova.html) - teaching history with brain interfaces
@@ -74,19 +68,7 @@ Game designer Jane McGonigal firmly believes that video games are not just about
 - [Zirkus Empathica](https://www.zirkus-empathico.de/) - autism game for children
 - [SPARX](https://www.sparx.org.nz/home) - mental health game for youths & adolescents
 
-# Games 4 Good
-**Games for good** have the mission to help improving the world, with positive social impact, improved knowledge about social issues, with direct experience of human problems.
-
-- Empathy
-- Politics and History
-- Religion
-- Wars
-- Epidemics
-- Sexism and racism
-- Environment and Climate change
-- Energy
-
-## Empathy
+# Empathy
 
 > The ability to identify with or understand another's situation or feelings
 
@@ -110,7 +92,7 @@ https://www.highschoolstory.com
 Bounden is a smartphone dance game that gets players to use their bodies. Two people hold opposite ends of one smartphone then move together to keep a cursor over the ball. What starts as a novel way to interact with the game slowly encourages the two players to move creatively together as they complete each level.
 website: [playbounden.com](http://playbounden.com)
 
-## Ethics
+# Ethics
 > Ethics is the art and science of analysing issues of good, bad, right, wrong, just, and unjust.
 
 ### PeaceMaker
@@ -145,7 +127,7 @@ Fate of the World is a dramatic global strategy game that puts all our futures i
 
 https://www.soothsayergames.com
 
-## Other games for social good
+# Other games for social good
 
 **World Without Oil**
 Also a McGonigal creation, players in this game are dropped into a world where oil resources have been tapped and where they must get creative to survive the massive global shortage. The best part of the game? It teaches easy ways to use less oil in the real world—habits that players report keeping up when they aren’t playing.
@@ -174,3 +156,17 @@ http://playspent.org/
 **Evoke**
 Created by the World Bank Institute in conjunction with McGonigal, this game is a 10-week crash course in social innovation, giving players challenges from “food security” to “urban resilience,” and encouraging them to become a think tank on local challenges.
 http://www.urgentevoke.com
+
+# Training and simulation
+
+📽 #VIDEO [Build better cities with games](https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/)
+<iframe width="937" height="527" src="https://www.youtube.com/embed/qYUmI5kGsYk" title="How a video game might help us build better cities | Karoliina Korppoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Some titles:
+- [Democracy](https://positech.co.uk/democracy/) - political strategy game
+- [Flight Simulator](https://www.flightsimulator.com)
+- [Lost Earth 2307](https://www.iosb.fraunhofer.de/en/projects-and-products/lost-earth-2307.html) - image interpretation, military
+- [Ship Simulator](https://www.shipsim.com) - Maritime Search and Rescue
+- [SchaVIS](https://www.youtube.com/watch?v=xMvV7oOJozw) - flooding simulation and prevention
+- [Sharkworld](https://www.xmediaworks.nl/en/portfolio-items/sharkworld-a-project-management-game/) - project management training
+- [Houthoff Buruma](https://annex.fandom.com/wiki/Houthoff_Buruma_The_Game) - recruitment and assessment

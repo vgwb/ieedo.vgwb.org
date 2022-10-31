@@ -7,7 +7,7 @@ nav_order: 34
 ## When and why implement EVGs?
 You must remember that game-based learning and EVGs are tools that should supplement/facilitate your pedagogy, they are not the teacher. When using these techniques in your classroom, **do not grade play**, **instead assess the learning transfer** that has been facilitated from the game experience to the curriculum.
 
-Therefore, choosing to implement EVGs should come as a reason to enhance content delivery and comprehension as well as motivate students to understand complex theories/content in a mind engaging and challenging manner.
+Therefore, choosing to implement EVGs should come as a reason to **enhance content delivery** and comprehension as well as **motivate students to understand** complex theories/content in a mind engaging and challenging manner.
 
 ## 16 reasons as to why to implement EVGs in the classroom
 
