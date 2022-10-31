@@ -1,6 +1,7 @@
 ---
 title: 5 - Teacher Guide
 has_children: true
+has_toc: false
 nav_order: 50
 ---
 # 5.  Teacher guide: Setup and Assessment

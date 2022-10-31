@@ -1,6 +1,7 @@
 ---
 title: 3 - Games in Classroom
 has_children: true
+has_toc: false
 nav_order: 30
 ---
 # 3. Games in classroom

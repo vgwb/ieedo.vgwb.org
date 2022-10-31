@@ -1,6 +1,7 @@
 ---
 title: 4 - Case studies
 has_children: true
+has_toc: false
 nav_order: 40
 ---
 # 4. Case Studies

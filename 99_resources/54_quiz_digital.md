@@ -2,7 +2,7 @@
 title: Survey - Digital Skills 
 parent: 5 - Teacher Guide
 has_children: false
-nav_order: 54
+nav_order: 154
 ---
 
 # Survey - Digital skills
