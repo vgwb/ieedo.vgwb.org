@@ -60,7 +60,7 @@ The design of more engaging curriculum we need to include techniques that teache
 **Gaming is inherently motivating**, which may allow learners to gain skills and knowledge, by leveraging entertainment and weaving it within learning environments. Research studies indicate that video games in particular have great engagement and education related benefits. 
 
 📽 #VIDEO [Games and the Future of Education](https://www.youtube.com/watch?v=BiK2MPeg8k4)
-<iframe height="450" width="800" src="https://www.youtube.com/embed/BiK2MPeg8k4"></iframe>
+<iframe width="740" height="450" src="https://www.youtube.com/embed/BiK2MPeg8k4" title="Games and the Future of Education | ABUNDANCE" frameborder="0"  allowfullscreen></iframe>
 
 ## Engagement
 
