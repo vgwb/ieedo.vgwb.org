@@ -26,13 +26,13 @@ Gamification takes an element of education and replaces it with a game-based ele
 The Flow state in an experience as the equilibrium point between challenge and ability. If the challenge is quite higher than the ability the result will be the person getting frustrated and with the feeling of anxiety, on the other hand if the person’s skill is higher than the challenge presented he will experience boredom.
 Games should be designed and calibrated the ensure that the player maximises its staying within the *flow channel*
 
-![](img/flow-1.png)
+![](../img/flow-1.png)
 
 ## Learning Flow
 Educational Games a special "flow", which is
 
-![](img/cognitive_approach.png)
+![](../img/cognitive_approach.png)
 
 
-![](img/GBLModel.webp)
+![](../img/GBLModel.webp)
 

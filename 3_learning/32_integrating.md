@@ -12,7 +12,7 @@ In this unit, we will answer all these questions and provide a guideline and tip
 > 📽 #VIDEO [Using Games in the Classroom](https://youtu.be/o6IELVV2xLQ)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/o6IELVV2xLQ"></iframe>
 
-![](img/tips_vg_classroom.webp)
+![](../img/tips_vg_classroom.webp)
 
 ## Tips for using VG in the classroom
 1. Teachers do not need to be avid gamers, but they should **at least be interested in them**.

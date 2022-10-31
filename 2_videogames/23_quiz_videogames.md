@@ -9,7 +9,7 @@ Before we dive deep into our unit, take a moment to solve this quiz on videogame
 # Survey - Do you know videogames?
 
 ### What game is this?
-![](img/quiz/roblox_logo.jpg)
+![](../img/quiz/roblox_logo.jpg)
 
 - Fornite
 - Among Us
@@ -17,7 +17,7 @@ Before we dive deep into our unit, take a moment to solve this quiz on videogame
 - **Roblox**
 
 ### What game is this?
-![](img/quiz/minecraft.jpg)
+![](../img/quiz/minecraft.jpg)
 
 - Fornite
 - Among Us

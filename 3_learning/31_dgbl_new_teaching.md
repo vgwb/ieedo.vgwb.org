@@ -17,7 +17,7 @@ Introducing video games into the classroom **enhances many learning and teaching
 
 
 ## How effective are video games in the classroom?
-![](img/vg_pro-cons.webp)
+![](../img/vg_pro-cons.webp)
 Let's see some Pros and Cons of video games
 
 ### PROS

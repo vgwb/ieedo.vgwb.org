@@ -21,4 +21,4 @@ There are seven aspects that should be examined when determining the effectivene
 ## Evaluation Tools: Analytics
 The analysts part is the more important 
 
-![](img/game_learning_analytics.webp)
+![](../img/game_learning_analytics.webp)

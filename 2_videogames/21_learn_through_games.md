@@ -6,7 +6,7 @@ nav_order: 21
 ---
 ## 4 Positive impacts of gaming for students
 
-![](img/vg_positive_impact.webp)
+![](../img/vg_positive_impact.webp)
 
 
 - **Motivational** - encourages an incremental approach

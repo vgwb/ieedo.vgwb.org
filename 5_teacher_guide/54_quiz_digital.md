@@ -8,14 +8,14 @@ nav_order: 54
 # Survey - Digital skills
 
 ### What is the name of this piece of ICT equipment?
-![](img/quiz/mouse.jpg)
+![](../img/quiz/mouse.jpg)
 USB
 Keyboard
 Mouse
 Webcam
 
 ### In emails, what does this icon indicate?
-![](img/quiz/attacchment.jpg)
+![](../img/quiz/attacchment.jpg)
 A file is attached
 It is a long email
 The email is private
@@ -23,7 +23,7 @@ The email needs printing
 
 
 ### What is the name of this piece of ICT equipment?
-![](img/quiz/keyboard.jpg)
+![](../img/quiz/keyboard.jpg)
 Scanner
 Monitor
 Keyboard
@@ -36,14 +36,14 @@ Pretty Computer
 Personal credit
 
 ### This picture shows what type of computer?
-![](img/quiz/laptop.jpg)
+![](../img/quiz/laptop.jpg)
 Tablet
 Mainframe
 Desktop
 Laptop
 
 ### What does this piece of ICT equipment do?
-![](img/quiz/printer.jpg)
+![](../img/quiz/printer.jpg)
 Stores information
 Takes photos
 Helps keep the computer safe
