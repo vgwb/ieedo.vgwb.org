@@ -18,6 +18,11 @@ nav_order: 50
 
 # Teacher guide
 
+With the infusion of technology in the classroom, teachers are moving away from being sole presenters of information and are moving into the new roles of bring "facilitators".
+With this new role comes the excitement of presenting digital game-based learning to students that has been proven to increase students' desire to learn, lower their stress levels and provide new, proactive ways of learning needed 21st century skills. Furthermore, teachers/facilitators can rely on "new evaluation tools" that are rubric-like and can be used to evaluate and determine whether games will engage their students while teaching them. In conclusion, when teachers properly evaluate games to ascertain their usability in the classroom and then implement them correctly, they bring a new level of learning into the classroom that reinvigorates students' desire to learn while decreasing unwanted stress that inhibits those students' ability to excel.
+
+
+
 ![dgbl_flowchart](../img/dgbl_flowchart.webp)
 
 # Approach
@@ -77,6 +82,14 @@ Check out [commonsense.org/education](https://www.commonsense.org/education) for
 
 # Moderation
 The impact of video games on society has been the subject of numerous studies. For example a psychologist at the Internet Institute at Oxford University, published a study establishing how much time should children be allowed to devote to video gaming. He reports that those who played less than an hour were more emotionally stable, while those who played for around three hours a day developed social problems. Therefore, when it comes to video games, **moderation is key**. 
+
+# Tips for the teacher
+
+- The educator should play the game prior to the intervention, in order to identify its possible limitations. 
+- The educator should adapt the game according to the educational scenario and correlate it with the traditional methods of teaching. 
+- The gaming intervention should have a specific time limit that should not be altered. 
+- During the gaming intervention the educator should first play with the students in order to make sure they understand the game and are able to proceed on their own, and afterwards supervise the students and associate the gaming content with educational goals. 
+- The educator should ask feedback from the students after the intervention and take into account their considerations and preferences for the design of next GBL experiences.
 
 # How to implement GBL?
 There are many strategies and ways for educators to incorporate game-based learning and EVGs into their curriculum and classroom. Here are three ways that teachers can follow to implement game-based learning:

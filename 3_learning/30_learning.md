@@ -10,7 +10,7 @@ nav_order: 30
 - Who to implement EVG in classroom
 - Why implementing EVG is important?
 
-# 4 Positive impacts of gaming for students
+# Positive impacts of gaming for students
 
 ![](../img/vg_positive_impact.webp)
 
@@ -20,7 +20,13 @@ nav_order: 30
 - **Social** - translates the social skills learned into relations outside the gaming environment
 - **Emotional** - encourages positive mood states and adaptive emotion regulation
 
+## 21st Century Skills
+Students are prepared for the "globalized job market" because technology, effective instruction and authentic problems are combined so students learn collaboration, "critical-thinking", "communication skills" through the vehicle of DGBL.
 
+## Learner Anxiety
+The DGBL has shown to lower students' anxiety and increase their effective communication which could lead to improved processing of new information. 
+
+---
 Let's see this video about why video games are such effective learning tools:
 
 > 📽 VIDEO [James Paul Gee on Learning with Video Games](https://youtu.be/JnEN2Sm4IIQ)
@@ -188,9 +194,10 @@ Let's see some Pros and Cons of video games
 
 ### Cons
 - Cost (higher than book-paper-pencil paradigm)
-- Distraction from other objectives
-- Social isolation
+- **Distraction** from other objectives
+- Social **isolation**
 - Shortened attention span
+- student **competitiveness** has been proven to get in the way of learning because students are more focused on winning the game instead of learning new skills.
 
 # Learning Principles
 Here are the 16 principles of good video-game based learning:
