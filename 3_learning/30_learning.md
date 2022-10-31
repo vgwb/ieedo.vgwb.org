@@ -46,7 +46,7 @@ In this unit, we will discuss the characteristics of a good educational video ga
 # Where to find EVG
 When choosing an EVG we have several options where to look. We could:
 
-- Use entertainment/**commercial games**. These games are already in the stores and could have additional or not explicit educational content (Assassin's Creed / Civilization)
+- Use entertainment/**commercial off-the-shelf** (COTS) games. These games are already in the stores and could have additional or not explicit educational content (Assassin's Creed / Civilization)
 - **Modify** entertainment games. Many commercial games allow to create custom missions or quests (Kerbal Space Academy)
 - Use **virtual worlds**. There are many "sandbox" games where the player sparks creativity and teacher could pre-build the learning environment (Minecraft)
 - Use **educational games** created ad hoc (MinecraftEdu)
@@ -198,6 +198,9 @@ Let's see some Pros and Cons of video games
 - Social **isolation**
 - Shortened attention span
 - student **competitiveness** has been proven to get in the way of learning because students are more focused on winning the game instead of learning new skills.
+- The design of games that achieve a balance between learning and fun continues to pose a challenge
+- issues of unequal access and application
+- requires well-educated and supported teachers
 
 # Learning Principles
 Here are the 16 principles of good video-game based learning:
