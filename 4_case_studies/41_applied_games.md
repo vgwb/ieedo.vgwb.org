@@ -30,6 +30,11 @@ The educational goal of the game is to help players to acquire the basics of Ara
 
 website: [antura.org](https://www.antura.org)
 
+### Dragon Box
+![dragonbox](img/games/dragonbox.webp)
+Through playing with the digital manipulatives in *DragonBox games*, students deeply understand the mathematical concepts through active engagement, all while learning at their own pace.  Each of our games are based around “digital manipulatives”.  These digital manipulatives were designed to be used as a teaching tool, along with classroom instruction and discussion.
+website: [dragonbox.com](https://dragonbox.com/)
+
 ### Dumb Ways to Die
 ![](img/games/dumbways.webp)
 
@@ -37,6 +42,7 @@ An Australian public campaign made by Metro Trains in Melbourne, Victoria, Austr
 website: [dumbwaystodie.com](http://www.dumbwaystodie.com)
 
 ### iCivics
+![icivics](img/games/icivics.webp)
 **iCivics** exists to engage students in meaningful civic learning. We provide teachers well-written, inventive, and free resources that enhance their practice and inspire their classrooms. about. **iCivics** reimagines civic education for American democracy.
 website: [icivics.org](https://www.icivics.org)
 
@@ -81,11 +87,6 @@ website: [thiswarofmine.com](http://www.thiswarofmine.com)
 ![](img/games/papers_please.webp)
 Papers, Please is a single-player “Dystopian Document Thriller” in which the player steps into the role of an immigration inspector in the fictional country of Arstotzka in the year 1982. As the player stands on the threshold between two different countries, a unique perspective of immigration and border security springs out of the mundane task of inspecting papers. On a second layer, the player must simultaneously provide for their family using the salary earned from the job, which pays based on how many people have been processed through in a day. Balancing border security with the needs of the family is uniquely human, creating a juxtaposition that is new and interesting.  
 website: [papersplea.se](https://www.papersplea.se/)
-
-### High School Story 30
-Simulazione della vita degli studenti in una scuola.. permette ai giocatori di esplorare complessi problemi morali ed etici
-
-https://www.highschoolstory.com
 
 ### Bounden
 ![bounden](img/games/bounden.webp)
