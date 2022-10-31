@@ -22,7 +22,7 @@ nav_order: 41
 # Educational games
 
 ### Antura & the Letters
-![](img/games/antura.webp)
+![](../img/games/antura.webp)
 The educational goal of the game is to help players to acquire the basics of Arabic literacy, including Arabic letters, reading comprehension, and some vocabulary. But the game also has a social well-being objective to support flow, engagement, and motivation
 
 > **Curricular connections**: Language learning; Arabic literacy; social and emotional learning 
