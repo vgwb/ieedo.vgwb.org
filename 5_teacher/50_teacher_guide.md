@@ -16,6 +16,17 @@ nav_order: 50
 - What are game analytics?
 - What to assess?
 
+# How to use EVG in Classroom
+
+After learning about the benefits of educational video games and the characteristics of a good educational video game, we arrive at the question: how do we incorporate game-based learning for maximum benefit as well as when and where in the curriculum? Also, what about class management, how do we manage the environment of the class and students while playing the game?
+
+In this unit, we will answer all these questions and provide a guideline and tips that instructors can follow when deciding to select and implement an educational video game.
+
+> 📽 #VIDEO [Using Games in the Classroom](https://youtu.be/o6IELVV2xLQ)
+<iframe height="450" width="800" src="https://www.youtube.com/embed/o6IELVV2xLQ"></iframe>
+
+
+
 # Teacher 2.0
 
 With the infusion of technology in the classroom, teachers are moving away from being sole presenters of information and are moving into the new roles of bring "facilitators".
@@ -33,6 +44,27 @@ The coaches must learn to set the stage, providing relevant game information and
 They must become familiar with the theoretical underpinnings of DGBL, learn about the specific games they will be using: techniques, gameplay, curriculum, outcomes, assistance, evaluation. For all that, we’ll provide a list of digital learning games as case studies for the coaches.
 
 It is important to know the theory and the tools because games do not work by themselves and not all refugees/adults/coaches are comfortable with digital games.
+
+
+
+# Tips for using VG in the classroom
+![](../img/tips_vg_classroom.webp)
+
+### Must
+1. Teachers do not need to be avid gamers, but they should **at least be interested in them**.
+2. Videogames should not be the main method for educating students. They are just **one of the tools available**.
+3. **Check the age recommendations** on videogames. Avoid those for 18 ears and over.
+4. Before you select a videogame, be clear about the **skills and competencies** you want to develop.
+5. Students are **motivated by progressing** from level to level. It Is Important not to set impossible challenges.
+6. Schools must be equipped with **suitable technology** before Introducing videogames into the classroom.
+7. Students can get hooked on videogames so teaching how to **control their use** is also part of classroom education.
+
+### Plus
+- The educator should play the game prior to the intervention, in order to identify its possible limitations. 
+- The educator should adapt the game according to the educational scenario and correlate it with the traditional methods of teaching. 
+- The gaming intervention should have a specific time limit that should not be altered. 
+- During the gaming intervention the educator should first play with the students in order to make sure they understand the game and are able to proceed on their own, and afterwards supervise the students and associate the gaming content with educational goals. 
+- The educator should ask feedback from the students after the intervention and take into account their considerations and preferences for the design of next GBL experiences.
 
 # A Digital Game Based Learning session
 We can summarise a DGBL session in these five steps:
@@ -82,14 +114,6 @@ Check out [commonsense.org/education](https://www.commonsense.org/education) for
 
 # Moderation
 The impact of video games on society has been the subject of numerous studies. For example a psychologist at the Internet Institute at Oxford University, published a study establishing how much time should children be allowed to devote to video gaming. He reports that those who played less than an hour were more emotionally stable, while those who played for around three hours a day developed social problems. Therefore, when it comes to video games, **moderation is key**. 
-
-# Tips for the teacher
-
-- The educator should play the game prior to the intervention, in order to identify its possible limitations. 
-- The educator should adapt the game according to the educational scenario and correlate it with the traditional methods of teaching. 
-- The gaming intervention should have a specific time limit that should not be altered. 
-- During the gaming intervention the educator should first play with the students in order to make sure they understand the game and are able to proceed on their own, and afterwards supervise the students and associate the gaming content with educational goals. 
-- The educator should ask feedback from the students after the intervention and take into account their considerations and preferences for the design of next GBL experiences.
 
 # How to implement GBL?
 There are many strategies and ways for educators to incorporate game-based learning and EVGs into their curriculum and classroom. Here are three ways that teachers can follow to implement game-based learning:

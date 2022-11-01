@@ -7,31 +7,23 @@ nav_order: 20
 # 2. Educational Video Games
 
 **Learning Objectives**  
-- what is an EVG?
-- how to select an EVG
-- what makes a good EVG?
-- the Learning Principles of EVG
-- what is the "flow" state?
-- What we can learn with EVG?
+- What is a Videogame?
+- VG types and categories
+- How to select an EVG
+- What makes a good EVG? 
+- How to improve engagement and motivation?
+- What is the "flow" state?
 
 # What is a Video Game
 
 ![game-design](../img/game-design.jpg)
 
-A **video** game is a computer game designed mainly for entertainment purposes. A **video** game console is the electronic machine designed to play the **games** and a **video** display such as a computer monitor or television is the primary feedback device. 
-The main **input device** is a controller. A controller can be a keyboard, mouse, game pad, joystick, paddle, or any other device designed for gaming that can receive input. Special purpose devices, such as steering wheels for driving **games**, light guns for shooting **games**, and drums for musical **games** may also be used.
+A video game is a computer game designed mainly for entertainment purposes. A video game console is the electronic machine designed to play the **games** and a **video** display such as a computer monitor or television is the primary feedback device. 
+The main **input device** is a controller. A controller can be a keyboard, mouse, game pad, joystick, paddle, our fingers, voice, or any other not yet invented device. Special purpose devices, such as steering wheels for driving **games**, light guns for shooting **games**, and drums for musical **games** may also be used.
+
+Here is the diagram of the Videogame seen as a designed system and flow.
 
 ![vg-circuit](../img/vg-circuit.png)
-
-## Where to play Video Games?
-- PC - Personal Computer
-- Console (Xbox/PlayStation/Switch)
-- Mobile Smartphones
-- Mobile Tablets
-- Handheld devices
-- VR - Virtual Reality
-- AR - Augmented Reality
-- Metaverse - an online virtual immersive and social space.
 
 ## Genres
 ### Adventure
@@ -76,18 +68,55 @@ Pure creativity.
 ## Video Game components
 ### Hardware
 The physical components and electronic devices needed to play the game Software.
+The more common are:
+- PC - Personal Computer (can be Windows, MacOS, Linux)
+- Browser games (can be accessed by any devices with a standard web browser)
+- Console (Xbox/PlayStation/Nintendo Switch)
+- Mobile Smartphones (Android or iOS)
+- Mobile Tablets (Android or iOS)
+- Handheld devices (Gameboy)
+- Wearables (smartwatches)
+- VR - Virtual Reality
+- AR - Augmented Reality
+- Metaverse - an online virtual immersive and social space.
 
 ### Software
-All computer code and digital multimedia assets are stored and managed by the hardware to enable the interactive experience defined by the Game Design
+All computer code and digital multimedia assets are stored and managed by the hardware to enable the interactive experience defined by the Game Design.
+
+The software can be acquired by:
+- from a physical box/card/disc
+- downloading it from Internet or from a local server
+- shared by storage devices
+- compiled from sources
+
+The license to use it can be:
+- **commercial** (**personal**). usually it belongs to the buyer and can't be shared.
+- **commercial** (**group**): you buy a license to use it in a classroom / school / private group.
+- **subscription** / rent: you pay a monthly fee to use it
+- **free**: you download it for free or can play it online without paying anything
+- **freemium**: the game is free but has commercial advertising or you can buy additional options to have the complete game
+- **open source**: not only the game is free, but you have access to the software code, to improve /  modify it
 
 ### Game Design
 - game mechanics
 - level design / progression
 - graphics / aestethics
+- environment / lore
 - sound / music
 - achievements
+- characters
 - story
 - customisation
+- purpose
+- social interactions
+
+## Where to play Video Games?
+Today VG can be played in any environment or life situation.
+- Indoor (home)
+- Outdoor (mobile games)
+- Classroom (with PC or mobile)
+- Online (wherever there is internet)
+- Offline (a standalone game that doesn't require internet)
 
 # Good EVG
 > What makes a good educational video game good?
@@ -118,18 +147,17 @@ Here is an outline of the learning principles of a good video educational video 
 
 ## The surprising truth about learning, motivation and mastery
 
-How do you grab people’s attention?
-What makes any experience truly engaging over time?
+How do you grab people’s attention? What makes any experience truly engaging over time?
 
-We know that games **can** be deeply engaging — and that no single type of games holds the key. Stylistically, people seek out a wide variety of different experiences. Just look at today’s gaming landscape — from adrenaline-pumping shooters to candy-coated puzzlers to the creative freedom of Minecraft, one person’s beloved game is another’s worst nightmare.
+We know that games **can** be deeply engaging — and that no single type of games holds the key. Stylistically, people seek out a wide variety of different experiences. Just look at today’s gaming landscape, from adrenaline-pumping shooters to candy-coated puzzlers to the creative freedom of Minecraft, one person’s beloved game is another’s worst nightmare.
 
-Yet beneath the surface, all these games have one thing in common: **progressive skill-building**. Games keep players engaged by helping them **get better at something meaningful**.
+> Beneath the surface, all great games have one thing in common: **progressive skill-building**. Games keep players engaged by helping them **get better at something meaningful**.
 
 ## Skill-Building, Challenge & Flow
 
-It feels good to engage our brains, improve our skills, and make progress on a path towards mastery. Games, sports and education are particularly good at accomplishing this — but every teacher can learn to harness the underlying power of skill-building & challenges.
+It feels good to engage our brains, improve our skills, and make progress on a path towards mastery. Games, sports and education are particularly good at accomplishing this, but every teacher can learn to harness the underlying power of skill-building & challenges.
 
-Structured activities — games, sports, office work — usually revolve around developing and using a skill. And if the level of challenge in the activity increases to match your newfound skill, you’ve got a setup for flow — the ultimate goal of every game and product designer.
+Structured activities - games, sports, office work - usually revolve around developing and using a **skill**. And if the **level of challenge** in the activity increases to match your newfound skill, you’ve got a setup for **flow** — the ultimate goal of every game and product designer.
 
 ### Setup the conditions for Flow
 ![](../img/flow_changes.jpg)
@@ -142,17 +170,13 @@ At their core, games are pleasurable learning engines that deliver an experience
 ![humanist_player](../img/humanist_player.jpg)
 
 Just as character transformation is the backbone of great drama, **personal transformation is the backbone of great gameplay**.
-In games, WE are the protagonist — the person with agency, facing a series of choices and challenges along a journey towards mastery. Progress metrics (points, badges, levels, leaderboards, reputation systems) are icing on this learning/mastery cake. These markers help you gauge where you stand, and how far you’ve come — but they’re meaningless as a stand-alone system without something to get better at — some skill to develop. That’s what makes games truly engaging. To make your learning sessions compelling in the long run, forget points — think character transformation, skill-building and empowering mastery.
+In games, *we* are the protagonist — the person with agency, facing a series of choices and challenges along a journey towards mastery. Progress metrics (points, badges, levels, leaderboards, reputation systems) are icing on this learning/mastery cake. These markers help you gauge where you stand, and how far you’ve come, but they’re meaningless as a stand-alone system without something to get better at, some skill to develop.
 
-### Game Design ≠ Loyalty Marketing
-
-The idea of gamification (applying game design to non-gaming experiences) takes many different forms. Not surprisingly, game designers approach this from a game-centric perspective, developing play models & niche genres like Games for Health, Games for Good & Serious Games.
-
-People from a marketing background look at games — and see a set of extrinsic motivators and reward schedules that can be lifted out and plunked down elsewhere. That’s natural — because points, levels, status, and rewards are the atomic units of loyalty programs, a staple in the marketer’s playbook.
+That’s what makes games truly engaging. To make your learning sessions compelling in the long run, **forget points, think character transformation**, skill-building and empowering mastery.
 
 ## Support Intrinsic Pleasure with Extrinsic Scaffolding
 
-Although loyalty programs have a lot in common with games, trying to drive long-term engagement with extrinsic rewards is a fool’s errand. Status markers and variable reward schedules are not what makes an experience truly engaging.
+Trying to drive long-term engagement with extrinsic rewards is a fool’s errand. Status markers and variable reward schedules are not what makes an experience truly engaging.
 
 ![magic_circle](../img/magic_circle.jpg)
 
@@ -199,6 +223,76 @@ numerous studies have shown that people who cultivate meaningful relationships r
 
 Purpose is often best communicated through storytelling. Here’s the thing: the **most powerful story is happening inside your customer’s head** — the personal narrative of how engaging with your product transforms her into someone better, stronger, more powerful, more skillful, more connected to the issues and people she cares about.
 
+## Intrinsic Motivation
+
+> **Intrinsic motivation** is when you are motivated by personal satisfaction or enjoyment instead of external factors like reward or punishment. There are ways to make tasks more intrinsically motivating.
+
+Intrinsic motivation is the act of doing something without any obvious external rewards. You do it because it’s enjoyable and interesting, rather than because of an outside incentive or pressure to do it, such as a reward or deadline.
+
+An example of intrinsic motivation would be reading a book because you enjoy reading and have an interest in the story or subject, rather than reading because you have to write a report on it to pass a class.
+
+### Intrinsic motivation theory
+
+There have been a number of different proposed theories to explain intrinsic motivation and how it works. Some experts believe that all behavior is driven by external reward, such as money, status, or food. In intrinsically motivated behaviors, the reward is the activity itself.
+
+The most recognized theory of intrinsic motivation was first based on people’s needs and drives. Hunger, thirst, and sex are biological needs that we’re driven to pursue in order to live and be healthy.
+
+Just like these biological needs, people also have psychological needs that must be satisfied in order to develop and thrive. These include the need for competence, autonomy, and relatedness.
+
+Along with satisfying these underlying psychological needs, intrinsic motivation also involves seeking out and engaging in activities that we find challenging, interesting, and internally rewarding without the prospect of any external reward.
+
+📽 #VIDEO [# The puzzle of motivation | Dan Pink](https://youtu.be/rrkrvAUbU9Y)
+<iframe height="450" width="800" src="https://www.youtube.com/embed/rrkrvAUbU9Y"></iframe>
+
+### Intrinsic motivation vs. extrinsic motivation
+
+**Intrinsic motivation comes from within, while extrinsic motivation arises from outside**. When you’re intrinsically motivated, you engage in an activity solely because you enjoy it and get personal satisfaction from it.
+
+When you’re extrinsically motivated, you do something in order to gain an external reward. This can mean getting something in return, such as money, or avoiding getting into trouble, such as losing your job.
+
+|   | Motivation | Goals |
+|---|---|---|
+|Intrinsic|You do the activity because it’s internally rewarding. You may do it because it’s fun, enjoyable, and satisfying.|Goals come from within and the outcomes satisfy your basic psychological needs for autonomy, competence, and relatedness.|
+|Extrinsic|You do the activity in order to get an external reward in return.	Goals are focused on an outcome and don’t satisfy your basic psychological needs.|Goals involve external gains, such as money, fame, power, or avoiding consequences.|
+
+### Intrinsic motivation examples
+
+You’ve likely experienced examples of intrinsic motivation throughout your entire life without giving it much thought.
+
+Some examples of intrinsic motivation are:
+
+- participating in a sport because it’s fun and you enjoy it rather than doing it to win an award
+- learning a new language because you like experiencing new things, not because your job requires it
+- spending time with someone because you enjoy their company and not because they can further your social standing
+- cleaning because you enjoy a tidy space rather than doing it to avoid making your spouse angry
+- playing cards because you enjoy the challenge instead of playing to win money
+- exercising because you enjoy physically challenging your body instead of doing it to lose weight or fit into an outfit
+- volunteering because you feel content and fulfilled rather than needing it to meet a school or work requirement
+- going for a run because you find it relaxing or are trying to beat a personal record, not to win a competition
+- taking on more responsibility at work because you enjoy being challenged and feeling accomplished, rather than to get a raise or promotion
+- painting a picture because you feel calm and happy when you paint rather than selling your art to make money
+
+### Intrinsic motivation factors
+
+Everyone’s different and that includes what motivates us and our perspectives of rewards. Some people are more intrinsically motivated by a task while another person sees the same activity extrinsically.
+
+Both can be effective, but research suggests that extrinsic rewards should be used sparingly because of the overjustification effect. Extrinsic rewards can undermine intrinsic motivation when used in certain situations or used too often. The rewards may lose their value when you reward behavior that was already intrinsically motivating. Some people also perceive extrinsic reinforcement as coercion or bribery.
+
+The overjustification effect has inspired an entire field of study that focuses on students and how to help them reach their full potential. Though experts are divided on whether extrinsic rewards have a beneficial or negative effect on intrinsic motivation, a recent study showed that rewards may actually encourage intrinsic motivation when given early in a task.
+
+Researchers examined how reward timing influenced intrinsic motivation. They found that giving an immediate bonus for working on a task, rather than waiting until the task was completed, increased interest and enjoyment in it. Getting an earlier bonus increased motivation and persistence in the activity that continued even after the award was removed.
+
+Understanding the factors that promote intrinsic motivation can help you see how it works and why it can be beneficial. These factors include:
+
+- **Curiosity**. Curiosity pushes us to explore and learn for the sole pleasure of learning and mastering.
+- **Challenge**. Being challenged helps us work at a continuously optimal level work toward meaningful goals.
+- **Control**. This comes from our basic desire to control what happens and make decisions that affect the outcome.
+- **Recognition**. We have an innate need to be appreciated and satisfaction when our efforts are recognized and appreciated by others.
+- **Cooperation**. Cooperating with others satisfies our need for belonging. We also feel personal satisfaction when we help others and work together to achieve a shared goal.
+- **Competition**. Competition poses a challenge and increases the importance we place on doing well.
+- **Fantasy**. Fantasy involves using mental or virtual images to stimulate your behavior. An example is a virtual game that requires you to answer a question or solve a problem to move to the next level. Some motivation apps use a similar approach.
+
+
 # Gamification
 
 Game-based learning should not be confused with gamification.
@@ -224,11 +318,55 @@ Games should be designed and calibrated the ensure that the player maximises its
 
 ![](../img/flow-1.png)
 
-# Learning Flow
-Educational Games a special "flow", which is
 
-![](../img/cognitive_approach.png)
+# Games selection
 
+After we have established the definition of game-based learning, its basis, and how its implementation enhances several social and cognitive skills, the question now diverts to **how we can select an educational video game that elicit engagement and motivation as well as ensure that it is designed with the intended educational content**.
+There are many educational video games available for class implementation, however, many are redundant, easy or stimulatingly boring that students are just not as interested or motivated to play.
+In this unit, we will discuss the characteristics of a good educational video game, its attributes, and how educators can ensure that they are providing their students with the best quality of learning through the selected video game.
 
-![](../img/GBLModel.webp)
+# Where to find EVG
+When choosing an EVG we have several options where to look. We could:
+
+- Use entertainment/**commercial off-the-shelf** (COTS) games. These games are already in the stores and could have additional or not explicit educational content (Assassin's Creed / Civilization)
+- **Modify** entertainment games. Many commercial games allow to create custom missions or quests (Kerbal Space Academy)
+- Use **virtual worlds**. There are many "sandbox" games where the player sparks creativity and teacher could pre-build the learning environment (Minecraft)
+- Use **educational games** created ad hoc (MinecraftEdu)
+- **Create original games**. If a special requirements is needed, you could develop or ask to develop a custom game (Antura)
+- **Let students create games**, to design a game you have to study and manage the learning content very deeply
+
+# Games 4 Good
+**Games for good** have the mission to help improving the world, with positive social impact, improved knowledge about social issues, with direct experience of human problems.
+
+- Education
+- Health
+- Empathy
+- Ethics
+- Politics and History
+- Religion
+- Wars
+- Epidemics
+- Sexism and racism
+- Environment and Climate change
+- Energy
+
+# Games benefits
+
+Additionally, playing video games has a huge impact on the development of **cognitive**, **collaboration**, **creative problem solving**, and **communication skills** of students. 
+As well as improving learning abilities, here are some other benefits of Games:
+
+- **speed up response times**: improve troubleshooting skills by posing problems that must be solved in a set time.
+- **encourage teamwork**: multiplayer games boost teamwork in problem-solving.
+- **stimulate creativity, focus, and visual memory**: stimulate these aspects by setting goals that require concentration, imagination, and remembering details to achieve them.
+- **improve strategy and leadership**: put players in command, honing their abilities to resolve disputes, interact with other players and make decisions.
+- **teach languages**: they are useful for learning other languages through on-screen instructions, chats for communicating with other players, or the narration of the story itself.
+- improve **critical thinking**: with underlying ethical, philosophical and social basis, and their ability to make players think.
+
+## Challengers
+![human-vs-machine](../img/human-vs-machine.jpg)
+
+Video games allow a player to challenge some-one on the same screen, or in the same room (each one with its networked device), or anywhere in the world via internet (in realtime or at turned based play).
+Players can even challenge recorded adversaries, or even them self!
+
+New advances with Artificial Intelligence allow players to play against advanced artificial players, that could be even be trained to play with a particular style or behaviours (Imitation Learning).
 
