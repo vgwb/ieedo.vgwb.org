@@ -3,6 +3,7 @@ title: Quiz
 parent: 1 - What is DGBL
 has_children: false
 nav_order: 112
+nav_exclude: true
 ---
 🧑🏻‍🎓 #quiz Preliminary survey on **Game Based Learning**
 

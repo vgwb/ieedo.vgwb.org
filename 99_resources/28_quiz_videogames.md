@@ -3,6 +3,7 @@ title: Survey - videogames
 parent: 2 - Educational Video Games
 has_children: false
 nav_order: 128
+nav_exclude: true
 ---
 Before we dive deep into our unit, take a moment to solve this quiz on videogames
 
