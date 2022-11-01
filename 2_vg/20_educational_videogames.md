@@ -15,8 +15,13 @@ nav_order: 20
 - What we can learn with EVG?
 
 # What is a Video Game
+
+![game-design](../img/game-design.jpg)
+
 A **video** game is a computer game designed mainly for entertainment purposes. A **video** game console is the electronic machine designed to play the **games** and a **video** display such as a computer monitor or television is the primary feedback device. 
-The main input device is a controller. A controller can be a keyboard, mouse, game pad, joystick, paddle, or any other device designed for gaming that can receive input. Special purpose devices, such as steering wheels for driving **games**, light guns for shooting **games**, and drums for musical **games** may also be used.
+The main **input device** is a controller. A controller can be a keyboard, mouse, game pad, joystick, paddle, or any other device designed for gaming that can receive input. Special purpose devices, such as steering wheels for driving **games**, light guns for shooting **games**, and drums for musical **games** may also be used.
+
+![vg-circuit](../img/vg-circuit.png)
 
 ## Where to play Video Games?
 - PC - Personal Computer
@@ -24,8 +29,9 @@ The main input device is a controller. A controller can be a keyboard, mouse, ga
 - Mobile Smartphones
 - Mobile Tablets
 - Handheld devices
-- Browser games
-- VR
+- VR - Virtual Reality
+- AR - Augmented Reality
+- Metaverse - an online virtual immersive and social space.
 
 ## Genres
 ### Adventure
@@ -66,6 +72,22 @@ Casual games are designed to be played in **short bursts** rather than for prolo
 ### Sandbox
 Games with freedom to do / build / create / wander as you like.
 Pure creativity.
+
+## Video Game components
+### Hardware
+The physical components and electronic devices needed to play the game Software.
+
+### Software
+All computer code and digital multimedia assets are stored and managed by the hardware to enable the interactive experience defined by the Game Design
+
+### Game Design
+- game mechanics
+- level design / progression
+- graphics / aestethics
+- sound / music
+- achievements
+- story
+- customisation
 
 # Good EVG
 > What makes a good educational video game good?
@@ -193,6 +215,8 @@ Some examples of game mechanics used in gamification are:
 - **Rewards** - As mentioned above, points and badges are common, and useful, rewards. Other rewards could be discounts, coupons, or gift cards. This fuels the user’s motivation and keeps engagement high.
 
 Gamification takes an element of education and replaces it with a game-based element. For instance, a teacher may replace grades with levels or experience points.
+
+Proponents of gamification often cite research demonstrating the positive impacts of these interventions on outcomes such as academic performance, student motivation, customer retention, organizational productivity, or user engagement in online platforms. 
 
 # The Flow state
 The Flow state in an experience as the equilibrium point between challenge and ability. If the challenge is quite higher than the ability the result will be the person getting frustrated and with the feeling of anxiety, on the other hand if the person’s skill is higher than the challenge presented he will experience boredom.
