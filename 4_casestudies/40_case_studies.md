@@ -370,7 +370,7 @@ SimCity is a simulation video game with the main goal to develop a thriving city
 
 ### This War of Mine
 ![](../img/games/thiswarofmine.webp)
-Unlike a typical war game where players usually assume the role of capable soldiers, this game puts the player into the shoes of a group of civilians who live in a besieged city trying to survive, aiming to promote empathy and awareness of real-world armed conflicts, and many believed it was achieved
+Unlike a typical war game where players usually assume the role of capable soldiers, this game puts the player into the shoes of a group of civilians who live in a besieged city trying to survive, aiming to promote empathy and awareness of real-world armed conflicts, and many believed it was achieved.
 
 **Curricular connections:** Social and emotional learning; ethics; game design
 **Possible skills taught:** Empathy; moral dilemmas; decision-making; narrative design
@@ -386,6 +386,7 @@ Fancade is a huge collection of simple games. Play them instantly, or make your 
 website: [fancade.com](https://www.fancade.com)
 
 ## Sandbox
+
 ### Minecraft
 ![](../img/games/minecraft.webp)
 Minecraft is an open-world game, allowing players opportunity for unlimited exploration and creation. Gameplay takes place in a pixelated 3-D environment resembling a natural world with many different biomes (e.g. forests, tundra, and deserts). Every element of the world is made from blocks of corresponding materials. For example, trees are made from blocks of wood and ores in blocks of ore. Players can break apart and collect these blocks using their hands, or tools crafted in the game using found materials. Survival is the key objective of Minecraft, which is predicated on players’ ability to maintain both their own health and wellbeing.

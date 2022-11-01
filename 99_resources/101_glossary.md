@@ -58,11 +58,13 @@ nav_order: 99
 - **Dialogue tree:** A dialogue tree is made up of the branching statements and answers in a conversation. Often in games, dialogue is presented as a system that lets players choose from a set of pre-written statements that provoke a response from other characters.
 - **Downloadable content (DLC):** Downloadable content refers to additional and/or bonus content for a game that developers release separately, often for a price. DLC can be as small as adding new character accessories, or as large as new storylines or maps.
 - **Damage per minute/Damage per second (DPM/DPS):** The average damage your character can dish out. This is a useful statistic for optimising your character build.
+- **Digital Game Based Learning (DGBL)**
 - **Digital rights management (DRM):** Digital Rights Management is a collection of software or systems that protect digital and electronic media from being copied illegally. DRM is not just used in the videogame industry but also in other digital media like music and films.
 - **Dungeon crawl:** A dungeon crawl is a game that focuses on players fighting through a dungeon, clearing rooms of enemies.
 
 ## E
 
+- **Educational Video Game (EVG)**
 - **Elo:** The Elo rating system is used for fair matchmaking in competitive gaming. The Elo system places players of approximately equal skill together so that the competitive nature of the game stays fair. Elo goes back as far as a chess rating system and is named after the Hungarian physicist Arpad Elo, who created it. (**See also:** _MMR_)
 - **Elo hell:** Elo hell is what competitive players call a specific situation in the Elo system. It refers to when a player wants to ‘climb’ up to the next level of competition but keep losing matches because they’re being put on teams with people of less skill.
 - **Emergent gameplay:** Emergent gameplay is a kind of unscripted action that happens in games built of interconnected systems. For instance, in a game like Rimworld, a harsh winter ruins crops so colonists have to eat their pet dog, which makes them sad and fight with one another. None of that is scripted by the developer; it emerged out of the game’s systems.

@@ -67,7 +67,7 @@ Let's see some Pros and Cons of video games
 
 ### Pros
 - Improve Tech Literacy
-- Develop Muti-tasking mentality
+- Develop Multi-tasking mentality
 - Experience Teamwork
 - Practice Long-range planning
 - Provide Individualised instruction

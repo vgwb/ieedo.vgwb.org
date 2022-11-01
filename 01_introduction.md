@@ -22,4 +22,4 @@ Here is what you'll learn with this guide:
 - How to evaluate the outcomes
 - Play and Games in Pedagogy
 - How to use DGBL as pedagogy tool
-- engage in digital activities and teach how to use tech devices
+- Engage in digital activities and teach how to use tech devices

@@ -72,6 +72,7 @@ The more common are:
 - PC - Personal Computer (can be Windows, MacOS, Linux)
 - Browser games (can be accessed by any devices with a standard web browser)
 - Console (Xbox/PlayStation/Nintendo Switch)
+- TV / Smart TV
 - Mobile Smartphones (Android or iOS)
 - Mobile Tablets (Android or iOS)
 - Handheld devices (Gameboy)

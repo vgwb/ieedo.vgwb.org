@@ -23,10 +23,10 @@ To start our journey, we have to introduce some common terms:
 ## What is a Game?
 Turning to discussions of what constitutes “games” in relation to learning, it is first important to recognize that across a range of disciplines and perspectives, definitions have varied. Synthesizing a number of these perspectives on games, play, and culture, we could use this definition:
 
-> a game as a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome
+> A game as a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome
 
 A game is a **system** because it involves a set of things (rules, objects, players, etc.) that affect each other within an environment to form a larger pattern that is different from any of the individual parts.
-A game also involves **players**-active participants interacting with the system of the game in order to experience the play of the game. Not all games need be a contest between players (e.g., solo games such as solitaire or cooperative games).
+A game also involves **players**-active participants interacting with the system of the game in order to experience the play of the game. Not all games need a conflict, a contest between players (e.g., solo games such as solitaire or cooperative games).
 All games involve **rules** that provide the structure out of which gameplay emerges, by delimiting what a player can or cannot do.
 Finally, this definition asserts that all games involve some kind of **quantifiable outcome** - in its simplest form, a state of victory or defeat. 
 
@@ -37,7 +37,9 @@ Defining what constitutes _game-based learning_ in DGBL necessitates a recogniti
 
 ## What is game based learning?
 
-The design of more engaging curriculum we need to include techniques that teaches students how to be **critical**, **confident** and **creative** as well as abilities that they will need for success in the **work-a-day future life**. Many schools have adopted game-based learning, a pedagogical approach that involves **designing learning activities through games where the game characteristics and game principles inhere within the learning activities themselves**.
+Game-based learning is a pedagogical approach that involves **designing learning activities through games where the game characteristics and game principles inhere within the learning activities themselves**.
+
+The design of more engaging curriculum needs to include techniques that teaches students how to be **critical**, **confident** and **creative** as well as abilities that they will need for success in the **work-a-day future life**. Games have this techniques and features.
 
 **Gaming is inherently motivating**, which may allow learners to gain skills and knowledge, by leveraging entertainment and weaving it within learning environments. Research studies indicate that video games in particular have great engagement and education related benefits. 
 
@@ -50,6 +52,8 @@ In order to understand GBL better, its different types can be examined along wit
 
 ### Board games
 ![gbl_boardgames](../img/gbl_boardgames.webp)
+
+Board Games are usually played by one or more players around a table (they are also called Tabletop Games).
 Monopoly can be considered an educational game. It has all the necessary elements: a story, characters, points, competition, and many other aspects. There are many examples of Monopoly-like games for schools with modified rules for different subjects, like History Monopoly or Math Monopoly. Board Games are used with great success to explore and teach. But it's not the focus of _this_ course. 
 
 ### Real life games
@@ -72,17 +76,17 @@ There are at least four key traits that distinguish digital games from non-digit
 
 Digital game-based learning refers to learning by solving problems or accomplishing tasks through computers, mobile phones, or tablets. There are several elements in digital game-based learning, such as *fun*, *play*, *goals*, *competition*, and *problem-solving*.
 
-Studies have investigated digital game-based learning in different subjects, such as Literacy, Maths, Sciences, and STEAM. The results indicate that digital game-based learning has gradually become a trend and that digital game-based learning could improve students’ learning motivation, learning performance, reduce their cognitive load and anxiety.
+Studies have investigated DGBL in different subjects, such as Literacy, Maths, Sciences, and STEAM. The results indicate that DGBL could improve students’ learning motivation, learning performance, reduce their cognitive load and anxiety.
 
 {: .highlight }
 > Game based learning (**GBL**) is a type of _game play_ that has _defined learning outcomes_.  
 > **Digital** game based learning (**DGBL**) refers to using actual digital video games as learning tools.
 
-A critical appraisal of the _game-based_ aspect of DGBL can help better situate the usage of this concept in theory and practice. Building on learning as an acquisition metaphor, one way to define game-based learning in DGBL is by the use of digital games to promote the acquisition of a variety of knowledge, skills, dispositions, or other educational outcomes. According to this definition, learning is game-based when digital games—or certain elements of digital games such as scorekeeping—are applied toward identifiable outcomes defined by educators or institutions. 
+A critical appraisal of the _game-based_ aspect of DGBL can help better situate the usage of this concept in theory and practice. Building on learning as an *acquisition metaphor*, one way to define game-based learning in DGBL is by the use of digital games to promote the acquisition of a variety of knowledge, skills, dispositions, or other educational outcomes. According to this definition, learning is game-based when digital games, or certain elements of digital games such as scorekeeping, are applied toward identifiable outcomes defined by educators or institutions. 
 
 Another framing of DGBL learning as participation metaphor, characterizes the _game-based_ aspect of DGBL as an inherent part of meaningfully participating in - that is, playing - games, regardless of their connection to some external educational outcome.
 According to this definition, **learning is always happening when someone plays a game**. **Having to solve problems, overcome obstacles, or collaborate with others within and around games are all dimensions of learning**. 
-As game designer and theorist Raph Koster noted in _A Theory of Fun_, a game is only “good” to the degree that it is “fun,” and a game is only fun to the degree which players are being challenged to learn to be successful in that game space.
+As game designer and theorist Raph Koster noted in _A Theory of Fun_ book, a game is only “good” to the degree that it is “fun,” and a game is only fun to the degree which players are being challenged to learn to be successful in that game space.
 
 ### Gamification
 _Gamification_, often categorized as a subconcept of DGBL, describes the implementation of certain aspects of digital games (visual displays of progress, automated reward systems, scoring leaderboards, virtual avatars, and others) into non-gaming contexts such as education, business management, marketing, and even physical exercise programs.
