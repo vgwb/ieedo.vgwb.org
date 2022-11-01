@@ -5,7 +5,7 @@ has_toc: false
 nav_order: 10
 ---
 
-# 1. DGBL
+# 1. What is DGBL
 
 **Learning Objectives**
 - DGBL definition

@@ -4,7 +4,7 @@ has_children: true
 has_toc: false
 nav_order: 50
 ---
-# 5.  Teacher guide: Setup and Assessment
+# 5.  Teacher guide
 
 **Learning Objectives**  
 - How to setup a DGBL session
@@ -16,7 +16,7 @@ nav_order: 50
 - What are game analytics?
 - What to assess?
 
-# Teacher guide
+# Teacher 2.0
 
 With the infusion of technology in the classroom, teachers are moving away from being sole presenters of information and are moving into the new roles of bring "facilitators".
 With this new role comes the excitement of presenting digital game-based learning to students that has been proven to increase students' desire to learn, lower their stress levels and provide new, proactive ways of learning needed 21st century skills. Furthermore, teachers/facilitators can rely on "new evaluation tools" that are rubric-like and can be used to evaluate and determine whether games will engage their students while teaching them. In conclusion, when teachers properly evaluate games to ascertain their usability in the classroom and then implement them correctly, they bring a new level of learning into the classroom that reinvigorates students' desire to learn while decreasing unwanted stress that inhibits those students' ability to excel.
@@ -144,3 +144,33 @@ There are seven aspects that should be examined when determining the effectivene
 The analysts part is the more important 
 
 ![](../img/game_learning_analytics.webp)
+
+## Engagement Survey
+This questionnaire can be used after an activity has been completed to evaluate the level of engagement relative to another activity. In order to analyse the results and compare levels of engagement between two different activities the following steps should be taken.
+
+- Allocate a value to each answer, where strongly disagree = -2 to strongly agree = 2
+- For negative items (e.g. ‘I could not tell what effect my actions had’) reverse this scale.
+- Add up the total points to get a value for engagement with the activity.
+
+Thinking about the activity you have just undertaken, please indicate the level to which you agree with the following statements:
+
+> Strongly Disagree (-2) | Disagree (-1) | Neither agree nor disagree (0) | Agree (1) | Strongly Agree (2)
+
+- I wanted to complete the activity
+- I found the activity frustrating
+- I felt that I could achieve the goal of the activity
+- I knew what I had to do to complete the activity
+- I found the activity boring
+- It wasn’t clear what I could and couldn’t do
+- It was clear what I could learn from the activity
+- I felt absorbed in the activity 
+- The activity was pointless
+- I was not interested in exploring the options available
+- I did not care how the activity ended
+- I felt that time passed quickly
+- I found the activity satisfying
+- The activity would not let me do what I wanted
+- I could not tell what effect my actions had
+- I did not enjoy the activity
+- Feedback I was given was useful
+- I found it easy to get started
