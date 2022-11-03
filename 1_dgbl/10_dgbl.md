@@ -20,12 +20,6 @@ To start our journey, we have to introduce some common terms:
 - Digital Game Based Learning (DGBL)
 - Engagement
 
-
-## MNRW INTRODUTCITON
-hello everynody
-
-i like this site: [www.vgwb.com](https://www.vgwb.com)
-
 ## What is a Game?
 Turning to discussions of what constitutes “games” in relation to learning, it is first important to recognize that across a range of disciplines and perspectives, definitions have varied. Synthesizing a number of these perspectives on games, play, and culture, we could use this definition:
 
