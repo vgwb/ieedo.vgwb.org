@@ -11,7 +11,7 @@ nav_order: 30
 - What we can learn with EVG?
 - Why implementing EVG is important?
 
-# Positive impacts of gaming for students
+## Positive impacts of gaming for students
 
 ![](../img/vg_positive_impact.webp)
 
@@ -26,7 +26,7 @@ We have researching and discovering how much games and video games have a positi
 ## 21st Century Skills
 Students are prepared for the "globalized job market" because technology, effective instruction and authentic problems are combined so students learn collaboration, "critical-thinking", "communication skills" through the vehicle of DGBL.
 
-# What games provide
+## What games provide
 Games bring together combination of motivating elements not found together in any other medium. Here we can see some games virtues and the positive consequence:
 
 - Games are a form of fun -> _enjoyment and pleasure_
@@ -42,7 +42,7 @@ Games bring together combination of motivating elements not found together in an
 - Games have peer interaction -> _social groups_ and communication
 - Games have characters and story -> _emotions_ and empathy
 
-# Learning Flow
+## Learning Flow
 Educational Games a special "flow", which is
 
 ![](../img/cognitive_approach.png)
@@ -50,7 +50,7 @@ Educational Games a special "flow", which is
 
 ![](../img/GBLModel.webp)
 
-# Video Games and new teaching methods
+## Video Games and new teaching methods
 
 Recent studies have shown that introducing educational video games (EVG) and adopting a game-based learning teaching approach, has helped students achieve better learning performance, improved student **engagement**, promote **motivation** and **active processing** of educational content.
 
@@ -61,7 +61,7 @@ Introducing video games into the classroom **enhances many learning and teaching
 3. It gives **opportunities to practice** students can apply the knowledge they acquire without getting into dangerous situations. This is what flight and navigation simulators, for instance, are all about.
 
 
-# How effective are video games in the classroom?
+## How effective are video games in the classroom?
 ![](../img/vg_pro-cons.webp)
 Let's see some Pros and Cons of video games
 
@@ -98,7 +98,7 @@ Let's see this video about why video games are such effective learning tools:
 
 
 
-# Cognitive skills and games
+## Cognitive skills and games
 
 Cognitive processes let you:
 1. Understand sensory inputs
@@ -187,7 +187,7 @@ The level of sensitivity with which the hand and eye are synchronised.
 **Response Time**  
 The ability to perceive and process a simple stimulus and respond to it.
 
-# Learning Principles
+## Learning Principles
 Here are the 16 principles of good video-game based learning:
 
 1. **Identity**: Players build a sense of identity throughout the video game, either through direct input or an on-screen character they inherit.
@@ -209,7 +209,7 @@ Here are the 16 principles of good video-game based learning:
 
 These learning principles should be applied to school learning at all times, not just through educational video games. They change the current trend for skill-and-drill, scripted instruction, and standardized multiple-choice testing.
 
-# What we can learn with EVG
+## What we can learn with EVG
 Today we can find videogames that can help in every learning field.
 
 For example:
@@ -226,12 +226,12 @@ For example:
 
 In the Case Studies chapter we'll see some examples.
 
-# When and why implement EVGs?
+## When and why implement EVGs?
 You must remember that game-based learning and EVGs are tools that should supplement/facilitate your pedagogy, they are not the teacher. When using these techniques in your classroom, **do not grade play**, **instead assess the learning transfer** that has been facilitated from the game experience to the curriculum.
 
 Therefore, choosing to implement EVGs should come as a reason to **enhance content delivery** and comprehension as well as **motivate students to understand** complex theories/content in a mind engaging and challenging manner.
 
-# 16 reasons as to why to implement EVGs in the classroom
+## 16 reasons as to why to implement EVGs in the classroom
 
 1. Promote technology exploration
 2. Develop problem-solving skills

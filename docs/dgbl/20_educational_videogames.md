@@ -14,7 +14,7 @@ nav_order: 20
 - How to improve engagement and motivation?
 - What is the "flow" state?
 
-# What is a Video Game
+## What is a Video Game
 
 ![game-design](../img/game-design.jpg)
 

@@ -1,8 +1,3 @@
----
-title: Introduction
-has_children: false
-nav_order: 5
----
 # Introduction
 
 > "Real, good, serious stuff can happen even inside of a playful ecosystem."

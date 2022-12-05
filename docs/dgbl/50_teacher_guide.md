@@ -16,7 +16,7 @@ nav_order: 50
 - What are game analytics?
 - What to assess?
 
-# How to use EVG in Classroom
+## How to use EVG in Classroom
 
 After learning about the benefits of educational video games and the characteristics of a good educational video game, we arrive at the question: how do we incorporate game-based learning for maximum benefit as well as when and where in the curriculum? Also, what about class management, how do we manage the environment of the class and students while playing the game?
 
@@ -27,7 +27,7 @@ In this unit, we will answer all these questions and provide a guideline and tip
 
 
 
-# Teacher 2.0
+## Teacher 2.0
 
 With the infusion of technology in the classroom, teachers are moving away from being sole presenters of information and are moving into the new roles of bring "facilitators".
 With this new role comes the excitement of presenting digital game-based learning to students that has been proven to increase students' desire to learn, lower their stress levels and provide new, proactive ways of learning needed 21st century skills. Furthermore, teachers/facilitators can rely on "new evaluation tools" that are rubric-like and can be used to evaluate and determine whether games will engage their students while teaching them. In conclusion, when teachers properly evaluate games to ascertain their usability in the classroom and then implement them correctly, they bring a new level of learning into the classroom that reinvigorates students' desire to learn while decreasing unwanted stress that inhibits those students' ability to excel.
@@ -36,7 +36,7 @@ With this new role comes the excitement of presenting digital game-based learnin
 
 ![dgbl_flowchart](../img/dgbl_flowchart.webp)
 
-# Approach
+## Approach
 The approach to Digital Game-Based Learning needs to be well planned and organized to engage in learning and to produce the appropriate outcomes.
 
 The coaches must learn to set the stage, providing relevant game information and support the students in their attempts to construct, deconstruct and reconstruct relevant forms of knowledge (both in relation to the game context, curricular goals and real life phenomena).
@@ -47,7 +47,7 @@ It is important to know the theory and the tools because games do not work by th
 
 
 
-# Tips for using VG in the classroom
+## Tips for using VG in the classroom
 ![](../img/tips_vg_classroom.webp)
 
 ### Must
@@ -66,26 +66,26 @@ It is important to know the theory and the tools because games do not work by th
 - During the gaming intervention the educator should first play with the students in order to make sure they understand the game and are able to proceed on their own, and afterwards supervise the students and associate the gaming content with educational goals. 
 - The educator should ask feedback from the students after the intervention and take into account their considerations and preferences for the design of next GBL experiences.
 
-# A Digital Game Based Learning session
+## A Digital Game Based Learning session
 We can summarise a DGBL session in these five steps:
 
-## 1. Introduction to videogame
+### 1. Introduction to videogame
 The teacher explains the game and helps installing it on the students devices.
 Then tells the outcomes expected from playing this game.
 
-## 2. gameplay / experience
+### 2. gameplay / experience
 autonomous activity: the student becomes player
 
-## 3. game results / scores
+### 3. game results / scores
 autonomous activity: the player finish to play. check the score
 
-## 4. reflection / analysis
+### 4. reflection / analysis
 student and the teacher analyse together the outcome
 
-## 5. forming abstract concepts + real world application
+### 5. forming abstract concepts + real world application
 
 
-# Teacher Skills
+## Teacher Skills
 The teacher has to develop or at least know something about these topics:
 
 - ICT / Basic Digital Skills
@@ -94,7 +94,7 @@ The teacher has to develop or at least know something about these topics:
 - Recognise different players skills and support their game play
 - Engage students in playing and progression
 
-# Challenges
+## Challenges
 There could be some difficulties and challenges to be solved in order to achieve better results in DGBL sessions.
 
 **Curriculum**: it’s hard to find games that fit the current curriculum or to identify how a certain game can connect to the curriculum.
@@ -112,10 +112,10 @@ Check out [commonsense.org/education](https://www.commonsense.org/education) for
 
 **Developers** encourage and support game developers in the creation of better educational games
 
-# Moderation
+## Moderation
 The impact of video games on society has been the subject of numerous studies. For example a psychologist at the Internet Institute at Oxford University, published a study establishing how much time should children be allowed to devote to video gaming. He reports that those who played less than an hour were more emotionally stable, while those who played for around three hours a day developed social problems. Therefore, when it comes to video games, **moderation is key**. 
 
-# How to implement GBL?
+## How to implement GBL?
 There are many strategies and ways for educators to incorporate game-based learning and EVGs into their curriculum and classroom. Here are three ways that teachers can follow to implement game-based learning:
 
 ### Games as shared Experience
@@ -136,18 +136,18 @@ Teachers also can create their own form of EVGs by creating learning games in Go
 > 📽 #VIDEO [How to create learning games in Google Classroom](https://www.youtube.com/watch?v=5TOXvl3Vig4)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/5TOXvl3Vig4"></iframe>
 
-# Students pre-evaluation and setup 
+## Students pre-evaluation and setup 
 
-## Hardware and Digital Skills evaluation
+### Hardware and Digital Skills evaluation
 We want to know how much the user knows about digital world, hardware, smartphone
 
 📄 [Survey Digital Skills](../99_resources/54_quiz_digital.md)
 
-## VG Evaluation
+### VG Evaluation
 We want to know if user knows a bit about videogames
 📄 [Survey Videogames](../99_resources/28_quiz_videogames.md)
 
-## Setup device
+### Setup device
 Install the game on the device and run it once.
 If needed do some Android tuning (notifications, for example)
 
@@ -164,12 +164,12 @@ There are seven aspects that should be examined when determining the effectivene
 - **Preferences** - inclinations of the learners and teachers towards, for example, different learning styles or modes of interaction.
 - Game-Based Learning **Environment** - factors associated with the game itself, such as the design of the environment, use of scaffolding, usability, levels of social presence and the way in which the game is deployed.
 
-# Evaluation Tools: Analytics
+## Evaluation Tools: Analytics
 The analysts part is the more important 
 
 ![](../img/game_learning_analytics.webp)
 
-## Engagement Survey
+### Engagement Survey
 This questionnaire can be used after an activity has been completed to evaluate the level of engagement relative to another activity. In order to analyse the results and compare levels of engagement between two different activities the following steps should be taken.
 
 - Allocate a value to each answer, where strongly disagree = -2 to strongly agree = 2
