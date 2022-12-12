@@ -1,6 +1,6 @@
 # DGBL guide
 
-http://dgbl.docs.vgwb.org/
+http://learn.vgwb.org/
 
 ## Commands
 
