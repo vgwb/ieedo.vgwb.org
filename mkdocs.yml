@@ -42,7 +42,7 @@ markdown_extensions:
 #  - minify:
 #      minify_html: true
 
-repo_url: https://github.com/vgwb/guide_DGBL/
+repo_url: https://github.com/vgwb/learn.vgwb.org/
 edit_uri: edit/main/docs/
 
 extra_css:
