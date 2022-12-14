@@ -1,4 +1,4 @@
-# DGBL guide
+# Learn with VGWB
 
 http://learn.vgwb.org/
 

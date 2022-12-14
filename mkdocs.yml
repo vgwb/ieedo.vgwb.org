@@ -3,19 +3,24 @@ site_url: https://learn.vgwb.org
 site_author: VGWB
 site_description: 
 
-copyright: Open Source website by VGWB
+copyright: Open Source website by <a href="https://vgwb.org>VGWB.org</a>
 
 theme:
   name: material
   language: en
-  logo: assets/ieedo_logo.png
+  logo: assets/logo.png
   favicon: assets/favicon.png
   icon:
     repo: fontawesome/brands/github
     edit: material/file-edit-outline
   features:
+    - navigation.footer
+    - navigation.indexes
     - navigation.tabs
+#    - navigation.tabs.sticky
     - navigation.top
+#    - navigation.sections
+    - announce.dismiss
   font:
     text: Roboto
     code: Roboto Mono
@@ -35,12 +40,30 @@ theme:
         name: Switch to light mode
 
 markdown_extensions:
+  - tables
   - admonition
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - attr_list
+  - def_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 
-# Plugins
-#plugins:
-#  - minify:
-#      minify_html: true
+plugins:
+  - search:
+      lang: en
+#  - social:
+#      cards: false
+#      cards_color:
+#        fill: "#007C77"
+#        text: "#FFFFFF"
+#  - table-reader
+  - minify:
+      minify_html: true
+  - awesome-pages
 
 repo_url: https://github.com/vgwb/learn.vgwb.org/
 edit_uri: edit/main/docs/
