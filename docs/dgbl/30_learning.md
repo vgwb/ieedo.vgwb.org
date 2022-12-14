@@ -7,13 +7,14 @@ nav_order: 30
 # 3. Games in classroom
 
 **Learning Objectives**  
+
 - The Learning Principles of EVG
 - What we can learn with EVG?
 - Why implementing EVG is important?
 
 ## Positive impacts of gaming for students
 
-![](../assets/img/vg_positive_impact.webp)
+![](./img/vg_positive_impact.webp)
 
 
 We have researching and discovering how much games and video games have a positive impact both in life and in education. 
@@ -45,10 +46,10 @@ Games bring together combination of motivating elements not found together in an
 ## Learning Flow
 Educational Games a special "flow", which is
 
-![](../assets/img/cognitive_approach.png)
+![](./img/cognitive_approach.png)
 
 
-![](../assets/img/GBLModel.webp)
+![](./img/GBLModel.webp)
 
 ## Video Games and new teaching methods
 
@@ -62,7 +63,7 @@ Introducing video games into the classroom **enhances many learning and teaching
 
 
 ## How effective are video games in the classroom?
-![](../assets/img/vg_pro-cons.webp)
+![](./img/vg_pro-cons.webp)
 Let's see some Pros and Cons of video games
 
 ### Pros
@@ -254,3 +255,8 @@ Therefore, choosing to implement EVGs should come as a reason to **enhance conte
 
 
 <iframe height="450" width="800" src="https://www.youtube.com/embed/3aQxga-SUBg"></iframe>
+
+---
+## Unit review
+Discuss, in your opinion the importance of implementing game-based learning.
+Could there be complications to this process? if so, what would they be?

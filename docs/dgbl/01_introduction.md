@@ -9,6 +9,7 @@ It is a truth universally acknowledged that teachers should make available activ
 While **playing and interacting** with different forms of reality, students can sometimes learn without even realizing it! Fun and engagement are the backgrounds on which abilities and understanding are constructed. Theory and practice are smoothly integrated into the process of **solving issues** within the scope of a game.
 
 Here is what you'll learn with this guide:
+
 - DGBL terminology
 - How to choose and introduce a game 
 - How to help and stimulate engagement playing the game

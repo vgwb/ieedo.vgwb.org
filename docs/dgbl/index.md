@@ -17,5 +17,5 @@ How to use videogames in classroom?
 Let's analyse some games
 ### [5 - Teacher guide](50_teacher_guide.md)
 The handbook for the teacher
-### [Resources and appendices](../../99_resources/100_resources.md)
+### [Resources and appendices](resources/index.md)
 To go deeper in the various topics

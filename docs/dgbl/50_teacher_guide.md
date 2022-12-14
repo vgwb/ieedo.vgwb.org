@@ -7,6 +7,7 @@ nav_order: 50
 # 5.  Teacher guide
 
 **Learning Objectives**  
+
 - How to setup a DGBL session
 - What skills a teacher needs to develop
 - What challenges are there in DGBL?
@@ -34,7 +35,7 @@ With this new role comes the excitement of presenting digital game-based learnin
 
 
 
-![dgbl_flowchart](../assets/img/dgbl_flowchart.webp)
+![dgbl_flowchart](./img/dgbl_flowchart.webp)
 
 ## Approach
 The approach to Digital Game-Based Learning needs to be well planned and organized to engage in learning and to produce the appropriate outcomes.
@@ -48,7 +49,7 @@ It is important to know the theory and the tools because games do not work by th
 
 
 ## Tips for using VG in the classroom
-![](../assets/img/tips_vg_classroom.webp)
+![](./img/tips_vg_classroom.webp)
 
 ### Must
 1. Teachers do not need to be avid gamers, but they should **at least be interested in them**.
@@ -141,11 +142,11 @@ Teachers also can create their own form of EVGs by creating learning games in Go
 ### Hardware and Digital Skills evaluation
 We want to know how much the user knows about digital world, hardware, smartphone
 
-📄 [Survey Digital Skills](../99_resources/54_quiz_digital.md)
+📄 [Survey Digital Skills](resources/54_quiz_digital.md)
 
 ### VG Evaluation
 We want to know if user knows a bit about videogames
-📄 [Survey Videogames](../99_resources/28_quiz_videogames.md)
+📄 [Survey Videogames](resources/28_quiz_videogames.md)
 
 ### Setup device
 Install the game on the device and run it once.
@@ -167,7 +168,7 @@ There are seven aspects that should be examined when determining the effectivene
 ## Evaluation Tools: Analytics
 The analysts part is the more important 
 
-![](../assets/img/game_learning_analytics.webp)
+![](./img/game_learning_analytics.webp)
 
 ### Engagement Survey
 This questionnaire can be used after an activity has been completed to evaluate the level of engagement relative to another activity. In order to analyse the results and compare levels of engagement between two different activities the following steps should be taken.
@@ -198,3 +199,14 @@ Thinking about the activity you have just undertaken, please indicate the level 
 - I did not enjoy the activity
 - Feedback I was given was useful
 - I found it easy to get started
+
+---
+## Unit Review
+- At the end.. what do you think about DGBL?
+- What do you think is the best attitude using games in classroom?
+- What do you need to improve your teaching sessions?
+- Are you going to play more videogames from tomorrow?
+- Did you like this course?
+- Did you learn something new?
+- What did you like most?
+- Have you some suggestion to improve this course?

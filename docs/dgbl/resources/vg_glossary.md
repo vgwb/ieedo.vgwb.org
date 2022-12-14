@@ -1,8 +1,5 @@
 ---
-title: # Videogames Glossary
-parent: Resources
-has_children: false
-nav_order: 99
+title: Videogames Glossary
 ---
 
 # Videogames Glossary

@@ -69,7 +69,7 @@ repo_url: https://github.com/vgwb/learn.vgwb.org/
 edit_uri: edit/main/docs/
 
 extra_css:
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
 
 # extra:
 #   alternate:
