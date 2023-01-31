@@ -1,4 +1,4 @@
-# Learn with VGWB
+# IEEDO - moodle
 
 http://learn.vgwb.org/
 
