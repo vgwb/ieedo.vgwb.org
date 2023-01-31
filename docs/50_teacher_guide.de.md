@@ -35,7 +35,7 @@ With this new role comes the excitement of presenting digital game-based learnin
 
 
 
-![dgbl_flowchart](./img/dgbl_flowchart.webp)
+![dgbl_flowchart](assets/img/dgbl_flowchart.webp)
 
 ## Approach
 The approach to Digital Game-Based Learning needs to be well planned and organized to engage in learning and to produce the appropriate outcomes.
@@ -49,7 +49,7 @@ It is important to know the theory and the tools because games do not work by th
 
 
 ## Tips for using VG in the classroom
-![](./img/tips_vg_classroom.webp)
+![](assets/img/tips_vg_classroom.webp)
 
 ### Must
 1. Teachers do not need to be avid gamers, but they should **at least be interested in them**.
@@ -142,11 +142,11 @@ Teachers also can create their own form of EVGs by creating learning games in Go
 ### Hardware and Digital Skills evaluation
 We want to know how much the user knows about digital world, hardware, smartphone
 
-📄 [Survey Digital Skills](resources/54_quiz_digital.md)
+📄 [Survey Digital Skills](dgbl/dgbl/resources/54_quiz_digital.md)
 
 ### VG Evaluation
 We want to know if user knows a bit about videogames
-📄 [Survey Videogames](resources/28_quiz_videogames.md)
+📄 [Survey Videogames](dgbl/dgbl/resources/28_quiz_videogames.md)
 
 ### Setup device
 Install the game on the device and run it once.
@@ -168,7 +168,7 @@ There are seven aspects that should be examined when determining the effectivene
 ## Evaluation Tools: Analytics
 The analysts part is the more important 
 
-![](./img/game_learning_analytics.webp)
+![](assets/img/game_learning_analytics.webp)
 
 ### Engagement Survey
 This questionnaire can be used after an activity has been completed to evaluate the level of engagement relative to another activity. In order to analyse the results and compare levels of engagement between two different activities the following steps should be taken.

@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Introduktion
 ---
 # Digital Game Based Learning
 an introductive guide by [Video Games Without Borders](https://vgwb.org)

@@ -17,14 +17,14 @@ nav_order: 20
 
 ## What is a Video Game
 
-![game-design](./img/game-design.jpg)
+![game-design](assets/img/game-design.jpg)
 
 A video game is a computer game designed mainly for entertainment purposes. A video game console is the electronic machine designed to play the **games** and a **video** display such as a computer monitor or television is the primary feedback device. 
 The main **input device** is a controller. A controller can be a keyboard, mouse, game pad, joystick, paddle, our fingers, voice, or any other not yet invented device. Special purpose devices, such as steering wheels for driving **games**, light guns for shooting **games**, and drums for musical **games** may also be used.
 
 Here is the diagram of the Videogame seen as a designed system and flow.
 
-![vg-circuit](./img/vg-circuit.png)
+![vg-circuit](assets/img/vg-circuit.png)
 
 ## Genres
 ### Adventure
@@ -162,14 +162,14 @@ It feels good to engage our brains, improve our skills, and make progress on a p
 Structured activities - games, sports, office work - usually revolve around developing and using a **skill**. And if the **level of challenge** in the activity increases to match your newfound skill, you’ve got a setup for **flow** — the ultimate goal of every game and product designer.
 
 ### Setup the conditions for Flow
-![](./img/flow_changes.jpg)
+![](assets/img/flow_changes.jpg)
 Flow takes effort. Without learning, practice and challenge, there is no flow.
 
 At their core, games are pleasurable learning engines that deliver an experience that’s deeply, intrinsically motivating. Over time you absorb the rules, build your skills, tackle ever-greater challenges — and in the process, you’re transformed in some way that’s meaningful to YOU.
 
 ### Forget Points — Think Character Transformation
 
-![humanist_player](./img/humanist_player.jpg)
+![humanist_player](assets/img/humanist_player.jpg)
 
 Just as character transformation is the backbone of great drama, **personal transformation is the backbone of great gameplay**.
 In games, *we* are the protagonist — the person with agency, facing a series of choices and challenges along a journey towards mastery. Progress metrics (points, badges, levels, leaderboards, reputation systems) are icing on this learning/mastery cake. These markers help you gauge where you stand, and how far you’ve come, but they’re meaningless as a stand-alone system without something to get better at, some skill to develop.
@@ -180,7 +180,7 @@ That’s what makes games truly engaging. To make your learning sessions compell
 
 Trying to drive long-term engagement with extrinsic rewards is a fool’s errand. Status markers and variable reward schedules are not what makes an experience truly engaging.
 
-![magic_circle](./img/magic_circle.jpg)
+![magic_circle](assets/img/magic_circle.jpg)
 
 Games are built from systems and rules that engage you in a micro-world — a “magic circle” that’s shared by everyone playing the game. That’s the power and pleasure of a game — you get to take a mini-break from daily life, and spend time (together) in an alternate, simplified reality.
 
@@ -202,14 +202,14 @@ So what’s the solution? As much as you can, design your feedback & rewards sys
 
 ### Autonomy: Self-Determination & Meaningful Choice
 
-![autonomy](./img/autonomy.jpg)
+![autonomy](assets/img/autonomy.jpg)
 Autonomy is the feeling of controlling your own destiny. In a game, app or service, this boils down to how and when you offer choices.
 
 Great games offer meaningful choices with interesting constraints. Think of Settlers of Catan, World of Warcraft, Minecraft, even Kickstarter — all systems that can be explored and mastered by following your interests and making a series of increasingly interesting choices.
 
 ### Mastery: Skill-building, feedback & challenge
 
-![mastery](./img/mastery.jpg)
+![mastery](assets/img/mastery.jpg)
 
 Mastery taps into the feeling of getting better at something. Games offer the player a set of actions and choices within a constrained, rule-based environment.
 
@@ -217,7 +217,7 @@ In a great game, mastering the ruleset is deeply pleasurable. The lack of anythi
 
 ### Purpose: connect w/something greater than yourself
 
-![purpouse](./img/purpouse.jpg)
+![purpouse](assets/img/purpouse.jpg)
 
 Purpose is all about connectedness and relatedness — with other people, with a shared cause , with something bigger than yourself. And
 
@@ -318,7 +318,7 @@ Proponents of gamification often cite research demonstrating the positive impact
 The Flow state in an experience as the equilibrium point between challenge and ability. If the challenge is quite higher than the ability the result will be the person getting frustrated and with the feeling of anxiety, on the other hand if the person’s skill is higher than the challenge presented he will experience boredom.
 Games should be designed and calibrated the ensure that the player maximises its staying within the *flow channel*
 
-![](./img/flow-1.png)
+![](assets/img/flow-1.png)
 
 
 # Games selection
@@ -365,7 +365,7 @@ As well as improving learning abilities, here are some other benefits of Games:
 - improve **critical thinking**: with underlying ethical, philosophical and social basis, and their ability to make players think.
 
 ## Challengers
-![human-vs-machine](./img/human-vs-machine.jpg)
+![human-vs-machine](assets/img/human-vs-machine.jpg)
 
 Video games allow a player to challenge some-one on the same screen, or in the same room (each one with its networked device), or anywhere in the world via internet (in realtime or at turned based play).
 Players can even challenge recorded adversaries, or even them self!

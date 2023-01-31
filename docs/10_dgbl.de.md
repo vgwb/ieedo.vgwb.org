@@ -1,4 +1,8 @@
-# 1. What is DGBL
+---
+title: 1 - What is DGBL
+nav_order: 10
+---
+# What is DGBL
 
 **Learning Objectives**
 
@@ -46,14 +50,14 @@ The design of more engaging curriculum needs to include techniques that teaches 
 In order to understand GBL better, its different types can be examined along with taking the following into consideration: the **place** where the game happens, and the **environment** in which the students play. The three types of GBL are:
 
 ### Board games
-![gbl_boardgames](img/gbl_boardgames.webp)
+![gbl_boardgames](assets/img/gbl_boardgames.webp)
 
 Board Games are usually played by one or more players around a table (they are also called Tabletop Games).
 Monopoly can be considered an educational game. It has all the necessary elements: a story, characters, points, competition, and many other aspects. There are many examples of Monopoly-like games for schools with modified rules for different subjects, like History Monopoly or Math Monopoly. Board Games are used with great success to explore and teach. But it's not the focus of _this_ course. 
 
 ### Real life games
 
-![gbl_reallife](img/gbl_reallife.webp)
+![gbl_reallife](assets/img/gbl_reallife.webp)
 
 The environment here is the **real world**. This is probably the most motivating, but also the most stressful type of game. In this kind, students must move, act, use their body and their minds in order to play. This is the most immersive type and it provokes students in almost every aspect of their learning. Since there is the possibility to move into a certain space, the real life game is often connected to the **theatre**. It’s easy to find **role play** activities, as well as simulations or drama in this type of game learning. Students act “as if they were” a character of the game, make decisions according to their goals, the environment, and the rules (Living Role Playing Game). We'll see that the Augmented Reality technology allows digital games to be played in the real world.
 
@@ -92,7 +96,7 @@ Engaging students in classroom content is always a hard task, and traditional fo
 
 Additionally, **sustaining engagement** is very important to ensure that the student is gaining the most out of their learning experience and that their **cognitive skills are always stimulated**. Engaging through educational video games that are built on educational content has proven to be a great way not only to keep students engaged but also to **deliver complex theories/topics in an interactive manner** allowing students to have a **deeper comprehension of the content**.
 
-![games-engagement](img/games-engagement.webp)
+![games-engagement](assets/img/games-engagement.webp)
 
 
 ## Motivation
