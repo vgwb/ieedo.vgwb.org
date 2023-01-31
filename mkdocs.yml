@@ -3,7 +3,7 @@ site_url: https://ieedo.vgwb.org
 site_author: VGWB
 site_description: DGBL module for IEEDO project
 
-copyright: Open Source website by <a href="https://vgwb.org>vgwb.org</a>
+copyright: Open Source website by <a href="https://vgwb.org">vgwb.org</a>
 
 theme:
   name: material
