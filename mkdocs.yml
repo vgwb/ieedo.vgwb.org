@@ -1,9 +1,9 @@
 site_name: IEEDO - DGBL
-site_url: https://learn.vgwb.org
+site_url: https://ieedo.vgwb.org
 site_author: VGWB
-site_description: 
+site_description: DGBL module for IEEDO project
 
-copyright: Open Source website by <a href="https://vgwb.org>VGWB.org</a>
+copyright: Open Source website by <a href="https://vgwb.org>vgwb.org</a>
 
 theme:
   name: material
@@ -76,10 +76,3 @@ plugins:
 
 extra_css:
   - assets/stylesheets/extra.css
-
-# extra:
-#   alternate:
-#     - name: English
-#       lang: en
-#     - name: Italian
-#       lang: it
