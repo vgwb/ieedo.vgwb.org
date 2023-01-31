@@ -1,6 +1,6 @@
 # IEEDO - moodle
 
-http://learn.vgwb.org/
+http://ieedo.vgwb.org/
 
 ## Commands
 
