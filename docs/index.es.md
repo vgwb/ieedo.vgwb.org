@@ -1,28 +1,24 @@
 ---
 title: Introducción
 ---
-# Digital Game Based Learning
-an introductive guide by [Video Games Without Borders](https://vgwb.org)
 
-> "Real, good, serious stuff can happen even inside of a playful ecosystem."
+# Aprendizaje digital basado en juegos
 
-It is a truth universally acknowledged that teachers should make available activities that are capable of **involving students in the learning process**. Games and digital tools are terrains that amplify reality and that educators must explore to move in that direction.
+una guía introductoria de [Videojuegos sin Fronteras](https://vgwb.org)
 
-**Games and technology** represent perfect environments to facilitate exploration, having a strong impact on a student’s ability to learn-by-doing and **immediate acquisition** of knowledge and skills.
+> "Cosas reales, buenas y serias pueden ocurrir incluso dentro de un ecosistema lúdico".
 
-While **playing and interacting** with different forms of reality, students can sometimes learn without even realizing it! Fun and engagement are the backgrounds on which abilities and understanding are constructed. Theory and practice are smoothly integrated into the process of **solving issues** within the scope of a game.
+Es una verdad universalmente reconocida que los profesores deben poner a disposición de los **alumnos** actividades capaces de **implicarlos en el proceso de aprendizaje**. Los juegos y las herramientas digitales son terrenos que amplifican la realidad y que los educadores deben explorar para avanzar en esa dirección.
 
-Here is what you'll learn with this guide:
+Los juegos**y la tecnología** representan entornos perfectos para facilitar la exploración, ya que tienen un fuerte impacto en la capacidad del alumno para aprender haciendo y en la **adquisición inmediata** de conocimientos y habilidades.
 
-- [1 - DGBL](10_dgbl.md)
-  What is Digital Games Based Learning
-- [2 - Educational Videogames](20_educational_videogames.md)
-  How do they work?
-- [3 - Learning with games in the classroom](30_learning.md)
-  How to use videogames in classroom?
-- [4 - Case studies](40_case_studies.md)
-  Let's analyse some games
-- [5 - Teacher guide](50_teacher_guide.md)
-  The handbook for the teacher
-- [Resources and appendices](dgbl/dgbl/resources/index.md)
-  To go deeper in the various topics
+Mientras **juegan e interactúan** con distintas formas de realidad, los alumnos pueden aprender a veces sin darse cuenta. La diversión y el compromiso son los cimientos sobre los que se construyen las capacidades y la comprensión. La teoría y la práctica se integran sin problemas en el proceso de **resolución de problemas** en el ámbito de un juego.
+
+Esto es lo que aprenderás con esta guía:
+
+- [1 - DGBL](10_dgbl.md) ¿Qué es el aprendizaje basado en juegos digitales?
+- [2 - Videojuegos educativos](20_educational_videogames.md) ¿Cómo funcionan?
+- [3 - Aprendizaje con juegos en el aula](30_learning.md) ¿Cómo utilizar los videojuegos en clase?
+- [4 - Casos prácticos](40_case_studies.md) Analicemos algunos juegos
+- [5 - Guía del profesor](50_teacher_guide.md) El manual para el profesor
+- [Recursos y apéndices](resources/index.md) Paraprofundizar en los distintos temas

@@ -1,28 +1,24 @@
 ---
 title: Introduktion
 ---
-# Digital Game Based Learning
-an introductive guide by [Video Games Without Borders](https://vgwb.org)
 
-> "Real, good, serious stuff can happen even inside of a playful ecosystem."
+# Digitalt spelbaserat lärande
 
-It is a truth universally acknowledged that teachers should make available activities that are capable of **involving students in the learning process**. Games and digital tools are terrains that amplify reality and that educators must explore to move in that direction.
+en introduktionsguide av [Videospel utan gränser](https://vgwb.org)
 
-**Games and technology** represent perfect environments to facilitate exploration, having a strong impact on a student’s ability to learn-by-doing and **immediate acquisition** of knowledge and skills.
+> "Riktiga, bra och allvarliga saker kan hända även i ett lekfullt ekosystem."
 
-While **playing and interacting** with different forms of reality, students can sometimes learn without even realizing it! Fun and engagement are the backgrounds on which abilities and understanding are constructed. Theory and practice are smoothly integrated into the process of **solving issues** within the scope of a game.
+Det är en allmänt erkänd sanning att lärare bör tillhandahålla aktiviteter som kan **involvera eleverna i inlärningsprocessen**. Spel och digitala verktyg är områden som förstärker verkligheten och som pedagoger måste utforska för att röra sig i den riktningen.
 
-Here is what you'll learn with this guide:
+**Spel och teknik** är perfekta miljöer för att underlätta utforskandet och har en stark inverkan på elevernas förmåga att lära genom att göra och **omedelbart förvärva** kunskaper och färdigheter.
 
-- [1 - DGBL](10_dgbl.md)
-  What is Digital Games Based Learning
-- [2 - Educational Videogames](20_educational_videogames.md)
-  How do they work?
-- [3 - Learning with games in the classroom](30_learning.md)
-  How to use videogames in classroom?
-- [4 - Case studies](40_case_studies.md)
-  Let's analyse some games
-- [5 - Teacher guide](50_teacher_guide.md)
-  The handbook for the teacher
-- [Resources and appendices](dgbl/dgbl/resources/index.md)
-  To go deeper in the various topics
+När eleverna **leker och interagerar** med olika former av verklighet kan de ibland lära sig utan att ens inse det! Lustighet och engagemang är den bakgrund på vilken förmågor och förståelse byggs upp. Teori och praktik integreras smidigt i processen att **lösa problem** inom ramen för ett spel.
+
+Här är vad du kommer att lära dig med den här guiden:
+
+- 1 - DGBLVad är digitalt spelbaserat lärande?
+- 2 - Pedagogiska videospelHur fungerar de?
+- 3 - Lärande med spel i klassrummetHur använder man videospel i klassrummet?
+- 4 - FallstudierLåt oss analysera några spel.
+- 5 - LärarhandledningHandbok för läraren
+- Resurser och bilagorFör att fördjupa sig i de olika ämnena

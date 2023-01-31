@@ -1,28 +1,24 @@
 ---
 title: Εισαγωγή
 ---
-# Digital Game Based Learning
-an introductive guide by [Video Games Without Borders](https://vgwb.org)
 
-> "Real, good, serious stuff can happen even inside of a playful ecosystem."
+# Ψηφιακή μάθηση βασισμένη σε παιχνίδια
 
-It is a truth universally acknowledged that teachers should make available activities that are capable of **involving students in the learning process**. Games and digital tools are terrains that amplify reality and that educators must explore to move in that direction.
+ένας εισαγωγικός οδηγός από το [Video Games Without B](https://vgwb.org)orders
 
-**Games and technology** represent perfect environments to facilitate exploration, having a strong impact on a student’s ability to learn-by-doing and **immediate acquisition** of knowledge and skills.
+> "Πραγματικά, καλά, σοβαρά πράγματα μπορούν να συμβούν ακόμη και μέσα σε ένα παιχνιδιάρικο οικοσύστημα".
 
-While **playing and interacting** with different forms of reality, students can sometimes learn without even realizing it! Fun and engagement are the backgrounds on which abilities and understanding are constructed. Theory and practice are smoothly integrated into the process of **solving issues** within the scope of a game.
+Είναι μια αλήθεια παγκοσμίως αναγνωρισμένη ότι οι εκπαιδευτικοί πρέπει να διαθέτουν δραστηριότητες ικανές να **εμπλέξουν τους μαθητές στη μαθησιακή** διαδικασία. Τα παιχνίδια και τα ψηφιακά εργαλεία είναι εδάφη που ενισχύουν την πραγματικότητα και που οι εκπαιδευτικοί πρέπει να εξερευνήσουν για να κινηθούν προς αυτή την κατεύθυνση.
 
-Here is what you'll learn with this guide:
+Τα**παιχνίδια και η τεχνολογία** αποτελούν ιδανικά περιβάλλοντα για τη διευκόλυνση της εξερεύνησης, έχοντας ισχυρό αντίκτυπο στην ικανότητα του μαθητή να μαθαίνει μέσω της πράξης και της **άμεσης απόκτησης** γνώσεων και δεξιοτήτων.
 
-- [1 - DGBL](10_dgbl.md)
-  What is Digital Games Based Learning
-- [2 - Educational Videogames](20_educational_videogames.md)
-  How do they work?
-- [3 - Learning with games in the classroom](30_learning.md)
-  How to use videogames in classroom?
-- [4 - Case studies](40_case_studies.md)
-  Let's analyse some games
-- [5 - Teacher guide](50_teacher_guide.md)
-  The handbook for the teacher
-- [Resources and appendices](dgbl/dgbl/resources/index.md)
-  To go deeper in the various topics
+**Παίζοντας και αλληλεπιδρώντας** με διαφορετικές μορφές πραγματικότητας, οι μαθητές μπορούν μερικές φορές να μάθουν χωρίς καν να το συνειδητοποιήσουν! Η διασκέδαση και η εμπλοκή αποτελούν το υπόβαθρο πάνω στο οποίο οικοδομούνται οι ικανότητες και η κατανόηση. Η θεωρία και η πρακτική ενσωματώνονται ομαλά στη διαδικασία **επίλυσης ζητημάτων** στο πλαίσιο ενός παιχνιδιού.
+
+Να τι θα μάθετε με αυτόν τον οδηγό:
+
+- 1 - DGBLΤι είναι η μάθηση με βάση τα ψηφιακά παιχνίδια
+- 2 - Εκπαιδευτικά βιντεοπαιχνίδιαΠώς λειτουργούν;
+- 3 - Μάθηση με παιχνίδια στην τάξηΠώς να χρησιμοποιήσετε τα βιντεοπαιχνίδια στην τάξη;
+- 4 - Μελέτες περίπτωσηςΑς αναλύσουμε μερικά παιχνίδια
+- 5 - Οδηγός για τον εκπαιδευτικόΤο εγχειρίδιο για τον εκπαιδευτικό
+- Πηγές και παραρτήματαΓια να εμβαθύνετε στα διάφορα θέματα
