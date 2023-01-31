@@ -71,7 +71,7 @@ plugins:
           name: Swedish
       material_alternate: true
 
-#repo_url: https://github.com/vgwb/learn.vgwb.org/
+repo_url: https://github.com/vgwb/ieedo.vgwb.org/
 #edit_uri: edit/main/docs/
 
 extra_css:
