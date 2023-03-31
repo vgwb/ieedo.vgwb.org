@@ -1,4 +1,4 @@
-site_name: IEEDO - DGBL
+site_name: IEEDO
 site_url: https://ieedo.vgwb.org
 site_author: VGWB
 site_description: DGBL module for IEEDO project
@@ -19,7 +19,7 @@ theme:
 #    - navigation.tabs
 #    - navigation.tabs.sticky
     - navigation.top
-#    - navigation.sections
+    - navigation.sections
     - announce.dismiss
   font:
     text: Roboto
@@ -71,7 +71,7 @@ plugins:
           name: Swedish
       material_alternate: true
 
-repo_url: https://github.com/vgwb/ieedo.vgwb.org/
+#repo_url: https://github.com/vgwb/ieedo.vgwb.org/
 #edit_uri: edit/main/docs/
 
 extra_css:

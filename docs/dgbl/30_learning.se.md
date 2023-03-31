@@ -14,7 +14,7 @@ nav_order: 30
 
 ## Positive impacts of gaming for students
 
-![](assets/img/vg_positive_impact.webp)
+![](../assets/img/vg_positive_impact.webp)
 
 
 We have researching and discovering how much games and video games have a positive impact both in life and in education. 
@@ -46,10 +46,10 @@ Games bring together combination of motivating elements not found together in an
 ## Learning Flow
 Educational Games a special "flow", which is
 
-![](assets/img/cognitive_approach.png)
+![](../assets/img/cognitive_approach.png)
 
 
-![](assets/img/GBLModel.webp)
+![](../assets/img/GBLModel.webp)
 
 ## Video Games and new teaching methods
 
@@ -63,7 +63,7 @@ Introducing video games into the classroom **enhances many learning and teaching
 
 
 ## How effective are video games in the classroom?
-![](assets/img/vg_pro-cons.webp)
+![](../assets/img/vg_pro-cons.webp)
 Let's see some Pros and Cons of video games
 
 ### Pros
