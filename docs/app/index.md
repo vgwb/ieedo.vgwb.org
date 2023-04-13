@@ -27,3 +27,7 @@ The IEEDO App has been designed to support the coaches working with adult refuge
 
 - [Android - Google Play](https://play.google.com/store/apps/details?id=org.vgwb.ieedo)
 - [iOS - App Store](https://apps.apple.com/app/ieedo/id1663886129)
+
+## Support
+
+You can find the developer page and issues management [here](https://vgwb.github.io/IEEDO/)
