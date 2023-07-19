@@ -1,384 +1,390 @@
 ---
-title: 2 - Educational Video Games
+title: 2 - Videojuegos educativos
 has_children: true
 has_toc: false
 nav_order: 20
 ---
-# 2. Educational Video Games
+# 2. Videojuegos educativos
 
-**Learning Objectives**
+**Objetivos de aprendizaje**
 
-- What is a Videogame?
-- VG types and categories
-- How to select an EVG
-- What makes a good EVG? 
-- How to improve engagement and motivation?
-- What is the "flow" state?
+- ¿Qué es un videojuego?
+- Tipos y categorías de VG
+- Cómo seleccionar un VG
+- ¿Qué hace que un videojuego sea bueno? 
+- ¿Cómo mejorar el compromiso y la motivación?
+- ¿Qué es el estado de "flujo"?
 
-## What is a Video Game
+## ¿Qué es un videojuego?
 
-![game-design](../assets/img/game-design.jpg)
+diseño del juego](../assets/img/game-design.jpg)
 
-A video game is a computer game designed mainly for entertainment purposes. A video game console is the electronic machine designed to play the **games** and a **video** display such as a computer monitor or television is the primary feedback device. 
-The main **input device** is a controller. A controller can be a keyboard, mouse, game pad, joystick, paddle, our fingers, voice, or any other not yet invented device. Special purpose devices, such as steering wheels for driving **games**, light guns for shooting **games**, and drums for musical **games** may also be used.
+Un videojuego es un juego de ordenador diseñado principalmente con fines de entretenimiento. Una consola de videojuegos es la máquina electrónica diseñada para jugar a los **juegos** y una **pantalla de vídeo**, como un monitor de ordenador o un televisor, es el principal dispositivo de respuesta. 
+El principal **dispositivo de entrada** es un mando. Un mando puede ser un teclado, un ratón, un game pad, un joystick, una paleta, nuestros dedos, la voz o cualquier otro dispositivo aún no inventado. También se pueden utilizar dispositivos especiales, como volantes para **juegos de conducción**, pistolas de luz para **juegos de disparos** y tambores para **juegos musicales**.
 
-Here is the diagram of the Videogame seen as a designed system and flow.
+Aquí está el diagrama del Videojuego visto como un sistema y flujo diseñado.
 
-![vg-circuit](../assets/img/vg-circuit.png)
+vg-circuit](../assets/img/vg-circuit.png)
 
-## Genres
-### Adventure
-Adventure games are one of the oldest forms of computer game, going back to the early text adventures and interactive fiction of the 1970s and 1980s. They involve the player undertaking series of tasks or puzzles in which they must interact with the virtual world, performing actions, talking to characters and manipulating objects in order to achieve the objectives of the game, often to solve some mystery or complete a quest.
+## Géneros
+### Aventura
+Los juegos de aventura son una de las formas más antiguas de juego de ordenador, remontándose a las primeras aventuras de texto y ficción interactiva de los años setenta y ochenta. Consisten en que el jugador emprenda una serie de tareas o rompecabezas en los que debe interactuar con el mundo virtual, realizando acciones, hablando con personajes y manipulando objetos para alcanzar los objetivos del juego, a menudo resolver algún misterio o completar una misión.
 
-Although the original adventure games were text-based, contemporary commercial adventure games tend use graphics, offering three-dimensional worlds that players can navigate. There is also a growing popularity of simpler web-based adventures, known as point-and-click games, which typically provide two-dimensional environments in which the player has to navigate through rooms and make objects interact to solve the puzzles presented
+Aunque los juegos de aventuras originales se basaban en texto, las aventuras comerciales contemporáneas tienden a utilizar gráficos, ofreciendo mundos tridimensionales por los que los jugadores pueden navegar. También son cada vez más populares las aventuras más sencillas basadas en la web, conocidas como juegos de apuntar y hacer clic, que suelen ofrecer entornos bidimensionales en los que el jugador tiene que navegar por las habitaciones y hacer que los objetos interactúen para resolver los enigmas presentados.
 
-Adventure games generally depend on **mental agility** rather than physical dexterity and tend **not to be time-dependent**. Some adventures combine elements of both and it is common for adventure games to contain mini-games in another genre. In terms of education, adventure games can **present a context for problem-solving and lateral thinking**, where players have to work out the appropriate actions in order to achieve a goal.
+Los juegos de aventuras suelen depender de la **agilidad mental** más que de la destreza física y tienden a **no depender del tiempo**. Algunas aventuras combinan elementos de ambos géneros y es habitual que contengan minijuegos de otro género. Desde el punto de vista educativo, los juegos de aventuras pueden **presentar un contexto para la resolución de problemas y el pensamiento lateral**, en el que los jugadores tienen que idear las acciones adecuadas para alcanzar un objetivo.
 
-### Platform
-Platform games involve the movement of the player character through a landscape (usually two-dimensional), jumping up and down between platforms, avoiding obstacles and enemies, and picking up treasure, usually with some overall goal in mind and often in the context of a narrative. Platform games require physical dexterity and the aim is usually to score points and complete levels.
-The types of skills that they develop are **hand–eye coordination**, **planning** and **strategizing, problem-solving** (the sequence of steps required to get over a particular obstacle for instance) and the ability to think quickly.
+### Plataforma
+Los juegos de plataformas implican el movimiento del personaje del jugador a través de un paisaje (normalmente bidimensional), saltando entre plataformas, evitando obstáculos y enemigos, y recogiendo tesoros, normalmente con algún objetivo general en mente y a menudo en el contexto de una narrativa. Los juegos de plataformas requieren destreza física y el objetivo suele ser conseguir puntos y completar niveles.
+Los tipos de habilidades que desarrollan son la **coordinación ojo-mano**, la **planificación** y la **estrategia, la resolución de problemas** (la secuencia de pasos necesaria para superar un obstáculo concreto, por ejemplo) y la capacidad de pensar con rapidez.
 
-### Puzzle
-Puzzle games primarily involve problem-solving, can take many forms – including words, logic, mathematics – and are often based on traditional puzzles (for example online crosswords or spot-the-difference). Simple puzzle games can be stand-alone but they are also often embedded within a larger narrative structure so that solving the puzzles will complete some larger quest or story. It is common for puzzles to be embedded within other genres such as adventure games as mini-games. Puzzles can be used to support a variety of **different types of learning** depending on the type of puzzle, including **logic**, **spatial awareness**, **verbal skills**, **numeracy skills**, and **spelling**. I would also include quizzes in this category, and they are an example of a game activity that can be used in almost any area of a curriculum, but primarily for recall of facts.
+### Rompecabezas
+Los juegos de rompecabezas implican principalmente la resolución de problemas, pueden adoptar muchas formas (palabras, lógica, matemáticas) y a menudo se basan en rompecabezas tradicionales (por ejemplo, crucigramas en línea o busca las diferencias). Los juegos de puzles sencillos pueden ser independientes, pero también suelen estar integrados en una estructura narrativa más amplia, de modo que la resolución de los enigmas complete una misión o historia mayor. Es habitual que los puzles se integren como minijuegos en otros géneros, como las aventuras gráficas. Los rompecabezas pueden utilizarse para apoyar **diferentes tipos de aprendizaje** dependiendo del tipo de rompecabezas, como **lógica**, **conciencia espacial**, **habilidades verbales**, **habilidades numéricas** y **ortografía**. También incluiría en esta categoría los acertijos, que son un ejemplo de actividad lúdica que puede utilizarse en casi cualquier área de un plan de estudios, pero principalmente para recordar hechos.
 
-### Role Play
-Role play games emerged from the face-to-face role-playing games and involve the player taking on the role of a character in another (usually fantasy-based) world.
-The player can undertake a range of activities including solving quests, fighting, treasure hunting, and interacting with other characters (either other players in the game world or non-player characters). There is usually a mix of problem-solving skills required as well as strategy and sometimes physical dexterity, and although single-player role-playing games exist, they are commonly multi-player. Role play games are usually underpinned by complex statistical models that provide scores for a range of characteristics that determine a character’s abilities and weaknesses.
-In the context of learning, role-playing games are good for providing a context for building **collaborative skills**, **social interaction**, **negotiation**, **management of complex systems** (e.g. character statistics), **strategy**, and working through scenarios.
+### Juegos de rol
+Los juegos de rol surgieron a partir de los juegos de rol presenciales e implican que el jugador adopte el papel de un personaje en otro mundo (normalmente basado en la fantasía).
+El jugador puede llevar a cabo una serie de actividades, como resolver misiones, luchar, buscar tesoros e interactuar con otros personajes (ya sean otros jugadores del mundo del juego o personajes no jugadores). Suelen requerir habilidades para resolver problemas, así como estrategia y, a veces, destreza física. Aunque existen juegos de rol para un solo jugador, suelen ser multijugador. Los juegos de rol suelen basarse en complejos modelos estadísticos que proporcionan puntuaciones para una serie de características que determinan las habilidades y debilidades de un personaje.
+En el contexto del aprendizaje, los juegos de rol son buenos para proporcionar un contexto en el que desarrollar **habilidades de colaboración**, **interacción social**, **negociación**, **gestión de sistemas complejos** (por ejemplo, estadísticas de los personajes), **estrategia** y trabajar a través de escenarios.
 
 ### Shooter
-Shooter games have the primary aim of using weapons (or sometimes spells and other special abilities) to defeat opponents, although the action is often embedded within a wider narrative context. They are generally played from a **first person** viewpoint (FPS First Person Shooter) and are played in real time. This is another genre in which **multi-player** games are common. Shooter games involve a combination of strategy and dexterity, exploring virtual worlds and defeating enemies and targets.
-Although this is one genre in which it may be argued that there is less applicability to learning in higher education, there are still many skills that can be acquired by playing such games including forward **planning**, **strategizing**, and **team working**.
+Los juegos de disparos tienen como objetivo principal el uso de armas (o a veces hechizos y otras habilidades especiales) para derrotar a los oponentes, aunque la acción a menudo se inserta en un contexto narrativo más amplio. Suelen jugarse desde un punto de vista en **primera persona** (FPS First Person Shooter) y en tiempo real. Este es otro género en el que son comunes los juegos **multijugador**. Los juegos de disparos implican una combinación de estrategia y destreza, explorando mundos virtuales y derrotando a enemigos y objetivos.
+Aunque este es un género en el que se puede argumentar que hay menos aplicabilidad al aprendizaje en la educación superior, todavía hay muchas habilidades que se pueden adquirir jugando a este tipo de juegos, incluyendo **planificación**, **estrategia** y **trabajo en equipo**.
 
-### Sports
-Sports games allow the player to simulate taking part in a sporting event or tournament. They are generally based on physical dexterity and interaction with the gaming interface, but in recent years innovations such as dance mats and consoles that use movement-sensitive devices (the most notable example being the Nintendo consoles) have enabled players to actually undertake physical activity while playing.
-Sporting games can be used to **practice** the actual skills of a sport (although in the majority of cases this will be a representation through whatever interaction device is available), **tactics**, **rules** and the ability to **think and make decisions quickly**.
+### Deportes
+Los juegos deportivos permiten al jugador simular la participación en un evento o torneo deportivo. Generalmente se basan en la destreza física y la interacción con la interfaz del juego, pero en los últimos años innovaciones como las alfombras de baile y las consolas que utilizan dispositivos sensibles al movimiento (el ejemplo más notable son las consolas de Nintendo) han permitido a los jugadores realizar realmente una actividad física mientras juegan.
+Los juegos deportivos pueden utilizarse para **practicar** las habilidades reales de un deporte (aunque en la mayoría de los casos se tratará de una representación a través de cualquier dispositivo de interacción disponible), la **táctica**, las **reglas** y la capacidad de **pensar y tomar decisiones con rapidez**.
 
-### Strategy
-Strategy games involve the player making strategic decisions within a scenario in order to meet the goal of the game, which is usually completing a level or solving a particular problem. They can involve, for example, movements of armies, progression of a group through various stages of development, management of resources or creation of environments to achieve specific purposes. For example, the strategy game Age of Empires involves players progressing their empire through stages of civilization. Many strategy games also have elements of **simulation** built into them in terms of a complex underlying model of a virtual environment, but will tend to have clear goals.
-Strategy games can be used for teaching **planning**, **decision-making**, **testing hypotheses**, **strategic thinking**, **management skills** and **seeing the consequences** of actions taken.
+### Estrategia
+Los juegos de estrategia implican que el jugador tome decisiones estratégicas dentro de un escenario para cumplir el objetivo del juego, que suele ser completar un nivel o resolver un problema concreto. Pueden implicar, por ejemplo, movimientos de ejércitos, la progresión de un grupo a través de diversas etapas de desarrollo, la gestión de recursos o la creación de entornos para lograr fines específicos. Por ejemplo, el juego de estrategia Age of Empires implica que los jugadores hagan progresar su imperio a través de etapas de civilización. Muchos juegos de estrategia también tienen elementos de **simulación** incorporados en términos de un complejo modelo subyacente de un entorno virtual, pero tenderán a tener objetivos claros.
+Los juegos de estrategia pueden utilizarse para enseñar a **planificar**, **tomar decisiones**, **comprobar hipótesis**, **pensar estratégicamente**, **habilidades de gestión** y **ver las consecuencias** de las acciones emprendidas.
 
-### Casual games
-Another type of game (which isn’t really a genre in itself as there are many different types) that is currently growing in popularity is casual games. These games are usually downloaded from gaming sites rather than being available in shops and are cheaper than traditional entertainment games (or free to play online).
-Casual games are designed to be played in **short bursts** rather than for prolonged sessions so are **chunked into many small levels** that all follow the same pattern, so that they can be played for a few minutes at a time and easily stopped and restarted. These games cater for players who simply want to play a game for a short time and do not want to make any great commitment in terms of time or learning how to play. They have **simple game play** and comparatively low production values. The rise in the use of casual games shows a movement away from the typical ‘hardcore’ gamer to a wider demographic, particularly female and older players, which is more typical of the whole university student demographic, and casual games may be most appropriate for fitting into specific segments of teaching time.
+### Juegos casuales
+Otro tipo de juego (que en realidad no es un género en sí mismo, ya que hay muchos tipos diferentes) que actualmente está creciendo en popularidad son los juegos casuales. Estos juegos suelen descargarse de sitios de juegos en lugar de estar disponibles en tiendas y son más baratos que los juegos de entretenimiento tradicionales (o gratuitos para jugar en línea).
+Los juegos casuales están diseñados para ser jugados en **ráfagas cortas** más que en sesiones prolongadas, por lo que están **divididos en muchos niveles pequeños** que siguen todos el mismo patrón, de modo que pueden jugarse durante unos minutos seguidos y pueden detenerse y reiniciarse fácilmente. Estos juegos están pensados para jugadores que simplemente quieren jugar durante poco tiempo y no quieren comprometerse en términos de tiempo o de aprendizaje. Tienen una jugabilidad sencilla y unos valores de producción comparativamente bajos. El aumento del uso de juegos casuales muestra un alejamiento del típico jugador "hardcore" hacia un grupo demográfico más amplio, en particular mujeres y jugadores de más edad, que es más típico de todo el grupo demográfico de estudiantes universitarios, y los juegos casuales pueden ser los más apropiados para encajar en segmentos específicos del tiempo de enseñanza.
 
 ### Sandbox
-Games with freedom to do / build / create / wander as you like.
-Pure creativity.
+Juegos con libertad para hacer/construir/crear/vagar a tu antojo.
+Pura creatividad.
 
-## Video Game components
+## Componentes del videojuego
 ### Hardware
-The physical components and electronic devices needed to play the game Software.
-The more common are:
-- PC - Personal Computer (can be Windows, MacOS, Linux)
-- Browser games (can be accessed by any devices with a standard web browser)
-- Console (Xbox/PlayStation/Nintendo Switch)
+Los componentes físicos y dispositivos electrónicos necesarios para jugar al juego Software.
+Los más comunes son:
+
+- PC - Ordenador personal (puede ser Windows, MacOS, Linux)
+- Juegos de navegador (se puede acceder a ellos desde cualquier dispositivo con un navegador web estándar)
+- Consola (Xbox/PlayStation/Nintendo Switch)
 - TV / Smart TV
-- Mobile Smartphones (Android or iOS)
-- Mobile Tablets (Android or iOS)
-- Handheld devices (Gameboy)
+- Smartphones móviles (Android o iOS)
+- Tabletas móviles (Android o iOS)
+- Dispositivos portátiles (Gameboy)
 - Wearables (smartwatches)
-- VR - Virtual Reality
-- AR - Augmented Reality
-- Metaverse - an online virtual immersive and social space.
+- VR - Realidad Virtual
+- RA - Realidad Aumentada
+- Metaverso - un espacio virtual inmersivo y social en línea.
 
 ### Software
-All computer code and digital multimedia assets are stored and managed by the hardware to enable the interactive experience defined by the Game Design.
+El hardware almacena y gestiona todo el código informático y los activos multimedia digitales para hacer posible la experiencia interactiva definida por el diseño del juego.
 
-The software can be acquired by:
-- from a physical box/card/disc
-- downloading it from Internet or from a local server
-- shared by storage devices
-- compiled from sources
+El software puede adquirirse
 
-The license to use it can be:
-- **commercial** (**personal**). usually it belongs to the buyer and can't be shared.
-- **commercial** (**group**): you buy a license to use it in a classroom / school / private group.
-- **subscription** / rent: you pay a monthly fee to use it
-- **free**: you download it for free or can play it online without paying anything
-- **freemium**: the game is free but has commercial advertising or you can buy additional options to have the complete game
-- **open source**: not only the game is free, but you have access to the software code, to improve /  modify it
+- desde una caja física/tarjeta/disco
+- descargándolo de Internet o de un servidor local
+- compartido por dispositivos de almacenamiento
+- compilado a partir de fuentes
 
-### Game Design
-- game mechanics
-- level design / progression
-- graphics / aestethics
-- environment / lore
-- sound / music
-- achievements
-- characters
-- story
-- customisation
-- purpose
-- social interactions
+La licencia para utilizarlo puede ser:
 
-## Where to play Video Games?
-Today VG can be played in any environment or life situation.
-- Indoor (home)
-- Outdoor (mobile games)
-- Classroom (with PC or mobile)
-- Online (wherever there is internet)
-- Offline (a standalone game that doesn't require internet)
+- **comercial** (**personal**): normalmente pertenece al comprador y no se puede compartir.
+- **comercial** (**grupo**): se compra una licencia para usarlo en un aula / escuela / grupo privado.
+- **suscripción** / alquiler: pagas una cuota mensual para utilizarlo
+- **gratuito**: lo descargas gratis o puedes jugar en línea sin pagar nada
+- **freemium**: el juego es gratuito pero tiene publicidad comercial o puedes comprar opciones adicionales para tener el juego completo
+- **open source**: no sólo el juego es gratis, sino que tienes acceso al código del software, para mejorarlo / modificarlo
 
-# Good EVG
-> What makes a good educational video game good?
+### Diseño del juego
+- mecánica del juego
+- diseño de niveles / progresión
+- gráficos / estética
+- entorno / lore
+- sonido / música
+- logros
+- personajes
+- historia
+- personalización
+- objetivo
+- interacciones sociales
 
-How good video game designers create games that manage to get new players to learn long, complex and difficult games?
-They build these games based on the good principles of learning that involve 3 main criteria, **Empowered Learners**, **Problem Solving** and **Understanding**. 
+## ¿Dónde jugar a videojuegos?
+Hoy en día se puede jugar a los VG en cualquier entorno o situación de la vida:
 
-1. **Empowered Learners:** learners feel like active agents (producers) and not just passive recipients (consumers). It includes learning principles such as identity, customization, Manipulation and Distributed Knowledge.
+- Interior (hogar)
+- Al aire libre (juegos móviles)
+- En clase (con PC o móvil)
+- En línea (dondequiera que haya Internet)
+- Offline (un juego independiente que no requiere internet)
 
-2. **Problem-Solving:** good learning occurs through though-provoking challenges and problem that push the players creativity and forces them to use their building knowledge to solve problems. It includes principles such as Well-ordered problems, pleasantly frustrating principles, cycles of expertise, and just in Time and On-demand principles.
+## Buen EVG  
+> ¿Qué hace que un buen videojuego educativo sea bueno?
 
-3. **Understanding:** good learning is based on acquired systematic thinking and comprehension, which allows the learner to comprehend and understand every element of their content/problem. It includes system Thinking principle and meaning as action image principle.
+¿Cómo crean los buenos diseñadores de videojuegos juegos que consiguen que los nuevos jugadores aprendan partidas largas, complejas y difíciles?
+Construyen estos juegos basándose en los buenos principios del aprendizaje que implican 3 criterios principales, **Aprendizaje Potenciado**, **Resolución de Problemas** y **Comprensión**. 
 
-Good video games employ strategies that causes players to **exercise their learning muscles**, without knowing it and without having to pay overt attention to the matter.
+1. **Los alumnos se sienten agentes activos (productores) y no meros receptores pasivos (consumidores). Incluye principios de aprendizaje como la identidad, la personalización, la manipulación y el conocimiento distribuido.
 
-Good educational video games excite human learning through **mind-provoking challenges** and hooks. Cognitive scientists identify good educational video games as games that are both fun as well as provide a good educational experience by **connecting to the student’s deeper appreciation for learning** and their own trajectory in life.
+2. **El buen aprendizaje se produce a través de retos y problemas que estimulan la creatividad de los jugadores y les obligan a utilizar los conocimientos adquiridos para resolver problemas. Incluye principios como problemas bien ordenados, principios agradablemente frustrantes, ciclos de experiencia y principios justo a tiempo y a demanda.
 
-The three large criteria of a good educational game design if implemented in schools would necessitate significant changes in the structure and nature of formal schooling. Empowered Learners, Problem Solving and Understanding all entail important learning principles and features that the more they are present in the selected game, the stronger the game in delivering its content.
+3. **Comprensión:** el buen aprendizaje se basa en el pensamiento sistemático adquirido y en la comprensión, que permite al alumno comprender y entender cada elemento de su contenido/problema. Incluye el principio del pensamiento sistémico y el principio del significado como imagen de la acción.
 
-_**So what are the learning principles that a good educational video game is built on?**_
+Los buenos videojuegos emplean estrategias que hacen que los jugadores **ejerciten sus músculos de aprendizaje**, sin saberlo y sin tener que prestar una atención manifiesta al asunto.
 
-> The first attribute of a good educational video game is **how engaging it is**? 
+Los buenos videojuegos educativos estimulan el aprendizaje humano mediante **desafíos que provocan la mente** y ganchos. Los científicos cognitivos identifican los buenos videojuegos educativos como juegos que son a la vez divertidos y proporcionan una buena experiencia educativa al **conectar con el aprecio más profundo del estudiante por el aprendizaje** y su propia trayectoria en la vida.
 
-Engagement is a broad category that involves many properties in order to sustain it.
-Here is an outline of the learning principles of a good video educational video game.
+Los tres grandes criterios del diseño de un buen videojuego educativo, si se aplicaran en las escuelas, requerirían cambios significativos en la estructura y la naturaleza de la enseñanza formal. La capacitación de los alumnos, la resolución de problemas y la comprensión implican importantes principios y características de aprendizaje que, cuanto más presentes estén en el juego seleccionado, más sólido será el juego a la hora de transmitir su contenido.
 
-# What makes games so engaging?
+¿Cuáles son los principios de aprendizaje en los que se basa un buen videojuego educativo?
 
-## The surprising truth about learning, motivation and mastery
+> El primer atributo de un buen videojuego educativo es **¿cuán atractivo es**? 
 
-How do you grab people’s attention? What makes any experience truly engaging over time?
+El compromiso es una categoría amplia que implica muchas propiedades para mantenerlo.
+He aquí un esbozo de los principios de aprendizaje de un buen videojuego educativo.
 
-We know that games **can** be deeply engaging — and that no single type of games holds the key. Stylistically, people seek out a wide variety of different experiences. Just look at today’s gaming landscape, from adrenaline-pumping shooters to candy-coated puzzlers to the creative freedom of Minecraft, one person’s beloved game is another’s worst nightmare.
+## La sorprendente verdad sobre el aprendizaje, la motivación y el dominio
 
-> Beneath the surface, all great games have one thing in common: **progressive skill-building**. Games keep players engaged by helping them **get better at something meaningful**.
+¿Cómo se capta la atención de la gente? ¿Qué hace que cualquier experiencia resulte realmente atractiva a lo largo del tiempo?
 
-## Skill-Building, Challenge & Flow
+Sabemos que los juegos **pueden** ser profundamente atractivos, y que no hay un único tipo de juegos que tenga la clave. Estilísticamente, la gente busca experiencias muy diversas. Basta con echar un vistazo al panorama actual de los juegos: desde los shooters que disparan la adrenalina hasta los rompecabezas recubiertos de caramelo, pasando por la libertad creativa de Minecraft, el juego favorito de una persona es la peor pesadilla de otra.
 
-It feels good to engage our brains, improve our skills, and make progress on a path towards mastery. Games, sports and education are particularly good at accomplishing this, but every teacher can learn to harness the underlying power of skill-building & challenges.
+> Bajo la superficie, todos los grandes juegos tienen algo en común: **el desarrollo progresivo de habilidades. Los juegos mantienen el interés de los jugadores ayudándoles a **mejorar en algo significativo**.
 
-Structured activities - games, sports, office work - usually revolve around developing and using a **skill**. And if the **level of challenge** in the activity increases to match your newfound skill, you’ve got a setup for **flow** — the ultimate goal of every game and product designer.
+## Desarrollo de habilidades, desafío y fluidez
 
-### Setup the conditions for Flow
-![](../assets/img/flow_changes.jpg)
-Flow takes effort. Without learning, practice and challenge, there is no flow.
+Nos sentimos bien cuando estimulamos nuestro cerebro, mejoramos nuestras habilidades y avanzamos hacia la maestría. Los juegos, los deportes y la educación son especialmente buenos para conseguirlo, pero todos los profesores pueden aprender a aprovechar el poder subyacente del desarrollo de habilidades y los retos.
 
-At their core, games are pleasurable learning engines that deliver an experience that’s deeply, intrinsically motivating. Over time you absorb the rules, build your skills, tackle ever-greater challenges — and in the process, you’re transformed in some way that’s meaningful to YOU.
+Las actividades estructuradas -juegos, deportes, trabajo de oficina- suelen girar en torno al desarrollo y el uso de una **habilidad**. Y si el **nivel de desafío** de la actividad aumenta hasta igualar la habilidad recién adquirida, se crean las condiciones para el **flujo**, el objetivo último de todo diseñador de juegos y productos.
 
-### Forget Points — Think Character Transformation
+### Establecer las condiciones para el flujo
+![](../assets/img/flow_changes.jpg)  
+El flujo requiere esfuerzo. Sin aprendizaje, práctica y desafío, no hay fluidez.
+
+En el fondo, los juegos son motores de aprendizaje placenteros que ofrecen una experiencia profunda e intrínsecamente motivadora. Con el tiempo, asimilas las reglas, desarrollas tus habilidades, te enfrentas a retos cada vez mayores y, en el proceso, te transformas de alguna manera que es significativa para ti.
+
+### Olvida los Puntos - Piensa en la Transformación del Personaje
 
 ![humanist_player](../assets/img/humanist_player.jpg)
 
-Just as character transformation is the backbone of great drama, **personal transformation is the backbone of great gameplay**.
-In games, *we* are the protagonist — the person with agency, facing a series of choices and challenges along a journey towards mastery. Progress metrics (points, badges, levels, leaderboards, reputation systems) are icing on this learning/mastery cake. These markers help you gauge where you stand, and how far you’ve come, but they’re meaningless as a stand-alone system without something to get better at, some skill to develop.
+Al igual que la transformación de los personajes es la columna vertebral de los grandes dramas, la transformación personal es la columna vertebral de los grandes juegos.
+En los juegos, *nosotros* somos el protagonista, la persona con capacidad de decisión que se enfrenta a una serie de elecciones y retos en un viaje hacia la maestría. Las métricas de progreso (puntos, insignias, niveles, tablas de clasificación, sistemas de reputación) son la guinda de este pastel de aprendizaje/maestría. Estos indicadores te ayudan a medir tu posición y lo lejos que has llegado, pero no tienen sentido como sistema independiente sin algo en lo que mejorar, alguna habilidad que desarrollar.
 
-That’s what makes games truly engaging. To make your learning sessions compelling in the long run, **forget points, think character transformation**, skill-building and empowering mastery.
+Eso es lo que hace que los juegos sean realmente atractivos. Para que tus sesiones de aprendizaje resulten atractivas a largo plazo, **olvídate de los puntos, piensa en la transformación del personaje**, en el desarrollo de habilidades y en la potenciación del dominio.
 
-## Support Intrinsic Pleasure with Extrinsic Scaffolding
+## Apoye el placer intrínseco con andamiaje extrínseco
 
-Trying to drive long-term engagement with extrinsic rewards is a fool’s errand. Status markers and variable reward schedules are not what makes an experience truly engaging.
+Intentar fomentar el compromiso a largo plazo con recompensas extrínsecas es una misión imposible. Los marcadores de estatus y los programas de recompensas variables no son lo que hace que una experiencia sea realmente atractiva.
 
-![magic_circle](../assets/img/magic_circle.jpg)
+![Círculo_mágico](../assets/img/magic_circle.jpg)
 
-Games are built from systems and rules that engage you in a micro-world — a “magic circle” that’s shared by everyone playing the game. That’s the power and pleasure of a game — you get to take a mini-break from daily life, and spend time (together) in an alternate, simplified reality.
+Los juegos se construyen a partir de sistemas y reglas que te involucran en un micromundo, un "círculo mágico" que comparten todos los jugadores. Ese es el poder y el placer de un juego: puedes tomarte un pequeño descanso de la vida cotidiana y pasar tiempo (juntos) en una realidad alternativa y simplificada.
 
-If metrics and rewards are your main event, you’ve got a shallow and/or manipulative product that won’t hold people’s interest over time .Well-crafted games are an artful blend of intrinsic pleasure and extrinsic scaffolding. Pleasurable activities are the beating heart; progress scaffolding (points, levels, badges, power-ups) serves to support and amplify the core activities.
+Si las métricas y las recompensas son el evento principal, el producto será superficial o manipulador y no mantendrá el interés de la gente a lo largo del tiempo. Los juegos bien hechos son una ingeniosa mezcla de placer intrínseco y andamiaje extrínseco. Las actividades placenteras son el corazón palpitante; el andamiaje de progreso (puntos, niveles, insignias, potenciadores) sirve para apoyar y amplificar las actividades centrales.
 
-> Well-crafted games are an artful blend of intrinsic pleasure and extrinsic scaffolding.
+> Los juegos bien elaborados son una ingeniosa mezcla de placer intrínseco y andamiaje extrínseco.
 
-### Self-Determination Theory: the science of motivation
+### Teoría de la autodeterminación: la ciencia de la motivación
 
-To create a truly compelling experience, tap into the trinity of Intrinsic Motivation: Autonomy, Mastery, and Purpose. This framework emerged during the 1970s as [Self-Determination Theory](http://en.wikipedia.org/wiki/Self-determination_theory) and was recently re-popularized in [Dan Pink’s ‘Drive’](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates-ebook/dp/B004P1JDJO/) for workplace motivation, and in [Rigby and Ryan’s ‘Glued to Games’](http://www.amazon.com/Glued-Games-Video-Spellbound-Directions-ebook/dp/B004NYAH66/) for explaining gaming motivations.
+Para crear una experiencia realmente atractiva, aproveche la trinidad de la motivación intrínseca: Autonomía, Dominio y Propósito. Este marco surgió en los años 70 con el nombre de [Teoría de la Autodeterminación](http://en.wikipedia.org/wiki/Self-determination_theory) y recientemente se ha vuelto a popularizar en [Drive](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates-ebook/dp/B004P1JDJO/) de Dan Pink para la motivación en el trabajo, y en [Glued to Games](http://www.amazon.com/Glued-Games-Video-Spellbound-Directions-ebook/dp/B004NYAH66/) de Rigby y Ryan para explicar las motivaciones de los juegos.
 
-### Extrinsic rewards can devalue pleasurable tasks
+### Las recompensas extrínsecas pueden devaluar las tareas placenteras
 
-This research shows us that extrinsic metrics and rewards can be effective at getting people to complete simple tasks — BUT these same rewards often backfire and lower effectiveness & motivation for creative or pleasurable tasks
+Esta investigación nos muestra que las métricas y recompensas extrínsecas pueden ser eficaces para conseguir que la gente complete tareas sencillas, PERO estas mismas recompensas a menudo son contraproducentes y reducen la eficacia y la motivación para tareas creativas o placenteras.
 
-Why is this problematic for long-term engagement? Numerous studies show that extrinsic rewards can de-value otherwise pleasurable tasks like reading or drawing. For example, [this famous study](http://www.spring.org.uk/2009/10/how-rewards-can-backfire-and-reduce-motivation.php) took kids who loved reading and rewarded them extrinsically with points and money for reading. Guess what? The kids completely stopped reading for pleasure.
+¿Por qué es esto problemático para el compromiso a largo plazo? Numerosos estudios demuestran que las recompensas extrínsecas pueden restar valor a tareas que de otro modo serían placenteras, como leer o dibujar. Por ejemplo, [este famoso estudio](http://www.spring.org.uk/2009/10/how-rewards-can-backfire-and-reduce-motivation.php) tomó a niños a los que les encantaba leer y los recompensó extrínsecamente con puntos y dinero por leer. ¿Y qué? Los niños dejaron por completo de leer por placer.
 
-So what’s the solution? As much as you can, design your feedback & rewards system around these three core principles of intrinsic motivations.
+¿Cuál es la solución? En la medida de lo posible, diseñe su sistema de retroalimentación y recompensas en torno a estos tres principios básicos de las motivaciones intrínsecas.
 
-### Autonomy: Self-Determination & Meaningful Choice
+### Autonomía: Autodeterminación y elección significativa
 
-![autonomy](../assets/img/autonomy.jpg)
-Autonomy is the feeling of controlling your own destiny. In a game, app or service, this boils down to how and when you offer choices.
+![autonomía](../assets/img/autonomy.jpg)
+La autonomía es la sensación de controlar tu propio destino. En un juego, aplicación o servicio, esto se reduce a cómo y cuándo ofreces opciones.
 
-Great games offer meaningful choices with interesting constraints. Think of Settlers of Catan, World of Warcraft, Minecraft, even Kickstarter — all systems that can be explored and mastered by following your interests and making a series of increasingly interesting choices.
+Los grandes juegos ofrecen opciones significativas con limitaciones interesantes. Piensa en Colonos de Catán, World of Warcraft, Minecraft o incluso Kickstarter, todos ellos sistemas que puedes explorar y dominar siguiendo tus intereses y tomando una serie de decisiones cada vez más interesantes.
 
-### Mastery: Skill-building, feedback & challenge
+### Maestría: desarrollo de habilidades, retroalimentación y desafío
 
-![mastery](../assets/img/mastery.jpg)
+![Dominio](../assets/img/mastery.jpg)
 
-Mastery taps into the feeling of getting better at something. Games offer the player a set of actions and choices within a constrained, rule-based environment.
+La maestría aprovecha la sensación de mejorar en algo. Los juegos ofrecen al jugador un conjunto de acciones y opciones dentro de un entorno limitado y basado en reglas.
 
-In a great game, mastering the ruleset is deeply pleasurable. The lack of anything to master is often why simple gamification fails. Points, badges, and leaderboards aren’t compelling unless you’re improving along some personally meaningful dimension.
+En un gran juego, dominar el conjunto de reglas es profundamente placentero. La falta de algo que dominar suele ser el motivo del fracaso de la gamificación simple. Los puntos, las insignias y las tablas de clasificación no son convincentes a menos que se mejore en alguna dimensión personalmente significativa.
 
-### Purpose: connect w/something greater than yourself
+### Propósito: conectar con algo más grande que uno mismo
 
-![purpouse](../assets/img/purpouse.jpg)
+![Propósito](../assets/img/purpouse.jpg)
 
-Purpose is all about connectedness and relatedness — with other people, with a shared cause , with something bigger than yourself. And
+El propósito tiene que ver con la conexión y la relación: con otras personas, con una causa común, con algo más grande que uno mismo. Y
 
-numerous studies have shown that people who cultivate meaningful relationships report higher levels of happiness.
+numerosos estudios han demostrado que las personas que cultivan relaciones significativas son más felices.
 
-Purpose is often best communicated through storytelling. Here’s the thing: the **most powerful story is happening inside your customer’s head** — the personal narrative of how engaging with your product transforms her into someone better, stronger, more powerful, more skillful, more connected to the issues and people she cares about.
+A menudo, la mejor forma de comunicar el propósito es contar historias. Esta es la cuestión: la **historia más poderosa está ocurriendo dentro de la cabeza de su cliente**: la narración personal de cómo el compromiso con su producto le transforma en alguien mejor, más fuerte, más poderoso, más hábil, más conectado con los problemas y las personas que le importan.
 
-## Intrinsic Motivation
+## Motivación intrínseca
 
-> **Intrinsic motivation** is when you are motivated by personal satisfaction or enjoyment instead of external factors like reward or punishment. There are ways to make tasks more intrinsically motivating.
+> **La motivación intrínseca** es cuando te motiva la satisfacción o el disfrute personal en lugar de factores externos como la recompensa o el castigo. Hay formas de hacer que las tareas sean más motivadoras desde el punto de vista intrínseco.
 
-Intrinsic motivation is the act of doing something without any obvious external rewards. You do it because it’s enjoyable and interesting, rather than because of an outside incentive or pressure to do it, such as a reward or deadline.
+La motivación intrínseca es el acto de hacer algo sin ninguna recompensa externa obvia. Lo haces porque te resulta agradable e interesante, en lugar de por un incentivo o presión externa para hacerlo, como una recompensa o una fecha límite.
 
-An example of intrinsic motivation would be reading a book because you enjoy reading and have an interest in the story or subject, rather than reading because you have to write a report on it to pass a class.
+Un ejemplo de motivación intrínseca sería leer un libro porque te gusta leer y te interesa la historia o el tema, en lugar de leerlo porque tienes que escribir un informe sobre él para aprobar una asignatura.
 
-### Intrinsic motivation theory
+### Teoría de la motivación intrínseca
 
-There have been a number of different proposed theories to explain intrinsic motivation and how it works. Some experts believe that all behavior is driven by external reward, such as money, status, or food. In intrinsically motivated behaviors, the reward is the activity itself.
+Se han propuesto diversas teorías para explicar la motivación intrínseca y su funcionamiento. Algunos expertos creen que todo comportamiento está impulsado por una recompensa externa, como el dinero, el estatus o la comida. En los comportamientos intrínsecamente motivados, la recompensa es la propia actividad.
 
-The most recognized theory of intrinsic motivation was first based on people’s needs and drives. Hunger, thirst, and sex are biological needs that we’re driven to pursue in order to live and be healthy.
+La teoría más reconocida de la motivación intrínseca se basó primero en las necesidades e impulsos de las personas. El hambre, la sed y el sexo son necesidades biológicas que tenemos que satisfacer para vivir y estar sanos.
 
-Just like these biological needs, people also have psychological needs that must be satisfied in order to develop and thrive. These include the need for competence, autonomy, and relatedness.
+Al igual que estas necesidades biológicas, las personas también tienen necesidades psicológicas que deben satisfacer para desarrollarse y prosperar. Entre ellas están la necesidad de competencia, autonomía y relación.
 
-Along with satisfying these underlying psychological needs, intrinsic motivation also involves seeking out and engaging in activities that we find challenging, interesting, and internally rewarding without the prospect of any external reward.
+Junto con la satisfacción de estas necesidades psicológicas subyacentes, la motivación intrínseca también implica buscar y participar en actividades que nos resulten desafiantes, interesantes e internamente gratificantes sin la perspectiva de ninguna recompensa externa.
 
-📽 #VIDEO [# The puzzle of motivation | Dan Pink](https://youtu.be/rrkrvAUbU9Y)
+📽 #VIDEO [# El rompecabezas de la motivación | Dan Pink](https://youtu.be/rrkrvAUbU9Y)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/rrkrvAUbU9Y"></iframe>
 
-### Intrinsic motivation vs. extrinsic motivation
+### Motivación intrínseca vs. motivación extrínseca
 
-**Intrinsic motivation comes from within, while extrinsic motivation arises from outside**. When you’re intrinsically motivated, you engage in an activity solely because you enjoy it and get personal satisfaction from it.
+**La motivación intrínseca proviene del interior, mientras que la motivación extrínseca surge del exterior**. Cuando estás intrínsecamente motivado, realizas una actividad únicamente porque la disfrutas y obtienes satisfacción personal de ella.
 
-When you’re extrinsically motivated, you do something in order to gain an external reward. This can mean getting something in return, such as money, or avoiding getting into trouble, such as losing your job.
+Cuando estás motivado extrínsecamente, haces algo para obtener una recompensa externa. Esto puede significar obtener algo a cambio, como dinero, o evitar meterse en problemas, como perder el trabajo.
 
-|   | Motivation | Goals |
+| | Motivación | Metas |
 |---|---|---|
-|Intrinsic|You do the activity because it’s internally rewarding. You may do it because it’s fun, enjoyable, and satisfying.|Goals come from within and the outcomes satisfy your basic psychological needs for autonomy, competence, and relatedness.|
-|Extrinsic|You do the activity in order to get an external reward in return.	Goals are focused on an outcome and don’t satisfy your basic psychological needs.|Goals involve external gains, such as money, fame, power, or avoiding consequences.|
+|Intrínseca | Haces la actividad porque es gratificante internamente. | Los objetivos vienen de dentro y los resultados satisfacen las necesidades psicológicas básicas de autonomía, competencia y relación.
+|Extrínseca | Realiza la actividad para obtener una recompensa externa a cambio. | Los objetivos se centran en un resultado y no satisfacen sus necesidades psicológicas básicas.
 
-### Intrinsic motivation examples
+### Ejemplos de motivación intrínseca
 
-You’ve likely experienced examples of intrinsic motivation throughout your entire life without giving it much thought.
+Es probable que haya experimentado ejemplos de motivación intrínseca a lo largo de toda su vida sin pensar demasiado en ello.
 
-Some examples of intrinsic motivation are:
+Algunos ejemplos de motivación intrínseca son
 
-- participating in a sport because it’s fun and you enjoy it rather than doing it to win an award
-- learning a new language because you like experiencing new things, not because your job requires it
-- spending time with someone because you enjoy their company and not because they can further your social standing
-- cleaning because you enjoy a tidy space rather than doing it to avoid making your spouse angry
-- playing cards because you enjoy the challenge instead of playing to win money
-- exercising because you enjoy physically challenging your body instead of doing it to lose weight or fit into an outfit
-- volunteering because you feel content and fulfilled rather than needing it to meet a school or work requirement
-- going for a run because you find it relaxing or are trying to beat a personal record, not to win a competition
-- taking on more responsibility at work because you enjoy being challenged and feeling accomplished, rather than to get a raise or promotion
-- painting a picture because you feel calm and happy when you paint rather than selling your art to make money
+- participar en un deporte porque te divierte y lo disfrutas, en lugar de hacerlo para ganar un premio
+- aprender un nuevo idioma porque te gusta experimentar cosas nuevas, no porque tu trabajo te lo exija
+- pasar tiempo con alguien porque te gusta su compañía y no porque pueda mejorar tu posición social
+- limpiar porque te gusta tener un espacio ordenado en lugar de hacerlo para no enfadar a tu cónyuge
+- jugar a las cartas porque te gusta el desafío en lugar de jugar para ganar dinero
+- Hacer ejercicio porque le gusta desafiar físicamente a su cuerpo, en lugar de hacerlo para perder peso o para que le quede bien un conjunto.
+- hacer voluntariado porque te sientes satisfecho y realizado, en lugar de necesitarlo para cumplir un requisito escolar o laboral
+- Salir a correr porque te relaja o porque intentas batir un récord personal, no para ganar una competición.
+- Asumir más responsabilidades en el trabajo porque te gustan los retos y te sientes realizado, no para conseguir un aumento de sueldo o un ascenso.
+- pintar un cuadro porque te sientes tranquilo y feliz cuando pintas, en lugar de vender tu arte para ganar dinero
 
-### Intrinsic motivation factors
+### Factores de motivación intrínseca
 
-Everyone’s different and that includes what motivates us and our perspectives of rewards. Some people are more intrinsically motivated by a task while another person sees the same activity extrinsically.
+Cada persona es diferente y eso incluye lo que nos motiva y nuestras perspectivas de recompensa. Algunas personas se sienten más motivadas intrínsecamente por una tarea mientras que otra persona ve la misma actividad de forma extrínseca.
 
-Both can be effective, but research suggests that extrinsic rewards should be used sparingly because of the overjustification effect. Extrinsic rewards can undermine intrinsic motivation when used in certain situations or used too often. The rewards may lose their value when you reward behavior that was already intrinsically motivating. Some people also perceive extrinsic reinforcement as coercion or bribery.
+Ambas pueden ser eficaces, pero las investigaciones sugieren que las recompensas extrínsecas deben utilizarse con moderación debido al efecto de sobrejustificación. Las recompensas extrínsecas pueden socavar la motivación intrínseca cuando se utilizan en determinadas situaciones o con demasiada frecuencia. Las recompensas pueden perder su valor cuando se premia un comportamiento que ya era intrínsecamente motivador. Algunas personas también perciben el refuerzo extrínseco como coacción o soborno.
 
-The overjustification effect has inspired an entire field of study that focuses on students and how to help them reach their full potential. Though experts are divided on whether extrinsic rewards have a beneficial or negative effect on intrinsic motivation, a recent study showed that rewards may actually encourage intrinsic motivation when given early in a task.
+El efecto de sobrejustificación ha inspirado todo un campo de estudio que se centra en los estudiantes y en cómo ayudarles a alcanzar todo su potencial. Aunque los expertos están divididos sobre si las recompensas extrínsecas tienen un efecto beneficioso o negativo sobre la motivación intrínseca, un estudio reciente demostró que las recompensas pueden, de hecho, fomentar la motivación intrínseca cuando se dan al principio de una tarea.
 
-Researchers examined how reward timing influenced intrinsic motivation. They found that giving an immediate bonus for working on a task, rather than waiting until the task was completed, increased interest and enjoyment in it. Getting an earlier bonus increased motivation and persistence in the activity that continued even after the award was removed.
+Los investigadores examinaron cómo influía el momento de la recompensa en la motivación intrínseca. Descubrieron que dar una bonificación inmediata por trabajar en una tarea, en lugar de esperar a que la tarea estuviera terminada, aumentaba el interés y el disfrute por la misma. Obtener una bonificación antes aumentaba la motivación y la persistencia en la actividad, que continuaba incluso después de retirar el premio.
 
-Understanding the factors that promote intrinsic motivation can help you see how it works and why it can be beneficial. These factors include:
+Comprender los factores que fomentan la motivación intrínseca puede ayudarle a ver cómo funciona y por qué puede ser beneficiosa. Estos factores incluyen:
 
-- **Curiosity**. Curiosity pushes us to explore and learn for the sole pleasure of learning and mastering.
-- **Challenge**. Being challenged helps us work at a continuously optimal level work toward meaningful goals.
-- **Control**. This comes from our basic desire to control what happens and make decisions that affect the outcome.
-- **Recognition**. We have an innate need to be appreciated and satisfaction when our efforts are recognized and appreciated by others.
-- **Cooperation**. Cooperating with others satisfies our need for belonging. We also feel personal satisfaction when we help others and work together to achieve a shared goal.
-- **Competition**. Competition poses a challenge and increases the importance we place on doing well.
-- **Fantasy**. Fantasy involves using mental or virtual images to stimulate your behavior. An example is a virtual game that requires you to answer a question or solve a problem to move to the next level. Some motivation apps use a similar approach.
+- **Curiosidad**. La curiosidad nos empuja a explorar y aprender por el mero placer de aprender y dominar.
+- **Desafío**. Los retos nos ayudan a trabajar a un nivel continuamente óptimo para alcanzar objetivos significativos.
+- **Control**. Proviene de nuestro deseo básico de controlar lo que ocurre y tomar decisiones que afectan al resultado.
+- **Reconocimiento**. Tenemos una necesidad innata de ser apreciados y de sentirnos satisfechos cuando nuestros esfuerzos son reconocidos y apreciados por los demás.
+- **Cooperación**. Cooperar con los demás satisface nuestra necesidad de pertenencia. También sentimos satisfacción personal cuando ayudamos a los demás y trabajamos juntos para lograr un objetivo compartido.
+- **Competencia**. La competencia supone un reto y aumenta la importancia que damos a hacerlo bien.
+- **Fantasía**. La fantasía consiste en utilizar imágenes mentales o virtuales para estimular nuestro comportamiento. Un ejemplo es un juego virtual que requiere que respondas a una pregunta o resuelvas un problema para pasar al siguiente nivel. Algunas aplicaciones de motivación utilizan un enfoque similar.
 
+## Gamificación
 
-# Gamification
+El aprendizaje basado en el juego no debe confundirse con la gamificación.
 
-Game-based learning should not be confused with gamification.
+**DGBL** ofrece un delicado equilibrio entre las lecciones en clase y el juego educativo. Los profesores presentan a los alumnos nuevos conceptos y les muestran cómo funcionan. A continuación, los alumnos practican estos conceptos a través de juegos digitales.
 
-**DGBL** offers a delicate balance between in-class lessons and educational gameplay. Teachers introduce students to new concepts and show them how they work. Then students practise these concepts through digital games.
+**La gamificación** consiste en tomar elementos de los juegos -como la mecánica, las tablas de clasificación, los niveles o los puntos- y aplicarlos a contextos no lúdicos para captar mejor la atención de los usuarios. El objetivo es hacer más atractivas para los alumnos lecciones que podrían no serlo.
 
-**Gamification** involves taking elements from games -- such as game mechanics, leaderboards, levels, or points --  and applying them to non-game contexts to engage users better. The purpose of this is to make lessons that might not be enjoyable more engaging for students.
+Algunos ejemplos de mecánicas de juego utilizadas en la gamificación son:  
 
-Some examples of game mechanics used in gamification are:
-- **Goals** - Complete the task and get a reward, such as a **badge** or points.
-- **Status** - Users increase their level or rank through completing activities. **Leaderboards** show who is ‘winning’ and inspire users to work harder to compete.
-- **Community** - Users are paired or put in groups to solve problems, complete activities, or otherwise achieve an objective.
-- **Education** - Tips, tricks and quizzes are given to the user throughout the process.
-- **Rewards** - As mentioned above, points and badges are common, and useful, rewards. Other rewards could be discounts, coupons, or gift cards. This fuels the user’s motivation and keeps engagement high.
+- **Metas** - Completar la tarea y obtener una recompensa, como una **insignia** o puntos.
+- **Estado** - Los usuarios aumentan su nivel o rango completando actividades.
+- **Tablas de clasificación**: muestran quién está "ganando" e inspiran a los usuarios a esforzarse más para competir.
+- **Comunidad** - Los usuarios se emparejan o forman grupos para resolver problemas, completar actividades o alcanzar un objetivo.
+- **Formación** - A lo largo del proceso, el usuario recibe consejos, trucos y cuestionarios.
+- **Recompensas** - Como se ha mencionado anteriormente, los puntos y las insignias son recompensas comunes y útiles. Otras recompensas pueden ser descuentos, cupones o tarjetas regalo. Esto alimenta la motivación del usuario y mantiene alto el compromiso.
 
-Gamification takes an element of education and replaces it with a game-based element. For instance, a teacher may replace grades with levels or experience points.
+La gamificación toma un elemento de la educación y lo sustituye por un elemento basado en el juego. Por ejemplo, un profesor puede sustituir las notas por niveles o puntos de experiencia.
 
-Proponents of gamification often cite research demonstrating the positive impacts of these interventions on outcomes such as academic performance, student motivation, customer retention, organizational productivity, or user engagement in online platforms. 
+Los defensores de la gamificación suelen citar investigaciones que demuestran los efectos positivos de estas intervenciones en resultados como el rendimiento académico, la motivación de los estudiantes, la retención de clientes, la productividad de las organizaciones o la participación de los usuarios en plataformas en línea. 
 
-# The Flow state
-The Flow state in an experience as the equilibrium point between challenge and ability. If the challenge is quite higher than the ability the result will be the person getting frustrated and with the feeling of anxiety, on the other hand if the person’s skill is higher than the challenge presented he will experience boredom.
-Games should be designed and calibrated the ensure that the player maximises its staying within the *flow channel*
+## El estado de flujo
+El estado de Flow en una experiencia como el punto de equilibrio entre el reto y la habilidad. Si el reto es bastante superior a la habilidad el resultado será que la persona se frustre y con sensación de ansiedad, por otro lado si la habilidad de la persona es superior al reto presentado experimentará aburrimiento.
+Los juegos deben diseñarse y calibrarse para que el jugador maximice su permanencia en el *canal de flujo*.
 
 ![](../assets/img/flow-1.png)
 
 
-# Games selection
+## Selección de juegos
 
-After we have established the definition of game-based learning, its basis, and how its implementation enhances several social and cognitive skills, the question now diverts to **how we can select an educational video game that elicit engagement and motivation as well as ensure that it is designed with the intended educational content**.
-There are many educational video games available for class implementation, however, many are redundant, easy or stimulatingly boring that students are just not as interested or motivated to play.
-In this unit, we will discuss the characteristics of a good educational video game, its attributes, and how educators can ensure that they are providing their students with the best quality of learning through the selected video game.
+Después de haber establecido la definición de aprendizaje basado en juegos, su fundamento y cómo su aplicación mejora varias habilidades sociales y cognitivas, la cuestión se desvía ahora a **cómo podemos seleccionar un videojuego educativo que suscite compromiso y motivación, así como garantizar que está diseñado con el contenido educativo pretendido**.
+Hay muchos videojuegos educativos disponibles para su implementación en clase, sin embargo, muchos son redundantes, fáciles o estimulantemente aburridos que los estudiantes no están tan interesados o motivados para jugar.
+En esta unidad, discutiremos las características de un buen videojuego educativo, sus atributos y cómo los educadores pueden asegurarse de que están proporcionando a sus alumnos la mejor calidad de aprendizaje a través del videojuego seleccionado.
 
-# Where to find EVG
-When choosing an EVG we have several options where to look. We could:
+## Dónde encontrar EVG
+A la hora de elegir un EVG tenemos varias opciones donde buscar. Podemos
 
-- Use entertainment/**commercial off-the-shelf** (COTS) games. These games are already in the stores and could have additional or not explicit educational content (Assassin's Creed / Civilization)
-- **Modify** entertainment games. Many commercial games allow to create custom missions or quests (Kerbal Space Academy)
-- Use **virtual worlds**. There are many "sandbox" games where the player sparks creativity and teacher could pre-build the learning environment (Minecraft)
-- Use **educational games** created ad hoc (MinecraftEdu)
-- **Create original games**. If a special requirements is needed, you could develop or ask to develop a custom game (Antura)
-- **Let students create games**, to design a game you have to study and manage the learning content very deeply
+- Utilizar juegos de entretenimiento/**commercial off-the-shelf** (COTS). Estos juegos ya están en las tiendas y podrían tener contenido educativo adicional o no explícito (Assassin's Creed / Civilization)
+- **Modificar** juegos de entretenimiento. Muchos juegos comerciales permiten crear misiones o búsquedas personalizadas (Kerbal Space Academy)
+- Utilizar **mundos virtuales**. Hay muchos juegos "sandbox" en los que el jugador da rienda suelta a su creatividad y el profesor puede preconstruir el entorno de aprendizaje (Minecraft)
+- Utilizar **juegos educativos** creados ad hoc (MinecraftEdu)
+- **Crear juegos originales**. Si se necesitan requisitos especiales, se podría desarrollar o pedir que se desarrolle un juego a medida (Antura)
+- **Dejar que los alumnos creen juegos**, para diseñar un juego hay que estudiar y manejar muy profundamente los contenidos de aprendizaje
 
-# Games 4 Good
-**Games for good** have the mission to help improving the world, with positive social impact, improved knowledge about social issues, with direct experience of human problems.
+## Games 4 Good
+**Games for good** tienen la misión de ayudar a mejorar el mundo, con un impacto social positivo, un mejor conocimiento de los problemas sociales, con una experiencia directa de los problemas humanos.
 
-- Education
-- Health
-- Empathy
-- Ethics
-- Politics and History
-- Religion
-- Wars
-- Epidemics
-- Sexism and racism
-- Environment and Climate change
-- Energy
+- Educación
+- Salud
+- Empatía
+- Ética
+- Política e Historia
+- Religión
+- Guerras
+- Epidemias
+- Sexismo y racismo
+- Medio ambiente y cambio climático
+- Energía
 
-# Games benefits
+## Beneficios de los juegos
 
-Additionally, playing video games has a huge impact on the development of **cognitive**, **collaboration**, **creative problem solving**, and **communication skills** of students. 
-As well as improving learning abilities, here are some other benefits of Games:
+Además, jugar a videojuegos tiene un enorme impacto en el desarrollo de las **habilidades cognitivas**, **de colaboración**, **de resolución creativa de problemas** y **de comunicación** de los alumnos. 
 
-- **speed up response times**: improve troubleshooting skills by posing problems that must be solved in a set time.
-- **encourage teamwork**: multiplayer games boost teamwork in problem-solving.
-- **stimulate creativity, focus, and visual memory**: stimulate these aspects by setting goals that require concentration, imagination, and remembering details to achieve them.
-- **improve strategy and leadership**: put players in command, honing their abilities to resolve disputes, interact with other players and make decisions.
-- **teach languages**: they are useful for learning other languages through on-screen instructions, chats for communicating with other players, or the narration of the story itself.
-- improve **critical thinking**: with underlying ethical, philosophical and social basis, and their ability to make players think.
+Además de mejorar la capacidad de aprendizaje, he aquí otros beneficios de los juegos:
 
-## Challengers
-![human-vs-machine](../assets/img/human-vs-machine.jpg)
+- **agilizan los tiempos de respuesta**: mejoran la capacidad de resolución de problemas planteando problemas que deben resolverse en un tiempo determinado.
+- **fomentan el trabajo en equipo**: los juegos multijugador potencian el trabajo en equipo en la resolución de problemas.
+- **estimular la creatividad, la concentración y la memoria visual**: estimular estos aspectos planteando objetivos que requieran concentración, imaginación y recordar detalles para conseguirlos.
+- **mejoran la estrategia y el liderazgo**: ponen a los jugadores al mando, perfeccionando sus habilidades para resolver disputas, interactuar con otros jugadores y tomar decisiones.
+- **enseñar idiomas**: son útiles para aprender otros idiomas a través de las instrucciones en pantalla, los chats para comunicarse con otros jugadores o la propia narración de la historia.
+- mejorar el **pensamiento crítico**: con bases éticas, filosóficas y sociales subyacentes, y su capacidad para hacer pensar a los jugadores.
 
-Video games allow a player to challenge some-one on the same screen, or in the same room (each one with its networked device), or anywhere in the world via internet (in realtime or at turned based play).
-Players can even challenge recorded adversaries, or even them self!
+## Retadores
+![humanos contra máquinas](../assets/img/human-vs-machine.jpg)
 
-New advances with Artificial Intelligence allow players to play against advanced artificial players, that could be even be trained to play with a particular style or behaviours (Imitation Learning).
+Los videojuegos permiten a un jugador desafiar a alguien en la misma pantalla, o en la misma habitación (cada uno con su dispositivo en red), o en cualquier parte del mundo a través de Internet (en tiempo real o en partidas por turnos).
+Los jugadores pueden incluso desafiar a adversarios grabados, ¡o incluso a ellos mismos!
+
+Los nuevos avances en Inteligencia Artificial permiten a los jugadores jugar contra jugadores artificiales avanzados, que incluso pueden ser entrenados para jugar con un estilo o comportamientos particulares (Aprendizaje por Imitación).
 
 ---
 
-## Unit review
+## Repaso de la unidad
 
-QUIZ:
-- Select all virtues of Videogames ()
-- Select what we can learn by playing videogames ()
+PREGUNTA
 
-Discuss in your opinion:
-- What are the important features that a good educational video game should have?
+- Selecciona todas las virtudes de los Videojuegos
+- Selecciona qué podemos aprender jugando a videojuegos
+
+Comenta en tu opinión
+
+- ¿Cuáles son las características importantes que debe tener un buen videojuego educativo?

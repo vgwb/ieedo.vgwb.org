@@ -70,6 +70,7 @@ Pure creativity.
 ### Hardware
 The physical components and electronic devices needed to play the game Software.
 The more common are:
+
 - PC - Personal Computer (can be Windows, MacOS, Linux)
 - Browser games (can be accessed by any devices with a standard web browser)
 - Console (Xbox/PlayStation/Nintendo Switch)
@@ -86,12 +87,14 @@ The more common are:
 All computer code and digital multimedia assets are stored and managed by the hardware to enable the interactive experience defined by the Game Design.
 
 The software can be acquired by:
+
 - from a physical box/card/disc
 - downloading it from Internet or from a local server
 - shared by storage devices
 - compiled from sources
 
 The license to use it can be:
+
 - **commercial** (**personal**). usually it belongs to the buyer and can't be shared.
 - **commercial** (**group**): you buy a license to use it in a classroom / school / private group.
 - **subscription** / rent: you pay a monthly fee to use it
@@ -113,14 +116,15 @@ The license to use it can be:
 - social interactions
 
 ## Where to play Video Games?
-Today VG can be played in any environment or life situation.
+Today VG can be played in any environment or life situation:
+
 - Indoor (home)
 - Outdoor (mobile games)
 - Classroom (with PC or mobile)
 - Online (wherever there is internet)
 - Offline (a standalone game that doesn't require internet)
 
-# Good EVG
+## Good EVG  
 > What makes a good educational video game good?
 
 How good video game designers create games that manage to get new players to learn long, complex and difficult games?
@@ -145,8 +149,6 @@ _**So what are the learning principles that a good educational video game is bui
 Engagement is a broad category that involves many properties in order to sustain it.
 Here is an outline of the learning principles of a good video educational video game.
 
-# What makes games so engaging?
-
 ## The surprising truth about learning, motivation and mastery
 
 How do you grab people’s attention? What makes any experience truly engaging over time?
@@ -162,7 +164,7 @@ It feels good to engage our brains, improve our skills, and make progress on a p
 Structured activities - games, sports, office work - usually revolve around developing and using a **skill**. And if the **level of challenge** in the activity increases to match your newfound skill, you’ve got a setup for **flow** — the ultimate goal of every game and product designer.
 
 ### Setup the conditions for Flow
-![](../assets/img/flow_changes.jpg)
+![](../assets/img/flow_changes.jpg)  
 Flow takes effort. Without learning, practice and challenge, there is no flow.
 
 At their core, games are pleasurable learning engines that deliver an experience that’s deeply, intrinsically motivating. Over time you absorb the rules, build your skills, tackle ever-greater challenges — and in the process, you’re transformed in some way that’s meaningful to YOU.
@@ -255,7 +257,7 @@ When you’re extrinsically motivated, you do something in order to gain an exte
 |   | Motivation | Goals |
 |---|---|---|
 |Intrinsic|You do the activity because it’s internally rewarding. You may do it because it’s fun, enjoyable, and satisfying.|Goals come from within and the outcomes satisfy your basic psychological needs for autonomy, competence, and relatedness.|
-|Extrinsic|You do the activity in order to get an external reward in return.	Goals are focused on an outcome and don’t satisfy your basic psychological needs.|Goals involve external gains, such as money, fame, power, or avoiding consequences.|
+|Extrinsic|You do the activity in order to get an external reward in return. Goals are focused on an outcome and don’t satisfy your basic psychological needs.|Goals involve external gains, such as money, fame, power, or avoiding consequences.|
 
 ### Intrinsic motivation examples
 
@@ -294,8 +296,7 @@ Understanding the factors that promote intrinsic motivation can help you see how
 - **Competition**. Competition poses a challenge and increases the importance we place on doing well.
 - **Fantasy**. Fantasy involves using mental or virtual images to stimulate your behavior. An example is a virtual game that requires you to answer a question or solve a problem to move to the next level. Some motivation apps use a similar approach.
 
-
-# Gamification
+## Gamification
 
 Game-based learning should not be confused with gamification.
 
@@ -303,9 +304,11 @@ Game-based learning should not be confused with gamification.
 
 **Gamification** involves taking elements from games -- such as game mechanics, leaderboards, levels, or points --  and applying them to non-game contexts to engage users better. The purpose of this is to make lessons that might not be enjoyable more engaging for students.
 
-Some examples of game mechanics used in gamification are:
+Some examples of game mechanics used in gamification are:  
+
 - **Goals** - Complete the task and get a reward, such as a **badge** or points.
-- **Status** - Users increase their level or rank through completing activities. **Leaderboards** show who is ‘winning’ and inspire users to work harder to compete.
+- **Status** - Users increase their level or rank through completing activities.
+- **Leaderboards** show who is ‘winning’ and inspire users to work harder to compete.
 - **Community** - Users are paired or put in groups to solve problems, complete activities, or otherwise achieve an objective.
 - **Education** - Tips, tricks and quizzes are given to the user throughout the process.
 - **Rewards** - As mentioned above, points and badges are common, and useful, rewards. Other rewards could be discounts, coupons, or gift cards. This fuels the user’s motivation and keeps engagement high.
@@ -314,20 +317,20 @@ Gamification takes an element of education and replaces it with a game-based ele
 
 Proponents of gamification often cite research demonstrating the positive impacts of these interventions on outcomes such as academic performance, student motivation, customer retention, organizational productivity, or user engagement in online platforms. 
 
-# The Flow state
+## The Flow state
 The Flow state in an experience as the equilibrium point between challenge and ability. If the challenge is quite higher than the ability the result will be the person getting frustrated and with the feeling of anxiety, on the other hand if the person’s skill is higher than the challenge presented he will experience boredom.
 Games should be designed and calibrated the ensure that the player maximises its staying within the *flow channel*
 
 ![](../assets/img/flow-1.png)
 
 
-# Games selection
+## Games selection
 
 After we have established the definition of game-based learning, its basis, and how its implementation enhances several social and cognitive skills, the question now diverts to **how we can select an educational video game that elicit engagement and motivation as well as ensure that it is designed with the intended educational content**.
 There are many educational video games available for class implementation, however, many are redundant, easy or stimulatingly boring that students are just not as interested or motivated to play.
 In this unit, we will discuss the characteristics of a good educational video game, its attributes, and how educators can ensure that they are providing their students with the best quality of learning through the selected video game.
 
-# Where to find EVG
+## Where to find EVG
 When choosing an EVG we have several options where to look. We could:
 
 - Use entertainment/**commercial off-the-shelf** (COTS) games. These games are already in the stores and could have additional or not explicit educational content (Assassin's Creed / Civilization)
@@ -337,7 +340,7 @@ When choosing an EVG we have several options where to look. We could:
 - **Create original games**. If a special requirements is needed, you could develop or ask to develop a custom game (Antura)
 - **Let students create games**, to design a game you have to study and manage the learning content very deeply
 
-# Games 4 Good
+## Games 4 Good
 **Games for good** have the mission to help improving the world, with positive social impact, improved knowledge about social issues, with direct experience of human problems.
 
 - Education
@@ -352,9 +355,10 @@ When choosing an EVG we have several options where to look. We could:
 - Environment and Climate change
 - Energy
 
-# Games benefits
+## Games benefits
 
 Additionally, playing video games has a huge impact on the development of **cognitive**, **collaboration**, **creative problem solving**, and **communication skills** of students. 
+
 As well as improving learning abilities, here are some other benefits of Games:
 
 - **speed up response times**: improve troubleshooting skills by posing problems that must be solved in a set time.
@@ -376,9 +380,11 @@ New advances with Artificial Intelligence allow players to play against advanced
 
 ## Unit review
 
-QUIZ:
-- Select all virtues of Videogames ()
-- Select what we can learn by playing videogames ()
+QUIZ
 
-Discuss in your opinion:
+- Select all virtues of Videogames
+- Select what we can learn by playing videogames
+
+Discuss in your opinion
+
 - What are the important features that a good educational video game should have?

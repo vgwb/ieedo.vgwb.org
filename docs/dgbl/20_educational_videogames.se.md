@@ -1,384 +1,389 @@
 ---
-title: 2 - Educational Video Games
+title: 2 - Videospel för utbildningsändamål
 has_children: true
 has_toc: false
 nav_order: 20
 ---
-# 2. Educational Video Games
+# 2. Videospel för utbildningsändamål
 
-**Learning Objectives**
+**Mål för lärande**
 
-- What is a Videogame?
-- VG types and categories
-- How to select an EVG
-- What makes a good EVG? 
-- How to improve engagement and motivation?
-- What is the "flow" state?
+- Vad är ett videospel?
+- Typer och kategorier av VG
+- Hur man väljer ett EVG
+- Vad kännetecknar ett bra EVG? 
+- Hur kan man förbättra engagemang och motivation?
+- Vad är "flow"-tillståndet?
 
-## What is a Video Game
+## Vad är ett videospel?
 
-![game-design](../assets/img/game-design.jpg)
+![speldesign](../assets/img/game-design.jpg)
 
-A video game is a computer game designed mainly for entertainment purposes. A video game console is the electronic machine designed to play the **games** and a **video** display such as a computer monitor or television is the primary feedback device. 
-The main **input device** is a controller. A controller can be a keyboard, mouse, game pad, joystick, paddle, our fingers, voice, or any other not yet invented device. Special purpose devices, such as steering wheels for driving **games**, light guns for shooting **games**, and drums for musical **games** may also be used.
+Ett videospel är ett datorspel som huvudsakligen är utformat för underhållningsändamål. En videospelskonsol är den elektroniska maskin som är avsedd att spela **spelen** och en **videodisplay**, t.ex. en datorskärm eller TV, är den primära återkopplingsenheten. 
+Den huvudsakliga **inmatningsenheten** är en handkontroll. En styrenhet kan vara ett tangentbord, en mus, en spelplatta, en joystick, en paddel, våra fingrar, en röst eller någon annan ännu inte uppfunnen enhet. Specialanordningar, t.ex. rattar för körning **spel**, eldvapen för skjutning **spel** och trummor för musikaliska **spel** kan också användas.
 
-Here is the diagram of the Videogame seen as a designed system and flow.
+Här är diagrammet över videospel sett som ett designat system och flöde.
 
 ![vg-circuit](../assets/img/vg-circuit.png)
 
-## Genres
-### Adventure
-Adventure games are one of the oldest forms of computer game, going back to the early text adventures and interactive fiction of the 1970s and 1980s. They involve the player undertaking series of tasks or puzzles in which they must interact with the virtual world, performing actions, talking to characters and manipulating objects in order to achieve the objectives of the game, often to solve some mystery or complete a quest.
+## Genrer
+### Äventyr
+Äventyrsspel är en av de äldsta formerna av datorspel och går tillbaka till de tidiga textäventyren och den interaktiva fiktionen på 1970- och 1980-talen. I äventyrsspel måste spelaren utföra en rad uppgifter eller pussel i den virtuella världen, utföra handlingar, prata med karaktärer och manipulera föremål för att uppnå spelets mål, ofta att lösa ett mysterium eller slutföra ett uppdrag.
 
-Although the original adventure games were text-based, contemporary commercial adventure games tend use graphics, offering three-dimensional worlds that players can navigate. There is also a growing popularity of simpler web-based adventures, known as point-and-click games, which typically provide two-dimensional environments in which the player has to navigate through rooms and make objects interact to solve the puzzles presented
+Även om de ursprungliga äventyrsspelen var textbaserade, använder moderna kommersiella äventyrsspel ofta grafik och erbjuder tredimensionella världar som spelarna kan navigera i. Det finns också en växande popularitet för enklare webbaserade äventyr, så kallade peka-och-klicka-spel, som vanligtvis erbjuder tvådimensionella miljöer där spelaren måste navigera genom rum och få föremål att interagera för att lösa gåtorna som presenteras.
 
-Adventure games generally depend on **mental agility** rather than physical dexterity and tend **not to be time-dependent**. Some adventures combine elements of both and it is common for adventure games to contain mini-games in another genre. In terms of education, adventure games can **present a context for problem-solving and lateral thinking**, where players have to work out the appropriate actions in order to achieve a goal.
+Äventyrsspel är i allmänhet beroende av **mental smidighet** snarare än fysisk skicklighet och tenderar **att inte vara tidsberoende**. Vissa äventyr kombinerar element från båda och det är vanligt att äventyrsspel innehåller minispel i en annan genre. När det gäller utbildning kan äventyrsspel **presentera ett sammanhang för problemlösning och lateralt tänkande**, där spelarna måste räkna ut lämpliga åtgärder för att uppnå ett mål.
 
-### Platform
-Platform games involve the movement of the player character through a landscape (usually two-dimensional), jumping up and down between platforms, avoiding obstacles and enemies, and picking up treasure, usually with some overall goal in mind and often in the context of a narrative. Platform games require physical dexterity and the aim is usually to score points and complete levels.
-The types of skills that they develop are **hand–eye coordination**, **planning** and **strategizing, problem-solving** (the sequence of steps required to get over a particular obstacle for instance) and the ability to think quickly.
+### Plattform
+I plattformsspel rör sig spelaren genom ett landskap (vanligtvis tvådimensionellt), hoppar upp och ner mellan plattformar, undviker hinder och fiender och plockar upp skatter, vanligtvis med något övergripande mål i åtanke och ofta i samband med en berättelse. Plattformsspel kräver fysisk skicklighet och målet är vanligtvis att få poäng och klara av nivåer.
+De typer av färdigheter som de utvecklar är **hand-öga-koordination**, **planering** och **strategisering, problemlösning** (den sekvens av steg som krävs för att ta sig över ett visst hinder till exempel) och förmågan att tänka snabbt.
 
-### Puzzle
-Puzzle games primarily involve problem-solving, can take many forms – including words, logic, mathematics – and are often based on traditional puzzles (for example online crosswords or spot-the-difference). Simple puzzle games can be stand-alone but they are also often embedded within a larger narrative structure so that solving the puzzles will complete some larger quest or story. It is common for puzzles to be embedded within other genres such as adventure games as mini-games. Puzzles can be used to support a variety of **different types of learning** depending on the type of puzzle, including **logic**, **spatial awareness**, **verbal skills**, **numeracy skills**, and **spelling**. I would also include quizzes in this category, and they are an example of a game activity that can be used in almost any area of a curriculum, but primarily for recall of facts.
+### Pussel
+Pusselspel handlar främst om problemlösning och kan ha många olika former - ord, logik, matematik - och baseras ofta på traditionella pussel (t.ex. korsord online eller hitta skillnaderna). Enkla pusselspel kan vara fristående men de är också ofta inbäddade i en större narrativ struktur så att man genom att lösa pusslen kan slutföra ett större uppdrag eller en berättelse. Det är vanligt att pussel är inbäddade som minispel i andra genrer, t.ex. äventyrsspel. Pussel kan användas för att stödja en mängd **olika typer av lärande** beroende på typ av pussel, inklusive **logik**, **spatial medvetenhet**, **verbala färdigheter**, **räknefärdigheter** och **stavning**. Jag skulle också inkludera frågesporter i denna kategori, och de är ett exempel på en spelaktivitet som kan användas inom nästan alla områden i en läroplan, men främst för att komma ihåg fakta.
 
-### Role Play
-Role play games emerged from the face-to-face role-playing games and involve the player taking on the role of a character in another (usually fantasy-based) world.
-The player can undertake a range of activities including solving quests, fighting, treasure hunting, and interacting with other characters (either other players in the game world or non-player characters). There is usually a mix of problem-solving skills required as well as strategy and sometimes physical dexterity, and although single-player role-playing games exist, they are commonly multi-player. Role play games are usually underpinned by complex statistical models that provide scores for a range of characteristics that determine a character’s abilities and weaknesses.
-In the context of learning, role-playing games are good for providing a context for building **collaborative skills**, **social interaction**, **negotiation**, **management of complex systems** (e.g. character statistics), **strategy**, and working through scenarios.
+### Rollspel
+Rollspel utvecklades ur rollspelen ansikte mot ansikte och innebär att spelaren tar på sig rollen som en karaktär i en annan (vanligtvis fantasibaserad) värld.
+Spelaren kan ägna sig åt en rad olika aktiviteter, t.ex. lösa uppdrag, slåss, leta skatter och interagera med andra karaktärer (antingen andra spelare i spelvärlden eller icke-spelarkaraktärer). Det krävs vanligtvis en blandning av problemlösningsförmåga, strategi och ibland fysisk skicklighet, och även om det finns rollspel för en spelare är de vanligtvis för flera spelare. Rollspel stöds vanligtvis av komplexa statistiska modeller som ger poäng för en rad egenskaper som bestämmer en karaktärs förmågor och svagheter.
+När det gäller lärande är rollspel bra för att skapa ett sammanhang där man kan utveckla **samarbetsförmåga**, **social interaktion**, **förhandling**, **hantering av komplexa system** (t.ex. karaktärsstatistik), **strategi** och arbeta sig igenom scenarier.
 
-### Shooter
-Shooter games have the primary aim of using weapons (or sometimes spells and other special abilities) to defeat opponents, although the action is often embedded within a wider narrative context. They are generally played from a **first person** viewpoint (FPS First Person Shooter) and are played in real time. This is another genre in which **multi-player** games are common. Shooter games involve a combination of strategy and dexterity, exploring virtual worlds and defeating enemies and targets.
-Although this is one genre in which it may be argued that there is less applicability to learning in higher education, there are still many skills that can be acquired by playing such games including forward **planning**, **strategizing**, and **team working**.
+### Skjutspel
+I skjutspel är det primära målet att använda vapen (eller ibland trollformler och andra specialförmågor) för att besegra motståndarna, även om handlingen ofta är inbäddad i ett större narrativt sammanhang. De spelas i allmänhet från **första person** (FPS First Person Shooter) och spelas i realtid. Detta är en annan genre där **multiplayer**-spel är vanliga. Shooterspel är en kombination av strategi och fingerfärdighet, där man utforskar virtuella världar och besegrar fiender och mål.
+Även om detta är en genre där det kan hävdas att det finns mindre tillämpbarhet för lärande inom högre utbildning, finns det fortfarande många färdigheter som kan förvärvas genom att spela sådana spel, inklusive framåtriktad **planering**, **strategisering** och **teamarbete**.
 
-### Sports
-Sports games allow the player to simulate taking part in a sporting event or tournament. They are generally based on physical dexterity and interaction with the gaming interface, but in recent years innovations such as dance mats and consoles that use movement-sensitive devices (the most notable example being the Nintendo consoles) have enabled players to actually undertake physical activity while playing.
-Sporting games can be used to **practice** the actual skills of a sport (although in the majority of cases this will be a representation through whatever interaction device is available), **tactics**, **rules** and the ability to **think and make decisions quickly**.
+### Sport
+Sportspel ger spelaren möjlighet att simulera deltagande i ett sportevenemang eller en turnering. De bygger i allmänhet på fysisk skicklighet och interaktion med spelgränssnittet, men på senare år har innovationer som dansmattor och konsoler som använder rörelsekänsliga enheter (det mest kända exemplet är Nintendo-konsolerna) gjort det möjligt för spelarna att faktiskt utöva fysisk aktivitet medan de spelar.
+Sportspel kan användas för att **träna** de faktiska färdigheterna i en sport (även om detta i de flesta fall kommer att vara en representation genom vilken interaktionsanordning som helst), **taktik**, **regler** och förmågan att **tänka och fatta beslut snabbt**.
 
-### Strategy
-Strategy games involve the player making strategic decisions within a scenario in order to meet the goal of the game, which is usually completing a level or solving a particular problem. They can involve, for example, movements of armies, progression of a group through various stages of development, management of resources or creation of environments to achieve specific purposes. For example, the strategy game Age of Empires involves players progressing their empire through stages of civilization. Many strategy games also have elements of **simulation** built into them in terms of a complex underlying model of a virtual environment, but will tend to have clear goals.
-Strategy games can be used for teaching **planning**, **decision-making**, **testing hypotheses**, **strategic thinking**, **management skills** and **seeing the consequences** of actions taken.
+### Strategi
+Strategispel innebär att spelaren fattar strategiska beslut inom ett scenario för att uppnå spelets mål, vilket vanligtvis är att klara en nivå eller lösa ett visst problem. Det kan t.ex. handla om att förflytta arméer, låta en grupp genomgå olika utvecklingsstadier, hantera resurser eller skapa miljöer för att uppnå specifika syften. I strategispelet Age of Empires ska spelaren till exempel utveckla sitt imperium genom olika civilisationsstadier. Många strategispel har också inslag av **simulering** i form av en komplex underliggande modell av en virtuell miljö, men tenderar att ha tydliga mål.
+Strategispel kan användas för att lära ut **planering**, **beslutsfattande**, **testning av hypoteser**, **strategiskt tänkande**, **ledningsförmåga** och **att se konsekvenserna** av vidtagna åtgärder.
 
-### Casual games
-Another type of game (which isn’t really a genre in itself as there are many different types) that is currently growing in popularity is casual games. These games are usually downloaded from gaming sites rather than being available in shops and are cheaper than traditional entertainment games (or free to play online).
-Casual games are designed to be played in **short bursts** rather than for prolonged sessions so are **chunked into many small levels** that all follow the same pattern, so that they can be played for a few minutes at a time and easily stopped and restarted. These games cater for players who simply want to play a game for a short time and do not want to make any great commitment in terms of time or learning how to play. They have **simple game play** and comparatively low production values. The rise in the use of casual games shows a movement away from the typical ‘hardcore’ gamer to a wider demographic, particularly female and older players, which is more typical of the whole university student demographic, and casual games may be most appropriate for fitting into specific segments of teaching time.
+### Avslappnade spel
+En annan typ av spel (som egentligen inte är en genre i sig eftersom det finns många olika typer) som för närvarande växer i popularitet är casual games. Dessa spel laddas vanligtvis ner från spelsajter i stället för att finnas tillgängliga i butiker och är billigare än traditionella underhållningsspel (eller gratis att spela online).
+Casual-spel är utformade för att spelas i **korta omgångar** snarare än under längre sessioner och är **uppdelade i många små nivåer** som alla följer samma mönster, så att de kan spelas i några minuter åt gången och lätt kan stoppas och startas om. Dessa spel passar spelare som bara vill spela ett spel under en kort tid och inte vill göra något stort åtagande när det gäller tid eller att lära sig hur man spelar. De har **enkelt spelupplägg** och jämförelsevis låga produktionsvärden. Den ökade användningen av casual games visar en rörelse bort från den typiska "hardcore"-spelaren till en bredare demografi, särskilt kvinnliga och äldre spelare, som är mer typisk för hela demografin av universitetsstudenter, och casual games kan vara mest lämpliga för att passa in i specifika segment av undervisningstiden.
 
-### Sandbox
-Games with freedom to do / build / create / wander as you like.
-Pure creativity.
+### Sandlåda
+Spel med frihet att göra/bygga/skapa/vandra som du vill.
+Ren kreativitet.
 
-## Video Game components
-### Hardware
-The physical components and electronic devices needed to play the game Software.
-The more common are:
-- PC - Personal Computer (can be Windows, MacOS, Linux)
-- Browser games (can be accessed by any devices with a standard web browser)
-- Console (Xbox/PlayStation/Nintendo Switch)
-- TV / Smart TV
-- Mobile Smartphones (Android or iOS)
-- Mobile Tablets (Android or iOS)
-- Handheld devices (Gameboy)
-- Wearables (smartwatches)
-- VR - Virtual Reality
-- AR - Augmented Reality
-- Metaverse - an online virtual immersive and social space.
+## Komponenter för videospel
+### Hårdvara
+De fysiska komponenter och elektroniska enheter som behövs för att spela spelet Software.
+De vanligaste är:
 
-### Software
-All computer code and digital multimedia assets are stored and managed by the hardware to enable the interactive experience defined by the Game Design.
+- PC - persondator (kan vara Windows, MacOS, Linux)
+- Webbläsarspel (kan nås av alla enheter med en standardwebbläsare)
+- Konsol (Xbox/PlayStation/Nintendo Switch)
+- TV/Smart TV
+- Smartphones (Android eller iOS)
+- Mobila surfplattor (Android eller iOS)
+- Handhållna enheter (Gameboy)
+- Bärbara enheter (smartklockor)
+- VR - Virtuell verklighet
+- AR - Förstärkt verklighet
+- Metaverse - en virtuell, uppslukande och social plats online.
 
-The software can be acquired by:
-- from a physical box/card/disc
-- downloading it from Internet or from a local server
-- shared by storage devices
-- compiled from sources
+### Programvara
+All datorkod och alla digitala multimediatillgångar lagras och hanteras av hårdvaran för att möjliggöra den interaktiva upplevelse som definieras av speldesignen.
 
-The license to use it can be:
-- **commercial** (**personal**). usually it belongs to the buyer and can't be shared.
-- **commercial** (**group**): you buy a license to use it in a classroom / school / private group.
-- **subscription** / rent: you pay a monthly fee to use it
-- **free**: you download it for free or can play it online without paying anything
-- **freemium**: the game is free but has commercial advertising or you can buy additional options to have the complete game
-- **open source**: not only the game is free, but you have access to the software code, to improve /  modify it
+Programvaran kan förvärvas genom:
 
-### Game Design
-- game mechanics
-- level design / progression
-- graphics / aestethics
-- environment / lore
-- sound / music
-- achievements
-- characters
-- story
-- customisation
-- purpose
-- social interactions
+- från en fysisk låda/kort/skiva
+- ladda ner den från Internet eller från en lokal server
+- delas av lagringsenheter
+- sammanställd från källor
 
-## Where to play Video Games?
-Today VG can be played in any environment or life situation.
-- Indoor (home)
-- Outdoor (mobile games)
-- Classroom (with PC or mobile)
-- Online (wherever there is internet)
-- Offline (a standalone game that doesn't require internet)
+Licensen för att använda den kan vara:
 
-# Good EVG
-> What makes a good educational video game good?
+- **kommersiell** (**personlig**). vanligtvis tillhör den köparen och får inte delas.
+- **kommersiell** (**grupp**): du köper en licens för att använda den i ett klassrum/skola/privat grupp.
+- **prenumeration** / hyra: du betalar en månadsavgift för att använda den
+- **gratis**: du laddar ner det gratis eller kan spela det online utan att betala något
+- **freemium**: spelet är gratis men har kommersiell reklam eller så kan du köpa ytterligare alternativ för att få det kompletta spelet
+- **öppen källkod**: inte bara spelet är gratis, utan du har även tillgång till programkoden för att förbättra/modifiera det
 
-How good video game designers create games that manage to get new players to learn long, complex and difficult games?
-They build these games based on the good principles of learning that involve 3 main criteria, **Empowered Learners**, **Problem Solving** and **Understanding**. 
+### Speldesign
+- Spelmekanik
+- Nivådesign / progression
+- grafik / estetik
+- miljö / historia
+- ljud / musik
+- Prestationer
+- Karaktärer
+- Berättelse
+- Anpassning
+- Syfte
+- sociala interaktioner
 
-1. **Empowered Learners:** learners feel like active agents (producers) and not just passive recipients (consumers). It includes learning principles such as identity, customization, Manipulation and Distributed Knowledge.
+## Var kan man spela videospel?
+Idag kan VG spelas i vilken miljö eller livssituation som helst:
 
-2. **Problem-Solving:** good learning occurs through though-provoking challenges and problem that push the players creativity and forces them to use their building knowledge to solve problems. It includes principles such as Well-ordered problems, pleasantly frustrating principles, cycles of expertise, and just in Time and On-demand principles.
+- Inomhus (hemmet)
+- Utomhus (mobilspel)
+- Klassrum (med dator eller mobil)
+- Online (överallt där det finns internet)
+- Offline (ett fristående spel som inte kräver internet)
 
-3. **Understanding:** good learning is based on acquired systematic thinking and comprehension, which allows the learner to comprehend and understand every element of their content/problem. It includes system Thinking principle and meaning as action image principle.
+## Bra EVG  
+> Vad gör ett bra pedagogiskt videospel bra?
 
-Good video games employ strategies that causes players to **exercise their learning muscles**, without knowing it and without having to pay overt attention to the matter.
+Hur skapar duktiga speldesigners spel som lyckas få nya spelare att lära sig långa, komplexa och svåra spel?
+De bygger dessa spel baserat på de goda principerna för inlärning som omfattar 3 huvudkriterier, **Empowered Learners**, **Problem Solving** och **Understanding**. 
 
-Good educational video games excite human learning through **mind-provoking challenges** and hooks. Cognitive scientists identify good educational video games as games that are both fun as well as provide a good educational experience by **connecting to the student’s deeper appreciation for learning** and their own trajectory in life.
+1. **Empowered Learners:** eleverna känner sig som aktiva agenter (producenter) och inte bara passiva mottagare (konsumenter). Det inkluderar inlärningsprinciper som identitet, anpassning, manipulering och distribuerad kunskap.
 
-The three large criteria of a good educational game design if implemented in schools would necessitate significant changes in the structure and nature of formal schooling. Empowered Learners, Problem Solving and Understanding all entail important learning principles and features that the more they are present in the selected game, the stronger the game in delivering its content.
+2. **Problemlösning:** bra inlärning sker genom utmaningar och problem som utmanar spelarnas kreativitet och tvingar dem att använda sina kunskaper för att lösa problem. Det omfattar principer som välordnade problem, behagligt frustrerande principer, kompetenscykler samt principer för just in time och on demand.
 
-_**So what are the learning principles that a good educational video game is built on?**_
+3. **Förståelse:** bra lärande baseras på förvärvat systematiskt tänkande och förståelse, vilket gör det möjligt för eleven att förstå och förstå alla delar av sitt innehåll/problem. Det inkluderar principen om systemtänkande och principen om mening som handlingsbild.
 
-> The first attribute of a good educational video game is **how engaging it is**? 
+Bra videospel använder strategier som får spelarna att **träna sina inlärningsmuskler**, utan att veta om det och utan att behöva ägna överdriven uppmärksamhet åt saken.
 
-Engagement is a broad category that involves many properties in order to sustain it.
-Here is an outline of the learning principles of a good video educational video game.
+Bra pedagogiska videospel stimulerar mänsklig inlärning genom **hjärnprovocerande utmaningar** och krokar. Kognitionsforskare identifierar bra pedagogiska videospel som spel som både är roliga och ger en bra pedagogisk upplevelse genom att **koppla till elevens djupare uppskattning för lärande** och deras egen väg i livet.
 
-# What makes games so engaging?
+De tre stora kriterierna för en bra pedagogisk speldesign skulle, om de implementerades i skolor, kräva betydande förändringar i den formella skolans struktur och natur. Empowered Learners, Problem Solving och Understanding innebär alla viktiga inlärningsprinciper och funktioner som ju mer de förekommer i det valda spelet, desto starkare är spelet när det gäller att leverera sitt innehåll.
 
-## The surprising truth about learning, motivation and mastery
+Så vilka är de inlärningsprinciper som ett bra utbildningsvideospel bygger på?
 
-How do you grab people’s attention? What makes any experience truly engaging over time?
+> Den första egenskapen hos ett bra pedagogiskt videospel är **hur engagerande det är**? 
 
-We know that games **can** be deeply engaging — and that no single type of games holds the key. Stylistically, people seek out a wide variety of different experiences. Just look at today’s gaming landscape, from adrenaline-pumping shooters to candy-coated puzzlers to the creative freedom of Minecraft, one person’s beloved game is another’s worst nightmare.
+Engagemang är en bred kategori som kräver många egenskaper för att upprätthållas.
+Här är en översikt över inlärningsprinciperna för ett bra pedagogiskt videospel.
 
-> Beneath the surface, all great games have one thing in common: **progressive skill-building**. Games keep players engaged by helping them **get better at something meaningful**.
+## Den överraskande sanningen om inlärning, motivation och bemästrande
 
-## Skill-Building, Challenge & Flow
+Hur fångar man människors uppmärksamhet? Vad är det som gör att en upplevelse verkligen engagerar över tid?
 
-It feels good to engage our brains, improve our skills, and make progress on a path towards mastery. Games, sports and education are particularly good at accomplishing this, but every teacher can learn to harness the underlying power of skill-building & challenges.
+Vi vet att spel **kan** vara djupt engagerande - och att ingen enskild typ av spel har nyckeln. Stilmässigt söker sig människor till ett brett utbud av olika upplevelser. Titta bara på dagens spellandskap, från adrenalinpumpande skjutspel till sockersöta pusselspel och den kreativa friheten i Minecraft - en persons älskade spel är en annan persons värsta mardröm.
 
-Structured activities - games, sports, office work - usually revolve around developing and using a **skill**. And if the **level of challenge** in the activity increases to match your newfound skill, you’ve got a setup for **flow** — the ultimate goal of every game and product designer.
+> Under ytan har alla bra spel en sak gemensamt: **progressivt byggande av färdigheter**. Spel håller spelarna engagerade genom att hjälpa dem **bli bättre på något meningsfullt**.
 
-### Setup the conditions for Flow
-![](../assets/img/flow_changes.jpg)
-Flow takes effort. Without learning, practice and challenge, there is no flow.
+## Kompetensutveckling, utmaning och flöde
 
-At their core, games are pleasurable learning engines that deliver an experience that’s deeply, intrinsically motivating. Over time you absorb the rules, build your skills, tackle ever-greater challenges — and in the process, you’re transformed in some way that’s meaningful to YOU.
+Det känns bra att engagera hjärnan, förbättra sina färdigheter och göra framsteg på vägen mot mästerskap. Spel, sport och utbildning är särskilt bra på att åstadkomma detta, men alla lärare kan lära sig att utnyttja den underliggande kraften i färdighetsträning och utmaningar.
 
-### Forget Points — Think Character Transformation
+Strukturerade aktiviteter - spel, sport, kontorsarbete - kretsar vanligtvis kring att utveckla och använda en **färdighet**. Och om **utmaningsnivån** i aktiviteten ökar för att matcha din nyvunna färdighet, har du skapat förutsättningar för **flöde** - det ultimata målet för alla spel- och produktdesigners.
+
+### Skapa förutsättningar för flöde
+![](../assets/img/flow_changes.jpg)  
+Flow kräver ansträngning. Utan lärande, övning och utmaningar finns det inget flow.
+
+I grund och botten är spel lustfyllda inlärningsmotorer som ger en upplevelse som är djupt, inneboende motiverande. Med tiden lär du dig reglerna, bygger upp dina färdigheter, tar dig an allt större utmaningar - och under processen förändras du på ett sätt som är meningsfullt för DIG.
+
+### Glöm punkterna - tänk karaktärsförändring
 
 ![humanist_player](../assets/img/humanist_player.jpg)
 
-Just as character transformation is the backbone of great drama, **personal transformation is the backbone of great gameplay**.
-In games, *we* are the protagonist — the person with agency, facing a series of choices and challenges along a journey towards mastery. Progress metrics (points, badges, levels, leaderboards, reputation systems) are icing on this learning/mastery cake. These markers help you gauge where you stand, and how far you’ve come, but they’re meaningless as a stand-alone system without something to get better at, some skill to develop.
+Precis som karaktärsförändring är ryggraden i ett bra drama, är **personlig förvandling ryggraden i ett bra spel**.
+I spel är *vi* huvudpersonen - den handlingskraftiga personen som ställs inför en rad val och utmaningar under en resa mot mästerskap. Framstegsmätningar (poäng, märken, nivåer, topplistor, ryktessystem) är pricken över i:et på denna inlärnings-/mästerskapstårta. Dessa markörer hjälper dig att mäta var du står och hur långt du har kommit, men de är meningslösa som ett fristående system utan något att bli bättre på, någon färdighet att utveckla.
 
-That’s what makes games truly engaging. To make your learning sessions compelling in the long run, **forget points, think character transformation**, skill-building and empowering mastery.
+Det är det som gör spel verkligt engagerande. För att göra dina inlärningssessioner övertygande på lång sikt, **glöm poäng, tänk karaktärsförändring**, färdighetsbyggande och stärkande mästerskap.
 
-## Support Intrinsic Pleasure with Extrinsic Scaffolding
+## Stöd inneboende nöje med yttre stöd
 
-Trying to drive long-term engagement with extrinsic rewards is a fool’s errand. Status markers and variable reward schedules are not what makes an experience truly engaging.
+Att försöka skapa långsiktigt engagemang med yttre belöningar är en dum idé. Statusmarkörer och varierande belöningsscheman är inte det som gör en upplevelse verkligt engagerande.
 
 ![magic_circle](../assets/img/magic_circle.jpg)
 
-Games are built from systems and rules that engage you in a micro-world — a “magic circle” that’s shared by everyone playing the game. That’s the power and pleasure of a game — you get to take a mini-break from daily life, and spend time (together) in an alternate, simplified reality.
+Spel är uppbyggda av system och regler som engagerar dig i en mikrovärld - en "magisk cirkel" som delas av alla som spelar spelet. Det är det som är styrkan och nöjet med ett spel - du får ta en liten paus från vardagen och tillbringa tid (tillsammans) i en alternativ, förenklad verklighet.
 
-If metrics and rewards are your main event, you’ve got a shallow and/or manipulative product that won’t hold people’s interest over time .Well-crafted games are an artful blend of intrinsic pleasure and extrinsic scaffolding. Pleasurable activities are the beating heart; progress scaffolding (points, levels, badges, power-ups) serves to support and amplify the core activities.
+Om mätvärden och belöningar är det viktigaste har du en ytlig och/eller manipulativ produkt som inte kommer att hålla kvar människors intresse över tid. Välgjorda spel är en konstfull blandning av inre njutning och yttre uppbyggnad. Njutningsfyllda aktiviteter är det bultande hjärtat; byggnadsställningar (poäng, nivåer, märken, power-ups) tjänar till att stödja och förstärka kärnaktiviteterna.
 
-> Well-crafted games are an artful blend of intrinsic pleasure and extrinsic scaffolding.
+> Välgjorda spel är en konstfull blandning av inre njutning och yttre byggnadsställningar.
 
-### Self-Determination Theory: the science of motivation
+### Självbestämmandeteori: vetenskapen om motivation
 
-To create a truly compelling experience, tap into the trinity of Intrinsic Motivation: Autonomy, Mastery, and Purpose. This framework emerged during the 1970s as [Self-Determination Theory](http://en.wikipedia.org/wiki/Self-determination_theory) and was recently re-popularized in [Dan Pink’s ‘Drive’](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates-ebook/dp/B004P1JDJO/) for workplace motivation, and in [Rigby and Ryan’s ‘Glued to Games’](http://www.amazon.com/Glued-Games-Video-Spellbound-Directions-ebook/dp/B004NYAH66/) for explaining gaming motivations.
+För att skapa en verkligt fängslande upplevelse bör du utnyttja den inre motivationens treenighet: Autonomi, bemästrande och syfte. Detta ramverk växte fram under 1970-talet som [Self-Determination Theory](http://en.wikipedia.org/wiki/Self-determination_theory) och har nyligen blivit populärt igen i [Dan Pink's "Drive"](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates-ebook/dp/B004P1JDJO/) för motivation på arbetsplatsen, och i [Rigby and Ryan's "Glued to Games"](http://www.amazon.com/Glued-Games-Video-Spellbound-Directions-ebook/dp/B004NYAH66/) för att förklara spelmotivation.
 
-### Extrinsic rewards can devalue pleasurable tasks
+### Extrinsiska belöningar kan nedvärdera lustfyllda uppgifter
 
-This research shows us that extrinsic metrics and rewards can be effective at getting people to complete simple tasks — BUT these same rewards often backfire and lower effectiveness & motivation for creative or pleasurable tasks
+Denna forskning visar oss att yttre mätvärden och belöningar kan vara effektiva för att få människor att slutföra enkla uppgifter - MEN samma belöningar slår ofta tillbaka och sänker effektiviteten och motivationen för kreativa eller lustfyllda uppgifter
 
-Why is this problematic for long-term engagement? Numerous studies show that extrinsic rewards can de-value otherwise pleasurable tasks like reading or drawing. For example, [this famous study](http://www.spring.org.uk/2009/10/how-rewards-can-backfire-and-reduce-motivation.php) took kids who loved reading and rewarded them extrinsically with points and money for reading. Guess what? The kids completely stopped reading for pleasure.
+Varför är detta problematiskt för långsiktigt engagemang? Många studier visar att extrinsiska belöningar kan nedvärdera annars lustfyllda uppgifter som att läsa eller rita. Till exempel [denna berömda studie](http://www.spring.org.uk/2009/10/how-rewards-can-backfire-and-reduce-motivation.php) tog barn som älskade att läsa och belönade dem extrinsiskt med poäng och pengar för att läsa. Gissa vad som hände? Barnen slutade helt att läsa för nöjes skull.
 
-So what’s the solution? As much as you can, design your feedback & rewards system around these three core principles of intrinsic motivations.
+Så vad är lösningen? Utforma ditt feedback- och belöningssystem så mycket som möjligt utifrån dessa tre grundläggande principer för inre motivation.
 
-### Autonomy: Self-Determination & Meaningful Choice
+### Autonomi: Självbestämmande och meningsfulla val
 
 ![autonomy](../assets/img/autonomy.jpg)
-Autonomy is the feeling of controlling your own destiny. In a game, app or service, this boils down to how and when you offer choices.
+Autonomi är känslan av att kontrollera sitt eget öde. I ett spel, en app eller en tjänst handlar detta om hur och när du erbjuder valmöjligheter.
 
-Great games offer meaningful choices with interesting constraints. Think of Settlers of Catan, World of Warcraft, Minecraft, even Kickstarter — all systems that can be explored and mastered by following your interests and making a series of increasingly interesting choices.
+Bra spel erbjuder meningsfulla valmöjligheter med intressanta begränsningar. Tänk på Settlers of Catan, World of Warcraft, Minecraft, till och med Kickstarter - alla system som kan utforskas och bemästras genom att man följer sina intressen och gör en rad alltmer intressanta val.
 
-### Mastery: Skill-building, feedback & challenge
+### Mästerskap: Uppbyggnad av färdigheter, feedback och utmaningar
 
 ![mastery](../assets/img/mastery.jpg)
 
-Mastery taps into the feeling of getting better at something. Games offer the player a set of actions and choices within a constrained, rule-based environment.
+Mästerskap utnyttjar känslan av att bli bättre på något. Spel erbjuder spelaren en uppsättning handlingar och valmöjligheter inom en begränsad, regelbaserad miljö.
 
-In a great game, mastering the ruleset is deeply pleasurable. The lack of anything to master is often why simple gamification fails. Points, badges, and leaderboards aren’t compelling unless you’re improving along some personally meaningful dimension.
+I ett bra spel är det djupt njutbart att behärska regeluppsättningen. Bristen på något att bemästra är ofta anledningen till att enkel spelifiering misslyckas. Poäng, utmärkelser och topplistor är inte övertygande om du inte förbättras längs någon personligt meningsfull dimension.
 
-### Purpose: connect w/something greater than yourself
+### Syfte: att knyta an till något som är större än en själv
 
 ![purpouse](../assets/img/purpouse.jpg)
 
-Purpose is all about connectedness and relatedness — with other people, with a shared cause , with something bigger than yourself. And
+Syfte handlar om att känna samhörighet med andra - med andra människor, med en gemensam sak, med något som är större än en själv. Och
 
-numerous studies have shown that people who cultivate meaningful relationships report higher levels of happiness.
+många studier har visat att människor som odlar meningsfulla relationer rapporterar högre nivåer av lycka.
 
-Purpose is often best communicated through storytelling. Here’s the thing: the **most powerful story is happening inside your customer’s head** — the personal narrative of how engaging with your product transforms her into someone better, stronger, more powerful, more skillful, more connected to the issues and people she cares about.
+Ett syfte kommuniceras ofta bäst genom storytelling. Så här ligger det till: den **starkaste berättelsen utspelar sig i kundens huvud** - den personliga berättelsen om hur engagemanget i din produkt förvandlar henne till någon bättre, starkare, kraftfullare, skickligare och mer engagerad i de frågor och människor hon bryr sig om.
 
-## Intrinsic Motivation
+## Inre motivation
 
-> **Intrinsic motivation** is when you are motivated by personal satisfaction or enjoyment instead of external factors like reward or punishment. There are ways to make tasks more intrinsically motivating.
+> Inre motivation** är när du motiveras av personlig tillfredsställelse eller njutning istället för yttre faktorer som belöning eller bestraffning. Det finns sätt att göra uppgifter mer motiverande.
 
-Intrinsic motivation is the act of doing something without any obvious external rewards. You do it because it’s enjoyable and interesting, rather than because of an outside incentive or pressure to do it, such as a reward or deadline.
+Inre motivation är att göra något utan några uppenbara yttre belöningar. Du gör det för att det är roligt och intressant, snarare än på grund av ett yttre incitament eller tryck att göra det, till exempel en belöning eller deadline.
 
-An example of intrinsic motivation would be reading a book because you enjoy reading and have an interest in the story or subject, rather than reading because you have to write a report on it to pass a class.
+Ett exempel på inre motivation är att läsa en bok för att man tycker om att läsa och har ett intresse för berättelsen eller ämnet, snarare än att läsa för att man måste skriva en rapport om det för att få godkänt på en lektion.
 
-### Intrinsic motivation theory
+### Teori om inre motivation
 
-There have been a number of different proposed theories to explain intrinsic motivation and how it works. Some experts believe that all behavior is driven by external reward, such as money, status, or food. In intrinsically motivated behaviors, the reward is the activity itself.
+Det har föreslagits ett antal olika teorier för att förklara inre motivation och hur den fungerar. Vissa experter anser att allt beteende drivs av yttre belöningar, som pengar, status eller mat. I beteenden som motiveras av inre motivation är belöningen själva aktiviteten.
 
-The most recognized theory of intrinsic motivation was first based on people’s needs and drives. Hunger, thirst, and sex are biological needs that we’re driven to pursue in order to live and be healthy.
+Den mest erkända teorin om inre motivation baserades först på människors behov och drivkrafter. Hunger, törst och sex är biologiska behov som vi drivs att uppfylla för att kunna leva och vara friska.
 
-Just like these biological needs, people also have psychological needs that must be satisfied in order to develop and thrive. These include the need for competence, autonomy, and relatedness.
+Precis som dessa biologiska behov har människor också psykologiska behov som måste tillfredsställas för att de ska kunna utvecklas och trivas. Till dessa hör behovet av kompetens, autonomi och samhörighet.
 
-Along with satisfying these underlying psychological needs, intrinsic motivation also involves seeking out and engaging in activities that we find challenging, interesting, and internally rewarding without the prospect of any external reward.
+Förutom att tillfredsställa dessa underliggande psykologiska behov innebär inre motivation också att söka upp och engagera sig i aktiviteter som vi tycker är utmanande, intressanta och internt givande utan utsikter till någon yttre belöning.
 
 📽 #VIDEO [# The puzzle of motivation | Dan Pink](https://youtu.be/rrkrvAUbU9Y)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/rrkrvAUbU9Y"></iframe>
 
-### Intrinsic motivation vs. extrinsic motivation
+### Inre motivation vs. yttre motivation
 
-**Intrinsic motivation comes from within, while extrinsic motivation arises from outside**. When you’re intrinsically motivated, you engage in an activity solely because you enjoy it and get personal satisfaction from it.
+**Inre motivation kommer inifrån, medan yttre motivation kommer utifrån**. När du är inre motiverad ägnar du dig åt en aktivitet enbart för att du tycker om den och får personlig tillfredsställelse av den.
 
-When you’re extrinsically motivated, you do something in order to gain an external reward. This can mean getting something in return, such as money, or avoiding getting into trouble, such as losing your job.
+När du är yttre motiverad gör du något för att få en yttre belöning. Det kan handla om att få något tillbaka, t.ex. pengar, eller att undvika att hamna i trubbel, t.ex. att förlora jobbet.
 
 |   | Motivation | Goals |
 |---|---|---|
 |Intrinsic|You do the activity because it’s internally rewarding. You may do it because it’s fun, enjoyable, and satisfying.|Goals come from within and the outcomes satisfy your basic psychological needs for autonomy, competence, and relatedness.|
-|Extrinsic|You do the activity in order to get an external reward in return.	Goals are focused on an outcome and don’t satisfy your basic psychological needs.|Goals involve external gains, such as money, fame, power, or avoiding consequences.|
+|Extrinsic|You do the activity in order to get an external reward in return. Goals are focused on an outcome and don’t satisfy your basic psychological needs.|Goals involve external gains, such as money, fame, power, or avoiding consequences.|
 
-### Intrinsic motivation examples
+### Exempel på inre motivation
 
-You’ve likely experienced examples of intrinsic motivation throughout your entire life without giving it much thought.
+Du har sannolikt upplevt exempel på inre motivation under hela ditt liv utan att tänka så mycket på det.
 
-Some examples of intrinsic motivation are:
+Några exempel på inre motivation är:
 
-- participating in a sport because it’s fun and you enjoy it rather than doing it to win an award
-- learning a new language because you like experiencing new things, not because your job requires it
-- spending time with someone because you enjoy their company and not because they can further your social standing
-- cleaning because you enjoy a tidy space rather than doing it to avoid making your spouse angry
-- playing cards because you enjoy the challenge instead of playing to win money
-- exercising because you enjoy physically challenging your body instead of doing it to lose weight or fit into an outfit
-- volunteering because you feel content and fulfilled rather than needing it to meet a school or work requirement
-- going for a run because you find it relaxing or are trying to beat a personal record, not to win a competition
-- taking on more responsibility at work because you enjoy being challenged and feeling accomplished, rather than to get a raise or promotion
-- painting a picture because you feel calm and happy when you paint rather than selling your art to make money
+- delta i en sport för att det är roligt och du tycker om det snarare än att göra det för att vinna ett pris
+- lära dig ett nytt språk för att du gillar att uppleva nya saker, inte för att ditt jobb kräver det
+- tillbringa tid med någon för att du tycker om deras sällskap och inte för att de kan förbättra din sociala ställning
+- städa för att du tycker om att ha det städat och inte för att du vill undvika att göra din partner arg
+- spela kort för att du gillar utmaningen i stället för att spela för att vinna pengar
+- träna för att du tycker om att fysiskt utmana din kropp istället för att göra det för att gå ner i vikt eller passa in i en klädsel
+- arbeta frivilligt för att du känner dig nöjd och tillfredsställd snarare än att du behöver göra det för att uppfylla ett skol- eller arbetskrav
+- springa en runda för att du tycker att det är avkopplande eller för att du försöker slå ett personligt rekord, inte för att vinna en tävling
+- ta på dig mer ansvar på jobbet för att du tycker om att utmanas och känna att du har åstadkommit något, snarare än för att få en löneförhöjning eller befordran
+- måla en tavla för att du känner dig lugn och glad när du målar, snarare än att sälja din konst för att tjäna pengar
 
-### Intrinsic motivation factors
+### Inre motivationsfaktorer
 
-Everyone’s different and that includes what motivates us and our perspectives of rewards. Some people are more intrinsically motivated by a task while another person sees the same activity extrinsically.
+Alla människor är olika och det gäller även vad som motiverar oss och hur vi ser på belöningar. Vissa människor är mer motiverade av en uppgift medan en annan person ser samma aktivitet utifrån.
 
-Both can be effective, but research suggests that extrinsic rewards should be used sparingly because of the overjustification effect. Extrinsic rewards can undermine intrinsic motivation when used in certain situations or used too often. The rewards may lose their value when you reward behavior that was already intrinsically motivating. Some people also perceive extrinsic reinforcement as coercion or bribery.
+Båda kan vara effektiva, men forskning tyder på att yttre belöningar bör användas sparsamt på grund av överjustifieringseffekten. Yttre belöningar kan underminera den inre motivationen när de används i vissa situationer eller för ofta. Belöningarna kan förlora sitt värde när du belönar ett beteende som redan var inre motiverande. Vissa människor uppfattar också yttre förstärkning som tvång eller mutor.
 
-The overjustification effect has inspired an entire field of study that focuses on students and how to help them reach their full potential. Though experts are divided on whether extrinsic rewards have a beneficial or negative effect on intrinsic motivation, a recent study showed that rewards may actually encourage intrinsic motivation when given early in a task.
+Overjustification-effekten har inspirerat ett helt fält av studier som fokuserar på studenter och hur man kan hjälpa dem att nå sin fulla potential. Även om experter är oense om huruvida yttre belöningar har en positiv eller negativ effekt på inre motivation, visade en ny studie att belöningar faktiskt kan uppmuntra inre motivation när de ges tidigt i en uppgift.
 
-Researchers examined how reward timing influenced intrinsic motivation. They found that giving an immediate bonus for working on a task, rather than waiting until the task was completed, increased interest and enjoyment in it. Getting an earlier bonus increased motivation and persistence in the activity that continued even after the award was removed.
+Forskarna undersökte hur tidpunkten för belöningen påverkade den inre motivationen. De fann att en omedelbar bonus för att arbeta med en uppgift, snarare än att vänta tills uppgiften var slutförd, ökade intresset och glädjen för den. Att få en tidigare bonus ökade motivationen och uthålligheten i aktiviteten, vilket fortsatte även efter att belöningen tagits bort.
 
-Understanding the factors that promote intrinsic motivation can help you see how it works and why it can be beneficial. These factors include:
+Att förstå de faktorer som främjar inre motivation kan hjälpa dig att se hur det fungerar och varför det kan vara fördelaktigt. Dessa faktorer inkluderar:
 
-- **Curiosity**. Curiosity pushes us to explore and learn for the sole pleasure of learning and mastering.
-- **Challenge**. Being challenged helps us work at a continuously optimal level work toward meaningful goals.
-- **Control**. This comes from our basic desire to control what happens and make decisions that affect the outcome.
-- **Recognition**. We have an innate need to be appreciated and satisfaction when our efforts are recognized and appreciated by others.
-- **Cooperation**. Cooperating with others satisfies our need for belonging. We also feel personal satisfaction when we help others and work together to achieve a shared goal.
-- **Competition**. Competition poses a challenge and increases the importance we place on doing well.
-- **Fantasy**. Fantasy involves using mental or virtual images to stimulate your behavior. An example is a virtual game that requires you to answer a question or solve a problem to move to the next level. Some motivation apps use a similar approach.
+- **Nyfikenhet**. Nyfikenhet driver oss att utforska och lära oss för det enda nöjet att lära oss och bemästra.
+- **Utmaning**. Att bli utmanad hjälper oss att arbeta på en kontinuerligt optimal nivå och arbeta mot meningsfulla mål.
+- **Kontroll**. Detta kommer från vår grundläggande önskan att kontrollera vad som händer och fatta beslut som påverkar resultatet.
+- Erkännande**. Vi har ett medfött behov av att bli uppskattade och blir tillfredsställda när våra ansträngningar uppmärksammas och uppskattas av andra.
+- Samarbete**. Att samarbeta med andra tillfredsställer vårt behov av tillhörighet. Vi känner också personlig tillfredsställelse när vi hjälper andra och arbetar tillsammans för att uppnå ett gemensamt mål.
+- **Tävling**. Tävling innebär en utmaning och ökar den vikt vi lägger vid att göra bra ifrån oss.
+- **Fantasi**. Fantasi innebär att man använder mentala eller virtuella bilder för att stimulera sitt beteende. Ett exempel är ett virtuellt spel där du måste svara på en fråga eller lösa ett problem för att komma vidare till nästa nivå. Vissa motivationsappar använder ett liknande tillvägagångssätt.
 
+## Spelifiering
 
-# Gamification
+Spelbaserat lärande bör inte förväxlas med gamification.
 
-Game-based learning should not be confused with gamification.
+**DGBL** erbjuder en delikat balans mellan lektioner i klassrummet och pedagogiska spel. Lärarna introducerar eleverna till nya koncept och visar dem hur de fungerar. Sedan övar eleverna på dessa begrepp genom digitala spel.
 
-**DGBL** offers a delicate balance between in-class lessons and educational gameplay. Teachers introduce students to new concepts and show them how they work. Then students practise these concepts through digital games.
+**Gamification** innebär att man tar element från spel - som spelmekanik, topplistor, nivåer eller poäng - och tillämpar dem i icke-spelsammanhang för att engagera användarna bättre. Syftet med detta är att göra lektioner som kanske inte är så roliga mer engagerande för eleverna.
 
-**Gamification** involves taking elements from games -- such as game mechanics, leaderboards, levels, or points --  and applying them to non-game contexts to engage users better. The purpose of this is to make lessons that might not be enjoyable more engaging for students.
+Några exempel på spelmekanik som används i gamification är  
 
-Some examples of game mechanics used in gamification are:
-- **Goals** - Complete the task and get a reward, such as a **badge** or points.
-- **Status** - Users increase their level or rank through completing activities. **Leaderboards** show who is ‘winning’ and inspire users to work harder to compete.
-- **Community** - Users are paired or put in groups to solve problems, complete activities, or otherwise achieve an objective.
-- **Education** - Tips, tricks and quizzes are given to the user throughout the process.
-- **Rewards** - As mentioned above, points and badges are common, and useful, rewards. Other rewards could be discounts, coupons, or gift cards. This fuels the user’s motivation and keeps engagement high.
+- **Mål** - Slutför uppgiften och få en belöning, t.ex. en **badge** eller poäng.
+- **Status** - Användare ökar sin nivå eller rang genom att slutföra aktiviteter. **Leaderboards** visar vem som "vinner" och inspirerar användarna att arbeta hårdare för att tävla.
+- **Community** - Användare paras ihop eller sätts i grupper för att lösa problem, slutföra aktiviteter eller på annat sätt uppnå ett mål.
+- **Utbildning** - Tips, tricks och frågesporter ges till användaren under hela processen.
+- **Belöningar** - Som nämnts ovan är poäng och badges vanliga och användbara belöningar. Andra belöningar kan vara rabatter, kuponger eller presentkort. Detta ökar användarens motivation och håller engagemanget på en hög nivå.
 
-Gamification takes an element of education and replaces it with a game-based element. For instance, a teacher may replace grades with levels or experience points.
+Spelifiering tar en del av utbildningen och ersätter den med ett spelbaserat element. En lärare kan till exempel ersätta betyg med nivåer eller erfarenhetspoäng.
 
-Proponents of gamification often cite research demonstrating the positive impacts of these interventions on outcomes such as academic performance, student motivation, customer retention, organizational productivity, or user engagement in online platforms. 
+Förespråkare av spelifiering hänvisar ofta till forskning som visar att dessa insatser har en positiv inverkan på resultat som akademiska prestationer, studentmotivation, kundretention, organisationens produktivitet eller användarnas engagemang i onlineplattformar. 
 
-# The Flow state
-The Flow state in an experience as the equilibrium point between challenge and ability. If the challenge is quite higher than the ability the result will be the person getting frustrated and with the feeling of anxiety, on the other hand if the person’s skill is higher than the challenge presented he will experience boredom.
-Games should be designed and calibrated the ensure that the player maximises its staying within the *flow channel*
+## Flödestillståndet
+Flow-tillståndet i en upplevelse är jämviktspunkten mellan utmaning och förmåga. Om utmaningen är högre än förmågan blir resultatet att personen blir frustrerad och känner ångest, å andra sidan om personens skicklighet är högre än den utmaning som presenteras kommer han att uppleva tristess.
+Spel bör utformas och kalibreras för att säkerställa att spelaren maximerar sin vistelse inom *flödeskanalen*.
 
 ![](../assets/img/flow-1.png)
 
 
-# Games selection
+## Val av spel
 
-After we have established the definition of game-based learning, its basis, and how its implementation enhances several social and cognitive skills, the question now diverts to **how we can select an educational video game that elicit engagement and motivation as well as ensure that it is designed with the intended educational content**.
-There are many educational video games available for class implementation, however, many are redundant, easy or stimulatingly boring that students are just not as interested or motivated to play.
-In this unit, we will discuss the characteristics of a good educational video game, its attributes, and how educators can ensure that they are providing their students with the best quality of learning through the selected video game.
+Efter att vi har fastställt definitionen av spelbaserat lärande, dess grund och hur dess genomförande förbättrar flera sociala och kognitiva färdigheter, övergår frågan nu till **hur vi kan välja ett pedagogiskt videospel som framkallar engagemang och motivation samt säkerställer att det är utformat med det avsedda pedagogiska innehållet**.
+Det finns många pedagogiska videospel tillgängliga för implementering i klassrummet, men många är överflödiga, enkla eller stimulerande tråkiga så att eleverna helt enkelt inte är lika intresserade eller motiverade att spela.
+I den här enheten kommer vi att diskutera vad som kännetecknar ett bra pedagogiskt videospel, dess attribut och hur lärare kan säkerställa att de ger sina elever bästa möjliga inlärningskvalitet genom det valda videospel.
 
-# Where to find EVG
-When choosing an EVG we have several options where to look. We could:
+## Var hittar man EVG
+När vi ska välja en EVG har vi flera alternativ att välja mellan. Vi kan:
 
-- Use entertainment/**commercial off-the-shelf** (COTS) games. These games are already in the stores and could have additional or not explicit educational content (Assassin's Creed / Civilization)
-- **Modify** entertainment games. Many commercial games allow to create custom missions or quests (Kerbal Space Academy)
-- Use **virtual worlds**. There are many "sandbox" games where the player sparks creativity and teacher could pre-build the learning environment (Minecraft)
-- Use **educational games** created ad hoc (MinecraftEdu)
-- **Create original games**. If a special requirements is needed, you could develop or ask to develop a custom game (Antura)
-- **Let students create games**, to design a game you have to study and manage the learning content very deeply
+- Använda underhållning/**kommersiella off-the-shelf** (COTS) spel. Dessa spel finns redan i butikerna och kan ha ytterligare eller inte explicit utbildningsinnehåll (Assassin's Creed / Civilization)
+- **Modifiera** underhållningsspel. Många kommersiella spel gör det möjligt att skapa anpassade uppdrag eller quests (Kerbal Space Academy)
+- Använda **virtuella världar**. Det finns många "sandlådespel" där spelaren får utlopp för sin kreativitet och läraren kan bygga upp inlärningsmiljön i förväg (Minecraft).
+- Använd **pedagogiska spel** som skapas ad hoc (MinecraftEdu)
+- **Skapa egna spel**. Om det krävs särskilda krav kan du utveckla eller be om att få utveckla ett anpassat spel (Antura)
+- **Låt eleverna skapa spel**, för att designa ett spel måste du studera och hantera lärandeinnehållet mycket djupt
 
-# Games 4 Good
-**Games for good** have the mission to help improving the world, with positive social impact, improved knowledge about social issues, with direct experience of human problems.
+## Spel 4 Bra
+**Games for good** har som uppdrag att hjälpa till att förbättra världen, med positiv social påverkan, förbättrad kunskap om sociala frågor, med direkt erfarenhet av mänskliga problem.
 
-- Education
-- Health
-- Empathy
-- Ethics
-- Politics and History
+- Utbildning
+- Hälsa
+- Empati
+- Etik
+- Politik och historia
 - Religion
-- Wars
-- Epidemics
-- Sexism and racism
-- Environment and Climate change
-- Energy
+- Krig
+- Epidemier
+- Sexism och rasism
+- Miljö och klimatförändringar
+- Energi
 
-# Games benefits
+## Fördelar med spel
 
-Additionally, playing video games has a huge impact on the development of **cognitive**, **collaboration**, **creative problem solving**, and **communication skills** of students. 
-As well as improving learning abilities, here are some other benefits of Games:
+Att spela videospel har dessutom en enorm inverkan på utvecklingen av **kognitiv**, **samarbete**, **kreativ problemlösning** och **kommunikationsförmåga** hos eleverna. 
 
-- **speed up response times**: improve troubleshooting skills by posing problems that must be solved in a set time.
-- **encourage teamwork**: multiplayer games boost teamwork in problem-solving.
-- **stimulate creativity, focus, and visual memory**: stimulate these aspects by setting goals that require concentration, imagination, and remembering details to achieve them.
-- **improve strategy and leadership**: put players in command, honing their abilities to resolve disputes, interact with other players and make decisions.
-- **teach languages**: they are useful for learning other languages through on-screen instructions, chats for communicating with other players, or the narration of the story itself.
-- improve **critical thinking**: with underlying ethical, philosophical and social basis, and their ability to make players think.
+Förutom att förbättra inlärningsförmågan finns det några andra fördelar med spel:
 
-## Challengers
-![human-vs-machine](../assets/img/human-vs-machine.jpg)
+- **förkorta svarstider**: förbättra felsökningsförmågan genom att ställa problem som måste lösas inom en viss tid.
+- **uppmuntrar till lagarbete**: multiplayer-spel främjar lagarbete vid problemlösning.
+- **stimulera kreativitet, fokus och visuellt minne**: stimulera dessa aspekter genom att sätta upp mål som kräver koncentration, fantasi och att man minns detaljer för att uppnå dem.
+- **förbättra strategi och ledarskap**: ge spelarna befälet och träna deras förmåga att lösa tvister, interagera med andra spelare och fatta beslut.
+- **lär ut språk**: de är användbara för att lära sig andra språk genom instruktioner på skärmen, chattar för att kommunicera med andra spelare eller berättandet av själva historien.
+- förbättra **kritiskt tänkande**: med underliggande etiska, filosofiska och sociala grunder, och deras förmåga att få spelarna att tänka.
 
-Video games allow a player to challenge some-one on the same screen, or in the same room (each one with its networked device), or anywhere in the world via internet (in realtime or at turned based play).
-Players can even challenge recorded adversaries, or even them self!
+## Utmanare
+![människa-vs-maskin](../assets/img/human-vs-machine.jpg)
 
-New advances with Artificial Intelligence allow players to play against advanced artificial players, that could be even be trained to play with a particular style or behaviours (Imitation Learning).
+Videospel gör det möjligt för en spelare att utmana någon på samma skärm, i samma rum (var och en med sin nätverksanslutna enhet) eller var som helst i världen via internet (i realtid eller i ett turordningsbaserat spel).
+Spelare kan även utmana inspelade motståndare, eller till och med sig själva!
+
+Nya framsteg inom artificiell intelligens gör det möjligt för spelare att spela mot avancerade artificiella spelare, som till och med kan tränas att spela med en viss stil eller ett visst beteende (imitationsinlärning).
 
 ---
 
-## Unit review
+## Genomgång av enheten
 
-QUIZ:
-- Select all virtues of Videogames ()
-- Select what we can learn by playing videogames ()
+QUIZ
 
-Discuss in your opinion:
-- What are the important features that a good educational video game should have?
+- Välj alla fördelar med videospel
+- Välj vad vi kan lära oss genom att spela videospel
+
+Diskutera i din åsikt
+
+- Vilka är de viktigaste egenskaperna som ett bra pedagogiskt videospel bör ha?

@@ -1,203 +1,201 @@
 ---
-title: 5 - Teacher Guide
+title: 5 - Οδηγός για τον εκπαιδευτικό
 has_children: true
 has_toc: false
 nav_order: 50
 ---
-# 5.  Teacher guide
+# 5. Οδηγός δασκάλου
 
-**Learning Objectives**  
+**Μαθησιακοί στόχοι**  
 
-- How to setup a DGBL session
-- What skills a teacher needs to develop
-- What challenges are there in DGBL?
-- What hardware do we need and how to set it up?
-- What Skills does student needs to start?
-- How to assess the outcome of a VG
-- What are game analytics?
-- What to assess?
+- Πώς να ρυθμίσετε μια συνεδρία DGBL
+- Ποιες δεξιότητες πρέπει να αναπτύξει ένας εκπαιδευτικός
+- Ποιες προκλήσεις υπάρχουν στην DGBL;
+- Τι υλικό χρειαζόμαστε και πώς να το ρυθμίσουμε;
+- Ποιες δεξιότητες χρειάζεται ο μαθητής για να ξεκινήσει;
+- Πώς να αξιολογήσουμε το αποτέλεσμα ενός VG
+- Τι είναι η ανάλυση παιχνιδιών;
+- Τι πρέπει να αξιολογηθεί;
 
-## How to use EVG in Classroom
+## Πώς να χρησιμοποιήσετε το EVG στην τάξη
 
-After learning about the benefits of educational video games and the characteristics of a good educational video game, we arrive at the question: how do we incorporate game-based learning for maximum benefit as well as when and where in the curriculum? Also, what about class management, how do we manage the environment of the class and students while playing the game?
+Αφού μάθαμε για τα οφέλη των εκπαιδευτικών βιντεοπαιχνιδιών και τα χαρακτηριστικά ενός καλού εκπαιδευτικού βιντεοπαιχνιδιού, φτάνουμε στο ερώτημα: πώς ενσωματώνουμε τη μάθηση με βάση το παιχνίδι για μέγιστο όφελος καθώς και πότε και πού στο πρόγραμμα σπουδών; Επίσης, τι γίνεται με τη διαχείριση της τάξης, πώς διαχειριζόμαστε το περιβάλλον της τάξης και των μαθητών ενώ παίζουμε το παιχνίδι;
 
-In this unit, we will answer all these questions and provide a guideline and tips that instructors can follow when deciding to select and implement an educational video game.
+Σε αυτή την ενότητα, θα απαντήσουμε σε όλα αυτά τα ερωτήματα και θα παρέχουμε μια κατευθυντήρια γραμμή και συμβουλές που μπορούν να ακολουθήσουν οι εκπαιδευτές όταν αποφασίζουν να επιλέξουν και να εφαρμόσουν ένα εκπαιδευτικό βιντεοπαιχνίδι.
 
-> 📽 #VIDEO [Using Games in the Classroom](https://youtu.be/o6IELVV2xLQ)
+> 📽 #VIDEO [Χρήση παιχνιδιών στην τάξη](https://youtu.be/o6IELVV2xLQ)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/o6IELVV2xLQ"></iframe>
-
-
 
 ## Teacher 2.0
 
-With the infusion of technology in the classroom, teachers are moving away from being sole presenters of information and are moving into the new roles of bring "facilitators".
-With this new role comes the excitement of presenting digital game-based learning to students that has been proven to increase students' desire to learn, lower their stress levels and provide new, proactive ways of learning needed 21st century skills. Furthermore, teachers/facilitators can rely on "new evaluation tools" that are rubric-like and can be used to evaluate and determine whether games will engage their students while teaching them. In conclusion, when teachers properly evaluate games to ascertain their usability in the classroom and then implement them correctly, they bring a new level of learning into the classroom that reinvigorates students' desire to learn while decreasing unwanted stress that inhibits those students' ability to excel.
+Με την εισροή της τεχνολογίας στην τάξη, οι εκπαιδευτικοί απομακρύνονται από το να είναι αποκλειστικοί παρουσιαστές πληροφοριών και περνούν στους νέους ρόλους του να φέρνουν "διευκολυντές".
+Με αυτόν τον νέο ρόλο έρχεται ο ενθουσιασμός της παρουσίασης στους μαθητές ψηφιακών παιχνιδιών που αποδεδειγμένα αυξάνουν την επιθυμία των μαθητών για μάθηση, μειώνουν τα επίπεδα άγχους τους και παρέχουν νέους, προληπτικούς τρόπους εκμάθησης των απαραίτητων δεξιοτήτων του 21ου αιώνα. Επιπλέον, οι εκπαιδευτικοί/διαμεσολαβητές μπορούν να βασίζονται σε "νέα εργαλεία αξιολόγησης" που μοιάζουν με ρουμπρίκες και μπορούν να χρησιμοποιηθούν για να αξιολογήσουν και να καθορίσουν αν τα παιχνίδια θα εμπλέξουν τους μαθητές τους, ενώ παράλληλα θα τους διδάξουν. Συμπερασματικά, όταν οι εκπαιδευτικοί αξιολογούν σωστά τα παιχνίδια για να διαπιστώσουν τη χρηστικότητά τους στην τάξη και στη συνέχεια τα εφαρμόζουν σωστά, φέρνουν ένα νέο επίπεδο μάθησης στην τάξη που αναζωογονεί την επιθυμία των μαθητών για μάθηση, ενώ μειώνει το ανεπιθύμητο άγχος που εμποδίζει την ικανότητα των μαθητών αυτών να αριστεύσουν.
 
 
 
 ![dgbl_flowchart](../assets/img/dgbl_flowchart.webp)
 
-## Approach
-The approach to Digital Game-Based Learning needs to be well planned and organized to engage in learning and to produce the appropriate outcomes.
+## Προσέγγιση
+Η προσέγγιση της μάθησης με βάση τα ψηφιακά παιχνίδια πρέπει να είναι καλά σχεδιασμένη και οργανωμένη ώστε να εμπλακεί στη μάθηση και να παραχθούν τα κατάλληλα αποτελέσματα.
 
-The coaches must learn to set the stage, providing relevant game information and support the students in their attempts to construct, deconstruct and reconstruct relevant forms of knowledge (both in relation to the game context, curricular goals and real life phenomena).
+Οι προπονητές πρέπει να μάθουν να στήνουν το σκηνικό, παρέχοντας σχετικές πληροφορίες για το παιχνίδι και να υποστηρίζουν τους μαθητές στην προσπάθειά τους να κατασκευάσουν, να αποδομήσουν και να ανακατασκευάσουν σχετικές μορφές γνώσης (τόσο σε σχέση με το πλαίσιο του παιχνιδιού, τους στόχους του προγράμματος σπουδών όσο και με φαινόμενα της πραγματικής ζωής).
 
-They must become familiar with the theoretical underpinnings of DGBL, learn about the specific games they will be using: techniques, gameplay, curriculum, outcomes, assistance, evaluation. For all that, we’ll provide a list of digital learning games as case studies for the coaches.
+Πρέπει να εξοικειωθούν με το θεωρητικό υπόβαθρο της DGBL, να μάθουν για τα συγκεκριμένα παιχνίδια που θα χρησιμοποιήσουν: τεχνικές, παιχνίδι, πρόγραμμα σπουδών, αποτελέσματα, βοήθεια, αξιολόγηση. Για όλα αυτά, θα παρέχουμε έναν κατάλογο ψηφιακών μαθησιακών παιχνιδιών ως μελέτες περίπτωσης για τους προπονητές.
 
-It is important to know the theory and the tools because games do not work by themselves and not all refugees/adults/coaches are comfortable with digital games.
+Είναι σημαντικό να γνωρίζετε τη θεωρία και τα εργαλεία, επειδή τα παιχνίδια δεν λειτουργούν από μόνα τους και δεν είναι όλοι οι πρόσφυγες/ενήλικες/προπονητές άνετοι με τα ψηφιακά παιχνίδια.
 
 
 
-## Tips for using VG in the classroom
+## Συμβουλές για τη χρήση VG στην τάξη
 ![](../assets/img/tips_vg_classroom.webp)
 
-### Must
-1. Teachers do not need to be avid gamers, but they should **at least be interested in them**.
-2. Videogames should not be the main method for educating students. They are just **one of the tools available**.
-3. **Check the age recommendations** on videogames. Avoid those for 18 ears and over.
-4. Before you select a videogame, be clear about the **skills and competencies** you want to develop.
-5. Students are **motivated by progressing** from level to level. It Is Important not to set impossible challenges.
-6. Schools must be equipped with **suitable technology** before Introducing videogames into the classroom.
-7. Students can get hooked on videogames so teaching how to **control their use** is also part of classroom education.
+### Πρέπει
+1. Οι εκπαιδευτικοί δεν χρειάζεται να είναι φανατικοί παίκτες, αλλά θα πρέπει **τουλάχιστον να ενδιαφέρονται γι' αυτά**.
+2. Τα βιντεοπαιχνίδια δεν πρέπει να αποτελούν την κύρια μέθοδο εκπαίδευσης των μαθητών. Είναι απλώς **ένα από τα διαθέσιμα εργαλεία**.
+3. **Ελέγξτε τις συστάσεις ηλικίας** για τα βιντεοπαιχνίδια. Αποφύγετε εκείνα που απευθύνονται σε άτομα με αυτιά 18 ετών και άνω.
+4. Πριν επιλέξετε ένα βιντεοπαιχνίδι, να είστε ξεκάθαροι σχετικά με τις **δεξιότητες και ικανότητες** που θέλετε να αναπτύξετε.
+5. Οι μαθητές **παρακινούνται από την πρόοδο** από επίπεδο σε επίπεδο. Είναι σημαντικό να μην θέτετε αδύνατες προκλήσεις.
+6. Τα σχολεία πρέπει να είναι εξοπλισμένα με **κατάλληλη τεχνολογία** πριν την Εισαγωγή των βιντεοπαιχνιδιών στην τάξη.
+7. Οι μαθητές μπορεί να εθιστούν στα βιντεοπαιχνίδια, οπότε η διδασκαλία του τρόπου **ελέγχου της χρήσης τους** είναι επίσης μέρος της εκπαίδευσης στην τάξη.
 
 ### Plus
-- The educator should play the game prior to the intervention, in order to identify its possible limitations. 
-- The educator should adapt the game according to the educational scenario and correlate it with the traditional methods of teaching. 
-- The gaming intervention should have a specific time limit that should not be altered. 
-- During the gaming intervention the educator should first play with the students in order to make sure they understand the game and are able to proceed on their own, and afterwards supervise the students and associate the gaming content with educational goals. 
-- The educator should ask feedback from the students after the intervention and take into account their considerations and preferences for the design of next GBL experiences.
+- Ο εκπαιδευτικός θα πρέπει να παίξει το παιχνίδι πριν από την παρέμβαση, προκειμένου να εντοπίσει τους πιθανούς περιορισμούς του. 
+- Ο εκπαιδευτικός θα πρέπει να προσαρμόσει το παιχνίδι σύμφωνα με το εκπαιδευτικό σενάριο και να το συσχετίσει με τις παραδοσιακές μεθόδους διδασκαλίας. 
+- Η παρέμβαση στο παιχνίδι θα πρέπει να έχει συγκεκριμένο χρονικό όριο που δεν θα πρέπει να μεταβάλλεται. 
+- Κατά τη διάρκεια της παρέμβασης στο παιχνίδι ο εκπαιδευτικός θα πρέπει πρώτα να παίζει με τους μαθητές προκειμένου να βεβαιωθεί ότι κατανοούν το παιχνίδι και ότι είναι σε θέση να προχωρήσουν μόνοι τους, και στη συνέχεια να επιβλέπει τους μαθητές και να συσχετίζει το περιεχόμενο του παιχνιδιού με τους εκπαιδευτικούς στόχους. 
+- Ο εκπαιδευτικός θα πρέπει να ζητά ανατροφοδότηση από τους μαθητές μετά την παρέμβαση και να λαμβάνει υπόψη τις εκτιμήσεις και τις προτιμήσεις τους για το σχεδιασμό των επόμενων εμπειριών GBL.
 
-## A Digital Game Based Learning session
-We can summarise a DGBL session in these five steps:
+## Μια συνεδρία ψηφιακής μάθησης με βάση το παιχνίδι
+Μπορούμε να συνοψίσουμε μια συνεδρία DGBL σε αυτά τα πέντε βήματα:
 
-### 1. Introduction to videogame
-The teacher explains the game and helps installing it on the students devices.
-Then tells the outcomes expected from playing this game.
+### 1. Εισαγωγή στο βιντεοπαιχνίδι
+Ο εκπαιδευτικός εξηγεί το παιχνίδι και βοηθά στην εγκατάστασή του στις συσκευές των μαθητών.
+Στη συνέχεια λέει τα αποτελέσματα που αναμένονται από το παιχνίδι αυτό.
 
-### 2. gameplay / experience
-autonomous activity: the student becomes player
+### 2. Παιχνίδι/εμπειρία
+Αυτόνομη δραστηριότητα: ο μαθητής γίνεται παίκτης
 
-### 3. game results / scores
-autonomous activity: the player finish to play. check the score
+### 3. Αποτελέσματα του παιχνιδιού / σκορ
+αυτόνομη δραστηριότητα: ο παίκτης ολοκληρώνει το παιχνίδι. ελέγχει το σκορ
 
-### 4. reflection / analysis
-student and the teacher analyse together the outcome
+### 4. Αναστοχασμός / ανάλυση
+ο μαθητής και ο δάσκαλος αναλύουν από κοινού το αποτέλεσμα
 
-### 5. forming abstract concepts + real world application
+### 5. Διαμόρφωση αφηρημένων εννοιών + εφαρμογή στον πραγματικό κόσμο
 
 
-## Teacher Skills
-The teacher has to develop or at least know something about these topics:
+## Δεξιότητες του εκπαιδευτικού
+Ο εκπαιδευτικός πρέπει να αναπτύξει ή τουλάχιστον να γνωρίζει κάτι για αυτά τα θέματα:
 
-- ICT / Basic Digital Skills
-- Minimal game playing experience
-- Deep understanding of how a game can help learning and its differences with a  classic book/course
-- Recognise different players skills and support their game play
-- Engage students in playing and progression
+- ΤΠΕ / Βασικές ψηφιακές δεξιότητες
+- Ελάχιστη εμπειρία στο παιχνίδι
+- Βαθιά κατανόηση του τρόπου με τον οποίο ένα παιχνίδι μπορεί να βοηθήσει τη μάθηση και των διαφορών του με ένα κλασικό βιβλίο/μάθημα
+- Αναγνώριση των διαφορετικών δεξιοτήτων των παικτών και υποστήριξη του παιχνιδιού τους
+- Ενεργοποίηση των μαθητών στο παιχνίδι και την εξέλιξη
 
-## Challenges
-There could be some difficulties and challenges to be solved in order to achieve better results in DGBL sessions.
+## Προκλήσεις
+Θα μπορούσαν να υπάρξουν ορισμένες δυσκολίες και προκλήσεις που πρέπει να επιλυθούν προκειμένου να επιτευχθούν καλύτερα αποτελέσματα στις συνεδρίες DGBL.
 
-**Curriculum**: it’s hard to find games that fit the current curriculum or to identify how a certain game can connect to the curriculum.
-Check out [commonsense.org/education](https://www.commonsense.org/education) for ideas. Remember that the best way to use games is as a supplemental reinforcement for your traditional teaching. Don’t look for games that will teach your curriculum. Instead, look for games that might approach the same subject area from a different perspective.
+**Πρόγραμμα σπουδών**: Είναι δύσκολο να βρεθούν παιχνίδια που ταιριάζουν με το τρέχον πρόγραμμα σπουδών ή να προσδιοριστεί πώς ένα συγκεκριμένο παιχνίδι μπορεί να συνδεθεί με το πρόγραμμα σπουδών.
+Ελέγξτε το [commonsense.org/education](https://www.commonsense.org/education) για ιδέες. Να θυμάστε ότι ο καλύτερος τρόπος για να χρησιμοποιήσετε τα παιχνίδια είναι ως συμπληρωματική ενίσχυση της παραδοσιακής σας διδασκαλίας. Μην ψάχνετε για παιχνίδια που θα διδάξουν το πρόγραμμα σπουδών σας. Αντ' αυτού, αναζητήστε παιχνίδια που μπορεί να προσεγγίσουν την ίδια θεματική περιοχή από διαφορετική οπτική γωνία.
 
-**Game related**: identify the accuracy and appropriateness of the content of the game. Irrelevant or distracting content from the game that could not be removed.
+**Σχετικά με το παιχνίδι**: Προσδιορίστε την ακρίβεια και την καταλληλότητα του περιεχομένου του παιχνιδιού. Άσχετο ή ενοχλητικό περιεχόμενο από το παιχνίδι που δεν θα μπορούσε να αφαιρεθεί.
 
-**Attitudes**: persuading all stakeholders and non-players about the educational value of the game.
+**Στάσεις**: να πειστούν όλοι οι ενδιαφερόμενοι και οι μη παίκτες για την εκπαιδευτική αξία του παιχνιδιού.
 
-**Educators and Teachers support**: make them aware of how to use games more effectively in education.
+**Υποστήριξη εκπαιδευτικών και καθηγητών**: ευαισθητοποίησή τους σχετικά με τον τρόπο αποτελεσματικότερης χρήσης των παιχνιδιών στην εκπαίδευση.
 
-**Technology** many teacher are unfamiliar with technology. That’s okay. Most of the writing about game-based learning focuses on digital media, but the truth is that you don’t necessarily need devices. At the Quest To Learn school in New York City, game design is a way of thinking, a paradigm. A great deal of their curriculum uses paper-based games rather than digital games. 
+**Τεχνολογία** πολλοί εκπαιδευτικοί δεν είναι εξοικειωμένοι με την τεχνολογία. Αυτό δεν πειράζει. Τα περισσότερα κείμενα για τη μάθηση με βάση τα παιχνίδια εστιάζουν στα ψηφιακά μέσα, αλλά η αλήθεια είναι ότι δεν χρειάζεστε απαραίτητα συσκευές. Στο σχολείο Quest To Learn στη Νέα Υόρκη, ο σχεδιασμός παιχνιδιών είναι ένας τρόπος σκέψης, ένα παράδειγμα. Ένα μεγάλο μέρος του προγράμματος σπουδών τους χρησιμοποιεί παιχνίδια που βασίζονται σε χαρτί και όχι ψηφιακά παιχνίδια. 
 
-**Assessment**: Traditional assessments do not often align with GBL, so new models and approaches must be considered.
+**Αξιολόγηση**: Οι παραδοσιακές αξιολογήσεις δεν ευθυγραμμίζονται συχνά με τη ΓΒΛ, οπότε πρέπει να εξεταστούν νέα μοντέλα και προσεγγίσεις.
 
-**Developers** encourage and support game developers in the creation of better educational games
+**Αναπτυξιολόγοι** ενθαρρύνουν και υποστηρίζουν τους προγραμματιστές παιχνιδιών στη δημιουργία καλύτερων εκπαιδευτικών παιχνιδιών.
 
-## Moderation
-The impact of video games on society has been the subject of numerous studies. For example a psychologist at the Internet Institute at Oxford University, published a study establishing how much time should children be allowed to devote to video gaming. He reports that those who played less than an hour were more emotionally stable, while those who played for around three hours a day developed social problems. Therefore, when it comes to video games, **moderation is key**. 
+## Μετριότητα
+Ο αντίκτυπος των βιντεοπαιχνιδιών στην κοινωνία έχει αποτελέσει αντικείμενο πολυάριθμων μελετών. Για παράδειγμα, ένας ψυχολόγος του Ινστιτούτου Διαδικτύου του Πανεπιστημίου της Οξφόρδης, δημοσίευσε μια μελέτη που καθόριζε πόσο χρόνο θα πρέπει να επιτρέπεται στα παιδιά να αφιερώνουν στα βιντεοπαιχνίδια. Αναφέρει ότι εκείνα που έπαιζαν λιγότερο από μία ώρα ήταν πιο σταθερά συναισθηματικά, ενώ εκείνα που έπαιζαν περίπου τρεις ώρες την ημέρα εμφάνιζαν κοινωνικά προβλήματα. Επομένως, όταν πρόκειται για βιντεοπαιχνίδια, το **μέτρο είναι το κλειδί**. 
 
-## How to implement GBL?
-There are many strategies and ways for educators to incorporate game-based learning and EVGs into their curriculum and classroom. Here are three ways that teachers can follow to implement game-based learning:
+## Πώς εφαρμόζεται η GBL;
+Υπάρχουν πολλές στρατηγικές και τρόποι για τους εκπαιδευτικούς να ενσωματώσουν τη μάθηση με βάση τα παιχνίδια και τα EVGs στο πρόγραμμα σπουδών και στην τάξη τους. Ακολουθούν τρεις τρόποι που μπορούν να ακολουθήσουν οι εκπαιδευτικοί για να εφαρμόσουν τη μάθηση με βάση το παιχνίδι:
 
-### Games as shared Experience
-The EVGs selected plays more on experience, giving students the feel of being on a field trip. **Like a field trip**, students are first given instructions on what to expect and are then given freedom to explore an out-of-school location. And then back in the classroom, **instructors facilitate and emphasize the connections of the game to the curriculum**. These games, provide meaning for students.
-For example in MineCraft students build structures and “When night comes and creepers attack, only the students who stayed in fortified structures survive. After play, we discuss the difficulties of setting up a colony in a hostile environment. Students understand the dangers of settling new worlds because they have experienced them”.
+### Τα παιχνίδια ως κοινή εμπειρία
+Τα επιλεγμένα EVGs παίζουν περισσότερο στην εμπειρία, δίνοντας στους μαθητές την αίσθηση ότι βρίσκονται σε μια εκδρομή. **Όπως σε μια εκδρομή**, οι μαθητές λαμβάνουν πρώτα οδηγίες για το τι να περιμένουν και στη συνέχεια τους δίνεται η ελευθερία να εξερευνήσουν μια τοποθεσία εκτός σχολείου. Και στη συνέχεια, επιστρέφοντας στην τάξη, **οι εκπαιδευτικοί διευκολύνουν και τονίζουν τις συνδέσεις του παιχνιδιού με τη διδακτέα ύλη**. Αυτά τα παιχνίδια, δίνουν νόημα στους μαθητές.
+Για παράδειγμα, στο MineCraft οι μαθητές χτίζουν κατασκευές και "Όταν έρχεται η νύχτα και τα ερπετά επιτίθενται, μόνο οι μαθητές που έμειναν σε οχυρωμένες κατασκευές επιβιώνουν. Μετά το παιχνίδι, συζητάμε τις δυσκολίες της δημιουργίας μιας αποικίας σε ένα εχθρικό περιβάλλον. Οι μαθητές κατανοούν τους κινδύνους της εγκατάστασης νέων κόσμων επειδή τους έχουν βιώσει".
 
-### Games as Text
-These games allow users to decide the fate of the game. The game is built on a template uses player choice to tell a story. These include Examples include [Firewatch](http://www.firewatchgame.com/), an open-world game about being a park ranger; [Life Is Strange](https://lifeisstrange.square-enix-games.com/en-gb/), an emotional tale of friendships and bullying at a private school; [Her Story](https://www.herstorygame.com/), a nonlinear, police procedural whodunit; and [1979 Revolution: Black Friday](https://www.gamesforchange.org/games/1979-revolution-black-friday/), a political thriller set in the Iranian Revolution.
-Each game tells a *story*.
-**Assessing learning** with these games, educators can use Office 365 or Google Docs. For example, English literature teacher Paul Darvasi has his students play the point-and-click exploration game [Gone Home](https://gonehome.com/), which is about a dysfunctional family. Set in 1995, the game uses literary devices like mood, tone, and theme. He has students take screenshots as evidence and add them to a shared document. Collected screenshots later lead to projects like comparing reviews and then writing their own.
+### Παιχνίδια ως κείμενο
+Αυτά τα παιχνίδια επιτρέπουν στους χρήστες να αποφασίζουν για την τύχη του παιχνιδιού. Το παιχνίδι είναι χτισμένο πάνω σε ένα πρότυπο που χρησιμοποιεί την επιλογή του παίκτη για να αφηγηθεί μια ιστορία. Αυτά περιλαμβάνουν Παραδείγματα περιλαμβάνουν το [Firewatch](http://www.firewatchgame.com/), ένα παιχνίδι ανοιχτού κόσμου για το πώς να είσαι δασοφύλακας, το [Life Is Strange](https://lifeisstrange.square-enix-games.com/en-gb/), μια συναισθηματική ιστορία φιλίας και εκφοβισμού σε ένα ιδιωτικό σχολείο, το [Her Story](https://www.herstorygame.com/), ένα μη γραμμικό, αστυνομικό δικογραφικό αστυνομικό μυθιστόρημα και το [1979 Revolution: Black Friday](https://www.gamesforchange.org/games/1979-revolution-black-friday/), ένα πολιτικό θρίλερ που διαδραματίζεται στην ιρανική επανάσταση.
+Κάθε παιχνίδι αφηγείται μια *ιστορία*.
+**Αξιολογώντας τη μάθηση** με αυτά τα παιχνίδια, οι εκπαιδευτικοί μπορούν να χρησιμοποιήσουν το Office 365 ή το Google Docs. Για παράδειγμα, ο καθηγητής αγγλικής λογοτεχνίας Paul Darvasi βάζει τους μαθητές του να παίξουν το παιχνίδι εξερεύνησης point-and-click [Gone Home](https://gonehome.com/), το οποίο αναφέρεται σε μια δυσλειτουργική οικογένεια. Το παιχνίδι διαδραματίζεται το 1995 και χρησιμοποιεί λογοτεχνικές συσκευές όπως η διάθεση, ο τόνος και το θέμα. Βάζει τους μαθητές να τραβήξουν στιγμιότυπα οθόνης ως αποδεικτικά στοιχεία και να τα προσθέσουν σε ένα κοινό έγγραφο. Τα συλλεγμένα στιγμιότυπα οθόνης οδηγούν αργότερα σε έργα όπως η σύγκριση κριτικών και στη συνέχεια η συγγραφή δικών τους.
 
-### Games as Models
-These games are built on model real-world systems. They give students the opportunity to create their own models within the game. A teacher states that he makes students play [Werewolf](https://teambuilding.com/blog/werewolf-game-rules), and discuss “different actions that mirror the events of the Salem witch trials, McCarthyism, and other witch hunts. I also have students play the board game [Pandemic](https://www.zmangames.com/en/games/pandemic/), as well as the mobile game [Plague, Inc](https://www.ndemiccreations.com/en/22-plague-inc). These games illustrate how diseases travel the interconnected networks of the world. Students learn how the bubonic plague traveled along the Silk Road.”. He states that these games model causes that have effects, which subsequently have effects that teaches the **21st-century skill of systems thinking**.
+### Παιχνίδια ως μοντέλα
+Αυτά τα παιχνίδια βασίζονται σε μοντέλα συστημάτων του πραγματικού κόσμου. Δίνουν στους μαθητές την ευκαιρία να δημιουργήσουν τα δικά τους μοντέλα μέσα στο παιχνίδι. Ένας δάσκαλος δηλώνει ότι βάζει τους μαθητές να παίζουν [Werewolf] (https://teambuilding.com/blog/werewolf-game-rules), και να συζητούν "διάφορες ενέργειες που αντικατοπτρίζουν τα γεγονότα των δίκες μαγισσών του Σάλεμ, του Μακαρθισμού και άλλων κυνηγιών μαγισσών. Βάζω επίσης τους μαθητές να παίζουν το επιτραπέζιο παιχνίδι [Pandemic](https://www.zmangames.com/en/games/pandemic/), καθώς και το παιχνίδι για κινητά [Plague, Inc](https://www.ndemiccreations.com/en/22-plague-inc). Αυτά τα παιχνίδια απεικονίζουν τον τρόπο με τον οποίο οι ασθένειες ταξιδεύουν στα διασυνδεδεμένα δίκτυα του κόσμου. Οι μαθητές μαθαίνουν πώς η βουβωνική πανώλη ταξίδευε κατά μήκος του δρόμου του μεταξιού". Αναφέρει ότι αυτά τα παιχνίδια μοντελοποιούν τις αιτίες που έχουν επιπτώσεις, οι οποίες στη συνέχεια έχουν αποτελέσματα που διδάσκουν την **δεξιότητα του 21ου αιώνα της συστημικής σκέψης**.
 
-## Other tools
-Teachers also can create their own form of EVGs by creating learning games in Google Classroom
+## Άλλα εργαλεία
+Οι εκπαιδευτικοί μπορούν επίσης να δημιουργήσουν τη δική τους μορφή EVG δημιουργώντας μαθησιακά παιχνίδια στην τάξη Google
 
-> 📽 #VIDEO [How to create learning games in Google Classroom](https://www.youtube.com/watch?v=5TOXvl3Vig4)
+> 📽 #ΒΙΝΤΕΟ [Πώς να δημιουργήσετε μαθησιακά παιχνίδια στο Google Classroom](https://www.youtube.com/watch?v=5TOXvl3Vig4)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/5TOXvl3Vig4"></iframe>
 
-## Students pre-evaluation and setup 
+## Προαξιολόγηση και ρύθμιση των μαθητών 
 
-### Setup device
-Install the game on the device and run it once.
-If needed do some Android tuning (notifications, for example)
+### Εγκατάσταση συσκευής
+Εγκαταστήστε το παιχνίδι στη συσκευή και εκτελέστε το μία φορά.
+Αν χρειαστεί κάντε κάποια ρύθμιση του Android (ειδοποιήσεις, για παράδειγμα)
 
-# Assessment of Learning from Digital Games
+## Αξιολόγηση της μάθησης από τα ψηφιακά παιχνίδια
 
-The way in which any game is assessed is crucial if it is to be purposeful, to be seen as appropriate by the students and to encourage them to engage in the learning experience.
-There are seven aspects that should be examined when determining the effectiveness of game-based learning.
+Ο τρόπος με τον οποίο αξιολογείται κάθε παιχνίδι είναι κρίσιμος για να είναι σκόπιμο, να θεωρείται κατάλληλο από τους μαθητές και να τους ενθαρρύνει να συμμετάσχουν στη μαθησιακή εμπειρία.
+Υπάρχουν επτά πτυχές που πρέπει να εξετάζονται κατά τον προσδιορισμό της αποτελεσματικότητας της μάθησης με βάση τα παιχνίδια.
 
-- **Learner performance** - whether learning has taken place and there is an improvement in learner performance. 
-- **Motivation** – the levels of student motivation, interest and participation in the game.
-- **Perceptions** - the views of the students towards areas such as the experience of time passing, the realism of the game, amounts of complexity, support received and levels of perceived proficiency within the game.
-- **Attitudes** - feelings of the learners and teachers towards the subject itself and the use of games for learning within that subject.
-- **Collaboration** - the regularity and effectiveness of collaboration. (Connolly et al. argue that this is optional and dependent on the game design; I would argue that in the context of adult learning with games collaboration is an important part of the learning design.)
-- **Preferences** - inclinations of the learners and teachers towards, for example, different learning styles or modes of interaction.
-- Game-Based Learning **Environment** - factors associated with the game itself, such as the design of the environment, use of scaffolding, usability, levels of social presence and the way in which the game is deployed.
+- **Απόδοση του μαθητή** - αν έχει πραγματοποιηθεί μάθηση και αν υπάρχει βελτίωση στην απόδοση του μαθητή. 
+- **Κίνητρα** - τα επίπεδα κινήτρων, ενδιαφέροντος και συμμετοχής των μαθητών στο παιχνίδι.
+- **Αντιλήψεις** - οι απόψεις των μαθητών σχετικά με τομείς όπως η εμπειρία του χρόνου που περνά, ο ρεαλισμός του παιχνιδιού, τα ποσά πολυπλοκότητας, η υποστήριξη που έλαβαν και τα επίπεδα αντιλαμβανόμενης επάρκειας στο παιχνίδι.
+- **Στάσεις** - συναισθήματα των μαθητών και των εκπαιδευτικών απέναντι στο ίδιο το θέμα και τη χρήση των παιχνιδιών για τη μάθηση στο πλαίσιο του συγκεκριμένου θέματος.
+- **Συνεργασία** - η κανονικότητα και η αποτελεσματικότητα της συνεργασίας. (Οι Connolly κ.ά. υποστηρίζουν ότι αυτό είναι προαιρετικό και εξαρτάται από το σχεδιασμό του παιχνιδιού- εγώ θα υποστήριζα ότι στο πλαίσιο της μάθησης ενηλίκων με παιχνίδια η συνεργασία αποτελεί σημαντικό μέρος του μαθησιακού σχεδιασμού).
+- **Προτιμήσεις** - κλίσεις των εκπαιδευομένων και των εκπαιδευτικών προς, για παράδειγμα, διαφορετικά στυλ μάθησης ή τρόπους αλληλεπίδρασης.
+- Μάθηση με βάση το παιχνίδι **Περιβάλλον** - παράγοντες που σχετίζονται με το ίδιο το παιχνίδι, όπως ο σχεδιασμός του περιβάλλοντος, η χρήση της σκαλωσιάς, η χρηστικότητα, τα επίπεδα κοινωνικής παρουσίας και ο τρόπος με τον οποίο αναπτύσσεται το παιχνίδι.
 
-## Evaluation Tools: Analytics
-The analysts part is the more important 
+### Εργαλεία αξιολόγησης: Ανάλυση
+Το μέρος των αναλυτών είναι το πιο σημαντικό 
 
 ![](../assets/img/game_learning_analytics.webp)
 
-### Engagement Survey
-This questionnaire can be used after an activity has been completed to evaluate the level of engagement relative to another activity. In order to analyse the results and compare levels of engagement between two different activities the following steps should be taken.
+### Έρευνα δέσμευσης
+Αυτό το ερωτηματολόγιο μπορεί να χρησιμοποιηθεί μετά την ολοκλήρωση μιας δραστηριότητας για την αξιολόγηση του επιπέδου δέσμευσης σε σχέση με μια άλλη δραστηριότητα. Προκειμένου να αναλυθούν τα αποτελέσματα και να συγκριθούν τα επίπεδα δέσμευσης μεταξύ δύο διαφορετικών δραστηριοτήτων, θα πρέπει να γίνουν τα ακόλουθα βήματα.
 
-- Allocate a value to each answer, where strongly disagree = -2 to strongly agree = 2
-- For negative items (e.g. ‘I could not tell what effect my actions had’) reverse this scale.
-- Add up the total points to get a value for engagement with the activity.
+- Αποδώστε μια τιμή σε κάθε απάντηση, όπου διαφωνώ απόλυτα = -2 έως συμφωνώ απόλυτα = 2
+- Για τα αρνητικά στοιχεία (π.χ. "Δεν μπορούσα να καταλάβω τι επίδραση είχαν οι ενέργειές μου") αντιστρέψτε αυτή την κλίμακα.
+- Αθροίστε τους συνολικούς πόντους για να λάβετε μια τιμή για την εμπλοκή με τη δραστηριότητα.
 
-Thinking about the activity you have just undertaken, please indicate the level to which you agree with the following statements:
+Σκεπτόμενοι τη δραστηριότητα που μόλις αναλάβατε, αναφέρετε το βαθμό στον οποίο συμφωνείτε με τις ακόλουθες δηλώσεις:
 
-> Strongly Disagree (-2) | Disagree (-1) | Neither agree nor disagree (0) | Agree (1) | Strongly Agree (2)
+> Διαφωνώ απόλυτα (-2) | Διαφωνώ (-1) | Ούτε συμφωνώ ούτε διαφωνώ (0) | Συμφωνώ (1) | Συμφωνώ απόλυτα (2)
 
-- I wanted to complete the activity
-- I found the activity frustrating
-- I felt that I could achieve the goal of the activity
-- I knew what I had to do to complete the activity
-- I found the activity boring
-- It wasn’t clear what I could and couldn’t do
-- It was clear what I could learn from the activity
-- I felt absorbed in the activity 
-- The activity was pointless
-- I was not interested in exploring the options available
-- I did not care how the activity ended
-- I felt that time passed quickly
-- I found the activity satisfying
-- The activity would not let me do what I wanted
-- I could not tell what effect my actions had
-- I did not enjoy the activity
-- Feedback I was given was useful
-- I found it easy to get started
+- Ήθελα να ολοκληρώσω τη δραστηριότητα
+- Βρήκα τη δραστηριότητα απογοητευτική
+- Αισθάνθηκα ότι μπορούσα να επιτύχω τον στόχο της δραστηριότητας
+- Ήξερα τι έπρεπε να κάνω για να ολοκληρώσω τη δραστηριότητα
+- Βρήκα τη δραστηριότητα βαρετή
+- Δεν ήταν σαφές τι μπορούσα και τι δεν μπορούσα να κάνω
+- Ήταν σαφές τι θα μπορούσα να μάθω από τη δραστηριότητα
+- Αισθάνθηκα απορροφημένος από τη δραστηριότητα 
+- Η δραστηριότητα ήταν άσκοπη
+- Δεν με ενδιέφερε να εξερευνήσω τις διαθέσιμες επιλογές
+- Δεν με ενδιέφερε πώς τελείωσε η δραστηριότητα
+- Αισθάνθηκα ότι ο χρόνος πέρασε γρήγορα
+- Βρήκα τη δραστηριότητα ικανοποιητική
+- Η δραστηριότητα δεν με άφηνε να κάνω αυτό που ήθελα
+- Δεν μπορούσα να καταλάβω τι αποτέλεσμα είχαν οι ενέργειές μου
+- Δεν ευχαριστήθηκα τη δραστηριότητα
+- Η ανατροφοδότηση που μου δόθηκε ήταν χρήσιμη
+- Βρήκα εύκολο να ξεκινήσω
 
 ---
-## Unit Review
-- At the end.. what do you think about DGBL?
-- What do you think is the best attitude using games in classroom?
-- What do you need to improve your teaching sessions?
-- Are you going to play more videogames from tomorrow?
-- Did you like this course?
-- Did you learn something new?
-- What did you like most?
-- Have you some suggestion to improve this course?
+## Ανασκόπηση μονάδας
+- Στο τέλος... τι σκέφτεστε για την DGBL;
+- Ποια πιστεύετε ότι είναι η καλύτερη στάση για τη χρήση παιχνιδιών στην τάξη;
+- Τι χρειάζεστε για να βελτιώσετε τις διδακτικές σας συνεδρίες;
+- Θα παίξετε περισσότερα βιντεοπαιχνίδια από αύριο;
+- Σας άρεσε αυτό το μάθημα;
+- Μάθατε κάτι καινούργιο;
+- Τι σας άρεσε περισσότερο;
+- Έχετε κάποια πρόταση για να βελτιώσετε αυτό το μάθημα;

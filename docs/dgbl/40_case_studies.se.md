@@ -1,408 +1,408 @@
 ---
-title: 4 - Case studies
+title: 4 - Fallstudier
 has_children: true
 has_toc: false
 nav_order: 40
 ---
-# 4. Case Studies
+# 4. Fallstudier
 
-**Learning Objectives**  
+**Mål för inlärningen  
 
-- Which existing videogames can we use?
-- What can we learn using commercial videogames?
+- Vilka befintliga videospel kan vi använda?
+- Vad kan vi lära oss med hjälp av kommersiella videospel?
 
-## Educational games
+## Pedagogiska spel
 
-### Antura & the Letters
-![](../assets/img/games/antura.webp)
+### Antura & bokstäverna
+![](../assets/imgames/games/antura.webp)
 
-The educational goal of the game is to help players to acquire the basics of Arabic literacy, including Arabic letters, reading comprehension, and some vocabulary. But the game also has a social well-being objective to support flow, engagement, and motivation
+Det pedagogiska målet med spelet är att hjälpa spelarna att lära sig grunderna i arabisk läskunnighet, inklusive arabiska bokstäver, läsförståelse och ett visst ordförråd. Men spelet har också ett mål för socialt välbefinnande för att stödja flöde, engagemang och motivation
 
-> **Curricular connections**: Language learning; Arabic literacy; social and emotional learning 
-> **Possible skills taught**: Recognizing letters (shapes, names, phonemes); syllables and word reading; vocabulary
+> **Kopplingar till läroplanen**: Språkinlärning, arabisk läskunnighet, socialt och emotionellt lärande 
+> **Möjliga färdigheter som lärs ut**: Känna igen bokstäver (former, namn, fonem); stavelser och ordläsning; ordförråd
 
-website: [antura.org](https://www.antura.org)
+webbplats: [antura.org](https://www.antura.org)
 
-### Dragon Box
+### Drakboxen
 ![dragonbox](../assets/img/games/dragonbox.webp)
 
-Through playing with the digital manipulatives in *DragonBox games*, students deeply understand the mathematical concepts through active engagement, all while learning at their own pace.  Each of our games are based around “digital manipulatives”.  These digital manipulatives were designed to be used as a teaching tool, along with classroom instruction and discussion.  
-Website: [dragonbox.com](https://dragonbox.com/)
+Genom att leka med de digitala manipulativen i *DragonBox-spelen* får eleverna en djupare förståelse för de matematiska begreppen genom aktivt engagemang, samtidigt som de lär sig i sin egen takt.  Alla våra spel är baserade på "digitala manipulativ".  Dessa digitala manipulativ har utformats för att användas som ett pedagogiskt verktyg, tillsammans med klassrumsinstruktioner och diskussioner.  
+Webbplats: [dragonbox.com](https://dragonbox.com/)
 
-### Dumb Ways to Die
+### Dumma sätt att dö
 ![](../assets/img/games/dumbways.webp)
 
-An Australian public campaign made by Metro Trains in Melbourne, Victoria, Australia, to promote railway safety.   
-Website: [dumbwaystodie.com](http://www.dumbwaystodie.com)
+En australiensisk offentlig kampanj som gjordes av Metro Trains i Melbourne, Victoria, Australien, för att främja järnvägssäkerhet.   
+Webbplats: [dumbwaystodie.com](http://www.dumbwaystodie.com)
 
 ### iCivics
 ![icivics](../assets/img/games/icivics.webp)
 
-**iCivics** exists to engage students in meaningful civic learning. We provide teachers well-written, inventive, and free resources that enhance their practice and inspire their classrooms. about. **iCivics** reimagines civic education for American democracy.  
-Website: [icivics.org](https://www.icivics.org)
+**iCivics** finns till för att engagera elever i meningsfull samhällsutbildning. Vi erbjuder lärare välskrivna, uppfinningsrika och kostnadsfria resurser som förbättrar deras praktik och inspirerar deras klassrum. om. **iCivics** tänker nytt kring medborgarutbildning för den amerikanska demokratin.  
+Webbplats: [icivics.org](https://www.icivics.org)
 
-### Other titles
-- [Ludwig](http://www.playludwig.com) - educational game for physics
-- [80 Days](https://www.inklestudios.com/80days/) - adaptive educational game for geography
-- [Roma Nova](https://www.irit.fr/~David.Panzoli/romanova.html) - teaching history with brain interfaces
-- [Bionigma](https://www.gcc.tu-darmstadt.de) - science game for protein exploration
-- [Meister Cody](https://www.meistercody.com) - educational game for dyscalculia
-- [Orwell: Keeping an Eye on You](https://www.osmoticstudios.com/orwell-keeping-an-eye-on-you/) - learn personal information data management
+### Andra titlar
+- [Ludwig](http://www.playludwig.com) - pedagogiskt spel för fysik
+- [80 Days](https://www.inklestudios.com/80days/) - adaptivt utbildningsspel för geografi
+- [Roma Nova](https://www.irit.fr/~David.Panzoli/romanova.html) - historieundervisning med hjärngränssnitt
+- [Bionigma](https://www.gcc.tu-darmstadt.de) - vetenskapligt spel för proteinutforskning
+- [Meister Cody](https://www.meistercody.com) - pedagogiskt spel för dyskalkyli
+- [Orwell: Keeping an Eye on You](https://www.osmoticstudios.com/orwell-keeping-an-eye-on-you/) - lär dig hantering av personuppgifter
 
-## Health
+## Hälsa
 
-### The Game that can give you 10 extra years of life
+### Spelet som kan ge dig 10 extra levnadsår
 
-Game designer Jane McGonigal firmly believes that video games are not just about mashing buttons and getting to the next level. In fact, during her talk at TEDGlobal 2012, McGonigal gave several surprising statistics: that online gaming can be more effective than pharmaceuticals in treating **clinical depression** and that just 30 minutes a day is correlated with significant **increases in happiness**.
+Speldesignern Jane McGonigal är övertygad om att videospel inte bara handlar om att trycka på knappar och ta sig till nästa nivå. Under sitt föredrag på TEDGlobal 2012 presenterade Jane McGonigal flera överraskande fakta: att onlinespel kan vara effektivare än läkemedel vid behandling av **klinisk depression** och att bara 30 minuter om dagen är korrelerat med betydande **ökningar av lyckan**.
 
-📽 #VIDEO [The game that can give you 10 extra years of life](https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life)
-<iframe width="937" height="527" src="https://www.youtube.com/embed/lfBpsV1Hwqs" title="The game that can give you 10 extra years of life | Jane McGonigal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+📽 #VIDEO [Spelet som kan ge dig 10 extra år i livet](https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life)
+<iframe width="937" height="527" src="https://www.youtube.com/embed/lfBpsV1Hwqs" title="Spelet som kan ge dig 10 extra levnadsår | Jane McGonigal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Some titles
-- [Re-Mission](https://hopelab.org/case-study/re-mission/) - help young cancer patients with treatment compliance
-- [Zombie Run](https://zombiesrungame.com) - Run in the Real World. Become a Hero in Another.
-- [Play Forward](https://www.play2prevent.org/our-games/playforward-elm-city-stories/) - HIV prevention
-- Respir Games (asthma therapy)
-- BalanceFit (balance, coordination and strength training)
-- [NEUROvitalis](https://www.headapp.com/en/neurovitalis-en/) - personalized cognitive training
-- KickAss (autism game for adolescents)
-- [Zirkus Empathica](https://www.zirkus-empathico.de/) - autism game for children
-- [SPARX](https://www.sparx.org.nz/home) - mental health game for youths & adolescents
+### Några titlar
+- [Re-Mission](https://hopelab.org/case-study/re-mission/) - hjälp unga cancerpatienter med att följa behandlingen
+- [Zombie Run](https://zombiesrungame.com) - Spring i den verkliga världen. Bli en hjälte i en annan.
+- [Play Forward](https://www.play2prevent.org/our-games/playforward-elm-city-stories/) - förebyggande av hiv
+- Respir Games (astmabehandling)
+- BalanceFit (balans-, koordinations- och styrketräning)
+- [NEUROvitalis](https://www.headapp.com/en/neurovitalis-en/) - personlig kognitiv träning
+- KickAss (autismspel för ungdomar)
+- [Zirkus Empathica](https://www.zirkus-empathico.de/) - autismspel för barn
+- [SPARX](https://www.sparx.org.nz/home) - spel om mental hälsa för ungdomar och unga vuxna
 
-## Empathy
+## Empati
 
-> The ability to identify with or understand another's situation or feelings
+> Förmågan att identifiera sig med eller förstå en annan människas situation eller känslor
 
-### This War of Mine
-![](../assets/img/games/thiswarofmine.webp)
+### Mitt krig
+![](../assets/imgames/games/thiswarofmine.webp)
 
-This War of Mine is a war survival game that differs from most war-themed video games by focusing on the civilian experience of war rather than front line combat. Characters have to make many difficult decisions in order to survive everyday dangers. There are various endings for each character, depending on the decisions made in the game.  
-Website: [thiswarofmine.com](http://www.thiswarofmine.com)
+This War of Mine är ett överlevnadsspel som skiljer sig från de flesta videospel med krigstema genom att fokusera på den civila upplevelsen av krig snarare än frontstrid. Karaktärerna måste fatta många svåra beslut för att överleva vardagliga faror. Det finns olika slut för varje karaktär, beroende på vilka beslut som fattas i spelet.  
+Webbplats: [thiswarofmine.com](http://www.thiswarofmine.com)
 
-### Papers, Please
+### Tidningar, tack
 ![](../assets/img/games/papers_please.webp)
 
-**Papers, Please** is a single-player “Dystopian Document Thriller” in which the player steps into the role of an immigration inspector in the fictional country of Arstotzka in the year 1982. As the player stands on the threshold between two different countries, a unique perspective of immigration and border security springs out of the mundane task of inspecting papers. On a second layer, the player must simultaneously provide for their family using the salary earned from the job, which pays based on how many people have been processed through in a day. Balancing border security with the needs of the family is uniquely human, creating a juxtaposition that is new and interesting.  
-Website: [papersplea.se](https://www.papersplea.se/)
+**Papers, Please** är en "Dystopian Document Thriller" för en spelare där spelaren kliver in i rollen som en immigrationsinspektör i det fiktiva landet Arstotzka år 1982. När spelaren står på tröskeln mellan två olika länder växer ett unikt perspektiv på invandring och gränssäkerhet fram ur den vardagliga uppgiften att inspektera papper. På ett andra plan måste spelaren samtidigt försörja sin familj med hjälp av lönen från jobbet, som betalas baserat på hur många människor som har passerat under en dag. Att balansera gränssäkerhet med familjens behov är unikt mänskligt och skapar en juxtaposition som är ny och intressant.  
+Webbplats: [papersplea.se](https://www.papersplea.se/)
 
 ### Bounden
 ![bounden](../assets/img/games/bounden.webp)
 
-**Bounden** is a smartphone dance game that gets players to use their bodies. Two people hold opposite ends of one smartphone then move together to keep a cursor over the ball. What starts as a novel way to interact with the game slowly encourages the two players to move creatively together as they complete each level.  
-website: [playbounden.com](http://playbounden.com)
+**Bounden** är ett dansspel för smartphones som får spelarna att använda sina kroppar. Två personer håller i varsin ände av en smartphone och rör sig sedan tillsammans för att hålla en markör över bollen. Det som börjar som ett nytt sätt att interagera med spelet uppmuntrar långsamt de två spelarna att röra sig kreativt tillsammans när de klarar varje nivå.  
+webbplats: [playbounden.com](http://playbounden.com)
 
-## Ethics
-> Ethics is the art and science of analysing issues of good, bad, right, wrong, just, and unjust.
+## Etik
+> Etik är konsten och vetenskapen att analysera frågor om bra, dåligt, rätt, fel, rättvist och orättvist.
 
-### PeaceMaker
+### Fredsmäklare
 ![peacemaker](../assets/img/games/peacemaker.webp)
 
-A government simulation game which simulates the Israeli–Palestinian conflict.   
-Website [peacemakergame.com](http://peacemakergame.com)
+Ett regeringssimuleringsspel som simulerar den israelisk-palestinska konflikten.   
+Webbplats [peacemakergame.com](http://peacemakergame.com)
 
-### Phone Story
+### Telefonhistoria
 ![phone_story](../assets/img/games/phone_story.webp)
 
-Phone Story is a game for smartphone devices that attempts to provoke a critical reflection on its own technological platform. Under the shiny surface of our electronic gadgets, behind its polished interface, hides the product of a troubling supply chain that stretches across the globe. Phone Story represents this process with four educational games that make the player symbolically complicit in coltan extraction in Congo, outsourced labor in China, e-waste in Pakistan and gadget consumerism in the West.
+Phone Story är ett spel för smartphone-enheter som försöker väcka en kritisk reflektion över sin egen tekniska plattform. Under den glänsande ytan på våra elektroniska prylar, bakom det polerade gränssnittet, döljer sig produkten av en oroande leveranskedja som sträcker sig över hela världen. Phone Story representerar denna process med fyra pedagogiska spel som gör spelaren symboliskt delaktig i coltanutvinning i Kongo, outsourcad arbetskraft i Kina, e-avfall i Pakistan och prylkonsumtion i västvärlden.
 http://phonestory.org
 
-### Unmanned
-![unmanned](../assets/img/games/unmanned.webp)
-Most video shoot-em-up video games make war seem action-packed and glamorous. Unmanned aims to paint a far more realistic portrait, casting players as a soldier dealing with boredom and traumatic dreams, in addition to military duties.
+### Obemannad
+![obemannad](../assets/img/games/unmanned.webp)
+I de flesta shoot-em-up-videospel framstår krig som actionfyllt och glamoröst. Unmanned syftar till att måla upp ett mycket mer realistiskt porträtt, där spelaren får spela en soldat som utöver sina militära plikter även brottas med tristess och traumatiska drömmar.
 http://unmanned.molleindustria.org
 
 ### Data Dealer
-Data Dealer is an online game about collecting and selling personal data - full of irony and gleeful sarcasm. It'´'s a browser/serious/edu/impact game about digital culture and surveillance and aims to raise awareness about online privacy in a new and fun way.
+Data Dealer är ett onlinespel om att samla in och sälja personuppgifter - fullt av ironi och sarkasm. Det är ett browser/serious/edu/impact-spel om digital kultur och övervakning och syftar till att öka medvetenheten om integritet på nätet på ett nytt och roligt sätt.
 
 https://datadealer.com
 
-### Half the Sky Movement
+### Rörelsen Half the Sky
 ![halfthesky](../assets/img/games/halfthesky.webp)
-The Game is a game-based adventure that aims to reach mainstream audiences to raise awareness and donations to empower women and girls around the world.
+The Game är ett spelbaserat äventyr som syftar till att nå den breda publiken för att öka medvetenheten och donationerna för att stärka kvinnor och flickor runt om i världen.
 
 http://www.halftheskymovement.org
 
-### Fate of the World
+### Världens öde
 ![fateoftheworld](../assets/img/games/fateoftheworld.webp)
-Fate of the World is a dramatic global strategy game that puts all our futures in your hands. The game features a dramatic set of scenarios based on the latest science covering the next two centuries. You must manage a balancing act of protecting the Earth's resources and climate versus the needs of an ever-growing world population
+Fate of the World är ett dramatiskt globalt strategispel som lägger allas vår framtid i dina händer. Spelet innehåller en dramatisk uppsättning scenarier baserade på den senaste vetenskapen som täcker de kommande två århundradena. Du måste hantera en balansakt för att skydda jordens resurser och klimat kontra behoven hos en ständigt växande världsbefolkning
 
 https://www.soothsayergames.com
 
-## Other games for social good
+## Andra spel för samhällsnytta
 
-**World Without Oil**  
-Also a McGonigal creation, players in this game are dropped into a world where oil resources have been tapped and where they must get creative to survive the massive global shortage. The best part of the game? It teaches easy ways to use less oil in the real world—habits that players report keeping up when they aren’t playing.  
-[website](http://www.worldwithoutoil.org)
+**Världen utan olja  
+Även detta är en skapelse av McGonigal, och spelarna i detta spel hamnar i en värld där oljeresurserna har uttömts och där de måste vara kreativa för att överleva den massiva globala bristen. Den bästa delen av spelet? Det lär ut enkla sätt att använda mindre olja i den verkliga världen - vanor som spelarna rapporterar att de håller fast vid när de inte spelar.  
+[webbplats](http://www.worldwithoutoil.org)
 
 **FoldIt**  
-An online protein folding game, FoldIt allows its quarter million players to help with scientific research by stabilizing strings of amino acids. Think of it like biological Tetris — FoldIt makes a competition out of biological pattern recognition, leading to innovative solutions to problems that have frustrated scientific communities for years.  
-[website](http://fold.it/portal)
+FoldIt är ett onlinespel om proteinveckning där en kvarts miljon spelare kan hjälpa till med vetenskaplig forskning genom att stabilisera strängar av aminosyror. Tänk på det som biologiskt Tetris - FoldIt gör en tävling av biologisk mönsterigenkänning, vilket leder till innovativa lösningar på problem som har frustrerat vetenskapliga samfund i flera år.  
+[webbplats](http://fold.it/portal)
 
-**WAY**   
-Communicating across languages and cultures isn’t easy. But in this online game, two anonymous players — culled from different locations around the globe — must learn how to speak to each other as they navigate obstacles. Developed by CoCo & Co, this game took top honors at this year’s Games for Change Awards.  
-[website](http://www.makeourway.com/)
+**VÄG**   
+Att kommunicera över språk- och kulturgränser är inte lätt. Men i det här onlinespelet måste två anonyma spelare - från olika platser runt om i världen - lära sig att prata med varandra medan de tar sig förbi hinder. Spelet har utvecklats av CoCo & Co och fick högsta utmärkelsen vid årets Games for Change Awards.  
+[webbplats](http://www.makeourway.com/)
 
-**Budget Hero**    
-Think you could balance the national budget? Then you’ll want to play this game from American Public Media, which lets players see what happens to the national deficit when they increase funding to programs or opt to make difficult cuts. “Every member of Congress should be required to play this game,” said one of its creators.  
-[website](http://www.marketplace.org/topics/economy/budget-hero)
+**Budgethjälten**    
+Tror du att du kan balansera den nationella budgeten? Då ska du spela det här spelet från American Public Media, som låter spelarna se vad som händer med det nationella underskottet när de ökar finansieringen till program eller väljer att göra svåra nedskärningar. "Varje kongressledamot borde vara skyldig att spela det här spelet", säger en av spelets skapare.  
+[webbplats](http://www.marketplace.org/topics/economy/budget-hero)
 
-**Pain Squad**  
-Children and teenagers with cancer are often asked to keep pain diaries — paperwork that is not only boring but focuses their attention on their discomfort. The iOS app Pain Squad makes the whole process fun and interactive — while also helping doctors provide better treatments for young patients.  
-[website](http://www.campaignpage.ca/sickkidsapp/)
+**Smärtpatrullen**  
+Barn och tonåringar med cancer ombeds ofta att föra smärtdagbok - ett pappersarbete som inte bara är tråkigt utan också fokuserar deras uppmärksamhet på deras obehag. iOS-appen Pain Squad gör hela processen rolig och interaktiv - samtidigt som den hjälper läkare att erbjuda bättre behandlingar för unga patienter.  
+[webbplats](http://www.campaignpage.ca/sickkidsapp/)
 
-**Spent**  
-When your bank account is in the black, it’s easy to think that anyone could pull themselves out of poverty by their boot straps. But in this online game, players are charged with looking for work while surviving on $1000 a month — highlighting that poverty and unemployment are systematic and not just the result of character flaws.  
+**Spenderat**  
+När bankkontot visar svarta siffror är det lätt att tro att vem som helst kan ta sig ur fattigdomen med hjälp av sina stövelremmar. Men i det här onlinespelet måste spelarna söka jobb och samtidigt överleva på 1 000 dollar i månaden - vilket visar att fattigdom och arbetslöshet är systematiska och inte bara ett resultat av karaktärsbrister.  
 [playspent.org](http://playspent.org/)
 
 **Evoke**  
-Created by the World Bank Institute in conjunction with McGonigal, this game is a 10-week crash course in social innovation, giving players challenges from “food security” to “urban resilience,” and encouraging them to become a think tank on local challenges.  
+Detta spel har skapats av Världsbanksinstitutet i samarbete med McGonigal och är en 10-veckors snabbkurs i social innovation, som ger spelarna utmaningar från "livsmedelssäkerhet" till "urban resilience", och uppmuntrar dem att bli en tankesmedja för lokala utmaningar.  
 [www.urgentevoke.com](http://www.urgentevoke.com)
 
-## Training and simulation
+## Utbildning och simulering
 
-📽 #VIDEO [Build better cities with games](https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/)
-<iframe width="937" height="527" src="https://www.youtube.com/embed/qYUmI5kGsYk" title="How a video game might help us build better cities | Karoliina Korppoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+📽 #VIDEO [Bygg bättre städer med spel](https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/)
+<iframe width="937" height="527" src="https://www.youtube.com/embed/qYUmI5kGsYk" title="Hur ett videospel kan hjälpa oss att bygga bättre städer | Karoliina Korppoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Some titles:
-- [Democracy](https://positech.co.uk/democracy/) - political strategy game
-- [Flight Simulator](https://www.flightsimulator.com)
-- [Lost Earth 2307](https://www.iosb.fraunhofer.de/en/projects-and-products/lost-earth-2307.html) - image interpretation, military
-- [Ship Simulator](https://www.shipsim.com) - Maritime Search and Rescue
-- [SchaVIS](https://www.youtube.com/watch?v=xMvV7oOJozw) - flooding simulation and prevention
-- [Sharkworld](https://www.xmediaworks.nl/en/portfolio-items/sharkworld-a-project-management-game/) - project management training
-- [Houthoff Buruma](https://annex.fandom.com/wiki/Houthoff_Buruma_The_Game) - recruitment and assessment
+Några titlar:
+- [Democracy](https://positech.co.uk/democracy/) - politiskt strategispel
+- [Flygsimulator](https://www.flightsimulator.com)
+- [Lost Earth 2307](https://www.iosb.fraunhofer.de/en/projects-and-products/lost-earth-2307.html) - bildtolkning, militär
+- [Ship Simulator](https://www.shipsim.com) - Maritim sök- och räddningsverksamhet
+- [SchaVIS](https://www.youtube.com/watch?v=xMvV7oOJozw) - simulering och förebyggande av översvämningar
+- [Sharkworld](https://www.xmediaworks.nl/en/portfolio-items/sharkworld-a-project-management-game/) - utbildning i projektledning
+- [Houthoff Buruma](https://annex.fandom.com/wiki/Houthoff_Buruma_The_Game) - rekrytering och bedömning
 
-## Commercial games
-For the selected games we try to extract the **curricular connections** (learning topics) and the **possible skills taught**.
+## Kommersiella spel
+För de utvalda spelen försöker vi extrahera de **curricular connections** (learning topics) och de **possible skills taught**.
 
-## Adventure
+## Äventyr
 
-### Gone home
+### Gå hem
 ![](../assets/img/games/gonehome.webp)
 
-A first-person exploration game where the player plays as Kaitlin Greenbriar, a student returning from a trip abroad. Most disconcerting is the whereabouts of Kaitlin’s younger sister Sam who has vanished, though not without a trace. To help determine what happened to Sam, the player must follow clues and journal entries to uncover numerous secrets hidden throughout the house.
+Ett utforskningsspel i förstaperson där spelaren spelar Kaitlin Greenbriar, en student som återvänder från en utlandsresa. Det mest oroande är var Kaitlins yngre syster Sam befinner sig, som har försvunnit, men inte spårlöst. För att ta reda på vad som hände med Sam måste spelaren följa ledtrådar och dagboksanteckningar för att avslöja många hemligheter som finns gömda i hela huset.
 
-> **Curricular connections:** English language arts; narrative studies; social and emotional learning; media literacy  
-> **Possible skills taught:** Environmental storytelling; character development; genre; linear vs. nonlinear narrative; game mechanics and narrative; intertextuality; perspective-taking
+> **Kunskapsanknytning:** Engelska, narrativa studier, socialt och emotionellt lärande, mediekunskap  
+> **Möjliga färdigheter som lärs ut:** Miljöberättande, karaktärsutveckling, genre, linjärt kontra icke-linjärt berättande, spelmekanik och berättande, intertextualitet, perspektivtagande
 
 ### The walking dead
 ![](../assets/img/games/thewalkingdead.webp)
 
-The Walking Dead tells the story Lee Everett, a teacher from Atlanta caught right in the middle of a zombie apocalypse. During the game, the player plays as Lee through the trials and challenges that he and other survivors have to overcome. The gameplay is fairly straightforward, consisting mostly of controlling Lee to explore his surroundings and choosing his dialogue lines in conversation with other characters. As part of this, the player needs to act on Lee’s behalf in difficult, complex moral dilemmas.
+The Walking Dead handlar om Lee Everett, en lärare från Atlanta som hamnar mitt i en zombieapokalyps. Under spelets gång spelar spelaren som Lee genom de prövningar och utmaningar som han och andra överlevande måste övervinna. Spelet är ganska enkelt och består mestadels av att styra Lee för att utforska omgivningen och välja hans dialoglinjer i samtal med andra karaktärer. Som en del av detta måste spelaren agera på Lees vägnar i svåra, komplexa moraliska dilemman.
 
-> **Curricular connections:** Moral philosophy; ethics; social norms, history of ideas  
-> **Possible skills taught:** Decision making; systems thinking; higher-order thinking skills, such as cause and effect; critical thinking; reflection; game-to-self connections; game-to-world connections; mindfulness
+> **Kursanknytning:** Moralfilosofi; etik; sociala normer, idéhistoria  
+> **Möjliga färdigheter som lärs ut:** Beslutsfattande; systemtänkande; högre ordningens tänkande, såsom orsak och verkan; kritiskt tänkande; reflektion; spel-till-själv-kopplingar; spel-till-världen-kopplingar; mindfulness
 
 Tips:
-1. Teachers should play the episode they will be using at least twice, as deep knowledge of the game is crucial to make the necessary curricular connections.
-2. Teachers should encourage students to base their arguments on ethical theories, and not just their “gut feeling.”
+1. Lärare bör spela det avsnitt de kommer att använda minst två gånger, eftersom djup kunskap om spelet är avgörande för att göra de nödvändiga kopplingarna till läroplanen.
+2. Lärarna bör uppmuntra eleverna att basera sina argument på etiska teorier, och inte bara på sin "magkänsla".
 
 ### Life is Strange
 ![](../assets/img/games/lifeisstrange.webp)
 
-The player takes on role of the female character Max Caulfield, an eighteen-year-old photography student, who tries to save the people of the town from a catastrophic tornado that might befall the Bay. Playing the game through a third person perspective, the player controls the character Max’s movements to explore the game environments, to uncover the game stories through Max’s involvement in various events, and to make life-changing decisions for Max based on choices offered by the game’s branching narrative.
+Spelaren tar på sig rollen som den kvinnliga karaktären Max Caulfield, en artonårig fotografistudent, som försöker rädda stadens invånare från en katastrofal tornado som kan drabba Bay. Spelet spelas ur ett tredjepersonsperspektiv och spelaren kontrollerar karaktären Max rörelser för att utforska spelmiljöerna, avslöja spelets berättelser genom Max inblandning i olika händelser och fatta livsförändrande beslut för Max baserat på val som erbjuds av spelets förgrenade berättelse.
 
-The player confronts several challenging moral dilemmas that require the player to make decisions, which ultimately could benefit one character but could cause devastating consequences for another.
+Spelaren ställs inför flera utmanande moraliska dilemman som kräver att spelaren fattar beslut som i slutändan kan gynna en karaktär men orsaka förödande konsekvenser för en annan.
 
-In addition, the player can undo consequences by activating the rewinding clock game mechanic to travel to prior timepoints, and by making different decisions that can shape future events.
+Dessutom kan spelaren ångra konsekvenserna genom att aktivera spelmekaniken för att vrida tillbaka klockan och resa till tidigare tidpunkter, och genom att fatta olika beslut som kan forma framtida händelser.
 
-> **Curricular connections:** Philosophy; ethics; logic; English language arts; social and emotional skills  
-> **Possible skills taught:** Philosophical analysis; ethical analysis; narrative design; logical thinking; analyzing moral dilemmas; narrative design
+> **Sammanhang med andra ämnen:** Filosofi, etik, logik, engelska, sociala och emotionella färdigheter  
+> **Möjliga färdigheter som lärs ut:** Filosofisk analys; etisk analys; narrativ design; logiskt tänkande; analys av moraliska dilemman; narrativ design
 
-### Assassin’s Creed (series)
-![](../assets/img/games/assassin.webp)
-The series comprises ten narrative-driven standard game chapters, each covering different chronological eras and locations, with a narrative arc that spans from Ptolemaic Egypt through the Holy Land at the time of the third Crusade; Renaissance Italy; the Americas in the Colonial Era; and the French Revolution. Gameplay is centered on open-world exploration, collecting hints and evidence and gathering or delivering information
+### Assassin's Creed (serie)
+![](../assets/imgames/games/assassin.webp)
+Serien består av tio berättelsedrivna standardspelkapitel som vart och ett täcker olika kronologiska epoker och platser, med en berättelsebåge som sträcker sig från Ptolemaiska Egypten genom det heliga landet vid tiden för det tredje korståget, renässansens Italien, Amerika under kolonialtiden och den franska revolutionen. Spelet går ut på att utforska den öppna världen, samla ledtrådar och bevis samt samla in eller leverera information
 
-> **Curricular connections**: World history; World cultures; arts; English language learning; language learning; history of art and architecture; colonial history; piratical history; music  
-> **Possible skills taught**: art and architecture appreciation; music appreciation; task-based problem solving; listening and reading comprehension (ESL, foreign languages); ethical decision-making; argumentation; empathy; analyzing moral dilemmas
+** Kopplingar till undervisningen**: Världshistoria; Världskulturer; Konst; Engelska; Språkinlärning; Konst- och arkitekturhistoria; Kolonialhistoria; Pirathistoria; Musik  
+> **Möjliga färdigheter som lärs ut**: konst- och arkitekturuppskattning; musikuppskattning; uppgiftsbaserad problemlösning; hör- och läsförståelse (ESL, främmande språk); etiskt beslutsfattande; argumentation; empati; analys av moraliska dilemman
 
 ### The Legend of Zelda: Breath of the Wild
 ![](../assets/img/games/zelda.webp)
 
-This game drops the player in a vast, open-world landscape, giving Link complete freedom to explore the game’s many locations as he takes on a plethora of adventures, monsters, and puzzles. Because the game encourages experimentation and exploration, each player can shape the story according to their own pace and skills.
+I det här spelet hamnar spelaren i ett stort, öppet landskap där Link har full frihet att utforska spelets många platser och ta sig an en uppsjö av äventyr, monster och pussel. Eftersom spelet uppmuntrar till experiment och utforskning kan varje spelare forma berättelsen efter sin egen takt och sina egna färdigheter.
 
-> **Curricular connections:** Social and emotional skills; management  
-> **Possible skills taught**: Focus, organization, time management; working memory; executive function
+> **Sammanhang i skolan:** Sociala och emotionella färdigheter; ledarskap  
+> **Möjliga färdigheter som lärs ut**: Fokus, organisation, tidshantering; arbetsminne; exekutiv funktion
 
 **Tips:** 
-1. After the students play Breath of the Wild, teachers should ensure that they understand how the executive functioning skills were used in the game.
-2. One way teachers can support reflection on skills used in the game is by encouraging students to write down specific examples of when success completion of quests required the use of each skill.
+1. Efter att eleverna har spelat Breath of the Wild bör lärarna se till att de förstår hur de exekutiva funktionerna användes i spelet.
+2. Ett sätt för lärare att stödja reflektion över färdigheter som används i spelet är att uppmuntra eleverna att skriva ner specifika exempel på när framgångsrikt slutförande av uppdrag krävde användning av varje färdighet.
 
-## Platform
+## Plattform
 
 ### Braid
 ![](../assets/img/games/braid.webp)
-BRAID is a side-scrolling adventure. Each of the game's six worlds features a different **time-shifting game mechanic** that is used to decipher a series of **mind-bending puzzles**. Depending on the level and circumstance, time might slow down, enemies might move forwards or backwards depending on the direction in which our little blue-suited hero is running, or the clock may stop altogether. **Players can rewind time** as much as they like at any time and in any level.
+BRAID är ett sidoscrollande äventyr. Var och en av spelets sex världar har en annan **tidsförskjutande spelmekanik** som används för att tyda en serie **hjärnsläppande pussel**. Beroende på nivå och omständigheter kan tiden gå långsammare, fiender kan röra sig framåt eller bakåt beroende på i vilken riktning vår lilla blåklädda hjälte springer, eller så kan klockan stanna helt och hållet. **Spelarna kan spola tillbaka tiden** så mycket de vill, när som helst och på vilken nivå som helst.
 
 
-### Never Alone
+### Aldrig ensam
 ![](../assets/img/games/neveralone.webp)
 
-In Never Alone you play as a young Inupiat girl, Nuna, who goes off on a journey to discover the source of an eternal blizzard that is threatening to destroy her village. Along the way she encounters an Arctic fox and a series of spirit creatures who aid her in her journey. Never Alone is a puzzle platformer in which the player can either control both Nuna and her artic fox companion to solve a series of puzzles that require an understanding of how various Inupiat tools, environmental elements (e.g., wild animals and weather) and NPCs (usually in the form of Inupiat spirit creatures) work. 
+I Never Alone spelar du som en ung Inupiat-flicka, Nuna, som ger sig ut på en resa för att upptäcka källan till en evig snöstorm som hotar att förstöra hennes by. Längs vägen möter hon en fjällräv och en rad andevarelser som hjälper henne på vägen. Never Alone är ett plattformsspel där spelaren antingen kan styra både Nuna och hennes följeslagare fjällräven för att lösa en rad pussel som kräver förståelse för hur olika inupiatverktyg, miljöelement (t.ex. vilda djur och väder) och NPC:er (vanligtvis i form av inupiatandliga varelser) fungerar. 
 
-> **Curricular connections:** Social studies; social and emotional learning  
-> **Possible skills taught:** Systems thinking; collaboration; decision-making
+> **Samhällskunskap; socialt och emotionellt lärande  
+> **Möjliga färdigheter som lärs ut:** Systemtänkande, samarbete, beslutsfattande
 
 ### Super Mario Maker 2
 ![](../assets/img/games/supermariomaker.webp)
 
-## Puzzle
+## Pussel
 
-### Keep Talking and Nobody Explodes
-![](../assets/img/games/keeptalking.webp)
-Keep Talking and Nobody Explodes is a cooperative puzzle virtual reality (VR) game, where players must defuse a bomb in a specific number of minutes. The game places players in one of two roles, the VR player and the manual expert(s). The VR player wears a virtual reality headset while the manual experts access a separate resource called the bomb manual. Once the game starts, it transports the VR player into a window-less, police examination-style room with the bomb and some tools. Each bomb consists of a timer and a variety of modules containing complex symbols or sets of rules. The VR player can view, manipulate, rotate, and move the bomb and other objects in the room. In contrast, the manual expert cannot see the bomb but can peruse the bomb manual.
+### Fortsätt prata och ingen exploderar
+![](../assets/imgames/games/keeptalking.webp)
+Keep Talking and Nobody Explodes är ett kooperativt pusselspel i virtual reality (VR), där spelarna måste desarmera en bomb på ett visst antal minuter. I spelet har spelarna en av två roller, VR-spelaren och den eller de manuella experterna. VR-spelaren bär ett virtual reality-headset medan manual-experterna har tillgång till en separat resurs som kallas bombmanualen. När spelet startar förflyttas VR-spelaren till ett fönsterlöst rum i polisundersökningsstil med bomben och några verktyg. Varje bomb består av en timer och en mängd olika moduler som innehåller komplexa symboler eller regeluppsättningar. VR-spelaren kan se, manipulera, rotera och flytta bomben och andra föremål i rummet. Den manuella experten kan däremot inte se bomben men kan läsa igenom bombmanualen.
 
-**Curricular connections**: Computer science; communication; English language arts; reading 
-**Possible skills taught**: Logic; Problem solving; verbal communication; reading comprehension; teamwork
+**Kopplingar till läroplanen**: Datavetenskap; kommunikation; engelska; läsning 
+**Möjliga färdigheter som lärs ut**: Logik; problemlösning; verbal kommunikation; läsförståelse; lagarbete
 
-### Threes!
-![](../assets/img/games/threes.webp)
-**Curricular connections**: mathematics 
-**Possible skills taught**: Logic; Problem solving
+### Treor!
+![](../assets/imgames/games/threes.webp)
+**Sammanhang med andra ämnen**: matematik 
+**Möjliga färdigheter som lärs ut**: Logik; Problemlösning
 
 ### Ruzzle
-![](../assets/img/games/ruzzle.webp)
-**Curricular connections**: communication; reading 
-**Possible skills taught**: Logic; Problem solving; verbal communication; reading comprehension; teamwork
+![](../assets/imgames/spel/ruzzle.webp)
+**Kunskapsanknytning**: kommunikation; läsning 
+**Möjliga färdigheter som lärs ut**: Logik; problemlösning; verbal kommunikation; läsförståelse; lagarbete
 
 ### Monument Valley
 ![](../assets/img/games/monumentvalley.webp)
-Monument Valley is an MC Escher-inspired puzzle game that bends architecture and follows a silent princess through a captivating world. 
-What makes this unique is the game's landscapes. Players can drag and turn parts of certain buildings to create a path from one area to the next. And, in others, stepping on trigger squares will change gravity and have you walking along the side of a wall. The game's physics is based on perception, so if you're able to position elements so there appears to be a path, you can use it, even if that path wouldn't exist in the real world.
+Monument Valley är ett MC Escher-inspirerat pusselspel som böjer arkitekturen och följer en tystlåten prinsessa genom en fängslande värld. 
+Det som gör Monument Valley unikt är spelets landskap. Spelare kan dra och vrida på delar av vissa byggnader för att skapa en väg från ett område till nästa. Och i andra områden kan man trampa på avtryckarrutor för att ändra gravitationen så att man går längs en vägg. Spelets fysik är baserad på perception, så om du kan placera element så att det ser ut att finnas en väg kan du använda den, även om den vägen inte skulle finnas i den verkliga världen.
 
-### The Room
+### Rummet
 ![](../assets/img/games/theroom.webp)
 
-> **Curricular connections:** mathematics; social studies; art; media studies; computer science; psychology; sociology; anthropology; biology; chemistry  
-> **Possible skills taught:** information literacy; quantitative reasoning; critical thinking; technological literacy; programming
+> **Kunskapsanknytning:** matematik; samhällskunskap; konst; mediekunskap; datavetenskap; psykologi; sociologi; antropologi; biologi; kemi  
+> **Möjliga färdigheter som lärs ut:** informationskompetens, kvantitativt resonemang, kritiskt tänkande, teknisk kompetens, programmering
 
 ### Portal 2
-![](../assets/img/games/portal.webp)
-Portal 2 (Valve Corporation, 2011) is a sequel to the original Portal both of which are enormously popular first-person puzzle-platform games where the player moves around the environment by shooting starting and ending portals into otherwise disconnected surfaces, thereby creating a link through which the player may move objects, including themselves. The game requires **extensive spatial acuity** and was quickly recognized for its potential use for **learning physics, problem solving, and critical thinking**.
+![](../assets/imgames/games/portal.webp)
+Portal 2 (Valve Corporation, 2011) är en uppföljare till det ursprungliga Portal, som båda är enormt populära förstapersonspussel-plattformsspel där spelaren rör sig runt i miljön genom att skjuta start- och slutportaler i annars frånkopplade ytor och därigenom skapa en länk genom vilken spelaren kan flytta föremål, inklusive sig själv. Spelet kräver **extensiv spatial skärpa** och uppmärksammades snabbt för sin potentiella användning för **inlärning av fysik, problemlösning och kritiskt tänkande**.
 
-> **Curricular connections:** Physics, geometry, English language arts; social and emotional learning
-> **Possible skills taught:** Communication skills; teamwork; problem-solving; critical thinking; logical thinking; spatial analysis; employment/career skills
+> **Kunskapsanknytning: ** Fysik, geometri, engelska, socialt och emotionellt lärande
+> **Möjliga färdigheter som lärs ut:** Kommunikationsförmåga, lagarbete, problemlösning, kritiskt tänkande, logiskt tänkande, rumslig analys, anställnings-/karriärfärdigheter
 
 {: .highlight }
-> How to use Portal 2 in a STEM / Physics classroom: [read here](https://www.foundry10.org/programs/games-and-learning/portal-2)
+> Hur man använder Portal 2 i ett klassrum för STEM/fysik: [läs här](https://www.foundry10.org/programs/games-and-learning/portal-2)
 
-## Role Play
+## Rollspel
 
-### Final Fantasy serie
+### Final Fantasy-serien
 ![](../assets/img/games/finalfantasy.webp)
-**Curricular connections:** Modern literature; science fiction; cultural studies; media studies, humanities; psychology; urban studies  
-**Possible skills taught:** critical thinking, creativity, ethical judgment
+**Kunskapsanknytning: ** Modern litteratur; science fiction; kulturstudier; mediestudier, humaniora; psykologi; urbana studier  
+**Möjliga färdigheter som lärs ut:** kritiskt tänkande, kreativitet, etiskt omdöme
 
 ### World of Warcraft
 ![](../assets/img/games/wow.webp)
-World of Warcraft (WoW) is one of the first and largest subscription-based massively multiplayer online role-playing games (MMORPGs) today. WoW offers players two factions (Alliance and Horde) who compete and collaborate to protect their world, Azeroth, against external and internal threats. Players can participate in a mix of activities such as **individual** and **collaborative** quests, gathering and crafting professions, raiding, battlegrounds, arenas, social and private text chat, and a combined open bid auction house. Players can also choose between individual gameplay, joining groups of up to 40 players, or joining guilds with 100s of members.
+World of Warcraft (WoW) är ett av de första och största abonnemangsbaserade MMORPG-spelen (Massively Multiplayer Online Role-Playing Game) idag. WoW erbjuder spelarna två fraktioner (Alliance och Horde) som tävlar och samarbetar för att skydda sin värld, Azeroth, mot externa och interna hot. Spelarna kan delta i en blandning av aktiviteter som **individuella** och **samarbetande** uppdrag, samlande och skapande yrken, raider, slagfält, arenor, social och privat textchatt och ett kombinerat auktionshus med öppna bud. Spelarna kan också välja mellan att spela individuellt, gå med i grupper på upp till 40 spelare eller gå med i guilds med 100-tals medlemmar.
 
-> **Curricular connections:** Accounting; business; supply chain management  
-> **Possible skills taught:** Market research; financial statements; marketing; accounting spreadsheets; trading
+> **Kunskapsanknytning:** Redovisning, företagsekonomi, supply chain management  
+> **Möjliga färdigheter som lärs ut:** Marknadsundersökningar; finansiella rapporter; marknadsföring; kalkylblad för redovisning; handel
 
-### Deus EX - Human Revolution
+### Deus EX - Mänsklig revolution
 ![](../assets/img/games/deusex.webp)
 
-An immersive cyberpunk environment with striking visuals, suspenseful storytelling and compelling characterization. The action shifts, as in cyberpunk novels, between mega cities or urban hubs. The game’s narrative and gameplay revolve around transhumanism.
+En uppslukande cyberpunk-miljö med slående visuella effekter, spännande berättelser och övertygande karaktärer. Precis som i cyberpunk-romaner växlar handlingen mellan megastäder eller urbana knutpunkter. Spelets berättelse och gameplay kretsar kring transhumanism.
 
-**Curricular connections:** Modern literature; science fiction; cultural studies; media studies, humanities; psychology; urban studies  
-**Possible skills taught:** critical thinking, creativity, ethical judgment
+**Kopplingar till ämnesområden:** Modern litteratur; science fiction; kulturstudier; mediestudier, humaniora; psykologi; urbana studier  
+**Möjliga färdigheter som lärs ut:** kritiskt tänkande, kreativitet, etiskt omdöme
 
-## Shooter
+## Skytt
 
 ### DOOM
 ![](../assets/img/games/doom.webp)
 
 ### Call of Duty
-![](../assets/img/games/callofduty.webp)
-In the **single-player** campaign, the player takes on the roles of various characters, including a United States Marine and a British Special Air Service (SAS) operative. The player’s perspective changes dependent on the character and as the plot evolves through non-playable events and playable missions. Missions typically include objectives based around eliminating enemies, passing checkpoints, securing objectives against attackers or destroying an enemy location. In the **multiplayer** version, the series utilizes these mechanics for various team-based and deathmatch-based modes across various maps.
+![](../assets/imgames/games/callofduty.webp)
+I **single-player**-kampanjen tar spelaren på sig rollen som olika karaktärer, bland annat en amerikansk marinsoldat och en brittisk SAS-agent (Special Air Service). Spelarens perspektiv ändras beroende på karaktären och i takt med att handlingen utvecklas genom icke-spelbara händelser och spelbara uppdrag. Uppdragen innehåller vanligtvis mål som bygger på att eliminera fiender, passera kontrollpunkter, säkra mål mot angripare eller förstöra en fientlig plats. I **multiplayer**-versionen använder serien denna mekanik för olika lagbaserade och deathmatch-baserade lägen över olika kartor.
 
-> **Curricular connections:** History; politics; international relations; ethics   
-> **Possible skills taught:** Ethical decision-making; ethical design; analyzing moral dilemmas, narrative design
+> **Kunskapsbakgrund:** Historia, politik, internationella relationer, etik   
+> **Möjliga färdigheter som lärs ut:** Etiskt beslutsfattande, etisk design, analys av moraliska dilemman, narrativ design
 
 ### Fortnite
 ![](../assets/img/games/fortnite.webp)
-Fortnite is an online action game published by Epic Games in 2017. It is set in a near future and adopts a third person perspective and cartoonish aesthetics. It includes three different modalities.
+Fortnite är ett actionspel som publicerades av Epic Games 2017. Det utspelar sig i en nära framtid och har ett tredjepersonsperspektiv och tecknad estetik. Det innehåller tre olika modaliteter.
 
-- Fortnite: **Battle Royale** mimics the PlayerUnknown’s Battlegrounds formula by presenting a ludic system where up to 100 players compete in one-versus- one or team-versus-team modes.
-- Fortnite: **Save the World** is a cooperative survival experience where four players are asked to complete several missions against the game. Tasks span killing enemies, collecting materials, and building shelters for stopping armies of zombies.
-- Fortnite **Creative** is a creative mode that provides several editing tools. Players can build and craft different structures and objects on personalized islands.
+- Fortnite: **Battle Royale** härmar PlayerUnknown's Battlegrounds formel genom att presentera ett ludiskt system där upp till 100 spelare tävlar i en-mot-en- eller lag-mot-lag-lägen.
+- Fortnite: **Save the World** är en kooperativ överlevnadsupplevelse där fyra spelare uppmanas att slutföra flera uppdrag mot spelet. Uppgifterna omfattar att döda fiender, samla material och bygga skydd för att stoppa arméer av zombier.
+- Fortnite **Creative** är ett kreativt läge med flera redigeringsverktyg. Spelarna kan bygga och tillverka olika strukturer och föremål på personliga öar.
 
-> **Curricular connections:** Critical theory; digital cultures; educational technology; social and emotional learning  
-> **Possible skills taught:** Collaborative thinking; connectivist thinking; creativity; critical thinking; social media literacy
+> **Sammanhang med andra ämnen:** Kritisk teori; digitala kulturer; utbildningsteknik; socialt och emotionellt lärande  
+> **Möjliga färdigheter som lärs ut:** Kollaborativt tänkande; konnektivistiskt tänkande; kreativitet; kritiskt tänkande; sociala medier
 
-## Sports
+## Sport
 
 ### NBA2K14
 ![](../assets/img/games/nba.webp)
-**Curricular connections:** Social Studies; biomechanics; economics; biometrics; management **Possible skills taught:** Systems thinking; collaboration; decision-making; critical gaming vocabulary; critical thinking; historical awareness
+**Samhällskunskap; biomekanik; ekonomi; biometri; management **Möjliga färdigheter som lärs ut: ** Systemtänkande; samarbete; beslutsfattande; vokabulär för kritiskt spelande; kritiskt tänkande; historiemedvetande
 
-## Strategy
+## Strategi
 
-### Civilization 
+### Civilisation 
 ![](../assets/img/games/civilization.webp)
-Players guide a civilization from the bronze age to the near-future competing against other humans or an artificially intelligent computer player, earning points for how powerful and advanced their civilization becomes. Before starting a game, players choose one of multiple civilizations to lead, each with unique gameplay abilities based on the circumstances or achievements of their real-life counterparts.
+Spelarna styr en civilisation från bronsåldern till en nära framtid och tävlar mot andra människor eller en artificiellt intelligent datorspelare, och tjänar poäng för hur mäktig och avancerad deras civilisation blir. Innan ett spel startar väljer spelarna en av flera civilisationer att leda, var och en med unika spelförmågor baserade på omständigheterna eller prestationerna hos deras verkliga motsvarigheter.
 
-> **Curricular connections:** History; geography; civics; economics; sociology  
-> **Possible skills taught:** critical thinking; experimentation; cost-benefit analysis; cooperation; inquiry- based learning
+> **Kunskapsanknytning:** Historia, geografi, samhällskunskap, ekonomi, sociologi  
+> **Möjliga färdigheter som lärs ut:** kritiskt tänkande, experiment, kostnadsnyttoanalys, samarbete, frågebaserat lärande
 
 **Tips:**
-1. Teachers should take time to learn the structure, controls, and mechanics of the game before introducing students to it.
-2. Students might have some initial frustration when learning how to play.
-3. Teachers can explore specific topics by creating their own custom game or scenario.
-Hundreds of free player-made mods can be found online.
+1. Lärare bör ta sig tid att lära sig spelets struktur, kontroller och mekanik innan de introducerar eleverna till det.
+2. Eleverna kan känna viss frustration i början när de lär sig hur man spelar.
+3. Lärare kan utforska specifika ämnen genom att skapa sitt eget anpassade spel eller scenario.
+Hundratals gratis spelmoddar kan hittas online.
 
-### Pandemic
+### Pandemi
 ![](../assets/img/games/pandemic.webp)
-Pandemic is a cooperative game where a team of players take on unique roles (e.g., medic, scientist, researcher) as members of a global health organization who are charged with combating disease outbreaks and ultimately, curing four contagions as they emerge around the planet. Players are confronted with a collective choice as to how to best deploy their individual resources to confront immediate health conditions or develop a long-term plan to cure each illness.
+Pandemic är ett samarbetsspel där ett team av spelare tar på sig unika roller (t.ex. läkare, vetenskapsman, forskare) som medlemmar i en global hälsoorganisation som har till uppgift att bekämpa sjukdomsutbrott och i slutändan bota fyra smittor när de dyker upp runt om på planeten. Spelarna ställs inför ett kollektivt val om hur de bäst ska använda sina individuella resurser för att konfrontera omedelbara hälsotillstånd eller utveckla en långsiktig plan för att bota varje sjukdom.
 
-**Curricular connections:** Public policy; epidemiology; health; biology; social and emotional learning; information sciences  
+**Kunskapsanknytning:** Offentlig politik, epidemiologi, hälsa, biologi, socialt och emotionellt lärande, informationsvetenskap  
 
-**Possible skills taught:** Algorithm building; probability-based predicting; argumentation; rhetoric; collaboration; communication; advocacy; planning; decision making; logic
+**Möjliga färdigheter som lärs ut:** Algoritmuppbyggnad; sannolikhetsbaserad förutsägelse; argumentation; retorik; samarbete; kommunikation; förespråkande; planering; beslutsfattande; logik
 
 ### SimCity
 ![](../assets/img/games/simcity.webp)
 
-SimCity is a simulation video game with the main goal to develop a thriving city from small town beginnings. Players control the development of the city by defining development zones, installing technical infrastructure (e.g., traffic roads and water supply installments), and providing services (e.g., schools and fire departments). The type of development zones (industrial, commercial, or residential) determines the kinds of buildings that get automatically constructed in the zone. During the game, players must constantly ensure balanced development conditions, such as adherence to budgets and maintaining the satisfaction of citizens.
+SimCity är ett simuleringsvideospel med huvudmålet att utveckla en blomstrande stad från en liten stad. Spelarna styr utvecklingen av staden genom att definiera utvecklingszoner, installera teknisk infrastruktur (t.ex. trafikvägar och vattenförsörjning) och tillhandahålla tjänster (t.ex. skolor och brandkårer). Typen av utvecklingszon (industri, handel eller bostäder) avgör vilka typer av byggnader som automatiskt byggs i zonen. Under spelets gång måste spelarna hela tiden se till att utvecklingsvillkoren är balanserade, t.ex. att budgeten hålls och att medborgarna är nöjda.
 
-**Curricular connections**: urban and regional planning, urban development, urban geography, (governmental) policy making, technical infrastructure, environmental studies
+**Sammanhang**: stads- och regionplanering, stadsutveckling, stadsgeografi, (statligt) beslutsfattande, teknisk infrastruktur, miljöstudier
 
-**Possible skills taught:** systems thinking, system planning and control, system development, concept of sustainability
+**Möjliga färdigheter som lärs ut:** systemtänkande, systemplanering och kontroll, systemutveckling, hållbarhetsbegrepp
 
-### This War of Mine
+### Mitt krig
 ![](../assets/img/games/thiswarofmine.webp)
-Unlike a typical war game where players usually assume the role of capable soldiers, this game puts the player into the shoes of a group of civilians who live in a besieged city trying to survive, aiming to promote empathy and awareness of real-world armed conflicts, and many believed it was achieved.
+Till skillnad från ett typiskt krigsspel där spelarna vanligtvis antar rollen som kapabla soldater, sätter detta spel spelaren i en grupp civilas skor som bor i en belägrad stad och försöker överleva, i syfte att främja empati och medvetenhet om verkliga väpnade konflikter, och många ansåg att det uppnåddes.
 
-**Curricular connections:** Social and emotional learning; ethics; game design
-**Possible skills taught:** Empathy; moral dilemmas; decision-making; narrative design
+**Kopplingar till läroplanen:** Socialt och emotionellt lärande; etik; speldesign
+**Möjliga färdigheter som lärs ut:** Empati, moraliska dilemman, beslutsfattande, narrativ design
 **Tips:**
-1.  Game play can extend outside the classroom for a more complete experience.
-2.  For a more advanced study, students can start the game with a weaker character profile—instead of the initial settings suggested in Figure 3—to challenge the player’s morality and decision-making skills.
+1.  Spelet kan fortsätta utanför klassrummet för en mer komplett upplevelse.
+2.  För en mer avancerad studie kan eleverna starta spelet med en svagare karaktärsprofil - istället för de initiala inställningarna som föreslås i figur 3 - för att utmana spelarens moral och förmåga att fatta beslut.
 
-## Casual games
+## Avslappnade spel
 
 ### Fancade
 ![](../assets/img/games/fancade.webp)
-Fancade is a huge collection of simple games. Play them instantly, or make your own game using drag-n-drop building blocks!
-website: [fancade.com](https://www.fancade.com)
+Fancade är en enorm samling enkla spel. Spela dem direkt, eller skapa ditt eget spel med hjälp av drag-n-drop-byggstenar!
+webbplats: [fancade.com](https://www.fancade.com)
 
-## Sandbox
+## Sandlåda
 
 ### Minecraft
 ![](../assets/img/games/minecraft.webp)
-Minecraft is an open-world game, allowing players opportunity for unlimited exploration and creation. Gameplay takes place in a pixelated 3-D environment resembling a natural world with many different biomes (e.g. forests, tundra, and deserts). Every element of the world is made from blocks of corresponding materials. For example, trees are made from blocks of wood and ores in blocks of ore. Players can break apart and collect these blocks using their hands, or tools crafted in the game using found materials. Survival is the key objective of Minecraft, which is predicated on players’ ability to maintain both their own health and wellbeing.
+Minecraft är ett spel med öppen värld som ger spelarna möjlighet till obegränsad utforskning och skapande. Spelet utspelar sig i en pixlad 3D-miljö som liknar en naturlig värld med många olika biomer (t.ex. skogar, tundra och öknar). Varje element i världen består av block av motsvarande material. Till exempel är träd gjorda av block av trä och malmer i block av malm. Spelarna kan bryta isär och samla in dessa block med hjälp av sina händer eller verktyg som tillverkas i spelet med hjälp av upphittade material. Överlevnad är det viktigaste målet i Minecraft, som bygger på spelarnas förmåga att upprätthålla både sin egen hälsa och sitt välbefinnande.
 
-**Curricular connections:** Foundational knowledge (English language arts, geography); meta-knowledge (cause and effect, narrative experience); humanistic knowledge (cultural competence)   
-**Possible skills taught:** Writing; critical thinking; exploration; experimentation; cause and effect; mapping; building; design; creativity; resource management; communication
+**Kopplingar till läroplanen:** Grundläggande kunskap (engelska, geografi); metakunskap (orsak och verkan, narrativ erfarenhet); humanistisk kunskap (kulturell kompetens)   
+**Möjliga färdigheter som lärs ut:** Skrivande, kritiskt tänkande, utforskning, experiment, orsak och verkan, kartläggning, byggande, design, kreativitet, resurshantering, kommunikation
 
-website: [minecraft.net](https://www.minecraft.net)
+Webbplats: [minecraft.net](https://www.minecraft.net)
 
 ### Kerbal Space Program
 ![](../assets/img/games/kerbal.webp)
 
-Take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbol solar system, constructing bases and space stations to expand the reach of your expedition.  
-website: [kerbalspaceprogram.com](https://www.kerbalspaceprogram.com)
+Ta hand om rymdprogrammet för den främmande rasen som kallas Kerbals. Du har tillgång till en mängd delar för att sätta ihop fullt fungerande rymdfarkoster som flyger (eller inte flyger) baserat på realistisk aerodynamisk och orbital fysik. Skicka upp din Kerbal-besättning i omloppsbana och vidare (samtidigt som du håller dem vid liv) för att utforska månar och planeter i Kerbol-solsystemet, och bygg baser och rymdstationer för att utöka din expeditions räckvidd.  
+Webbplats: [kerbalspaceprogram.com](https://www.kerbalspaceprogram.com)
 
 ---
-## Unit Review
-- describe a videogame you know and its curriculum connections and possible skills taught
+## Genomgång av enheten
+- beskriv ett videospel du känner till och dess kopplingar till läroplanen och möjliga färdigheter som lärs ut

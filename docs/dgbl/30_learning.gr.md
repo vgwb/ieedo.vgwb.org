@@ -1,262 +1,262 @@
 ---
-title: 3 - Games in Classroom
+title: 3 - Παιχνίδια στην τάξη
 has_children: true
 has_toc: false
 nav_order: 30
 ---
-# 3. Games in classroom
+# 3. Παιχνίδια στην τάξη
 
-**Learning Objectives**  
+**Μαθησιακοί στόχοι**  
 
-- The Learning Principles of EVG
-- What we can learn with EVG?
-- Why implementing EVG is important?
+- Οι μαθησιακές αρχές του EVG
+- Τι μπορούμε να μάθουμε με το EVG;
+- Γιατί η εφαρμογή του EVG είναι σημαντική;
 
-## Positive impacts of gaming for students
+## Θετικές επιπτώσεις των παιχνιδιών για τους μαθητές
 
 ![](../assets/img/vg_positive_impact.webp)
 
 
-We have researching and discovering how much games and video games have a positive impact both in life and in education. 
+Ερευνούμε και ανακαλύπτουμε πόσο θετικό αντίκτυπο έχουν τα παιχνίδια και τα βιντεοπαιχνίδια τόσο στη ζωή όσο και στην εκπαίδευση. 
 
-- **Motivational** impact - encourages an incremental approach
-- **Cognitive** - improves attention, focus, and reaction time
-- **Social** - translates the social skills learned into relations outside the gaming environment
-- **Emotional** - encourages positive mood states and adaptive emotion regulation
+- **Κινητήριος** αντίκτυπος - ενθαρρύνει μια σταδιακή προσέγγιση
+- **Γνωστική** - βελτιώνει την προσοχή, τη συγκέντρωση και το χρόνο αντίδρασης
+- **Κοινωνική** - μεταφράζει τις κοινωνικές δεξιότητες που μαθαίνει σε σχέσεις εκτός του περιβάλλοντος παιχνιδιού
+- **Συναισθηματική** - ενθαρρύνει τις θετικές καταστάσεις διάθεσης και την προσαρμοστική ρύθμιση των συναισθημάτων
 
-## 21st Century Skills
-Students are prepared for the "globalized job market" because technology, effective instruction and authentic problems are combined so students learn collaboration, "critical-thinking", "communication skills" through the vehicle of DGBL.
+## Δεξιότητες του 21ου αιώνα
+Οι μαθητές προετοιμάζονται για την "παγκοσμιοποιημένη αγορά εργασίας" επειδή η τεχνολογία, η αποτελεσματική διδασκαλία και τα αυθεντικά προβλήματα συνδυάζονται έτσι ώστε οι μαθητές να μάθουν τη συνεργασία, την "κριτική σκέψη", τις "επικοινωνιακές δεξιότητες" μέσω του οχήματος της DGBL.
 
-## What games provide
-Games bring together combination of motivating elements not found together in any other medium. Here we can see some games virtues and the positive consequence:
+## Τι παρέχουν τα παιχνίδια
+Τα παιχνίδια συγκεντρώνουν συνδυασμό παρακινητικών στοιχείων που δεν συναντώνται μαζί σε κανένα άλλο μέσο. Εδώ μπορούμε να δούμε μερικές αρετές των παιχνιδιών και τη θετική συνέπεια:
 
-- Games are a form of fun -> _enjoyment and pleasure_
-- Games are a form of play -> intense and passionate *engagement*
-- Games are rules -> _structure_, limits, prohibited behaviour
-- Games are goals -> _motivation_ to keep going on
-- Games are interactive -> _doing_, the player has to do something
-- Games are adaptive -> _flow_, keeps the mind focused, excited and not bored.
-- Games have outcomes and feedback -> _learning_ by errors
-- Games have a win state -> ego _gratification_
-- Games have conflict/competition/challenge/opposition -> _adrenaline_
-- Games have problem solving -> sparks _creativity_
-- Games have peer interaction -> _social groups_ and communication
-- Games have characters and story -> _emotions_ and empathy
+- Τα παιχνίδια είναι μια μορφή διασκέδασης -> _απόλαυση και ευχαρίστηση_
+- Τα παιχνίδια είναι μια μορφή παιχνιδιού -> έντονη και παθιασμένη *εμπλοκή*.
+- Τα παιχνίδια είναι κανόνες -> _δομή_, όρια, απαγορευμένη συμπεριφορά
+- Τα παιχνίδια είναι στόχοι -> _κίνητρο_ για να συνεχίσουμε
+- Τα παιχνίδια είναι διαδραστικά -> _πράττει_, ο παίκτης πρέπει να κάνει κάτι
+- Τα παιχνίδια είναι προσαρμοστικά -> _ροή_, κρατούν το μυαλό συγκεντρωμένο, ενθουσιασμένο και όχι βαριεστημένο.
+- Τα παιχνίδια έχουν αποτελέσματα και ανατροφοδότηση -> _μάθηση_ από λάθη
+- Τα παιχνίδια έχουν μια κατάσταση νίκης -> _ικανοποίηση_ του εγώ
+- Τα παιχνίδια έχουν σύγκρουση/ανταγωνισμό/πρόκληση/αντίθεση -> _αδρεναλίνη_
+- Τα παιχνίδια έχουν επίλυση προβλημάτων -> σπινθήρες _δημιουργικότητας_.
+- Τα παιχνίδια έχουν αλληλεπίδραση με συνομηλίκους -> _κοινωνικές ομάδες_ και επικοινωνία
+- Τα παιχνίδια έχουν χαρακτήρες και ιστορία -> _συναισθήματα_ και ενσυναίσθηση
 
-## Learning Flow
-Educational Games a special "flow", which is
+## Ροή μάθησης
+Τα εκπαιδευτικά παιχνίδια μια ειδική "ροή", η οποία είναι
 
 ![](../assets/img/cognitive_approach.png)
 
 
 ![](../assets/img/GBLModel.webp)
 
-## Video Games and new teaching methods
+## Βιντεοπαιχνίδια και νέες μέθοδοι διδασκαλίας
 
-Recent studies have shown that introducing educational video games (EVG) and adopting a game-based learning teaching approach, has helped students achieve better learning performance, improved student **engagement**, promote **motivation** and **active processing** of educational content.
+Πρόσφατες μελέτες έχουν δείξει ότι η εισαγωγή εκπαιδευτικών βιντεοπαιχνιδιών (EVG) και η υιοθέτηση μιας διδακτικής προσέγγισης που βασίζεται στη μάθηση μέσω παιχνιδιών, έχει βοηθήσει τους μαθητές να επιτύχουν καλύτερες μαθησιακές επιδόσεις, να βελτιώσουν την **εμπλοκή** των μαθητών, να προωθήσουν την **παρακίνηση** και την **ενεργή επεξεργασία** του εκπαιδευτικού περιεχομένου.
 
-Introducing video games into the classroom **enhances many learning and teaching skills** that can help elevate the educational experience of the classroom. This teaching method uses beneficial aspects of video games to transmit knowledge to students. It is based on **three key factors**:
+Η εισαγωγή βιντεοπαιχνιδιών στην τάξη **ενισχύει πολλές μαθησιακές και διδακτικές δεξιότητες** που μπορούν να συμβάλουν στην ανύψωση της εκπαιδευτικής εμπειρίας της τάξης. Αυτή η μέθοδος διδασκαλίας χρησιμοποιεί ευεργετικές πτυχές των βιντεοπαιχνιδιών για τη μετάδοση γνώσεων στους μαθητές. Βασίζεται σε **τρεις βασικούς παράγοντες**:
 
-1. It breathes life into education: it transforms learning into an **enjoyable**, thrilling game without boring lessons. Students assimilate and retain information almost without noticing.
-2. It **boosts motivation**: students are the main characters in the story and their success is rewarded with medals, extra lives, bonuses, etc. This captures and keeps their interest in learning.
-3. It gives **opportunities to practice** students can apply the knowledge they acquire without getting into dangerous situations. This is what flight and navigation simulators, for instance, are all about.
+1. Δίνει ζωή στην εκπαίδευση: μετατρέπει τη μάθηση σε ένα **απολαυστικό**, συναρπαστικό παιχνίδι χωρίς βαρετά μαθήματα. Οι μαθητές αφομοιώνουν και διατηρούν τις πληροφορίες σχεδόν χωρίς να το καταλαβαίνουν.
+2. **ενισχύει τα κίνητρα**: οι μαθητές είναι οι πρωταγωνιστές της ιστορίας και η επιτυχία τους ανταμείβεται με μετάλλια, επιπλέον ζωές, μπόνους κ.λπ. Αυτό αιχμαλωτίζει και διατηρεί το ενδιαφέρον τους για μάθηση.
+3. Δίνει **ευκαιρίες εξάσκησης** οι μαθητές μπορούν να εφαρμόσουν τις γνώσεις που αποκτούν χωρίς να βρεθούν σε επικίνδυνες καταστάσεις. Αυτό είναι το νόημα των προσομοιωτών πτήσης και πλοήγησης, για παράδειγμα.
 
 
-## How effective are video games in the classroom?
+## Πόσο αποτελεσματικά είναι τα βιντεοπαιχνίδια στην τάξη;
 ![](../assets/img/vg_pro-cons.webp)
-Let's see some Pros and Cons of video games
+Ας δούμε μερικά υπέρ και κατά των βιντεοπαιχνιδιών
 
-### Pros
-- Improve Tech Literacy
-- Develop Multi-tasking mentality
-- Experience Teamwork
-- Practice Long-range planning
-- Provide Individualised instruction
+### Πλεονεκτήματα
+- Βελτιώνουν τον τεχνολογικό γραμματισμό
+- Ανάπτυξη νοοτροπίας πολλαπλών καθηκόντων
+- Εμπειρία ομαδικής εργασίας
+- Εξάσκηση στον μακροπρόθεσμο σχεδιασμό
+- Παροχή εξατομικευμένης διδασκαλίας
 
-### Cons
-- Cost (higher than book-paper-pencil paradigm)
-- **Distraction** from other objectives
-- Social **isolation**
-- Shortened attention span
-- student **competitiveness** has been proven to get in the way of learning because students are more focused on winning the game instead of learning new skills.
-- The design of games that achieve a balance between learning and fun continues to pose a challenge
-- issues of unequal access and application
-- requires well-educated and supported teachers
+### Μειονεκτήματα
+- Κόστος (υψηλότερο από το παράδειγμα βιβλίο-χαρτί-μολύβι)
+- **Αποσπασμός** από άλλους στόχους
+- Κοινωνική **απομόνωση**
+- Μειωμένο εύρος προσοχής
+- η **ανταγωνιστικότητα** των μαθητών έχει αποδειχθεί ότι εμποδίζει τη μάθηση, επειδή οι μαθητές επικεντρώνονται περισσότερο στο να κερδίσουν το παιχνίδι αντί να μάθουν νέες δεξιότητες.
+- Ο σχεδιασμός παιχνιδιών που επιτυγχάνουν ισορροπία μεταξύ μάθησης και διασκέδασης εξακολουθεί να αποτελεί πρόκληση
+- ζητήματα άνισης πρόσβασης και εφαρμογής
+- απαιτεί καλά εκπαιδευμένους και υποστηριζόμενους εκπαιδευτικούς
 
-## Learner Anxiety
-The DGBL has shown to lower students' anxiety and increase their effective communication which could lead to improved processing of new information. 
+## Άγχος των μαθητών
+Το DGBL έχει δείξει ότι μειώνει το άγχος των μαθητών και αυξάνει την αποτελεσματική επικοινωνία τους, γεγονός που θα μπορούσε να οδηγήσει σε καλύτερη επεξεργασία των νέων πληροφοριών. 
 
 ---
-Let's see this video about why video games are such effective learning tools:
+Ας δούμε αυτό το βίντεο σχετικά με το γιατί τα βιντεοπαιχνίδια είναι τόσο αποτελεσματικά εργαλεία μάθησης:
 
-> 📽 VIDEO [James Paul Gee on Learning with Video Games](https://youtu.be/JnEN2Sm4IIQ)
+> 📽 ΒΙΝΤΕΟ [James Paul Gee για τη μάθηση με βιντεοπαιχνίδια](https://youtu.be/JnEN2Sm4IIQ)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/JnEN2Sm4IIQ"></iframe>
 
-## Video Learning through "serious games" 
+## Μάθηση μέσω βίντεο μέσω "σοβαρών παιχνιδιών" 
 
-📽 VIDEO [Video Learning through "serious games"](https://youtu.be/MUn3hVZ-ejk)
+📽 ΒΙΝΤΕΟ [Video Learning through "serious games"](https://youtu.be/MUn3hVZ-ejk)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/MUn3hVZ-ejk"></iframe>
 
 
 
-## Cognitive skills and games
+## Γνωστικές δεξιότητες και παιχνίδια
 
-Cognitive processes let you:
-1. Understand sensory inputs
-2. Elaborate information
-3. Remember and recall information
-4. Contextualise information and solve problems
+Οι γνωστικές διεργασίες σας επιτρέπουν:
+1. Να κατανοείτε τις αισθητηριακές εισροές
+2. Να επεξεργάζεσαι πληροφορίες
+3. Θυμηθείτε και ανακαλέστε πληροφορίες
+4. Να συσχετίζει πληροφορίες και να επιλύει προβλήματα
 
-Here is a list of cognitive skills that can be developed by playing Video Games, or a Video Game can be designed to develop a particular set of skills.
+Ακολουθεί ένας κατάλογος γνωστικών δεξιοτήτων που μπορούν να αναπτυχθούν παίζοντας Βιντεοπαιχνίδια, ή ένα Βιντεοπαιχνίδι μπορεί να σχεδιαστεί για να αναπτύξει ένα συγκεκριμένο σύνολο δεξιοτήτων.
 
-### Attention
+### Προσοχή
 
-**Focused Attention**  
-The ability to focus attention on a single stimulus
+**Συγκεντρωμένη προσοχή**  
+Η ικανότητα εστίασης της προσοχής σε ένα μόνο ερέθισμα
 
-**Divided Attention**  
-The ability to execute more than one action at a time, while paying attention to a few channels of information.
+**Διαχωρισμένη Προσοχή**  
+Η ικανότητα εκτέλεσης περισσότερων από μία ενεργειών ταυτόχρονα, ενώ δίνεται προσοχή σε λίγα κανάλια πληροφοριών.
 
-**Inhibition**  
-The ability to ignore irrelevant stimuli or suppress irrelevant reactions while performing a task.
+**Αναστολή**  
+Η ικανότητα να αγνοούνται άσχετα ερεθίσματα ή να καταστέλλονται άσχετες αντιδράσεις κατά την εκτέλεση μιας εργασίας.
 
-**Updating**  
-The ability to respond in a flexible and adaptive manner in order to keep up with the changes in the environment.
+**Επικαιροποίηση**  
+Η ικανότητα ευέλικτης και προσαρμοστικής αντίδρασης, ώστε να συμβαδίζει με τις αλλαγές στο περιβάλλον.
 
-### Memory
+### Μνήμη
 
-**Short-Term Memory**  
-The ability to hold a small amount of information in a readily, available state for a short period of time.
+**Μνήμη βραχείας διάρκειας**  
+Η ικανότητα διατήρησης ενός μικρού όγκου πληροφοριών σε μια εύκολα διαθέσιμη κατάσταση για σύντομο χρονικό διάστημα.
 
-**Naming**  
-The ability to retrieve a word from our semantic lexicon and is considered to be a basic ability.
+**Ονομασία**  
+Η ικανότητα ανάκτησης μιας λέξης από το σημασιολογικό μας λεξικό και θεωρείται βασική ικανότητα.
 
-**Working Memory**  
-Refers to the temporary storage and manipulation of the information necessary for complex cognitive tasks.
+**Μνήμη εργασίας**  
+Αναφέρεται στην προσωρινή αποθήκευση και τον χειρισμό των πληροφοριών που είναι απαραίτητες για σύνθετες γνωστικές εργασίες.
 
-**Contextual Memory**  
-The conscious recall of the source and circumstances of a specific memory.
+**Μνήμη πλαισίου**  
+Η συνειδητή ανάκληση της πηγής και των συνθηκών μιας συγκεκριμένης μνήμης.
 
-**Visual Short-Term Memory**  
-The ability to temporarily retain a small amount of visual information.
+**Οπτική βραχυπρόθεσμη μνήμη**  
+Η ικανότητα προσωρινής συγκράτησης μικρής ποσότητας οπτικών πληροφοριών.
 
-**Non-verbal Memory**  
-The ability to store and retrieve information which are non-verbal by nature.
+**Μη λεκτική μνήμη**  
+Η ικανότητα αποθήκευσης και ανάκτησης πληροφοριών που δεν είναι λεκτικές από τη φύση τους.
 
-**Phonological Short-term Memory**  
-The ability to remember phonological information over a brief period of time.
+**Φωνολογική βραχυπρόθεσμη μνήμη**  
+Η ικανότητα να θυμάται κανείς φωνολογικές πληροφορίες για σύντομο χρονικό διάστημα.
 
-### Sensation and Perception
+### Αίσθηση και αντίληψη
 
-**Auditory perception**  
-Auditory Perception is the ability to perceive and understand the difference between sounds.
+**Ακουστική αντίληψη**  
+Η ακουστική αντίληψη είναι η ικανότητα αντίληψης και κατανόησης της διαφοράς μεταξύ των ήχων.
 
-**Visual Perception**  
-The ability to interpret information from the effects of visible light reaching the eye.
+**Οπτική αντίληψη**  
+Η ικανότητα ερμηνείας πληροφοριών από τα αποτελέσματα του ορατού φωτός που φτάνει στο μάτι.
 
-**Spatial Perception**  
-The ability to evaluate how things are arranged in space, and investigate their relations in the environment.
+**Χωρική αντίληψη**  
+Η ικανότητα αξιολόγησης του τρόπου διάταξης των πραγμάτων στο χώρο και διερεύνησης των σχέσεών τους στο περιβάλλον.
 
-**Visual Scanning**  
-The ability to actively find relevant information in our surroundings quickly and efficiently.
+**Οπτική σάρωση**  
+Η ικανότητα να βρίσκουμε ενεργά σχετικές πληροφορίες στο περιβάλλον μας γρήγορα και αποτελεσματικά.
 
-**Estimation**  
-The ability to estimate an object's future location based on its current speed and distance.
+**Εκτίμηση**  
+Η ικανότητα εκτίμησης της μελλοντικής θέσης ενός αντικειμένου με βάση την τρέχουσα ταχύτητα και απόστασή του.
 
-**Width of Field of View**  
-Corresponds to amount of information we receive from around when looking straight ahead.
+**Πλάτος οπτικού πεδίου**  
+Αντιστοιχεί στην ποσότητα των πληροφοριών που λαμβάνουμε από γύρω όταν κοιτάμε ευθεία μπροστά.
 
-**Recognition**  
-The ability to retrieve information from the past and to recognise certain events, places or other information.
+**Αναγνώριση**  
+Η ικανότητα ανάκτησης πληροφοριών από το παρελθόν και αναγνώρισης ορισμένων γεγονότων, τόπων ή άλλων πληροφοριών.
 
-### Reasoning and Comprehension
+### Συλλογισμός και κατανόηση
 
-**Processing Speed**  
-Involves the ability to fluently perform easy or over-learned tasks.
+**Ταχύτητα επεξεργασίας**  
+Περιλαμβάνει την ικανότητα να εκτελεί κανείς με ευχέρεια εύκολες ή υπερεκπαιδευμένες εργασίες.
 
-**Planning**  
-The ability to "think ahead", to mentally anticipate the correct way to execute a task.
+**Προγραμματισμός**  
+Η ικανότητα να "σκέφτεται κανείς μπροστά", να προβλέπει νοερά τον σωστό τρόπο εκτέλεσης μιας εργασίας.
 
-**Shifting**  
-Ability to adapt behaviour and thoughts to new, changing, or unexpected circumstances
+**Μετατόπιση**  
+Η ικανότητα προσαρμογής της συμπεριφοράς και των σκέψεων σε νέες, μεταβαλλόμενες ή απροσδόκητες συνθήκες.
 
-### Coordination
+### Συντονισμός
 
-**Hand-eye Coordination**  
-The level of sensitivity with which the hand and eye are synchronised.
+**Συντονισμός χεριού-ματιού**  
+Το επίπεδο ευαισθησίας με το οποίο συγχρονίζονται το χέρι και το μάτι.
 
-**Response Time**  
-The ability to perceive and process a simple stimulus and respond to it.
+**Χρόνος απόκρισης**  
+Η ικανότητα αντίληψης και επεξεργασίας ενός απλού ερεθίσματος και ανταπόκρισης σε αυτό.
 
-## Learning Principles
-Here are the 16 principles of good video-game based learning:
+## Αρχές μάθησης
+Ακολουθούν οι 16 αρχές της καλής μάθησης με βάση τα βιντεοπαιχνίδια:
 
-1. **Identity**: Players build a sense of identity throughout the video game, either through direct input or an on-screen character they inherit.
-2. **Interaction**: Communication occurs between the player and the game.
-3. **Production**: Gamers help produce the story through some form of interaction, such as choosing a path, solving a puzzle or completing a level.
-4. **Risk Taking**: Failing in a game holds few consequences in comparison to real life, empowering players to take risks.
-5. **Customized**: Games usually offer a level of customization so that users can play - and succeed - at their competency level.
-6. **Agency**: Players have control over the gaming environment.
-7. **Well-Ordered Problems**: The gaming environment contains problems that naturally lead into one another, allowing a player’s mastery to grow and evolve.
-8. **Challenge and Consideration**: Games offer a problem that challenges students’ assumed expertise.
-9. **Just in Time or On Demand**: Players receive information as they need it, not before, which teaches them patience and perseverance and improves critical-thinking abilities.
-10. **Situated Meanings**: Students learn new vocabulary words by experiencing them within game situations.
-11. **Pleasantly Frustrating**: The game should frustrate the student enough to challenge them but be easy enough that they believe and can overcome the problem(s) faced.
-12. **System Thinking**: Games make players think in a bigger picture, not just individual actions taken, helping them see how the pieces fit or can be fitted together.
-13. **Explore, Think Laterally, Rethink Goals**: Games force players to expand their situational knowledge and consider courses of action other than linear ones.
-14. **Smart Tools and Distributed Knowledge**: In-game tools help students understand the world. Through using them, they gain confidence to share their knowledge with others.
-15. **Cross-Functional Teams**: In multiplayer environments, players have different skills, forcing them to rely on each other - a needed soft skill for students.
-16. **Performance before Competence**: Competency occurs through taking action in the game, reversing the typical model in which students are required to learn before being allowed to act.
+1. **Ταυτότητα**: Οι παίκτες οικοδομούν μια αίσθηση ταυτότητας καθ' όλη τη διάρκεια του βιντεοπαιχνιδιού, είτε μέσω άμεσης εισόδου είτε μέσω ενός χαρακτήρα στην οθόνη που κληρονομούν.
+2. **Αλληλεπίδραση**: Η επικοινωνία λαμβάνει χώρα μεταξύ του παίκτη και του παιχνιδιού.
+3. **Παραγωγή**: Οι παίκτες συμβάλλουν στην παραγωγή της ιστορίας μέσω κάποιας μορφής αλληλεπίδρασης, όπως η επιλογή μιας διαδρομής, η επίλυση ενός γρίφου ή η ολοκλήρωση ενός επιπέδου.
+4. **Ανάληψη κινδύνου**: Η αποτυχία σε ένα παιχνίδι έχει λίγες συνέπειες σε σύγκριση με την πραγματική ζωή, δίνοντας στους παίκτες τη δυνατότητα να παίρνουν ρίσκα.
+5. **Προσαρμογή**: Τα παιχνίδια προσφέρουν συνήθως ένα επίπεδο προσαρμογής, ώστε οι χρήστες να μπορούν να παίξουν - και να επιτύχουν - στο επίπεδο των ικανοτήτων τους.
+6. **Αντιπροσωπεία**: Οι παίκτες έχουν τον έλεγχο του περιβάλλοντος παιχνιδιού.
+7. **Καλά οργανωμένα προβλήματα**: Το περιβάλλον παιχνιδιού περιέχει προβλήματα που οδηγούν φυσικά το ένα στο άλλο, επιτρέποντας στον παίκτη να αναπτύξει και να εξελιχθεί.
+8. **Προκλήσεις και προβληματισμός**: Τα παιχνίδια προσφέρουν ένα πρόβλημα που προκαλεί την υποτιθέμενη τεχνογνωσία των μαθητών.
+9. **Ακριβώς στην ώρα τους ή κατ' απαίτηση**: Οι παίκτες λαμβάνουν πληροφορίες όταν τις χρειάζονται, όχι πριν, γεγονός που τους διδάσκει υπομονή και επιμονή και βελτιώνει τις ικανότητες κριτικής σκέψης.
+10. **Προσδιορισμένες έννοιες**: Οι μαθητές μαθαίνουν νέες λέξεις του λεξιλογίου βιώνοντάς τες μέσα σε καταστάσεις παιχνιδιού.
+11. **Διασκεδαστική απογοήτευση**: Το παιχνίδι πρέπει να απογοητεύει τους μαθητές αρκετά ώστε να τους προκαλεί αλλά να είναι αρκετά εύκολο ώστε να πιστεύουν και να μπορούν να ξεπεράσουν το πρόβλημα (ή τα προβλήματα) που αντιμετωπίζουν.
+12. **Συστημική σκέψη**: Τα παιχνίδια κάνουν τους παίκτες να σκέφτονται σε μια ευρύτερη εικόνα, όχι μόνο τις μεμονωμένες ενέργειες που γίνονται, βοηθώντας τους να δουν πώς τα κομμάτια ταιριάζουν ή μπορούν να ταιριάξουν μεταξύ τους.
+13. **Εξερευνήστε, σκεφτείτε πλευρικά, επανεξετάστε τους στόχους**: Τα παιχνίδια αναγκάζουν τους παίκτες να επεκτείνουν τις γνώσεις τους για την κατάσταση και να εξετάσουν άλλες κατευθύνσεις δράσης εκτός από τις γραμμικές.
+14. **Έξυπνα εργαλεία και κατανεμημένη γνώση**: Τα εργαλεία μέσα στο παιχνίδι βοηθούν τους μαθητές να κατανοήσουν τον κόσμο. Μέσω της χρήσης τους, αποκτούν αυτοπεποίθηση για να μοιραστούν τις γνώσεις τους με άλλους.
+15. **Διαλειτουργικές ομάδες**: Σε περιβάλλοντα πολλαπλών παικτών, οι παίκτες έχουν διαφορετικές δεξιότητες, γεγονός που τους αναγκάζει να βασίζονται ο ένας στον άλλο - μια απαραίτητη ήπια δεξιότητα για τους μαθητές.
+16. **Απόδοση πριν από την ικανότητα**: Η ικανότητα εμφανίζεται μέσω της ανάληψης δράσης στο παιχνίδι, αντιστρέφοντας το τυπικό μοντέλο στο οποίο οι μαθητές πρέπει να μάθουν πριν τους επιτραπεί να δράσουν.
 
-These learning principles should be applied to school learning at all times, not just through educational video games. They change the current trend for skill-and-drill, scripted instruction, and standardized multiple-choice testing.
+Αυτές οι αρχές μάθησης θα πρέπει να εφαρμόζονται στη σχολική μάθηση ανά πάσα στιγμή, όχι μόνο μέσω εκπαιδευτικών βιντεοπαιχνιδιών. Αλλάζουν την τρέχουσα τάση για δεξιότητες και ασκήσεις, διδασκαλία με σενάρια και τυποποιημένες εξετάσεις πολλαπλών επιλογών.
 
-## What we can learn with EVG
-Today we can find videogames that can help in every learning field.
+## Τι μπορούμε να μάθουμε με το EVG
+Σήμερα μπορούμε να βρούμε βιντεοπαιχνίδια που μπορούν να βοηθήσουν σε κάθε τομέα μάθησης.
 
-For example:
-- Language Learning / Literacy
-- Mathematics and Science (STEM)
-- Social Studies and History
-- Development of Cognitive Skills
-- Rehabilitation
-- Music 
-- Art / Creative skills
-- Emotional Health / Wellbeing
-- Ethics and Ethical Thinking
-- Management
+Για παράδειγμα:
+- Γλωσσική εκμάθηση / αλφαβητισμός
+- Μαθηματικά και επιστήμες (STEM)
+- Κοινωνικές σπουδές και ιστορία
+- Ανάπτυξη γνωστικών δεξιοτήτων
+- Αποκατάσταση
+- Μουσική 
+- Τέχνη / Δημιουργικές δεξιότητες
+- Συναισθηματική υγεία / ευημερία
+- Ηθική και ηθική σκέψη
+- Διαχείριση
 
-In the Case Studies chapter we'll see some examples.
+Στο κεφάλαιο Μελέτες περίπτωσης θα δούμε μερικά παραδείγματα.
 
-## When and why implement EVGs?
-You must remember that game-based learning and EVGs are tools that should supplement/facilitate your pedagogy, they are not the teacher. When using these techniques in your classroom, **do not grade play**, **instead assess the learning transfer** that has been facilitated from the game experience to the curriculum.
+## Πότε και γιατί να εφαρμοστούν τα EVGs;
+Πρέπει να θυμάστε ότι η μάθηση με βάση τα παιχνίδια και τα EVGs είναι εργαλεία που πρέπει να συμπληρώνουν/διευκολύνουν την παιδαγωγική σας, δεν είναι ο δάσκαλος. Όταν χρησιμοποιείτε αυτές τις τεχνικές στην τάξη σας, **μη βαθμολογείτε το παιχνίδι**, **αντ' αυτού αξιολογείστε τη μεταφορά μάθησης** που έχει διευκολυνθεί από την εμπειρία του παιχνιδιού στη διδακτέα ύλη.
 
-Therefore, choosing to implement EVGs should come as a reason to **enhance content delivery** and comprehension as well as **motivate students to understand** complex theories/content in a mind engaging and challenging manner.
+Επομένως, η επιλογή της εφαρμογής των EVGs θα πρέπει να αποτελεί λόγο για την **βελτίωση της παροχής περιεχομένου** και της κατανόησης, καθώς και για την **παρακίνηση των μαθητών να κατανοήσουν** πολύπλοκες θεωρίες/περιεχόμενο με τρόπο που να εμπνέει το μυαλό και να προκαλεί.
 
-## 16 reasons as to why to implement EVGs in the classroom
+## 16 λόγοι για τους οποίους πρέπει να εφαρμοστούν τα EVGs στην τάξη
 
-1. Promote technology exploration
-2. Develop problem-solving skills
-3. Develop educational mastery and complete tasks in a logical manner
-4. Develop reasoning and complexity thinking
-5. Develop fine motor skills
-6. Build interest in STEAM fields
-7. Teach Students basic programming
-8. Develop confidence and social skills
-9. Learn Collaboration skills
-10. Emphasize also individualized learning
-11. Provide a **safe environment** to explore and in which to **make mistakes**
-12. Learn through enjoyment and "fun"
-13. Contextualised, goal oriented instead of abstract learning
-14. Experiential learning: learning by doing
-15. Intrinsic motivation: playing is voluntary and self-driven
-16. Seamless accountability and feedback
+1. Προώθηση της τεχνολογικής εξερεύνησης
+2. Ανάπτυξη δεξιοτήτων επίλυσης προβλημάτων
+3. Ανάπτυξη εκπαιδευτικής δεξιοτεχνίας και ολοκλήρωση εργασιών με λογικό τρόπο
+4. Ανάπτυξη της λογικής και της σύνθετης σκέψης
+5. Ανάπτυξη λεπτών κινητικών δεξιοτήτων
+6. Ανάπτυξη ενδιαφέροντος για τους τομείς STEAM
+7. Διδάσκουν στους μαθητές βασικό προγραμματισμό
+8. Ανάπτυξη αυτοπεποίθησης και κοινωνικών δεξιοτήτων
+9. Μαθαίνουν δεξιότητες συνεργασίας
+10. Δώστε έμφαση στην εξατομικευμένη μάθηση
+11. Παρέχετε ένα **ασφαλές περιβάλλον** για να εξερευνήσετε και στο οποίο να **κάνετε λάθη**.
+12. Μάθετε μέσα από την απόλαυση και τη "διασκέδαση".
+13. Συσχετισμένη, προσανατολισμένη σε στόχους αντί για αφηρημένη μάθηση
+14. Βιωματική μάθηση: μάθηση μέσω της πράξης
+15. Ενδογενή κίνητρα: το παιχνίδι είναι εθελοντικό και αυτοκαθοδηγούμενο
+16. Απρόσκοπτη λογοδοσία και ανατροφοδότηση
 
-📽 #VIDEO [What can schools learn from video games?](https://www.youtube.com/watch?v=3aQxga-SUBg)
+📽 #VIDEO [Τι μπορούν να μάθουν τα σχολεία από τα βιντεοπαιχνίδια;](https://www.youtube.com/watch?v=3aQxga-SUBg)
 
 
 <iframe height="450" width="800" src="https://www.youtube.com/embed/3aQxga-SUBg"></iframe>
 
 ---
-## Unit review
-Discuss, in your opinion the importance of implementing game-based learning.
-Could there be complications to this process? if so, what would they be?
+## Ανασκόπηση μονάδας
+Συζητήστε, κατά τη γνώμη σας, τη σημασία της εφαρμογής της μάθησης με βάση τα παιχνίδια.
+Θα μπορούσαν να υπάρξουν επιπλοκές σε αυτή τη διαδικασία; αν ναι, ποιες θα ήταν αυτές;

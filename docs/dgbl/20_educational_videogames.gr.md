@@ -1,384 +1,390 @@
 ---
-title: 2 - Educational Video Games
+title: 2 - Εκπαιδευτικά βιντεοπαιχνίδια
 has_children: true
 has_toc: false
 nav_order: 20
 ---
-# 2. Educational Video Games
+# 2. Εκπαιδευτικά βιντεοπαιχνίδια
 
-**Learning Objectives**
+**Μαθησιακοί στόχοι**
 
-- What is a Videogame?
-- VG types and categories
-- How to select an EVG
-- What makes a good EVG? 
-- How to improve engagement and motivation?
-- What is the "flow" state?
+- Τι είναι τα βιντεοπαιχνίδια;
+- Τύποι και κατηγορίες VG
+- Πώς να επιλέξετε ένα EVG
+- Τι κάνει ένα καλό EVG; 
+- Πώς να βελτιώσετε τη δέσμευση και τα κίνητρα;
+- Τι είναι η κατάσταση "ροής";
 
-## What is a Video Game
+## Τι είναι ένα βιντεοπαιχνίδι
 
 ![game-design](../assets/img/game-design.jpg)
 
-A video game is a computer game designed mainly for entertainment purposes. A video game console is the electronic machine designed to play the **games** and a **video** display such as a computer monitor or television is the primary feedback device. 
-The main **input device** is a controller. A controller can be a keyboard, mouse, game pad, joystick, paddle, our fingers, voice, or any other not yet invented device. Special purpose devices, such as steering wheels for driving **games**, light guns for shooting **games**, and drums for musical **games** may also be used.
+Ένα βιντεοπαιχνίδι είναι ένα παιχνίδι υπολογιστή που έχει σχεδιαστεί κυρίως για ψυχαγωγικούς σκοπούς. Μια κονσόλα βιντεοπαιχνιδιών είναι η ηλεκτρονική μηχανή που έχει σχεδιαστεί για να παίζει τα **παιχνίδια** και μια οθόνη **βίντεο**, όπως μια οθόνη υπολογιστή ή μια τηλεόραση, είναι η κύρια συσκευή ανατροφοδότησης. 
+Η κύρια **συσκευή εισόδου** είναι ένα χειριστήριο. Το χειριστήριο μπορεί να είναι πληκτρολόγιο, ποντίκι, game pad, joystick, κουπί, τα δάχτυλά μας, φωνή ή οποιαδήποτε άλλη συσκευή που δεν έχει ακόμη εφευρεθεί. Μπορούν επίσης να χρησιμοποιηθούν συσκευές ειδικού σκοπού, όπως τιμόνια για **παιχνίδια οδήγησης**, ελαφριά όπλα για **παιχνίδια σκοποβολής** και τύμπανα για μουσικά **παιχνίδια**.
 
-Here is the diagram of the Videogame seen as a designed system and flow.
+Ακολουθεί το διάγραμμα του βιντεοπαιχνιδιού ως σχεδιασμένο σύστημα και ροή.
 
 ![vg-circuit](../assets/img/vg-circuit.png)
 
-## Genres
-### Adventure
-Adventure games are one of the oldest forms of computer game, going back to the early text adventures and interactive fiction of the 1970s and 1980s. They involve the player undertaking series of tasks or puzzles in which they must interact with the virtual world, performing actions, talking to characters and manipulating objects in order to achieve the objectives of the game, often to solve some mystery or complete a quest.
+## Είδη
+### Περιπέτεια
+Τα παιχνίδια περιπέτειας είναι μια από τις παλαιότερες μορφές παιχνιδιών υπολογιστή, που ανάγονται στις πρώτες περιπέτειες κειμένου και διαδραστικής φαντασίας των δεκαετιών του 1970 και 1980. Περιλαμβάνουν τον παίκτη να αναλαμβάνει μια σειρά από εργασίες ή γρίφους στους οποίους πρέπει να αλληλεπιδράσει με τον εικονικό κόσμο, εκτελώντας ενέργειες, μιλώντας με χαρακτήρες και χειριζόμενος αντικείμενα προκειμένου να επιτύχει τους στόχους του παιχνιδιού, συχνά για να λύσει κάποιο μυστήριο ή να ολοκληρώσει μια αποστολή.
 
-Although the original adventure games were text-based, contemporary commercial adventure games tend use graphics, offering three-dimensional worlds that players can navigate. There is also a growing popularity of simpler web-based adventures, known as point-and-click games, which typically provide two-dimensional environments in which the player has to navigate through rooms and make objects interact to solve the puzzles presented
+Αν και τα αρχικά παιχνίδια περιπέτειας βασίζονταν σε κείμενο, τα σύγχρονα εμπορικά παιχνίδια περιπέτειας τείνουν να χρησιμοποιούν γραφικά, προσφέροντας τρισδιάστατους κόσμους στους οποίους οι παίκτες μπορούν να περιηγηθούν. Υπάρχει επίσης μια αυξανόμενη δημοτικότητα των απλούστερων περιπετειών που βασίζονται στον ιστό, γνωστά ως παιχνίδια point-and-click, τα οποία συνήθως παρέχουν δισδιάστατα περιβάλλοντα στα οποία ο παίκτης πρέπει να πλοηγηθεί μέσα στα δωμάτια και να κάνει τα αντικείμενα να αλληλεπιδράσουν για να λύσει τους γρίφους που παρουσιάζονται.
 
-Adventure games generally depend on **mental agility** rather than physical dexterity and tend **not to be time-dependent**. Some adventures combine elements of both and it is common for adventure games to contain mini-games in another genre. In terms of education, adventure games can **present a context for problem-solving and lateral thinking**, where players have to work out the appropriate actions in order to achieve a goal.
+Τα παιχνίδια περιπέτειας εξαρτώνται γενικά από τη **διανοητική ευκινησία** και όχι από τη σωματική επιδεξιότητα και τείνουν να **δεν εξαρτώνται από το χρόνο**. Ορισμένες περιπέτειες συνδυάζουν στοιχεία και από τα δύο και είναι σύνηθες τα παιχνίδια περιπέτειας να περιέχουν μίνι-παιχνίδια άλλου είδους. Όσον αφορά την εκπαίδευση, τα παιχνίδια περιπέτειας μπορούν να **παρουσιάσουν ένα πλαίσιο για την επίλυση προβλημάτων και την πλάγια σκέψη**, όπου οι παίκτες πρέπει να επεξεργαστούν τις κατάλληλες ενέργειες για την επίτευξη ενός στόχου.
 
-### Platform
-Platform games involve the movement of the player character through a landscape (usually two-dimensional), jumping up and down between platforms, avoiding obstacles and enemies, and picking up treasure, usually with some overall goal in mind and often in the context of a narrative. Platform games require physical dexterity and the aim is usually to score points and complete levels.
-The types of skills that they develop are **hand–eye coordination**, **planning** and **strategizing, problem-solving** (the sequence of steps required to get over a particular obstacle for instance) and the ability to think quickly.
+### Πλατφόρμα
+Τα παιχνίδια πλατφόρμας περιλαμβάνουν την κίνηση του χαρακτήρα του παίκτη μέσα σε ένα τοπίο (συνήθως δισδιάστατο), πηδώντας πάνω-κάτω μεταξύ πλατφορμών, αποφεύγοντας εμπόδια και εχθρούς και μαζεύοντας θησαυρούς, συνήθως με κάποιο γενικό στόχο κατά νου και συχνά στο πλαίσιο μιας αφήγησης. Τα παιχνίδια πλατφόρμας απαιτούν σωματική επιδεξιότητα και ο στόχος είναι συνήθως η συγκέντρωση πόντων και η ολοκλήρωση των επιπέδων.
+Τα είδη δεξιοτήτων που αναπτύσσουν είναι ο **συντονισμός χεριών-ματιών**, ο **σχεδιασμός** και η **στρατηγική, η επίλυση προβλημάτων** (η ακολουθία των βημάτων που απαιτούνται για να ξεπεραστεί ένα συγκεκριμένο εμπόδιο για παράδειγμα) και η ικανότητα γρήγορης σκέψης.
 
-### Puzzle
-Puzzle games primarily involve problem-solving, can take many forms – including words, logic, mathematics – and are often based on traditional puzzles (for example online crosswords or spot-the-difference). Simple puzzle games can be stand-alone but they are also often embedded within a larger narrative structure so that solving the puzzles will complete some larger quest or story. It is common for puzzles to be embedded within other genres such as adventure games as mini-games. Puzzles can be used to support a variety of **different types of learning** depending on the type of puzzle, including **logic**, **spatial awareness**, **verbal skills**, **numeracy skills**, and **spelling**. I would also include quizzes in this category, and they are an example of a game activity that can be used in almost any area of a curriculum, but primarily for recall of facts.
+### Παζλ
+Τα παιχνίδια παζλ περιλαμβάνουν κυρίως την επίλυση προβλημάτων, μπορούν να λάβουν πολλές μορφές - συμπεριλαμβανομένων των λέξεων, της λογικής, των μαθηματικών - και συχνά βασίζονται σε παραδοσιακά παζλ (για παράδειγμα διαδικτυακά σταυρόλεξα ή εντοπίστε τη διαφορά). Τα απλά παιχνίδια παζλ μπορεί να είναι αυτόνομα, αλλά συχνά είναι επίσης ενσωματωμένα σε μια ευρύτερη αφηγηματική δομή, έτσι ώστε η επίλυση των παζλ να ολοκληρώνει κάποια μεγαλύτερη αναζήτηση ή ιστορία. Είναι σύνηθες οι γρίφοι να ενσωματώνονται σε άλλα είδη παιχνιδιών, όπως τα παιχνίδια περιπέτειας, ως μίνι παιχνίδια. Τα παζλ μπορούν να χρησιμοποιηθούν για την υποστήριξη μιας ποικιλίας **διαφορετικών τύπων μάθησης** ανάλογα με τον τύπο του παζλ, συμπεριλαμβανομένων της **λόγου**, της **χωρικής επίγνωσης**, των **λεκτικών δεξιοτήτων**, των **αριθμητικών δεξιοτήτων** και της **ορθογραφίας**. Θα συμπεριλάμβανα επίσης τα κουίζ σε αυτή την κατηγορία και αποτελούν παράδειγμα δραστηριότητας παιχνιδιού που μπορεί να χρησιμοποιηθεί σχεδόν σε κάθε τομέα του προγράμματος σπουδών, αλλά κυρίως για την ανάκληση γεγονότων.
 
-### Role Play
-Role play games emerged from the face-to-face role-playing games and involve the player taking on the role of a character in another (usually fantasy-based) world.
-The player can undertake a range of activities including solving quests, fighting, treasure hunting, and interacting with other characters (either other players in the game world or non-player characters). There is usually a mix of problem-solving skills required as well as strategy and sometimes physical dexterity, and although single-player role-playing games exist, they are commonly multi-player. Role play games are usually underpinned by complex statistical models that provide scores for a range of characteristics that determine a character’s abilities and weaknesses.
-In the context of learning, role-playing games are good for providing a context for building **collaborative skills**, **social interaction**, **negotiation**, **management of complex systems** (e.g. character statistics), **strategy**, and working through scenarios.
+### Παιχνίδι ρόλων
+Τα παιχνίδια ρόλων προέκυψαν από τα παιχνίδια ρόλων πρόσωπο με πρόσωπο και περιλαμβάνουν τον παίκτη που αναλαμβάνει το ρόλο ενός χαρακτήρα σε έναν άλλο (συνήθως φανταστικό) κόσμο.
+Ο παίκτης μπορεί να αναλάβει μια σειρά από δραστηριότητες, όπως επίλυση αποστολών, μάχες, κυνήγι θησαυρού και αλληλεπίδραση με άλλους χαρακτήρες (είτε άλλους παίκτες στον κόσμο του παιχνιδιού είτε χαρακτήρες που δεν είναι παίκτες). Συνήθως απαιτείται ένας συνδυασμός δεξιοτήτων επίλυσης προβλημάτων, καθώς και στρατηγικής και μερικές φορές φυσικής επιδεξιότητας, και παρόλο που υπάρχουν παιχνίδια ρόλων για έναν παίκτη, συνήθως είναι παιχνίδια για πολλούς παίκτες. Τα παιχνίδια ρόλων υποστηρίζονται συνήθως από πολύπλοκα στατιστικά μοντέλα που παρέχουν βαθμολογίες για μια σειρά χαρακτηριστικών που καθορίζουν τις ικανότητες και τις αδυναμίες ενός χαρακτήρα.
+Στο πλαίσιο της μάθησης, τα παιχνίδια ρόλων είναι καλά για την παροχή ενός πλαισίου για την ανάπτυξη **δεξιοτήτων συνεργασίας**, **κοινωνικής αλληλεπίδρασης**, **διαπραγμάτευσης**, **διαχείρισης πολύπλοκων συστημάτων** (π.χ. στατιστικά στοιχεία χαρακτήρων), **στρατηγικής** και επεξεργασίας σεναρίων.
 
 ### Shooter
-Shooter games have the primary aim of using weapons (or sometimes spells and other special abilities) to defeat opponents, although the action is often embedded within a wider narrative context. They are generally played from a **first person** viewpoint (FPS First Person Shooter) and are played in real time. This is another genre in which **multi-player** games are common. Shooter games involve a combination of strategy and dexterity, exploring virtual worlds and defeating enemies and targets.
-Although this is one genre in which it may be argued that there is less applicability to learning in higher education, there are still many skills that can be acquired by playing such games including forward **planning**, **strategizing**, and **team working**.
+Τα παιχνίδια shooter έχουν ως πρωταρχικό στόχο τη χρήση όπλων (ή ενίοτε ξόρκια και άλλες ειδικές ικανότητες) για να νικήσουν τους αντιπάλους, αν και η δράση είναι συχνά ενταγμένη σε ένα ευρύτερο αφηγηματικό πλαίσιο. Γενικά παίζονται από την οπτική γωνία **πρώτου προσώπου** (FPS First Person Shooter) και παίζονται σε πραγματικό χρόνο. Αυτό είναι ένα άλλο είδος στο οποίο τα παιχνίδια **πολλαπλών παικτών** είναι συνηθισμένα. Τα παιχνίδια shooter περιλαμβάνουν ένα συνδυασμό στρατηγικής και επιδεξιότητας, εξερεύνηση εικονικών κόσμων και νίκη επί εχθρών και στόχων.
+Παρόλο που αυτό είναι ένα είδος στο οποίο μπορεί να υποστηριχθεί ότι υπάρχει λιγότερη εφαρμογή στη μάθηση στην τριτοβάθμια εκπαίδευση, εξακολουθούν να υπάρχουν πολλές δεξιότητες που μπορούν να αποκτηθούν παίζοντας τέτοια παιχνίδια, συμπεριλαμβανομένων του μελλοντικού **σχεδιασμού**, της **στρατηγικής** και της **ομαδικής εργασίας**.
 
-### Sports
-Sports games allow the player to simulate taking part in a sporting event or tournament. They are generally based on physical dexterity and interaction with the gaming interface, but in recent years innovations such as dance mats and consoles that use movement-sensitive devices (the most notable example being the Nintendo consoles) have enabled players to actually undertake physical activity while playing.
-Sporting games can be used to **practice** the actual skills of a sport (although in the majority of cases this will be a representation through whatever interaction device is available), **tactics**, **rules** and the ability to **think and make decisions quickly**.
+### Αθλητισμός
+Τα αθλητικά παιχνίδια επιτρέπουν στον παίκτη να προσομοιώσει τη συμμετοχή σε ένα αθλητικό γεγονός ή τουρνουά. Βασίζονται γενικά στη σωματική επιδεξιότητα και την αλληλεπίδραση με τη διεπαφή του παιχνιδιού, αλλά τα τελευταία χρόνια καινοτομίες όπως τα χαλιά χορού και οι κονσόλες που χρησιμοποιούν συσκευές με ευαισθησία στην κίνηση (το πιο αξιοσημείωτο παράδειγμα είναι οι κονσόλες της Nintendo) επέτρεψαν στους παίκτες να ασκούν πραγματικά σωματική δραστηριότητα ενώ παίζουν.
+Τα αθλητικά παιχνίδια μπορούν να χρησιμοποιηθούν για την **εξάσκηση** των πραγματικών δεξιοτήτων ενός αθλήματος (αν και στην πλειονότητα των περιπτώσεων πρόκειται για αναπαράσταση μέσω οποιασδήποτε διαθέσιμης συσκευής αλληλεπίδρασης), της **τακτικής**, των **κανόνων** και της ικανότητας **σκέψης και γρήγορης λήψης αποφάσεων**.
 
-### Strategy
-Strategy games involve the player making strategic decisions within a scenario in order to meet the goal of the game, which is usually completing a level or solving a particular problem. They can involve, for example, movements of armies, progression of a group through various stages of development, management of resources or creation of environments to achieve specific purposes. For example, the strategy game Age of Empires involves players progressing their empire through stages of civilization. Many strategy games also have elements of **simulation** built into them in terms of a complex underlying model of a virtual environment, but will tend to have clear goals.
-Strategy games can be used for teaching **planning**, **decision-making**, **testing hypotheses**, **strategic thinking**, **management skills** and **seeing the consequences** of actions taken.
+### Στρατηγική
+Στα παιχνίδια στρατηγικής ο παίκτης λαμβάνει στρατηγικές αποφάσεις εντός ενός σεναρίου προκειμένου να επιτύχει τον στόχο του παιχνιδιού, ο οποίος συνήθως είναι η ολοκλήρωση ενός επιπέδου ή η επίλυση ενός συγκεκριμένου προβλήματος. Μπορεί να περιλαμβάνουν, για παράδειγμα, μετακινήσεις στρατών, εξέλιξη μιας ομάδας σε διάφορα στάδια ανάπτυξης, διαχείριση πόρων ή δημιουργία περιβαλλόντων για την επίτευξη συγκεκριμένων σκοπών. Για παράδειγμα, το παιχνίδι στρατηγικής Age of Empires περιλαμβάνει τους παίκτες που εξελίσσουν την αυτοκρατορία τους μέσα από στάδια πολιτισμού. Πολλά παιχνίδια στρατηγικής έχουν επίσης ενσωματωμένα στοιχεία **προσομοίωσης** όσον αφορά ένα σύνθετο υποκείμενο μοντέλο ενός εικονικού περιβάλλοντος, αλλά τείνουν να έχουν σαφείς στόχους.
+Τα παιχνίδια στρατηγικής μπορούν να χρησιμοποιηθούν για τη διδασκαλία του **σχεδιασμού**, της **απόφασης**, της **δοκιμής υποθέσεων**, της **στρατηγικής σκέψης**, των **δεξιοτήτων διαχείρισης** και της **πρόβλεψης των συνεπειών** των ενεργειών που αναλαμβάνονται.
 
-### Casual games
-Another type of game (which isn’t really a genre in itself as there are many different types) that is currently growing in popularity is casual games. These games are usually downloaded from gaming sites rather than being available in shops and are cheaper than traditional entertainment games (or free to play online).
-Casual games are designed to be played in **short bursts** rather than for prolonged sessions so are **chunked into many small levels** that all follow the same pattern, so that they can be played for a few minutes at a time and easily stopped and restarted. These games cater for players who simply want to play a game for a short time and do not want to make any great commitment in terms of time or learning how to play. They have **simple game play** and comparatively low production values. The rise in the use of casual games shows a movement away from the typical ‘hardcore’ gamer to a wider demographic, particularly female and older players, which is more typical of the whole university student demographic, and casual games may be most appropriate for fitting into specific segments of teaching time.
+### Περιστασιακά παιχνίδια
+Ένα άλλο είδος παιχνιδιού (το οποίο δεν αποτελεί πραγματικά είδος από μόνο του, καθώς υπάρχουν πολλοί διαφορετικοί τύποι) που αυξάνει σήμερα τη δημοτικότητά του είναι τα περιστασιακά παιχνίδια. Αυτά τα παιχνίδια συνήθως κατεβαίνουν από ιστοσελίδες παιχνιδιών αντί να διατίθενται στα καταστήματα και είναι φθηνότερα από τα παραδοσιακά ψυχαγωγικά παιχνίδια (ή δωρεάν online).
+Τα περιστασιακά παιχνίδια έχουν σχεδιαστεί για να παίζονται σε **βραχείες στιγμές** και όχι για παρατεταμένες συνεδρίες, γι' αυτό και είναι **κομμάτια σε πολλά μικρά επίπεδα** που όλα ακολουθούν το ίδιο μοτίβο, έτσι ώστε να μπορούν να παίζονται για λίγα λεπτά κάθε φορά και να διακόπτονται και να ξαναρχίζουν εύκολα. Αυτά τα παιχνίδια απευθύνονται σε παίκτες που θέλουν απλώς να παίξουν ένα παιχνίδι για σύντομο χρονικό διάστημα και δεν θέλουν να δεσμευτούν ιδιαίτερα από άποψη χρόνου ή εκμάθησης του παιχνιδιού. Έχουν **απλό παιχνίδι** και συγκριτικά χαμηλή αξία παραγωγής. Η αύξηση της χρήσης περιστασιακών παιχνιδιών δείχνει μια μετακίνηση από τον τυπικό "σκληροπυρηνικό" παίκτη σε μια ευρύτερη δημογραφική ομάδα, ιδίως γυναίκες και παίκτες μεγαλύτερης ηλικίας, η οποία είναι πιο χαρακτηριστική για το σύνολο της δημογραφικής ομάδας των πανεπιστημιακών φοιτητών, και τα περιστασιακά παιχνίδια μπορεί να είναι πιο κατάλληλα για να ενταχθούν σε συγκεκριμένα τμήματα του διδακτικού χρόνου.
 
 ### Sandbox
-Games with freedom to do / build / create / wander as you like.
-Pure creativity.
+Παιχνίδια με την ελευθερία να κάνετε / χτίσετε / δημιουργήσετε / περιπλανηθείτε όπως θέλετε.
+Καθαρή δημιουργικότητα.
 
-## Video Game components
-### Hardware
-The physical components and electronic devices needed to play the game Software.
-The more common are:
-- PC - Personal Computer (can be Windows, MacOS, Linux)
-- Browser games (can be accessed by any devices with a standard web browser)
-- Console (Xbox/PlayStation/Nintendo Switch)
-- TV / Smart TV
-- Mobile Smartphones (Android or iOS)
-- Mobile Tablets (Android or iOS)
-- Handheld devices (Gameboy)
-- Wearables (smartwatches)
-- VR - Virtual Reality
-- AR - Augmented Reality
-- Metaverse - an online virtual immersive and social space.
+## Συστατικά βιντεοπαιχνιδιών
+### Υλικό
+Τα φυσικά εξαρτήματα και οι ηλεκτρονικές συσκευές που απαιτούνται για την αναπαραγωγή του παιχνιδιού Λογισμικό.
+Τα πιο συνηθισμένα είναι τα εξής:
 
-### Software
-All computer code and digital multimedia assets are stored and managed by the hardware to enable the interactive experience defined by the Game Design.
+- PC - Προσωπικός υπολογιστής (μπορεί να είναι Windows, MacOS, Linux).
+- Παιχνίδια περιήγησης (μπορούν να προσπελαστούν από οποιεσδήποτε συσκευές με τυπικό πρόγραμμα περιήγησης στο διαδίκτυο)
+- Κονσόλα (Xbox/PlayStation/Nintendo Switch)
+- Τηλεόραση / Έξυπνη τηλεόραση
+- Κινητά smartphones (Android ή iOS)
+- Κινητά tablet (Android ή iOS)
+- Φορητές συσκευές (Gameboy)
+- Φορητές συσκευές (έξυπνα ρολόγια)
+- VR - Εικονική πραγματικότητα
+- AR - Επαυξημένη πραγματικότητα
+- Metaverse - ένας διαδικτυακός εικονικός καθηλωτικός και κοινωνικός χώρος.
 
-The software can be acquired by:
-- from a physical box/card/disc
-- downloading it from Internet or from a local server
-- shared by storage devices
-- compiled from sources
+### Λογισμικό
+Όλος ο υπολογιστικός κώδικας και τα ψηφιακά περιουσιακά στοιχεία πολυμέσων αποθηκεύονται και διαχειρίζονται από το υλικό, ώστε να καταστεί δυνατή η διαδραστική εμπειρία που ορίζεται από τον σχεδιασμό του παιχνιδιού.
 
-The license to use it can be:
-- **commercial** (**personal**). usually it belongs to the buyer and can't be shared.
-- **commercial** (**group**): you buy a license to use it in a classroom / school / private group.
-- **subscription** / rent: you pay a monthly fee to use it
-- **free**: you download it for free or can play it online without paying anything
-- **freemium**: the game is free but has commercial advertising or you can buy additional options to have the complete game
-- **open source**: not only the game is free, but you have access to the software code, to improve /  modify it
+Το λογισμικό μπορεί να αποκτηθεί από:
 
-### Game Design
-- game mechanics
-- level design / progression
-- graphics / aestethics
-- environment / lore
-- sound / music
-- achievements
-- characters
-- story
-- customisation
-- purpose
-- social interactions
+- από ένα φυσικό κουτί/κάρτα/δίσκο
+- με λήψη από το Διαδίκτυο ή από τοπικό διακομιστή
+- από κοινόχρηστες συσκευές αποθήκευσης
+- με τη σύνταξη από πηγές
 
-## Where to play Video Games?
-Today VG can be played in any environment or life situation.
-- Indoor (home)
-- Outdoor (mobile games)
-- Classroom (with PC or mobile)
-- Online (wherever there is internet)
-- Offline (a standalone game that doesn't require internet)
+Η άδεια χρήσης μπορεί να είναι:
 
-# Good EVG
-> What makes a good educational video game good?
+- **εμπορική** (**προσωπική**). συνήθως ανήκει στον αγοραστή και δεν μπορεί να διαμοιραστεί.
+- **εμπορική** (**ομαδική**): αγοράζετε μια άδεια χρήσης για να το χρησιμοποιήσετε σε μια τάξη/σχολείο/ιδιωτική ομάδα.
+- **συνδρομή** / ενοικίαση: πληρώνετε ένα μηνιαίο τέλος για να το χρησιμοποιήσετε.
+- **δωρεάν**: το κατεβάζετε δωρεάν ή μπορείτε να το παίξετε online χωρίς να πληρώσετε τίποτα.
+- **freemium**: το παιχνίδι είναι δωρεάν αλλά έχει εμπορική διαφήμιση ή μπορείτε να αγοράσετε πρόσθετες επιλογές για να έχετε το πλήρες παιχνίδι.
+- **ανοικτού κώδικα**: όχι μόνο το παιχνίδι είναι δωρεάν, αλλά έχετε πρόσβαση στον κώδικα του λογισμικού, για να το βελτιώσετε/τροποποιήσετε.
 
-How good video game designers create games that manage to get new players to learn long, complex and difficult games?
-They build these games based on the good principles of learning that involve 3 main criteria, **Empowered Learners**, **Problem Solving** and **Understanding**. 
+### Σχεδιασμός παιχνιδιού
+- Μηχανική του παιχνιδιού
+- σχεδιασμός επιπέδων / εξέλιξη
+- γραφικά / αισθητική
+- περιβάλλον / ιστορία
+- ήχος / μουσική
+- Επιτεύγματα
+- χαρακτήρες
+- ιστορία
+- εξατομίκευση
+- σκοπός
+- κοινωνικές αλληλεπιδράσεις
 
-1. **Empowered Learners:** learners feel like active agents (producers) and not just passive recipients (consumers). It includes learning principles such as identity, customization, Manipulation and Distributed Knowledge.
+## Πού να παίξετε βιντεοπαιχνίδια;
+Σήμερα τα VG μπορούν να παιχτούν σε οποιοδήποτε περιβάλλον ή κατάσταση ζωής:
 
-2. **Problem-Solving:** good learning occurs through though-provoking challenges and problem that push the players creativity and forces them to use their building knowledge to solve problems. It includes principles such as Well-ordered problems, pleasantly frustrating principles, cycles of expertise, and just in Time and On-demand principles.
+- Σε εσωτερικούς χώρους (σπίτι)
+- Υπαίθρια (κινητά παιχνίδια)
+- Τάξη (με υπολογιστή ή κινητό)
+- Διαδικτυακά (όπου υπάρχει διαδίκτυο)
+- Offline (αυτόνομο παιχνίδι που δεν απαιτεί διαδίκτυο)
 
-3. **Understanding:** good learning is based on acquired systematic thinking and comprehension, which allows the learner to comprehend and understand every element of their content/problem. It includes system Thinking principle and meaning as action image principle.
+## Καλό EVG  
+> Τι κάνει ένα καλό εκπαιδευτικό βιντεοπαιχνίδι καλό;
 
-Good video games employ strategies that causes players to **exercise their learning muscles**, without knowing it and without having to pay overt attention to the matter.
+Πώς οι καλοί σχεδιαστές βιντεοπαιχνιδιών δημιουργούν παιχνίδια που καταφέρνουν να κάνουν νέους παίκτες να μάθουν μακρά, πολύπλοκα και δύσκολα παιχνίδια;
+Κατασκευάζουν αυτά τα παιχνίδια με βάση τις καλές αρχές της μάθησης που περιλαμβάνουν 3 βασικά κριτήρια, **Ενίσχυση των μαθητών**, **Λύση προβλημάτων** και **Κατανοητικότητα**. 
 
-Good educational video games excite human learning through **mind-provoking challenges** and hooks. Cognitive scientists identify good educational video games as games that are both fun as well as provide a good educational experience by **connecting to the student’s deeper appreciation for learning** and their own trajectory in life.
+1. **Ενισχυμένοι εκπαιδευόμενοι:** Οι εκπαιδευόμενοι αισθάνονται ως ενεργοί παράγοντες (παραγωγοί) και όχι απλώς παθητικοί δέκτες (καταναλωτές). Περιλαμβάνει αρχές μάθησης όπως η ταυτότητα, η προσαρμογή, ο χειρισμός και η κατανεμημένη γνώση.
 
-The three large criteria of a good educational game design if implemented in schools would necessitate significant changes in the structure and nature of formal schooling. Empowered Learners, Problem Solving and Understanding all entail important learning principles and features that the more they are present in the selected game, the stronger the game in delivering its content.
+2. **Επίλυση προβλημάτων:** η καλή μάθηση πραγματοποιείται μέσω προκλήσεων και προβλημάτων που προκαλούν τον προβληματισμό και ωθούν τη δημιουργικότητα των παικτών και τους αναγκάζουν να χρησιμοποιήσουν τις γνώσεις που έχουν οικοδομήσει για την επίλυση προβλημάτων. Περιλαμβάνει αρχές όπως: Καλά οργανωμένα προβλήματα, αρχές ευχάριστης απογοήτευσης, κύκλους τεχνογνωσίας και αρχές just in time και on-demand.
 
-_**So what are the learning principles that a good educational video game is built on?**_
+3. **Κατανόηση:** Η καλή μάθηση βασίζεται στην επίκτητη συστηματική σκέψη και κατανόηση, η οποία επιτρέπει στον μαθητή να κατανοήσει και να κατανοήσει κάθε στοιχείο του περιεχομένου/προβλήματος που τον απασχολεί. Περιλαμβάνει την αρχή της συστημικής Σκέψης και την αρχή του νοήματος ως εικόνα δράσης.
 
-> The first attribute of a good educational video game is **how engaging it is**? 
+Τα καλά βιντεοπαιχνίδια χρησιμοποιούν στρατηγικές που αναγκάζουν τους παίκτες να **ασκήσουν τους μυς της μάθησης**, χωρίς να το γνωρίζουν και χωρίς να χρειάζεται να δώσουν φανερή προσοχή στο θέμα.
 
-Engagement is a broad category that involves many properties in order to sustain it.
-Here is an outline of the learning principles of a good video educational video game.
+Τα καλά εκπαιδευτικά βιντεοπαιχνίδια διεγείρουν την ανθρώπινη μάθηση μέσω **προκλητικών για το μυαλό προκλήσεων** και αγκίστρων. Οι γνωστικοί επιστήμονες προσδιορίζουν τα καλά εκπαιδευτικά βιντεοπαιχνίδια ως παιχνίδια που είναι ταυτόχρονα διασκεδαστικά και παρέχουν μια καλή εκπαιδευτική εμπειρία με **σύνδεση με τη βαθύτερη εκτίμηση του μαθητή για τη μάθηση** και τη δική του πορεία στη ζωή.
 
-# What makes games so engaging?
+Τα τρία μεγάλα κριτήρια του σχεδιασμού ενός καλού εκπαιδευτικού παιχνιδιού, αν εφαρμοστούν στα σχολεία, θα απαιτούσαν σημαντικές αλλαγές στη δομή και τη φύση της επίσημης εκπαίδευσης. Η ενδυνάμωση των μαθητών, η επίλυση προβλημάτων και η κατανόηση συνεπάγονται όλες σημαντικές αρχές και χαρακτηριστικά μάθησης που όσο περισσότερο είναι παρόντα στο επιλεγμένο παιχνίδι, τόσο ισχυρότερο είναι το παιχνίδι στην παροχή του περιεχομένου του.
 
-## The surprising truth about learning, motivation and mastery
+_**Ποιες είναι λοιπόν οι μαθησιακές αρχές στις οποίες βασίζεται ένα καλό εκπαιδευτικό βιντεοπαιχνίδι; **_
 
-How do you grab people’s attention? What makes any experience truly engaging over time?
+> Το πρώτο χαρακτηριστικό ενός καλού εκπαιδευτικού βιντεοπαιχνιδιού είναι **το πόσο ελκυστικό είναι**; 
 
-We know that games **can** be deeply engaging — and that no single type of games holds the key. Stylistically, people seek out a wide variety of different experiences. Just look at today’s gaming landscape, from adrenaline-pumping shooters to candy-coated puzzlers to the creative freedom of Minecraft, one person’s beloved game is another’s worst nightmare.
+Η εμπλοκή είναι μια ευρεία κατηγορία που περιλαμβάνει πολλές ιδιότητες προκειμένου να διατηρηθεί.
+Ακολουθεί ένα περίγραμμα των μαθησιακών αρχών ενός καλού εκπαιδευτικού βιντεοπαιχνιδιού.
 
-> Beneath the surface, all great games have one thing in common: **progressive skill-building**. Games keep players engaged by helping them **get better at something meaningful**.
+## Η αναπάντεχη αλήθεια για τη μάθηση, τα κίνητρα και τη γνώση
 
-## Skill-Building, Challenge & Flow
+Πώς τραβάτε την προσοχή των ανθρώπων; Τι κάνει οποιαδήποτε εμπειρία πραγματικά ελκυστική με την πάροδο του χρόνου;
 
-It feels good to engage our brains, improve our skills, and make progress on a path towards mastery. Games, sports and education are particularly good at accomplishing this, but every teacher can learn to harness the underlying power of skill-building & challenges.
+Γνωρίζουμε ότι τα παιχνίδια **μπορούν** να είναι βαθιά ελκυστικά - και ότι κανένας τύπος παιχνιδιών δεν κατέχει το κλειδί. Από άποψη στυλ, οι άνθρωποι αναζητούν μια μεγάλη ποικιλία διαφορετικών εμπειριών. Κοιτάξτε μόνο το σημερινό τοπίο των παιχνιδιών, από τα shooters που ανεβάζουν την αδρεναλίνη μέχρι τα παζλ με την καραμελένια επικάλυψη και τη δημιουργική ελευθερία του Minecraft, το αγαπημένο παιχνίδι του ενός είναι ο χειρότερος εφιάλτης του άλλου.
 
-Structured activities - games, sports, office work - usually revolve around developing and using a **skill**. And if the **level of challenge** in the activity increases to match your newfound skill, you’ve got a setup for **flow** — the ultimate goal of every game and product designer.
+> Κάτω από την επιφάνεια, όλα τα σπουδαία παιχνίδια έχουν ένα κοινό: **προοδευτική ανάπτυξη δεξιοτήτων**. Τα παιχνίδια κρατούν τους παίκτες απασχολημένους βοηθώντας τους να **βγούν καλύτεροι σε κάτι ουσιαστικό**.
 
-### Setup the conditions for Flow
-![](../assets/img/flow_changes.jpg)
-Flow takes effort. Without learning, practice and challenge, there is no flow.
+## Ανάπτυξη δεξιοτήτων, πρόκληση και ροή
 
-At their core, games are pleasurable learning engines that deliver an experience that’s deeply, intrinsically motivating. Over time you absorb the rules, build your skills, tackle ever-greater challenges — and in the process, you’re transformed in some way that’s meaningful to YOU.
+Είναι ωραία αίσθηση να απασχολούμε το μυαλό μας, να βελτιώνουμε τις δεξιότητές μας και να προοδεύουμε σε μια πορεία προς την κυριαρχία. Τα παιχνίδια, ο αθλητισμός και η εκπαίδευση είναι ιδιαίτερα καλά στο να το πετυχαίνουν αυτό, αλλά κάθε εκπαιδευτικός μπορεί να μάθει να αξιοποιεί την υποβόσκουσα δύναμη της ανάπτυξης δεξιοτήτων & των προκλήσεων.
 
-### Forget Points — Think Character Transformation
+Οι δομημένες δραστηριότητες - παιχνίδια, αθλήματα, εργασία γραφείου - συνήθως περιστρέφονται γύρω από την ανάπτυξη και τη χρήση μιας **δεξιότητας**. Και αν το **επίπεδο της πρόκλησης** στη δραστηριότητα αυξάνεται ώστε να ταιριάζει με τη νεοαποκτηθείσα δεξιότητά σας, έχετε μια ρύθμιση για **ροή** - τον απώτερο στόχο κάθε σχεδιαστή παιχνιδιών και προϊόντων.
+
+### Ρύθμιση των συνθηκών για ροή
+![](../assets/img/flow_changes.jpg)  
+Η ροή απαιτεί προσπάθεια. Χωρίς μάθηση, εξάσκηση και πρόκληση, δεν υπάρχει ροή.
+
+Στον πυρήνα τους, τα παιχνίδια είναι ευχάριστες μηχανές μάθησης που προσφέρουν μια εμπειρία που είναι βαθιά, εγγενώς παρακινητική. Με την πάροδο του χρόνου απορροφάτε τους κανόνες, αναπτύσσετε τις δεξιότητές σας, αντιμετωπίζετε όλο και μεγαλύτερες προκλήσεις - και κατά τη διαδικασία, μεταμορφώνεστε με τρόπο που έχει νόημα για ΕΣΑΣ.
+
+### Ξεχάστε τα σημεία - Σκεφτείτε τον μετασχηματισμό του χαρακτήρα
 
 ![humanist_player](../assets/img/humanist_player.jpg)
 
-Just as character transformation is the backbone of great drama, **personal transformation is the backbone of great gameplay**.
-In games, *we* are the protagonist — the person with agency, facing a series of choices and challenges along a journey towards mastery. Progress metrics (points, badges, levels, leaderboards, reputation systems) are icing on this learning/mastery cake. These markers help you gauge where you stand, and how far you’ve come, but they’re meaningless as a stand-alone system without something to get better at, some skill to develop.
+Ακριβώς όπως ο μετασχηματισμός των χαρακτήρων είναι η ραχοκοκαλιά του μεγάλου δράματος, έτσι και ο **προσωπικός μετασχηματισμός είναι η ραχοκοκαλιά του μεγάλου παιχνιδιού**.
+Στα παιχνίδια, *εμείς* είμαστε ο πρωταγωνιστής - το άτομο με δράση, που αντιμετωπίζει μια σειρά επιλογών και προκλήσεων σε ένα ταξίδι προς την κυριαρχία. Οι μετρήσεις προόδου (πόντοι, σήματα, επίπεδα, πίνακες κατάταξης, συστήματα φήμης) είναι το κερασάκι στην τούρτα μάθησης/μάστερ. Αυτοί οι δείκτες σας βοηθούν να εκτιμήσετε πού βρίσκεστε και πόσο μακριά έχετε φτάσει, αλλά δεν έχουν νόημα ως αυτόνομο σύστημα χωρίς κάτι στο οποίο πρέπει να γίνετε καλύτεροι, χωρίς κάποια δεξιότητα που πρέπει να αναπτύξετε.
 
-That’s what makes games truly engaging. To make your learning sessions compelling in the long run, **forget points, think character transformation**, skill-building and empowering mastery.
+Αυτό είναι που κάνει τα παιχνίδια πραγματικά συναρπαστικά. Για να κάνετε τις περιόδους μάθησης συναρπαστικές μακροπρόθεσμα, **ξεχάστε τους πόντους, σκεφτείτε τη μεταμόρφωση του χαρακτήρα**, την ανάπτυξη δεξιοτήτων και την ενδυνάμωση της κυριαρχίας.
 
-## Support Intrinsic Pleasure with Extrinsic Scaffolding
+## Υποστηρίξτε την εγγενή ευχαρίστηση με την εξωγενή σκαλωσιά
 
-Trying to drive long-term engagement with extrinsic rewards is a fool’s errand. Status markers and variable reward schedules are not what makes an experience truly engaging.
+Το να προσπαθείτε να προωθήσετε τη μακροπρόθεσμη δέσμευση με εξωγενείς ανταμοιβές είναι ανόητο εγχείρημα. Οι δείκτες κατάστασης και τα μεταβλητά χρονοδιαγράμματα ανταμοιβής δεν είναι αυτό που κάνει μια εμπειρία πραγματικά ελκυστική.
 
 ![magic_circle](../assets/img/magic_circle.jpg)
 
-Games are built from systems and rules that engage you in a micro-world — a “magic circle” that’s shared by everyone playing the game. That’s the power and pleasure of a game — you get to take a mini-break from daily life, and spend time (together) in an alternate, simplified reality.
+Τα παιχνίδια χτίζονται από συστήματα και κανόνες που σας εμπλέκουν σε έναν μικρόκοσμο - έναν "μαγικό κύκλο" που μοιράζονται όλοι όσοι παίζουν το παιχνίδι. Αυτή είναι η δύναμη και η ευχαρίστηση ενός παιχνιδιού - μπορείτε να κάνετε ένα μίνι διάλειμμα από την καθημερινή ζωή και να περάσετε χρόνο (μαζί) σε μια εναλλακτική, απλουστευμένη πραγματικότητα.
 
-If metrics and rewards are your main event, you’ve got a shallow and/or manipulative product that won’t hold people’s interest over time .Well-crafted games are an artful blend of intrinsic pleasure and extrinsic scaffolding. Pleasurable activities are the beating heart; progress scaffolding (points, levels, badges, power-ups) serves to support and amplify the core activities.
+Αν οι μετρήσεις και οι ανταμοιβές είναι το κύριο γεγονός, έχετε ένα ρηχό ή/και χειριστικό προϊόν που δεν θα κρατήσει το ενδιαφέρον των ανθρώπων για μεγάλο χρονικό διάστημα. Οι ευχάριστες δραστηριότητες είναι η καρδιά που χτυπάει- η σκαλωσιά της προόδου (πόντοι, επίπεδα, κονκάρδες, power-ups) χρησιμεύει για να υποστηρίζει και να ενισχύει τις βασικές δραστηριότητες.
 
-> Well-crafted games are an artful blend of intrinsic pleasure and extrinsic scaffolding.
+> Τα καλοσχεδιασμένα παιχνίδια είναι ένα έντεχνο μείγμα εσωτερικής ευχαρίστησης και εξωγενών σκαλωσιμάτων.
 
-### Self-Determination Theory: the science of motivation
+### Θεωρία αυτοπροσδιορισμού: η επιστήμη των κινήτρων
 
-To create a truly compelling experience, tap into the trinity of Intrinsic Motivation: Autonomy, Mastery, and Purpose. This framework emerged during the 1970s as [Self-Determination Theory](http://en.wikipedia.org/wiki/Self-determination_theory) and was recently re-popularized in [Dan Pink’s ‘Drive’](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates-ebook/dp/B004P1JDJO/) for workplace motivation, and in [Rigby and Ryan’s ‘Glued to Games’](http://www.amazon.com/Glued-Games-Video-Spellbound-Directions-ebook/dp/B004NYAH66/) for explaining gaming motivations.
+Για να δημιουργήσετε μια πραγματικά συναρπαστική εμπειρία, αξιοποιήστε την τριάδα των εσωτερικών κινήτρων: Αυτονομία, Κυριαρχία και Σκοπός. Αυτό το πλαίσιο αναδύθηκε κατά τη δεκαετία του 1970 ως [Θεωρία του Αυτοπροσδιορισμού](http://en.wikipedia.org/wiki/Self-determination_theory) και πρόσφατα επαναχρησιμοποιήθηκε στο βιβλίο του [Dan Pink "Drive"](http://www.amazon.com/Drive-Surprising-Truth-About-Motivates-ebook/dp/B004P1JDJO/) για την παρακίνηση στο χώρο εργασίας και στο βιβλίο των [Rigby και Ryan "Glued to Games"](http://www.amazon.com/Glued-Games-Video-Spellbound-Directions-ebook/dp/B004NYAH66/) για την εξήγηση των κινήτρων των παιχνιδιών.
 
-### Extrinsic rewards can devalue pleasurable tasks
+### Οι εξωγενείς ανταμοιβές μπορούν να υποτιμήσουν τις ευχάριστες εργασίες
 
-This research shows us that extrinsic metrics and rewards can be effective at getting people to complete simple tasks — BUT these same rewards often backfire and lower effectiveness & motivation for creative or pleasurable tasks
+Αυτή η έρευνα μας δείχνει ότι οι εξωγενείς μετρήσεις και ανταμοιβές μπορούν να είναι αποτελεσματικές στο να κάνουν τους ανθρώπους να ολοκληρώσουν απλές εργασίες - ΑΛΛΑ αυτές οι ίδιες ανταμοιβές συχνά γυρίζουν μπούμερανγκ και μειώνουν την αποτελεσματικότητα & τα κίνητρα για δημιουργικές ή ευχάριστες εργασίες
 
-Why is this problematic for long-term engagement? Numerous studies show that extrinsic rewards can de-value otherwise pleasurable tasks like reading or drawing. For example, [this famous study](http://www.spring.org.uk/2009/10/how-rewards-can-backfire-and-reduce-motivation.php) took kids who loved reading and rewarded them extrinsically with points and money for reading. Guess what? The kids completely stopped reading for pleasure.
+Γιατί αυτό είναι προβληματικό για τη μακροπρόθεσμη δέσμευση; Πολυάριθμες μελέτες δείχνουν ότι οι εξωγενείς ανταμοιβές μπορούν να υποτιμήσουν τις κατά τα άλλα ευχάριστες εργασίες, όπως το διάβασμα ή η ζωγραφική. Για παράδειγμα, [αυτή η διάσημη μελέτη](http://www.spring.org.uk/2009/10/how-rewards-can-backfire-and-reduce-motivation.php) πήρε παιδιά που αγαπούσαν το διάβασμα και τα επιβράβευσε εξωγενώς με πόντους και χρήματα για το διάβασμα. Μαντέψτε τι; Τα παιδιά σταμάτησαν εντελώς να διαβάζουν για ευχαρίστηση.
 
-So what’s the solution? As much as you can, design your feedback & rewards system around these three core principles of intrinsic motivations.
+Ποια είναι λοιπόν η λύση; Σχεδιάστε, όσο μπορείτε, το σύστημα ανατροφοδότησης και ανταμοιβής σας γύρω από αυτές τις τρεις βασικές αρχές των εσωτερικών κινήτρων.
 
-### Autonomy: Self-Determination & Meaningful Choice
+### Αυτονομία: Αυτοκαθορισμός & ουσιαστική επιλογή
 
-![autonomy](../assets/img/autonomy.jpg)
-Autonomy is the feeling of controlling your own destiny. In a game, app or service, this boils down to how and when you offer choices.
+![αυτονομία](../assets/img/autonomy.jpg)
+Η αυτονομία είναι το αίσθημα του ελέγχου της δικής σας μοίρας. Σε ένα παιχνίδι, μια εφαρμογή ή μια υπηρεσία, αυτό καταλήγει στο πώς και πότε προσφέρετε επιλογές.
 
-Great games offer meaningful choices with interesting constraints. Think of Settlers of Catan, World of Warcraft, Minecraft, even Kickstarter — all systems that can be explored and mastered by following your interests and making a series of increasingly interesting choices.
+Τα σπουδαία παιχνίδια προσφέρουν ουσιαστικές επιλογές με ενδιαφέροντες περιορισμούς. Σκεφτείτε τους Οικιστές του Catan, το World of Warcraft, το Minecraft, ακόμη και το Kickstarter - όλα συστήματα που μπορούν να εξερευνηθούν και να κατακτηθούν ακολουθώντας τα ενδιαφέροντά σας και κάνοντας μια σειρά από όλο και πιο ενδιαφέρουσες επιλογές.
 
-### Mastery: Skill-building, feedback & challenge
+### Mastery: Ανάπτυξη δεξιοτήτων, ανατροφοδότηση και πρόκληση
 
 ![mastery](../assets/img/mastery.jpg)
 
-Mastery taps into the feeling of getting better at something. Games offer the player a set of actions and choices within a constrained, rule-based environment.
+Η μαεστρία αξιοποιεί το αίσθημα του να γίνεσαι καλύτερος σε κάτι. Τα παιχνίδια προσφέρουν στον παίκτη ένα σύνολο ενεργειών και επιλογών μέσα σε ένα περιορισμένο, βασισμένο σε κανόνες περιβάλλον.
 
-In a great game, mastering the ruleset is deeply pleasurable. The lack of anything to master is often why simple gamification fails. Points, badges, and leaderboards aren’t compelling unless you’re improving along some personally meaningful dimension.
+Σε ένα σπουδαίο παιχνίδι, η κατάκτηση του συνόλου των κανόνων είναι βαθιά ευχάριστη. Η έλλειψη κάποιου παιχνιδιού που πρέπει να κατακτηθεί είναι συχνά ο λόγος για τον οποίο η απλή παιχνιδοποίηση αποτυγχάνει. Οι πόντοι, τα σήματα και οι πίνακες κατάταξης δεν είναι συναρπαστικά, εκτός αν βελτιώνεστε σε κάποια διάσταση με προσωπικό νόημα.
 
-### Purpose: connect w/something greater than yourself
+### Σκοπός: σύνδεση με κάτι μεγαλύτερο από τον εαυτό σας
 
 ![purpouse](../assets/img/purpouse.jpg)
 
-Purpose is all about connectedness and relatedness — with other people, with a shared cause , with something bigger than yourself. And
+Ο σκοπός έχει να κάνει με τη σύνδεση και τη συγγένεια - με άλλους ανθρώπους, με έναν κοινό σκοπό , με κάτι μεγαλύτερο από τον εαυτό σας. Και
 
-numerous studies have shown that people who cultivate meaningful relationships report higher levels of happiness.
+πολυάριθμες μελέτες έχουν δείξει ότι οι άνθρωποι που καλλιεργούν ουσιαστικές σχέσεις αναφέρουν υψηλότερα επίπεδα ευτυχίας.
 
-Purpose is often best communicated through storytelling. Here’s the thing: the **most powerful story is happening inside your customer’s head** — the personal narrative of how engaging with your product transforms her into someone better, stronger, more powerful, more skillful, more connected to the issues and people she cares about.
+Ο σκοπός συχνά επικοινωνείται καλύτερα μέσω της αφήγησης ιστοριών. Ακούστε το εξής: η **πιο ισχυρή ιστορία συμβαίνει μέσα στο κεφάλι του πελάτη σας** - η προσωπική αφήγηση για το πώς η ενασχόληση με το προϊόν σας τη μεταμορφώνει σε κάποιον καλύτερο, ισχυρότερο, ισχυρότερο, πιο επιδέξιο, πιο συνδεδεμένο με τα θέματα και τους ανθρώπους για τους οποίους νοιάζεται.
 
-## Intrinsic Motivation
+## Εσωτερικά κίνητρα
 
-> **Intrinsic motivation** is when you are motivated by personal satisfaction or enjoyment instead of external factors like reward or punishment. There are ways to make tasks more intrinsically motivating.
+> **Εσωτερική παρακίνηση** είναι όταν παρακινείστε από προσωπική ικανοποίηση ή απόλαυση αντί για εξωτερικούς παράγοντες όπως η ανταμοιβή ή η τιμωρία. Υπάρχουν τρόποι για να γίνουν οι εργασίες πιο εσωτερικά παρακινητικές.
 
-Intrinsic motivation is the act of doing something without any obvious external rewards. You do it because it’s enjoyable and interesting, rather than because of an outside incentive or pressure to do it, such as a reward or deadline.
+Η εσωτερική παρακίνηση είναι η πράξη του να κάνεις κάτι χωρίς προφανείς εξωτερικές ανταμοιβές. Το κάνετε επειδή είναι ευχάριστο και ενδιαφέρον και όχι λόγω ενός εξωτερικού κινήτρου ή πίεσης για να το κάνετε, όπως μια ανταμοιβή ή μια προθεσμία.
 
-An example of intrinsic motivation would be reading a book because you enjoy reading and have an interest in the story or subject, rather than reading because you have to write a report on it to pass a class.
+Ένα παράδειγμα εσωτερικής παρακίνησης θα ήταν να διαβάζετε ένα βιβλίο επειδή σας αρέσει να διαβάζετε και σας ενδιαφέρει η ιστορία ή το θέμα, παρά να διαβάζετε επειδή πρέπει να γράψετε μια έκθεση για να περάσετε ένα μάθημα.
 
-### Intrinsic motivation theory
+### Θεωρία των εσωτερικών κινήτρων
 
-There have been a number of different proposed theories to explain intrinsic motivation and how it works. Some experts believe that all behavior is driven by external reward, such as money, status, or food. In intrinsically motivated behaviors, the reward is the activity itself.
+Έχουν προταθεί πολλές διαφορετικές θεωρίες για να εξηγήσουν τα εσωτερικά κίνητρα και τον τρόπο λειτουργίας τους. Ορισμένοι ειδικοί πιστεύουν ότι κάθε συμπεριφορά καθοδηγείται από την εξωτερική ανταμοιβή, όπως τα χρήματα, το κύρος ή το φαγητό. Στις συμπεριφορές με εσωτερικά κίνητρα, η ανταμοιβή είναι η ίδια η δραστηριότητα.
 
-The most recognized theory of intrinsic motivation was first based on people’s needs and drives. Hunger, thirst, and sex are biological needs that we’re driven to pursue in order to live and be healthy.
+Η πιο αναγνωρισμένη θεωρία της εσωτερικής παρακίνησης βασίστηκε αρχικά στις ανάγκες και τις ορμές των ανθρώπων. Η πείνα, η δίψα και το σεξ είναι βιολογικές ανάγκες τις οποίες οδηγούμαστε να επιδιώκουμε προκειμένου να ζήσουμε και να είμαστε υγιείς.
 
-Just like these biological needs, people also have psychological needs that must be satisfied in order to develop and thrive. These include the need for competence, autonomy, and relatedness.
+Όπως ακριβώς αυτές οι βιολογικές ανάγκες, έτσι και οι άνθρωποι έχουν ψυχολογικές ανάγκες που πρέπει να ικανοποιηθούν προκειμένου να αναπτυχθούν και να ευδοκιμήσουν. Αυτές περιλαμβάνουν την ανάγκη για ικανότητα, αυτονομία και συγγένεια.
 
-Along with satisfying these underlying psychological needs, intrinsic motivation also involves seeking out and engaging in activities that we find challenging, interesting, and internally rewarding without the prospect of any external reward.
+Μαζί με την ικανοποίηση αυτών των υποκείμενων ψυχολογικών αναγκών, η εσωτερική παρακίνηση περιλαμβάνει επίσης την αναζήτηση και εμπλοκή σε δραστηριότητες που θεωρούμε προκλητικές, ενδιαφέρουσες και εσωτερικά ανταμείβοντας χωρίς την προοπτική εξωτερικής ανταμοιβής.
 
-📽 #VIDEO [# The puzzle of motivation | Dan Pink](https://youtu.be/rrkrvAUbU9Y)
+📽 #VIDEO [# Το παζλ της παρακίνησης | Dan Pink](https://youtu.be/rrkrvAUbU9Y)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/rrkrvAUbU9Y"></iframe>
 
-### Intrinsic motivation vs. extrinsic motivation
+### Ενδογενή κίνητρα έναντι εξωγενών κινήτρων
 
-**Intrinsic motivation comes from within, while extrinsic motivation arises from outside**. When you’re intrinsically motivated, you engage in an activity solely because you enjoy it and get personal satisfaction from it.
+**Τα εσωτερικά κίνητρα προέρχονται από το εσωτερικό, ενώ τα εξωτερικά κίνητρα προκύπτουν από το εξωτερικό**. Όταν έχετε εσωτερικά κίνητρα, ασχολείστε με μια δραστηριότητα αποκλειστικά και μόνο επειδή σας αρέσει και παίρνετε προσωπική ικανοποίηση από αυτήν.
 
-When you’re extrinsically motivated, you do something in order to gain an external reward. This can mean getting something in return, such as money, or avoiding getting into trouble, such as losing your job.
+Όταν έχετε εξωγενή κίνητρα, κάνετε κάτι προκειμένου να κερδίσετε μια εξωτερική ανταμοιβή. Αυτό μπορεί να σημαίνει ότι παίρνετε κάτι σε αντάλλαγμα, όπως χρήματα, ή ότι αποφεύγετε να μπείτε σε μπελάδες, όπως να χάσετε τη δουλειά σας.
 
-|   | Motivation | Goals |
+| | Κίνητρα | Στόχοι |
 |---|---|---|
-|Intrinsic|You do the activity because it’s internally rewarding. You may do it because it’s fun, enjoyable, and satisfying.|Goals come from within and the outcomes satisfy your basic psychological needs for autonomy, competence, and relatedness.|
-|Extrinsic|You do the activity in order to get an external reward in return.	Goals are focused on an outcome and don’t satisfy your basic psychological needs.|Goals involve external gains, such as money, fame, power, or avoiding consequences.|
+|Εσωτερική | Κάνετε τη δραστηριότητα επειδή είναι εσωτερικά ανταμείβοντας. Μπορεί να την κάνετε επειδή είναι διασκεδαστική, ευχάριστη και ικανοποιητική.|Οι στόχοι προέρχονται από μέσα σας και τα αποτελέσματα ικανοποιούν τις βασικές ψυχολογικές σας ανάγκες για αυτονομία, ικανότητα και σχέση.|
+|Εξωτερική | Κάνετε τη δραστηριότητα για να λάβετε ως αντάλλαγμα μια εξωτερική ανταμοιβή. Οι στόχοι επικεντρώνονται σε ένα αποτέλεσμα και δεν ικανοποιούν τις βασικές ψυχολογικές σας ανάγκες.|Οι στόχοι περιλαμβάνουν εξωτερικά οφέλη, όπως χρήματα, φήμη, δύναμη ή αποφυγή συνεπειών.|
 
-### Intrinsic motivation examples
+### Παραδείγματα εσωτερικής παρακίνησης
 
-You’ve likely experienced examples of intrinsic motivation throughout your entire life without giving it much thought.
+Πιθανότατα έχετε βιώσει παραδείγματα εσωτερικής παρακίνησης σε όλη σας τη ζωή χωρίς να το έχετε σκεφτεί ιδιαίτερα.
 
-Some examples of intrinsic motivation are:
+Μερικά παραδείγματα ενδογενών κινήτρων είναι τα εξής:
 
-- participating in a sport because it’s fun and you enjoy it rather than doing it to win an award
-- learning a new language because you like experiencing new things, not because your job requires it
-- spending time with someone because you enjoy their company and not because they can further your social standing
-- cleaning because you enjoy a tidy space rather than doing it to avoid making your spouse angry
-- playing cards because you enjoy the challenge instead of playing to win money
-- exercising because you enjoy physically challenging your body instead of doing it to lose weight or fit into an outfit
-- volunteering because you feel content and fulfilled rather than needing it to meet a school or work requirement
-- going for a run because you find it relaxing or are trying to beat a personal record, not to win a competition
-- taking on more responsibility at work because you enjoy being challenged and feeling accomplished, rather than to get a raise or promotion
-- painting a picture because you feel calm and happy when you paint rather than selling your art to make money
+- να συμμετέχετε σε ένα άθλημα επειδή είναι διασκεδαστικό και το απολαμβάνετε και όχι επειδή το κάνετε για να κερδίσετε ένα βραβείο
+- εκμάθηση μιας νέας γλώσσας επειδή σας αρέσει να βιώνετε νέα πράγματα και όχι επειδή το απαιτεί η δουλειά σας
+- να περνάτε χρόνο με κάποιον επειδή απολαμβάνετε την παρέα του και όχι επειδή μπορεί να προωθήσει την κοινωνική σας θέση
+- να καθαρίζετε επειδή απολαμβάνετε έναν τακτοποιημένο χώρο και όχι επειδή το κάνετε για να μην θυμώσετε τον σύζυγό σας
+- παίζετε χαρτιά επειδή σας αρέσει η πρόκληση αντί να παίζετε για να κερδίσετε χρήματα
+- να γυμνάζεστε επειδή απολαμβάνετε τη σωματική πρόκληση για το σώμα σας αντί να το κάνετε για να χάσετε βάρος ή να χωρέσετε σε ένα ρούχο
+- προσφέρετε εθελοντική εργασία επειδή αισθάνεστε ικανοποιημένοι και ικανοποιημένοι αντί να το χρειάζεστε για να ικανοποιήσετε μια σχολική ή εργασιακή απαίτηση
+- πηγαίνετε για τρέξιμο επειδή το βρίσκετε χαλαρωτικό ή προσπαθείτε να καταρρίψετε ένα προσωπικό ρεκόρ, όχι για να κερδίσετε έναν διαγωνισμό
+- να αναλάβετε περισσότερες ευθύνες στη δουλειά σας επειδή σας αρέσει να σας προκαλούν και να νιώθετε ότι έχετε καταφέρει κάτι, παρά για να πάρετε αύξηση ή προαγωγή
+- ζωγραφίζετε έναν πίνακα επειδή νιώθετε ήρεμοι και ευτυχισμένοι όταν ζωγραφίζετε και όχι επειδή πουλάτε την τέχνη σας για να βγάλετε χρήματα
 
-### Intrinsic motivation factors
+### Παράγοντες εσωτερικής παρακίνησης
 
-Everyone’s different and that includes what motivates us and our perspectives of rewards. Some people are more intrinsically motivated by a task while another person sees the same activity extrinsically.
+Ο καθένας είναι διαφορετικός και αυτό περιλαμβάνει το τι μας παρακινεί και τις προοπτικές μας για τις ανταμοιβές. Ορισμένοι άνθρωποι παρακινούνται περισσότερο από μια εργασία με εσωτερικό κίνητρο, ενώ ένα άλλο άτομο βλέπει την ίδια δραστηριότητα εξωγενώς.
 
-Both can be effective, but research suggests that extrinsic rewards should be used sparingly because of the overjustification effect. Extrinsic rewards can undermine intrinsic motivation when used in certain situations or used too often. The rewards may lose their value when you reward behavior that was already intrinsically motivating. Some people also perceive extrinsic reinforcement as coercion or bribery.
+Και τα δύο μπορεί να είναι αποτελεσματικά, αλλά η έρευνα δείχνει ότι οι εξωγενείς ανταμοιβές πρέπει να χρησιμοποιούνται με φειδώ λόγω του φαινομένου της υπερδικαιοποίησης. Οι εξωγενείς ανταμοιβές μπορούν να υπονομεύσουν την εσωτερική παρακίνηση όταν χρησιμοποιούνται σε ορισμένες καταστάσεις ή όταν χρησιμοποιούνται πολύ συχνά. Οι ανταμοιβές μπορεί να χάσουν την αξία τους όταν ανταμείβετε συμπεριφορά που ήταν ήδη εγγενώς παρακινητική. Ορισμένοι άνθρωποι αντιλαμβάνονται επίσης την εξωγενή ενίσχυση ως εξαναγκασμό ή δωροδοκία.
 
-The overjustification effect has inspired an entire field of study that focuses on students and how to help them reach their full potential. Though experts are divided on whether extrinsic rewards have a beneficial or negative effect on intrinsic motivation, a recent study showed that rewards may actually encourage intrinsic motivation when given early in a task.
+Το φαινόμενο της υπερπροσδιορισμού έχει εμπνεύσει ένα ολόκληρο πεδίο μελέτης που επικεντρώνεται στους μαθητές και στο πώς να τους βοηθήσουμε να αξιοποιήσουν πλήρως τις δυνατότητές τους. Αν και οι ειδικοί διχάζονται σχετικά με το αν οι εξωγενείς ανταμοιβές έχουν ευεργετική ή αρνητική επίδραση στην εσωτερική παρακίνηση, μια πρόσφατη μελέτη έδειξε ότι οι ανταμοιβές μπορεί στην πραγματικότητα να ενθαρρύνουν την εσωτερική παρακίνηση όταν δίνονται νωρίς σε μια εργασία.
 
-Researchers examined how reward timing influenced intrinsic motivation. They found that giving an immediate bonus for working on a task, rather than waiting until the task was completed, increased interest and enjoyment in it. Getting an earlier bonus increased motivation and persistence in the activity that continued even after the award was removed.
+Οι ερευνητές εξέτασαν τον τρόπο με τον οποίο η χρονική στιγμή της ανταμοιβής επηρέασε τα εσωτερικά κίνητρα. Διαπίστωσαν ότι το να δίνεται ένα άμεσο μπόνους για την εργασία σε μια εργασία, αντί να περιμένουν μέχρι να ολοκληρωθεί η εργασία, αύξησε το ενδιαφέρον και την ευχαρίστηση σε αυτήν. Το να πάρει κανείς νωρίτερα ένα μπόνους αύξησε τα κίνητρα και την επιμονή στη δραστηριότητα που συνεχίστηκε ακόμη και μετά την αφαίρεση του βραβείου.
 
-Understanding the factors that promote intrinsic motivation can help you see how it works and why it can be beneficial. These factors include:
+Η κατανόηση των παραγόντων που προάγουν την εσωτερική παρακίνηση μπορεί να σας βοηθήσει να δείτε πώς λειτουργεί και γιατί μπορεί να είναι ευεργετική. Αυτοί οι παράγοντες περιλαμβάνουν:
 
-- **Curiosity**. Curiosity pushes us to explore and learn for the sole pleasure of learning and mastering.
-- **Challenge**. Being challenged helps us work at a continuously optimal level work toward meaningful goals.
-- **Control**. This comes from our basic desire to control what happens and make decisions that affect the outcome.
-- **Recognition**. We have an innate need to be appreciated and satisfaction when our efforts are recognized and appreciated by others.
-- **Cooperation**. Cooperating with others satisfies our need for belonging. We also feel personal satisfaction when we help others and work together to achieve a shared goal.
-- **Competition**. Competition poses a challenge and increases the importance we place on doing well.
-- **Fantasy**. Fantasy involves using mental or virtual images to stimulate your behavior. An example is a virtual game that requires you to answer a question or solve a problem to move to the next level. Some motivation apps use a similar approach.
+- **Περιέργεια**. Η περιέργεια μας ωθεί να εξερευνούμε και να μαθαίνουμε μόνο και μόνο για την ευχαρίστηση της μάθησης και της κατάκτησης.
+- **Πρόκληση**. Η πρόκληση μας βοηθά να εργαζόμαστε σε ένα συνεχώς βέλτιστο επίπεδο να εργαζόμαστε προς την επίτευξη ουσιαστικών στόχων.
+- **Έλεγχος**. Αυτό προέρχεται από τη βασική μας επιθυμία να ελέγχουμε τι συμβαίνει και να παίρνουμε αποφάσεις που επηρεάζουν το αποτέλεσμα.
+- **Αναγνώριση**. Έχουμε μια έμφυτη ανάγκη να μας εκτιμούν και να νιώθουμε ικανοποίηση όταν οι προσπάθειές μας αναγνωρίζονται και εκτιμώνται από τους άλλους.
+- **Συνεργασία**. Η συνεργασία με τους άλλους ικανοποιεί την ανάγκη μας για ένταξη. Νιώθουμε επίσης προσωπική ικανοποίηση όταν βοηθάμε τους άλλους και συνεργαζόμαστε για την επίτευξη ενός κοινού στόχου.
+- **Ανταγωνισμός**. Ο ανταγωνισμός αποτελεί πρόκληση και αυξάνει τη σημασία που δίνουμε στο να τα πάμε καλά.
+- **Φαντασία**. Η φαντασία περιλαμβάνει τη χρήση νοητικών ή εικονικών εικόνων για την τόνωση της συμπεριφοράς σας. Ένα παράδειγμα είναι ένα εικονικό παιχνίδι που απαιτεί να απαντήσετε σε μια ερώτηση ή να λύσετε ένα πρόβλημα για να προχωρήσετε στο επόμενο επίπεδο. Ορισμένες εφαρμογές παρακίνησης χρησιμοποιούν μια παρόμοια προσέγγιση.
 
+## Παιχνιδοποίηση
 
-# Gamification
+Η μάθηση με βάση το παιχνίδι δεν πρέπει να συγχέεται με την παιχνιδοποίηση.
 
-Game-based learning should not be confused with gamification.
+Το **DGBL** προσφέρει μια λεπτή ισορροπία μεταξύ μαθημάτων στην τάξη και εκπαιδευτικού παιχνιδιού. Οι εκπαιδευτικοί εισάγουν τους μαθητές σε νέες έννοιες και τους δείχνουν πώς λειτουργούν. Στη συνέχεια, οι μαθητές εξασκούνται σε αυτές τις έννοιες μέσω ψηφιακών παιχνιδιών.
 
-**DGBL** offers a delicate balance between in-class lessons and educational gameplay. Teachers introduce students to new concepts and show them how they work. Then students practise these concepts through digital games.
+Η **Επαιγµατοποίηση** περιλαµβάνει τη λήψη στοιχείων από παιχνίδια -όπως µηχανισµοί παιχνιδιών, πίνακες κατάταξης, επίπεδα ή πόντοι- και την εφαρµογή τους σε πλαίσια εκτός παιχνιδιών για την καλύτερη εµπλοκή των χρηστών. Ο σκοπός αυτού είναι να γίνουν τα μαθήματα που μπορεί να μην είναι ευχάριστα πιο ελκυστικά για τους μαθητές.
 
-**Gamification** involves taking elements from games -- such as game mechanics, leaderboards, levels, or points --  and applying them to non-game contexts to engage users better. The purpose of this is to make lessons that might not be enjoyable more engaging for students.
+Μερικά παραδείγματα μηχανισμών παιχνιδιών που χρησιμοποιούνται στην παιχνιδοποίηση είναι:  
 
-Some examples of game mechanics used in gamification are:
-- **Goals** - Complete the task and get a reward, such as a **badge** or points.
-- **Status** - Users increase their level or rank through completing activities. **Leaderboards** show who is ‘winning’ and inspire users to work harder to compete.
-- **Community** - Users are paired or put in groups to solve problems, complete activities, or otherwise achieve an objective.
-- **Education** - Tips, tricks and quizzes are given to the user throughout the process.
-- **Rewards** - As mentioned above, points and badges are common, and useful, rewards. Other rewards could be discounts, coupons, or gift cards. This fuels the user’s motivation and keeps engagement high.
+- **Στόχοι** - Ολοκληρώστε την εργασία και λάβετε μια ανταμοιβή, όπως ένα **σημάδι** ή πόντους.
+- **Status** - Οι χρήστες αυξάνουν το επίπεδο ή την κατάταξή τους μέσω της ολοκλήρωσης δραστηριοτήτων.
+- **Πίνακες ηγεσίας** δείχνουν ποιος "κερδίζει" και εμπνέουν τους χρήστες να εργαστούν σκληρότερα για να ανταγωνιστούν.
+- **Κοινότητα** - Οι χρήστες συνδέονται σε ζευγάρια ή σε ομάδες για να λύσουν προβλήματα, να ολοκληρώσουν δραστηριότητες ή να επιτύχουν με άλλο τρόπο έναν στόχο.
+- **Εκπαίδευση** - Συμβουλές, κόλπα και κουίζ δίνονται στο χρήστη καθ' όλη τη διάρκεια της διαδικασίας.
+- **Αμοιβές** - Όπως αναφέρθηκε παραπάνω, οι πόντοι και τα σήματα είναι κοινές και χρήσιμες ανταμοιβές. Άλλες ανταμοιβές θα μπορούσαν να είναι εκπτώσεις, κουπόνια ή δωροκάρτες. Αυτό τροφοδοτεί το κίνητρο του χρήστη και διατηρεί τη δέσμευση σε υψηλά επίπεδα.
 
-Gamification takes an element of education and replaces it with a game-based element. For instance, a teacher may replace grades with levels or experience points.
+Η παιχνιδοποίηση παίρνει ένα στοιχείο της εκπαίδευσης και το αντικαθιστά με ένα στοιχείο που βασίζεται στο παιχνίδι. Για παράδειγμα, ένας δάσκαλος μπορεί να αντικαταστήσει τους βαθμούς με επίπεδα ή πόντους εμπειρίας.
 
-Proponents of gamification often cite research demonstrating the positive impacts of these interventions on outcomes such as academic performance, student motivation, customer retention, organizational productivity, or user engagement in online platforms. 
+Οι υποστηρικτές της παιχνιδοποίησης συχνά επικαλούνται έρευνες που αποδεικνύουν τις θετικές επιπτώσεις αυτών των παρεμβάσεων σε αποτελέσματα όπως η ακαδημαϊκή επίδοση, τα κίνητρα των μαθητών, η διατήρηση πελατών, η παραγωγικότητα των οργανισμών ή η δέσμευση των χρηστών σε διαδικτυακές πλατφόρμες. 
 
-# The Flow state
-The Flow state in an experience as the equilibrium point between challenge and ability. If the challenge is quite higher than the ability the result will be the person getting frustrated and with the feeling of anxiety, on the other hand if the person’s skill is higher than the challenge presented he will experience boredom.
-Games should be designed and calibrated the ensure that the player maximises its staying within the *flow channel*
+## Η κατάσταση ροής
+Η κατάσταση ροής σε μια εμπειρία ως το σημείο ισορροπίας μεταξύ της πρόκλησης και της ικανότητας. Εάν η πρόκληση είναι αρκετά υψηλότερη από την ικανότητα το αποτέλεσμα θα είναι το άτομο να απογοητευτεί και με το αίσθημα του άγχους, από την άλλη πλευρά εάν η ικανότητα του ατόμου είναι υψηλότερη από την πρόκληση που παρουσιάζεται θα βιώσει πλήξη.
+Τα παιχνίδια πρέπει να σχεδιάζονται και να βαθμονομούνται έτσι ώστε να διασφαλίζεται ότι ο παίκτης μεγιστοποιεί την παραμονή του στο *κανάλι ροής*.
 
 ![](../assets/img/flow-1.png)
 
 
-# Games selection
+## Επιλογή παιχνιδιών
 
-After we have established the definition of game-based learning, its basis, and how its implementation enhances several social and cognitive skills, the question now diverts to **how we can select an educational video game that elicit engagement and motivation as well as ensure that it is designed with the intended educational content**.
-There are many educational video games available for class implementation, however, many are redundant, easy or stimulatingly boring that students are just not as interested or motivated to play.
-In this unit, we will discuss the characteristics of a good educational video game, its attributes, and how educators can ensure that they are providing their students with the best quality of learning through the selected video game.
+Αφού καθορίσαμε τον ορισμό της μάθησης με βάση το παιχνίδι, τη βάση της και τον τρόπο με τον οποίο η εφαρμογή της ενισχύει διάφορες κοινωνικές και γνωστικές δεξιότητες, το ερώτημα τώρα εκτρέπεται στο **πώς μπορούμε να επιλέξουμε ένα εκπαιδευτικό βιντεοπαιχνίδι που να προκαλεί εμπλοκή και κίνητρα καθώς και να διασφαλίζει ότι είναι σχεδιασμένο με το επιδιωκόμενο εκπαιδευτικό περιεχόμενο**.
+Υπάρχουν πολλά εκπαιδευτικά βιντεοπαιχνίδια διαθέσιμα για εφαρμογή στην τάξη, ωστόσο, πολλά από αυτά είναι περιττά, εύκολα ή διεγερτικά βαρετά που οι μαθητές απλά δεν ενδιαφέρονται και δεν έχουν κίνητρο να παίξουν.
+Σε αυτή την ενότητα, θα συζητήσουμε τα χαρακτηριστικά ενός καλού εκπαιδευτικού βιντεοπαιχνιδιού, τις ιδιότητές του και πώς οι εκπαιδευτικοί μπορούν να διασφαλίσουν ότι παρέχουν στους μαθητές τους την καλύτερη ποιότητα μάθησης μέσω του επιλεγμένου βιντεοπαιχνιδιού.
 
-# Where to find EVG
-When choosing an EVG we have several options where to look. We could:
+## Πού θα βρείτε το EVG
+Όταν επιλέγουμε ένα EVG έχουμε αρκετές επιλογές για το πού μπορούμε να ψάξουμε. Θα μπορούσαμε:
 
-- Use entertainment/**commercial off-the-shelf** (COTS) games. These games are already in the stores and could have additional or not explicit educational content (Assassin's Creed / Civilization)
-- **Modify** entertainment games. Many commercial games allow to create custom missions or quests (Kerbal Space Academy)
-- Use **virtual worlds**. There are many "sandbox" games where the player sparks creativity and teacher could pre-build the learning environment (Minecraft)
-- Use **educational games** created ad hoc (MinecraftEdu)
-- **Create original games**. If a special requirements is needed, you could develop or ask to develop a custom game (Antura)
-- **Let students create games**, to design a game you have to study and manage the learning content very deeply
+- Να χρησιμοποιήσουμε ψυχαγωγικά/**εμπορικά έτοιμα παιχνίδια** (COTS). Αυτά τα παιχνίδια κυκλοφορούν ήδη στα καταστήματα και θα μπορούσαν να έχουν πρόσθετο ή μη ρητό εκπαιδευτικό περιεχόμενο (Assassin's Creed / Civilization)
+- **Τροποποίηση** ψυχαγωγικών παιχνιδιών. Πολλά εμπορικά παιχνίδια επιτρέπουν τη δημιουργία προσαρμοσμένων αποστολών ή αποστολών αναζήτησης (Kerbal Space Academy).
+- Χρησιμοποιήστε **εικονικούς κόσμους**. Υπάρχουν πολλά παιχνίδια "sandbox" όπου ο παίκτης πυροδοτεί τη δημιουργικότητα και ο δάσκαλος θα μπορούσε να προ-κατασκευάσει το μαθησιακό περιβάλλον (Minecraft)
+- Χρήση **εκπαιδευτικών παιχνιδιών** που δημιουργούνται ad hoc (MinecraftEdu)
+- **Δημιουργία πρωτότυπων παιχνιδιών**. Εάν απαιτούνται ειδικές απαιτήσεις, θα μπορούσατε να αναπτύξετε ή να ζητήσετε να αναπτυχθεί ένα προσαρμοσμένο παιχνίδι (Antura)
+- **Αφήστε τους μαθητές να δημιουργήσουν παιχνίδια**, για να σχεδιάσετε ένα παιχνίδι θα πρέπει να μελετήσετε και να διαχειριστείτε το μαθησιακό περιεχόμενο πολύ βαθιά
 
-# Games 4 Good
-**Games for good** have the mission to help improving the world, with positive social impact, improved knowledge about social issues, with direct experience of human problems.
+## Games 4 Good
+**Τα παιχνίδια για καλό** έχουν ως αποστολή να βοηθήσουν στη βελτίωση του κόσμου, με θετικό κοινωνικό αντίκτυπο, με βελτιωμένη γνώση για κοινωνικά ζητήματα, με άμεση εμπειρία των ανθρώπινων προβλημάτων.
 
-- Education
-- Health
-- Empathy
-- Ethics
-- Politics and History
-- Religion
-- Wars
-- Epidemics
-- Sexism and racism
-- Environment and Climate change
-- Energy
+- Εκπαίδευση
+- Υγεία
+- Ενσυναίσθηση
+- Ηθική
+- Πολιτική και Ιστορία
+- Θρησκεία
+- Πόλεμοι
+- Επιδημίες
+- Σεξισμός και ρατσισμός
+- Περιβάλλον και κλιματική αλλαγή
+- Ενέργεια
 
-# Games benefits
+## Οφέλη παιχνιδιών
 
-Additionally, playing video games has a huge impact on the development of **cognitive**, **collaboration**, **creative problem solving**, and **communication skills** of students. 
-As well as improving learning abilities, here are some other benefits of Games:
+Επιπλέον, το παιχνίδι βιντεοπαιχνιδιών έχει τεράστιο αντίκτυπο στην ανάπτυξη των **γνωστικών**, **συνεργασίας**, **δημιουργικής επίλυσης προβλημάτων** και **επικοινωνιακών δεξιοτήτων** των μαθητών. 
 
-- **speed up response times**: improve troubleshooting skills by posing problems that must be solved in a set time.
-- **encourage teamwork**: multiplayer games boost teamwork in problem-solving.
-- **stimulate creativity, focus, and visual memory**: stimulate these aspects by setting goals that require concentration, imagination, and remembering details to achieve them.
-- **improve strategy and leadership**: put players in command, honing their abilities to resolve disputes, interact with other players and make decisions.
-- **teach languages**: they are useful for learning other languages through on-screen instructions, chats for communicating with other players, or the narration of the story itself.
-- improve **critical thinking**: with underlying ethical, philosophical and social basis, and their ability to make players think.
+Εκτός από τη βελτίωση των μαθησιακών ικανοτήτων, παραθέτουμε ορισμένα άλλα οφέλη των παιχνιδιών:
 
-## Challengers
+- **επιταχύνουν τους χρόνους απόκρισης**: βελτιώνουν τις δεξιότητες αντιμετώπισης προβλημάτων θέτοντας προβλήματα που πρέπει να επιλυθούν σε καθορισμένο χρόνο.
+- **ενθαρρύνουν την ομαδική εργασία**: τα παιχνίδια για πολλούς παίκτες ενισχύουν την ομαδική εργασία στην επίλυση προβλημάτων.
+- **διεγείρουν τη δημιουργικότητα, τη συγκέντρωση και την οπτική μνήμη**: διεγείρουν αυτές τις πτυχές θέτοντας στόχους που απαιτούν συγκέντρωση, φαντασία και μνήμη λεπτομερειών για την επίτευξή τους.
+- **βελτιώνουν τη στρατηγική και την ηγεσία**: θέτουν τους παίκτες σε θέση διοίκησης, βελτιώνοντας τις ικανότητές τους να επιλύουν διαφορές, να αλληλεπιδρούν με άλλους παίκτες και να λαμβάνουν αποφάσεις.
+- **διδάσκουν γλώσσες**: είναι χρήσιμα για την εκμάθηση άλλων γλωσσών μέσω οδηγιών στην οθόνη, συνομιλιών για την επικοινωνία με άλλους παίκτες ή της αφήγησης της ίδιας της ιστορίας.
+- βελτιώνουν την **κριτική σκέψη**: με την υποκείμενη ηθική, φιλοσοφική και κοινωνική βάση και την ικανότητά τους να κάνουν τους παίκτες να σκέφτονται.
+
+## Διεκδικητές
 ![human-vs-machine](../assets/img/human-vs-machine.jpg)
 
-Video games allow a player to challenge some-one on the same screen, or in the same room (each one with its networked device), or anywhere in the world via internet (in realtime or at turned based play).
-Players can even challenge recorded adversaries, or even them self!
+Τα βιντεοπαιχνίδια επιτρέπουν σε έναν παίκτη να προκαλέσει κάποιον στην ίδια οθόνη, ή στο ίδιο δωμάτιο (ο καθένας με τη δικτυωμένη συσκευή του), ή οπουδήποτε στον κόσμο μέσω του διαδικτύου (σε πραγματικό χρόνο ή σε παιχνίδι με βάση το γύρισμα).
+Οι παίκτες μπορούν ακόμη και να προκαλέσουν καταγεγραμμένους αντιπάλους, ή ακόμη και τον εαυτό τους!
 
-New advances with Artificial Intelligence allow players to play against advanced artificial players, that could be even be trained to play with a particular style or behaviours (Imitation Learning).
+Οι νέες εξελίξεις στην Τεχνητή Νοημοσύνη επιτρέπουν στους παίκτες να παίζουν εναντίον προηγμένων τεχνητών παικτών, οι οποίοι μπορούν να εκπαιδευτούν να παίζουν με συγκεκριμένο στυλ ή συμπεριφορές (Imitation Learning).
 
 ---
 
-## Unit review
+## Ανασκόπηση μονάδας
 
-QUIZ:
-- Select all virtues of Videogames ()
-- Select what we can learn by playing videogames ()
+QUIZ
 
-Discuss in your opinion:
-- What are the important features that a good educational video game should have?
+- Επιλέξτε όλες τις αρετές των βιντεοπαιχνιδιών
+- Επιλέξτε τι μπορούμε να μάθουμε παίζοντας βιντεοπαιχνίδια
+
+Συζητήστε τη γνώμη σας
+
+- Ποια είναι τα σημαντικά χαρακτηριστικά που πρέπει να έχει ένα καλό εκπαιδευτικό βιντεοπαιχνίδι;

@@ -1,118 +1,119 @@
 ---
-title: 1 - What is DGBL
+title: 1 - Τι είναι η DGBL
 nav_order: 10
 ---
-# What is DGBL
+# Τι είναι η DGBL
 
-**Learning Objectives**
+**Μαθησιακοί στόχοι**
 
-- DGBL definition
-- What is Engagement?
-- How Game Based Learning works
-- What skills does DGBL develop?
+- Ορισμός DGBL
+- Τι είναι η Δέσμευση;
+- Πώς λειτουργεί η μάθηση με βάση το παιχνίδι
+- Ποιες δεξιότητες αναπτύσσει το DGBL;
 
-## Key Terms
-To start our journey, we have to introduce some common terms:
+## Βασικοί όροι
+Για να ξεκινήσουμε το ταξίδι μας, πρέπει να εισάγουμε ορισμένους κοινούς όρους:
 
-- Game
-- Learning
-- Digital Game Based Learning (DGBL)
-- Engagement
+- Παιχνίδι
+- Μάθηση
+- Ψηφιακή μάθηση βασισμένη σε παιχνίδια (DGBL)
+- Δέσμευση
 
-## What is a Game?
-Turning to discussions of what constitutes “games” in relation to learning, it is first important to recognize that across a range of disciplines and perspectives, definitions have varied. Synthesizing a number of these perspectives on games, play, and culture, we could use this definition:
+## Τι είναι το παιχνίδι;
+Όσον αφορά τις συζητήσεις σχετικά με το τι συνιστά "παιχνίδι" σε σχέση με τη μάθηση, είναι αρχικά σημαντικό να αναγνωρίσουμε ότι σε ένα εύρος επιστημονικών κλάδων και προοπτικών, οι ορισμοί ποικίλλουν. Συνθέτοντας ορισμένες από αυτές τις προοπτικές για τα παιχνίδια, το παιχνίδι και τον πολιτισμό, θα μπορούσαμε να χρησιμοποιήσουμε τον εξής ορισμό:
 
-> A game as a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome
+> Ένα παιχνίδι ως ένα σύστημα στο οποίο οι παίκτες εμπλέκονται σε μια τεχνητή σύγκρουση, η οποία ορίζεται από κανόνες και οδηγεί σε ένα μετρήσιμο αποτέλεσμα.
 
-A game is a **system** because it involves a set of things (rules, objects, players, etc.) that affect each other within an environment to form a larger pattern that is different from any of the individual parts.
-A game also involves **players**-active participants interacting with the system of the game in order to experience the play of the game. Not all games need a conflict, a contest between players (e.g., solo games such as solitaire or cooperative games).
-All games involve **rules** that provide the structure out of which gameplay emerges, by delimiting what a player can or cannot do.
-Finally, this definition asserts that all games involve some kind of **quantifiable outcome** - in its simplest form, a state of victory or defeat. 
+Ένα παιχνίδι είναι ένα **σύστημα** επειδή περιλαμβάνει ένα σύνολο πραγμάτων (κανόνες, αντικείμενα, παίκτες κ.λπ.) που επηρεάζουν το ένα το άλλο μέσα σε ένα περιβάλλον για να σχηματίσουν ένα ευρύτερο μοτίβο που διαφέρει από οποιοδήποτε από τα επιμέρους μέρη.
+Ένα παιχνίδι περιλαμβάνει επίσης **παίκτες** - ενεργούς συμμετέχοντες που αλληλεπιδρούν με το σύστημα του παιχνιδιού προκειμένου να βιώσουν την εμπειρία του παιχνιδιού. Δεν χρειάζονται όλα τα παιχνίδια μια σύγκρουση, έναν ανταγωνισμό μεταξύ των παικτών (π.χ. σόλο παιχνίδια όπως η πασιέντζα ή τα συνεργατικά παιχνίδια).
+Όλα τα παιχνίδια περιλαμβάνουν **κανόνες** που παρέχουν τη δομή μέσα από την οποία αναδύεται το παιχνίδι, οριοθετώντας τι μπορεί ή δεν μπορεί να κάνει ένας παίκτης.
+Τέλος, ο ορισμός αυτός υποστηρίζει ότι όλα τα παιχνίδια περιλαμβάνουν κάποιο είδος **ποσοτικού αποτελέσματος** - στην απλούστερη μορφή του, μια κατάσταση νίκης ή ήττας. 
 
-## What is Learning
-Defining what constitutes _game-based learning_ in DGBL necessitates a recognition of the contested nature of _learning_ itself as a concept. Broadly speaking, there are two general metaphors that have been historically utilized by the educational research community to define and describe learning.
-1. The first view characterizes **learning as acquisition**, be it the acquisition of knowledge, skills, dispositions, behaviors, or other outcomes deemed desirable by educators and institutions. This generally aligns with what scholars call a *cognitive perspective on learning*, which emphasizes internal mental processes such as memory, decision-making, thinking, and knowledge construction as fundamental to learning. It also speaks to behaviorist conceptions of learning, which tend to emphasize *observable behaviors as indicators of learning*.
-2. The second metaphor characterizes **learning as participation** and emphasizes processes of socialization, mentorship, participation, and social practice. Within the field of education, this metaphor generally informs scholarship identified with a sociocultural perspective on learning, which tends to highlight social practices, identities, and relationships as core to learning.
+## Τι είναι Μάθηση
+Ο ορισμός του τι συνιστά _μάθηση βασισμένη στα παιχνίδια_ στο DGBL απαιτεί την αναγνώριση της αμφισβητούμενης φύσης της ίδιας της _μάθησης_ ως έννοιας. Σε γενικές γραμμές, υπάρχουν δύο γενικές μεταφορές που έχουν ιστορικά χρησιμοποιηθεί από την εκπαιδευτική ερευνητική κοινότητα για τον ορισμό και την περιγραφή της μάθησης.
 
-## What is game based learning?
+1. Η πρώτη άποψη χαρακτηρίζει τη **μάθηση ως απόκτηση**, είτε πρόκειται για την απόκτηση γνώσεων, δεξιοτήτων, διαθέσεων, συμπεριφορών ή άλλων αποτελεσμάτων που θεωρούνται επιθυμητά από τους εκπαιδευτικούς και τους θεσμούς. Αυτό γενικά ευθυγραμμίζεται με αυτό που οι μελετητές αποκαλούν *γνωστική προοπτική της μάθησης*, η οποία δίνει έμφαση στις εσωτερικές νοητικές διεργασίες, όπως η μνήμη, η λήψη αποφάσεων, η σκέψη και η οικοδόμηση της γνώσης, ως θεμελιώδους σημασίας για τη μάθηση. Μιλά επίσης για συμπεριφοριστικές αντιλήψεις της μάθησης, οι οποίες τείνουν να δίνουν έμφαση στις *παρατηρήσιμες συμπεριφορές ως δείκτες μάθησης*.
+2. Η δεύτερη μεταφορά χαρακτηρίζει τη **μάθηση ως συμμετοχή** και δίνει έμφαση σε διαδικασίες κοινωνικοποίησης, καθοδήγησης, συμμετοχής και κοινωνικής πρακτικής. Στον τομέα της εκπαίδευσης, αυτή η μεταφορά ενημερώνει γενικά την επιστήμη που ταυτίζεται με την κοινωνικοπολιτισμική προοπτική της μάθησης, η οποία τείνει να αναδεικνύει τις κοινωνικές πρακτικές, τις ταυτότητες και τις σχέσεις ως τον πυρήνα της μάθησης.
 
-Game-based learning is a pedagogical approach that involves **designing learning activities through games where the game characteristics and game principles inhere within the learning activities themselves**.
+## Τι είναι η μάθηση με βάση το παιχνίδι;
 
-The design of more engaging curriculum needs to include techniques that teaches students how to be **critical**, **confident** and **creative** as well as abilities that they will need for success in the **work-a-day future life**. Games have this techniques and features.
+Η μάθηση με βάση το παιχνίδι είναι μια παιδαγωγική προσέγγιση που περιλαμβάνει **σχεδιασμό μαθησιακών δραστηριοτήτων μέσω παιχνιδιών, όπου τα χαρακτηριστικά του παιχνιδιού και οι αρχές του παιχνιδιού εμπεριέχονται στις ίδιες τις μαθησιακές δραστηριότητες**.
 
-**Gaming is inherently motivating**, which may allow learners to gain skills and knowledge, by leveraging entertainment and weaving it within learning environments. Research studies indicate that video games in particular have great engagement and education related benefits. 
+Ο σχεδιασμός πιο ελκυστικών προγραμμάτων σπουδών πρέπει να περιλαμβάνει τεχνικές που διδάσκουν στους μαθητές πώς να είναι **κριτικοί**, **αυτοπεποίθηση** και **δημιουργικοί**, καθώς και ικανότητες που θα χρειαστούν για την επιτυχία στη **μελλοντική ζωή της καθημερινής εργασίας**. Τα παιχνίδια διαθέτουν αυτές τις τεχνικές και τα χαρακτηριστικά.
 
-📽 #VIDEO [Games and the Future of Education](https://www.youtube.com/watch?v=BiK2MPeg8k4)
-<iframe width="740" height="450" src="https://www.youtube.com/embed/BiK2MPeg8k4" title="Games and the Future of Education | ABUNDANCE" frameborder="0"  allowfullscreen></iframe>
+**Τα παιχνίδια είναι εγγενώς κινητοποιητικά**, γεγονός που μπορεί να επιτρέψει στους μαθητές να αποκτήσουν δεξιότητες και γνώσεις, αξιοποιώντας την ψυχαγωγία και συνυφαίνοντάς την μέσα σε περιβάλλοντα μάθησης. Ερευνητικές μελέτες δείχνουν ότι τα βιντεοπαιχνίδια ειδικότερα έχουν μεγάλα οφέλη όσον αφορά τη δέσμευση και την εκπαίδευση. 
 
-## Different types of GBL
+📽 #VIDEO [Παιχνίδια και το μέλλον της εκπαίδευσης](https://www.youtube.com/watch?v=BiK2MPeg8k4)
+<iframe width="740" height="450" src="https://www.youtube.com/embed/BiK2MPeg8k4" title="Τα παιχνίδια και το μέλλον της εκπαίδευσης | ABUNDANCE" frameborder="0" allowfullscreen></iframe>
 
-In order to understand GBL better, its different types can be examined along with taking the following into consideration: the **place** where the game happens, and the **environment** in which the students play. The three types of GBL are:
+## Διαφορετικοί τύποι GBL
 
-### Board games
+Προκειμένου να κατανοήσουμε καλύτερα το GBL, μπορούν να εξεταστούν οι διαφορετικοί τύποι του μαζί με τη συνεκτίμηση των εξής: ο **τόπος** όπου συμβαίνει το παιχνίδι και το **περιβάλλον** στο οποίο παίζουν οι μαθητές. Οι τρεις τύποι GBL είναι οι εξής:
+
+### Επιτραπέζια παιχνίδια
 ![gbl_boardgames](../assets/img/gbl_boardgames.webp)
 
-Board Games are usually played by one or more players around a table (they are also called Tabletop Games).
-Monopoly can be considered an educational game. It has all the necessary elements: a story, characters, points, competition, and many other aspects. There are many examples of Monopoly-like games for schools with modified rules for different subjects, like History Monopoly or Math Monopoly. Board Games are used with great success to explore and teach. But it's not the focus of _this_ course. 
+Τα επιτραπέζια παιχνίδια παίζονται συνήθως από έναν ή περισσότερους παίκτες γύρω από ένα τραπέζι (ονομάζονται επίσης επιτραπέζια παιχνίδια).
+Η Monopoly μπορεί να θεωρηθεί εκπαιδευτικό παιχνίδι. Διαθέτει όλα τα απαραίτητα στοιχεία: μια ιστορία, χαρακτήρες, πόντους, ανταγωνισμό και πολλές άλλες πτυχές. Υπάρχουν πολλά παραδείγματα παιχνιδιών που μοιάζουν με τη Μονόπολη για σχολεία με τροποποιημένους κανόνες για διάφορα μαθήματα, όπως η Μονόπολη της Ιστορίας ή η Μονόπολη των Μαθηματικών. Τα επιτραπέζια παιχνίδια χρησιμοποιούνται με μεγάλη επιτυχία για τη διερεύνηση και τη διδασκαλία. Αλλά δεν είναι το επίκεντρο _αυτού_ του μαθήματος. 
 
-### Real life games
+### Παιχνίδια της πραγματικής ζωής
 
 ![gbl_reallife](../assets/img/gbl_reallife.webp)
 
-The environment here is the **real world**. This is probably the most motivating, but also the most stressful type of game. In this kind, students must move, act, use their body and their minds in order to play. This is the most immersive type and it provokes students in almost every aspect of their learning. Since there is the possibility to move into a certain space, the real life game is often connected to the **theatre**. It’s easy to find **role play** activities, as well as simulations or drama in this type of game learning. Students act “as if they were” a character of the game, make decisions according to their goals, the environment, and the rules (Living Role Playing Game). We'll see that the Augmented Reality technology allows digital games to be played in the real world.
+Το περιβάλλον εδώ είναι ο **πραγματικός κόσμος**. Αυτό είναι ίσως το πιο παρακινητικό, αλλά και το πιο αγχωτικό είδος παιχνιδιού. Σε αυτό το είδος, οι μαθητές πρέπει να κινούνται, να ενεργούν, να χρησιμοποιούν το σώμα και το μυαλό τους προκειμένου να παίξουν. Αυτός είναι ο πιο καθηλωτικός τύπος και προκαλεί τους μαθητές σχεδόν σε κάθε πτυχή της μάθησής τους. Δεδομένου ότι υπάρχει η δυνατότητα μετακίνησης σε ένα συγκεκριμένο χώρο, το παιχνίδι πραγματικής ζωής συνδέεται συχνά με το **θέατρο**. Είναι εύκολο να βρείτε δραστηριότητες **παιξίματος ρόλων**, καθώς και προσομοιώσεις ή δράμα σε αυτόν τον τύπο παιγνιώδους μάθησης. Οι μαθητές ενεργούν "σαν να ήταν" ένας χαρακτήρας του παιχνιδιού, παίρνουν αποφάσεις σύμφωνα με τους στόχους τους, το περιβάλλον και τους κανόνες (Living Role Playing Game). Θα δούμε ότι η τεχνολογία της Επαυξημένης Πραγματικότητας επιτρέπει να παίζονται ψηφιακά παιχνίδια στον πραγματικό κόσμο.
 
-### Digital games
-Just as analog games can take on a variety of forms, so too can digital games appear on a multitude of computer-based electronic platforms. These include games installed as software on personal computers, as well as games played through television-attached gaming consoles such as the Sony PlayStation or Microsoft Xbox. Digital game platforms also include dedicated handheld platforms, such as the Nintendo Gameboy and its various incarnations, as well as mobile smartphones and tablet computers. These games can be engaged as a single player, with multiple players in a single physical location, or with players across distances using online connective features.
+### Ψηφιακά παιχνίδια
+Όπως τα αναλογικά παιχνίδια μπορούν να πάρουν ποικίλες μορφές, έτσι και τα ψηφιακά παιχνίδια μπορούν να εμφανιστούν σε πλήθος ηλεκτρονικών πλατφορμών που βασίζονται σε υπολογιστές. Σε αυτές περιλαμβάνονται παιχνίδια που εγκαθίστανται ως λογισμικό σε προσωπικούς υπολογιστές, καθώς και παιχνίδια που παίζονται μέσω κονσολών παιχνιδιών συνδεδεμένων με την τηλεόραση, όπως το Sony PlayStation ή το Microsoft Xbox. Οι πλατφόρμες ψηφιακών παιχνιδιών περιλαμβάνουν επίσης ειδικές πλατφόρμες φορητών συσκευών, όπως το Nintendo Gameboy και οι διάφορες εκδοχές του, καθώς και κινητά smartphones και υπολογιστές-ταμπλέτες. Αυτά τα παιχνίδια μπορούν να χρησιμοποιηθούν από έναν μόνο παίκτη, από πολλούς παίκτες σε μια φυσική τοποθεσία ή από παίκτες που βρίσκονται σε διαφορετικές αποστάσεις χρησιμοποιώντας διαδικτυακές συνδετικές λειτουργίες.
 
-### Digital vs Analog games
-There are at least four key traits that distinguish digital games from non-digital ones. 
-1. The first is that digital games can offer experiences of **interactivity** that are generally characterized by both immediacy and focus. This is largely by virtue of the fact that digital games are programmed into computers. Programming provides increased **immediacy of feedback** because the system is **automated to respond to player input**. Programming also provides a narrowed range of interactivity because possible player inputs and outcomes are limited by what a digital game developer has programmed into the software.
-2. Second, digital games and digital media more broadly make use of a computer’s affordances for **collecting, storing, retrieving, manipulating, revealing, or even concealing information** in the form of images, text, animations, sound, and even **player behavioral data**.
-3. Third, due to their computational nature, digital games have the potential to **automate systems and procedures** that may be far more complex for non-digital games to simulate. Examples of these complex systems include simulated environmental features in computer-based role-playing games: terrain–movement interactions, lines of sight, weather cycles, and even interactions with animals or non-player characters in the virtual game world.
-4. Finally, many (although not all) contemporary digital games have the ability to **facilitate communication between players** across networks, such as the online networks that connect players in multiplayer, internet-connected games. These communication-facilitating features can include technologies that enable voice or text chat between players within a particular game.
+### Ψηφιακά και αναλογικά παιχνίδια
+Υπάρχουν τουλάχιστον τέσσερα βασικά χαρακτηριστικά που διακρίνουν τα ψηφιακά παιχνίδια από τα μη ψηφιακά. 
 
-## What is Digital Game-Based Learning?
+1. Το πρώτο είναι ότι τα ψηφιακά παιχνίδια μπορούν να προσφέρουν εμπειρίες **διαδραστικότητας** που γενικά χαρακτηρίζονται τόσο από αμεσότητα όσο και από εστίαση. Αυτό οφείλεται σε μεγάλο βαθμό στο γεγονός ότι τα ψηφιακά παιχνίδια προγραμματίζονται σε υπολογιστές. Ο προγραμματισμός παρέχει αυξημένη **άμεση ανατροφοδότηση** επειδή το σύστημα είναι **αυτοματοποιημένο να ανταποκρίνεται στις εισροές του παίκτη**. Ο προγραμματισμός παρέχει επίσης περιορισμένο εύρος διαδραστικότητας, επειδή οι πιθανές εισροές και τα αποτελέσματα των παικτών περιορίζονται από το τι έχει προγραμματίσει ο προγραμματιστής ψηφιακών παιχνιδιών στο λογισμικό.
+2. Δεύτερον, τα ψηφιακά παιχνίδια και τα ψηφιακά μέσα ευρύτερα χρησιμοποιούν τις δυνατότητες ενός υπολογιστή για **συλλογή, αποθήκευση, ανάκτηση, χειρισμό, αποκάλυψη ή ακόμη και απόκρυψη πληροφοριών** με τη μορφή εικόνων, κειμένου, κινούμενων σχεδίων, ήχου, ακόμη και **δεδομένων συμπεριφοράς του παίκτη**.
+3. Τρίτον, λόγω της υπολογιστικής τους φύσης, τα ψηφιακά παιχνίδια έχουν τη δυνατότητα να **αυτοματοποιούν συστήματα και διαδικασίες** που μπορεί να είναι πολύ πιο πολύπλοκα για την προσομοίωση μη ψηφιακών παιχνιδιών. Παραδείγματα αυτών των πολύπλοκων συστημάτων περιλαμβάνουν προσομοιωμένα περιβαλλοντικά χαρακτηριστικά σε παιχνίδια ρόλων που βασίζονται σε υπολογιστή: αλληλεπιδράσεις εδάφους-κίνησης, οπτικές γραμμές, κύκλους καιρού, ακόμη και αλληλεπιδράσεις με ζώα ή χαρακτήρες μη παικτών στον εικονικό κόσμο του παιχνιδιού.
+4. Τέλος, πολλά (αν και όχι όλα) τα σύγχρονα ψηφιακά παιχνίδια έχουν τη δυνατότητα να **διευκολύνουν την επικοινωνία μεταξύ των παικτών** μέσω δικτύων, όπως τα διαδικτυακά δίκτυα που συνδέουν τους παίκτες σε παιχνίδια πολλαπλών παικτών, συνδεδεμένα στο διαδίκτυο. Αυτά τα χαρακτηριστικά διευκόλυνσης της επικοινωνίας μπορεί να περιλαμβάνουν τεχνολογίες που επιτρέπουν τη συνομιλία φωνής ή κειμένου μεταξύ των παικτών εντός ενός συγκεκριμένου παιχνιδιού.
 
-Digital game-based learning refers to learning by solving problems or accomplishing tasks through computers, mobile phones, or tablets. There are several elements in digital game-based learning, such as *fun*, *play*, *goals*, *competition*, and *problem-solving*.
+## Τι είναι η μάθηση με βάση τα ψηφιακά παιχνίδια;
 
-Studies have investigated DGBL in different subjects, such as Literacy, Maths, Sciences, and STEAM. The results indicate that DGBL could improve students’ learning motivation, learning performance, reduce their cognitive load and anxiety.
+Η μάθηση με βάση τα ψηφιακά παιχνίδια αναφέρεται στη μάθηση μέσω της επίλυσης προβλημάτων ή της εκπλήρωσης καθηκόντων μέσω υπολογιστών, κινητών τηλεφώνων ή ταμπλετών. Υπάρχουν διάφορα στοιχεία στην ψηφιακή μάθηση βασισμένη σε παιχνίδια, όπως *διασκέδαση*, *παιχνίδι*, *στόχοι*, *ανταγωνισμός* και *επίλυση προβλημάτων*.
 
-{: .highlight }
-> Game based learning (**GBL**) is a type of _game play_ that has _defined learning outcomes_.  
-> **Digital** game based learning (**DGBL**) refers to using actual digital video games as learning tools.
+Μελέτες έχουν διερευνήσει τη DGBL σε διάφορα μαθήματα, όπως ο Γραμματισμός, τα Μαθηματικά, οι Φυσικές Επιστήμες και το STEAM. Τα αποτελέσματα δείχνουν ότι η DGBL θα μπορούσε να βελτιώσει τα μαθησιακά κίνητρα των μαθητών, τις μαθησιακές επιδόσεις, να μειώσει το γνωστικό φορτίο και το άγχος τους.
 
-A critical appraisal of the _game-based_ aspect of DGBL can help better situate the usage of this concept in theory and practice. Building on learning as an *acquisition metaphor*, one way to define game-based learning in DGBL is by the use of digital games to promote the acquisition of a variety of knowledge, skills, dispositions, or other educational outcomes. According to this definition, learning is game-based when digital games, or certain elements of digital games such as scorekeeping, are applied toward identifiable outcomes defined by educators or institutions. 
+> Η μάθηση με βάση το παιχνίδι (**GBL**) είναι ένα είδος _παιχνιδιού_ που έχει _καθορισμένα μαθησιακά αποτελέσματα_.  
+> Η μάθηση βασισμένη σε ψηφιακά παιχνίδια (**Digital** game based learning, **DGBL**) αναφέρεται στη χρήση πραγματικών ψηφιακών βιντεοπαιχνιδιών ως εργαλείων μάθησης.
 
-Another framing of DGBL learning as participation metaphor, characterizes the _game-based_ aspect of DGBL as an inherent part of meaningfully participating in - that is, playing - games, regardless of their connection to some external educational outcome.
-According to this definition, **learning is always happening when someone plays a game**. **Having to solve problems, overcome obstacles, or collaborate with others within and around games are all dimensions of learning**. 
-As game designer and theorist Raph Koster noted in _A Theory of Fun_ book, a game is only “good” to the degree that it is “fun,” and a game is only fun to the degree which players are being challenged to learn to be successful in that game space.
+Μια κριτική αποτίμηση της πτυχής _game-based_ της DGBL μπορεί να βοηθήσει στην καλύτερη τοποθέτηση της χρήσης αυτής της έννοιας στη θεωρία και την πράξη. Βασιζόμενοι στη μάθηση ως *μεταφορά απόκτησης*, ένας τρόπος για να ορίσουμε τη μάθηση με βάση το παιχνίδι στη DGBL είναι η χρήση ψηφιακών παιχνιδιών για την προώθηση της απόκτησης μιας ποικιλίας γνώσεων, δεξιοτήτων, διαθέσεων ή άλλων εκπαιδευτικών αποτελεσμάτων. Σύμφωνα με αυτόν τον ορισμό, η μάθηση βασίζεται σε παιχνίδια όταν τα ψηφιακά παιχνίδια ή ορισμένα στοιχεία των ψηφιακών παιχνιδιών, όπως η καταγραφή αποτελεσμάτων, εφαρμόζονται για την επίτευξη προσδιορίσιμων αποτελεσμάτων που ορίζονται από εκπαιδευτικούς ή ιδρύματα. 
+
+Μια άλλη διαμόρφωση της μάθησης DGBL ως μεταφορά συμμετοχής, χαρακτηρίζει την _παιγνιοκεντρική_ πτυχή της DGBL ως εγγενές μέρος της ουσιαστικής συμμετοχής στα παιχνίδια, δηλαδή του παιχνιδιού, ανεξάρτητα από τη σύνδεσή τους με κάποιο εξωτερικό εκπαιδευτικό αποτέλεσμα.
+Σύμφωνα με αυτόν τον ορισμό, **η μάθηση συμβαίνει πάντα όταν κάποιος παίζει ένα παιχνίδι**. **Η επίλυση προβλημάτων, η υπερπήδηση εμποδίων ή η συνεργασία με άλλους μέσα και γύρω από τα παιχνίδια είναι όλες διαστάσεις της μάθησης**. 
+Όπως σημείωσε ο σχεδιαστής παιχνιδιών και θεωρητικός Raph Koster στο βιβλίο _A Theory of Fun_, ένα παιχνίδι είναι "καλό" μόνο στο βαθμό που είναι "διασκεδαστικό" και ένα παιχνίδι είναι διασκεδαστικό μόνο στο βαθμό που οι παίκτες καλούνται να μάθουν για να είναι επιτυχημένοι σε αυτόν τον χώρο παιχνιδιού.
 
 ### Gamification
-_Gamification_, often categorized as a subconcept of DGBL, describes the implementation of certain aspects of digital games (visual displays of progress, automated reward systems, scoring leaderboards, virtual avatars, and others) into non-gaming contexts such as education, business management, marketing, and even physical exercise programs.
+Η _Gamification_, η οποία συχνά κατηγοριοποιείται ως υποέννοια της DGBL, περιγράφει την εφαρμογή ορισμένων πτυχών των ψηφιακών παιχνιδιών (οπτική απεικόνιση της προόδου, αυτοματοποιημένα συστήματα ανταμοιβής, πίνακες βαθμολογίας, εικονικά είδωλα και άλλα) σε πλαίσια που δεν αφορούν παιχνίδια, όπως η εκπαίδευση, η διοίκηση επιχειρήσεων, το μάρκετινγκ, ακόμη και προγράμματα σωματικής άσκησης.
 
-## Engagement
+## Δέσμευση
 
-Engaging students in classroom content is always a hard task, and traditional forms of education have become expected and somewhat redundant, that the learning capacities of students are very weak. When students aren’t engaged, they’re more likely to disrupt class, less likely to accept challenges, have lower grades, and aren’t confident in their ability to learn.
+Η εμπλοκή των μαθητών στο περιεχόμενο της τάξης είναι πάντα ένα δύσκολο έργο, και οι παραδοσιακές μορφές εκπαίδευσης έχουν γίνει αναμενόμενες και κάπως περιττές, ότι οι μαθησιακές ικανότητες των μαθητών είναι πολύ αδύναμες. Όταν οι μαθητές δεν εμπλέκονται, είναι πιο πιθανό να διαταράξουν την τάξη, είναι λιγότερο πιθανό να δεχτούν προκλήσεις, έχουν χαμηλότερους βαθμούς και δεν έχουν εμπιστοσύνη στην ικανότητά τους να μάθουν.
 
-Additionally, **sustaining engagement** is very important to ensure that the student is gaining the most out of their learning experience and that their **cognitive skills are always stimulated**. Engaging through educational video games that are built on educational content has proven to be a great way not only to keep students engaged but also to **deliver complex theories/topics in an interactive manner** allowing students to have a **deeper comprehension of the content**.
+Επιπλέον, η **συνεχής εμπλοκή** είναι πολύ σημαντική για να διασφαλιστεί ότι ο μαθητής αποκομίζει τα μέγιστα από τη μαθησιακή του εμπειρία και ότι οι **γνωστικές του δεξιότητες διεγείρονται πάντα**. Η εμπλοκή μέσω εκπαιδευτικών βιντεοπαιχνιδιών που βασίζονται σε εκπαιδευτικό περιεχόμενο έχει αποδειχθεί ότι είναι ένας πολύ καλός τρόπος όχι μόνο για να διατηρείται η εμπλοκή των μαθητών αλλά και για να **αποδίδονται πολύπλοκες θεωρίες/θέματα με διαδραστικό τρόπο** επιτρέποντας στους μαθητές να έχουν **βαθύτερη κατανόηση του περιεχομένου**.
 
 ![games-engagement](../assets/img/games-engagement.webp)
 
 
-## Motivation
-Motivation is the force behind human performance. It can arise from physiological or psychological needs, thoughts, or emotions. Our physiological needs help us preserve optimal physical functioning, while psychological needs typically help us thrive.
-The source of motivation can come from within ourselves or be external to us.
-Both games and learning have to do with motivation, and we'll analyze this topic extensively in next chapter.
+## Κίνητρα
+Τα κίνητρα είναι η δύναμη πίσω από τις ανθρώπινες επιδόσεις. Μπορεί να προκύψει από φυσιολογικές ή ψυχολογικές ανάγκες, σκέψεις ή συναισθήματα. Οι φυσιολογικές ανάγκες μας βοηθούν να διατηρήσουμε τη βέλτιστη σωματική λειτουργία, ενώ οι ψυχολογικές ανάγκες συνήθως μας βοηθούν να ευδοκιμήσουμε.
+Η πηγή του κινήτρου μπορεί να προέρχεται από μέσα μας ή να είναι εξωτερική για εμάς.
+Τόσο τα παιχνίδια όσο και η μάθηση έχουν να κάνουν με τα κίνητρα, και θα αναλύσουμε αυτό το θέμα εκτενώς στο επόμενο κεφάλαιο.
 
 ---
 
-## Unit review
-Now that we have established what is game-based learning and why using educational video games is beneficial, please respond to the following questions:
+## Ανασκόπηση της ενότητας
+Τώρα που διαπιστώσαμε τι είναι η μάθηση με βάση τα παιχνίδια και γιατί η χρήση εκπαιδευτικών βιντεοπαιχνιδιών είναι ωφέλιμη, απαντήστε στις ακόλουθες ερωτήσεις:
 
-- who can use DGBL? (students, everyone, teachers, kids)
-- why is DGBL so powerful? (cheap, easy, engaging)
-- is Engagement good for learners? (yes, no, we don't know yet)
+- ποιος μπορεί να χρησιμοποιήσει τη DGBL; (μαθητές, όλοι, εκπαιδευτικοί, παιδιά)
+- γιατί το DGBL είναι τόσο ισχυρό; (φθηνό, εύκολο, ελκυστικό)
+- είναι η δέσμευση καλή για τους μαθητές; (ναι, όχι, δεν ξέρουμε ακόμα)
 
-- Create your own definition of game-based learning
-- How do you believe educational video games would support your pedagogical approaches and enhance your teaching methods?
-- How would you introduce educational video games in your classroom?
+- Δημιουργήστε τον δικό σας ορισμό της μάθησης με βάση το παιχνίδι
+- Πώς πιστεύετε ότι τα εκπαιδευτικά βιντεοπαιχνίδια θα μπορούσαν να υποστηρίξουν τις παιδαγωγικές σας προσεγγίσεις και να ενισχύσουν τις μεθόδους διδασκαλίας σας;
+- Πώς θα εισάγατε εκπαιδευτικά βιντεοπαιχνίδια στην τάξη σας;

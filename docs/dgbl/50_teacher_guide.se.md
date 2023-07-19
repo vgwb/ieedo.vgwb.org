@@ -1,203 +1,201 @@
 ---
-title: 5 - Teacher Guide
+title: 5 - Lärarhandledning
 has_children: true
 has_toc: false
 nav_order: 50
 ---
-# 5.  Teacher guide
+# 5. Handledning för lärare
 
-**Learning Objectives**  
+**Mål för lärande  
 
-- How to setup a DGBL session
-- What skills a teacher needs to develop
-- What challenges are there in DGBL?
-- What hardware do we need and how to set it up?
-- What Skills does student needs to start?
-- How to assess the outcome of a VG
-- What are game analytics?
-- What to assess?
+- Hur man sätter upp en DGBL-session
+- Vilka färdigheter behöver en lärare utveckla?
+- Vilka utmaningar finns det i DGBL?
+- Vilken hårdvara behöver vi och hur ställer vi in den?
+- Vilka färdigheter behöver studenten för att börja?
+- Hur man bedömer resultatet av ett VG
+- Vad är spelanalys?
+- Vad ska man bedöma?
 
-## How to use EVG in Classroom
+## Hur man använder EVG i klassrummet
 
-After learning about the benefits of educational video games and the characteristics of a good educational video game, we arrive at the question: how do we incorporate game-based learning for maximum benefit as well as when and where in the curriculum? Also, what about class management, how do we manage the environment of the class and students while playing the game?
+Efter att ha lärt oss om fördelarna med pedagogiska videospel och vad som kännetecknar ett bra pedagogiskt videospel, kommer vi till frågan: hur integrerar vi spelbaserat lärande för maximal nytta samt när och var i läroplanen? Och hur är det med klassledningen, hur hanterar vi klassens och elevernas miljö när vi spelar spelet?
 
-In this unit, we will answer all these questions and provide a guideline and tips that instructors can follow when deciding to select and implement an educational video game.
+I det här avsnittet kommer vi att besvara alla dessa frågor och ge riktlinjer och tips som lärare kan följa när de beslutar att välja och implementera ett pedagogiskt videospel.
 
-> 📽 #VIDEO [Using Games in the Classroom](https://youtu.be/o6IELVV2xLQ)
+> 📽 #VIDEO [Använda spel i klassrummet](https://youtu.be/o6IELVV2xLQ)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/o6IELVV2xLQ"></iframe>
 
+## Lärare 2.0
 
-
-## Teacher 2.0
-
-With the infusion of technology in the classroom, teachers are moving away from being sole presenters of information and are moving into the new roles of bring "facilitators".
-With this new role comes the excitement of presenting digital game-based learning to students that has been proven to increase students' desire to learn, lower their stress levels and provide new, proactive ways of learning needed 21st century skills. Furthermore, teachers/facilitators can rely on "new evaluation tools" that are rubric-like and can be used to evaluate and determine whether games will engage their students while teaching them. In conclusion, when teachers properly evaluate games to ascertain their usability in the classroom and then implement them correctly, they bring a new level of learning into the classroom that reinvigorates students' desire to learn while decreasing unwanted stress that inhibits those students' ability to excel.
-
-
-
-![dgbl_flowchart](../assets/img/dgbl_flowchart.webp)
-
-## Approach
-The approach to Digital Game-Based Learning needs to be well planned and organized to engage in learning and to produce the appropriate outcomes.
-
-The coaches must learn to set the stage, providing relevant game information and support the students in their attempts to construct, deconstruct and reconstruct relevant forms of knowledge (both in relation to the game context, curricular goals and real life phenomena).
-
-They must become familiar with the theoretical underpinnings of DGBL, learn about the specific games they will be using: techniques, gameplay, curriculum, outcomes, assistance, evaluation. For all that, we’ll provide a list of digital learning games as case studies for the coaches.
-
-It is important to know the theory and the tools because games do not work by themselves and not all refugees/adults/coaches are comfortable with digital games.
+Med införandet av teknik i klassrummet går lärarna ifrån att vara de enda som presenterar information till att bli de nya rollerna som "facilitatorer".
+Med denna nya roll kommer spänningen i att presentera digitalt spelbaserat lärande för eleverna, vilket har visat sig öka elevernas lust att lära, sänka deras stressnivåer och ge nya, proaktiva sätt att lära sig de färdigheter som behövs under det 21:a århundradet. Dessutom kan lärare/facilitatorer förlita sig på "nya utvärderingsverktyg" som är rubrikliknande och kan användas för att utvärdera och avgöra om spelen kommer att engagera deras elever samtidigt som de lär dem. Sammanfattningsvis kan sägas att när lärare utvärderar spel ordentligt för att fastställa deras användbarhet i klassrummet och sedan implementerar dem korrekt, för de in en ny nivå av lärande i klassrummet som återupplivar elevernas lust att lära sig samtidigt som de minskar oönskad stress som hämmar elevernas förmåga att utmärka sig.
 
 
 
-## Tips for using VG in the classroom
-![](../assets/img/tips_vg_classroom.webp)
+![dgbl_flödesschema](../assets/img/dgbl_flödesschema.webp)
 
-### Must
-1. Teachers do not need to be avid gamers, but they should **at least be interested in them**.
-2. Videogames should not be the main method for educating students. They are just **one of the tools available**.
-3. **Check the age recommendations** on videogames. Avoid those for 18 ears and over.
-4. Before you select a videogame, be clear about the **skills and competencies** you want to develop.
-5. Students are **motivated by progressing** from level to level. It Is Important not to set impossible challenges.
-6. Schools must be equipped with **suitable technology** before Introducing videogames into the classroom.
-7. Students can get hooked on videogames so teaching how to **control their use** is also part of classroom education.
+## Tillvägagångssätt
+Tillvägagångssättet för digitalt spelbaserat lärande måste vara välplanerat och organiserat för att engagera eleverna i lärandet och för att uppnå lämpliga resultat.
+
+Coacherna måste lära sig att sätta scenen, tillhandahålla relevant spelinformation och stödja eleverna i deras försök att konstruera, dekonstruera och rekonstruera relevanta former av kunskap (både i förhållande till spelkontexten, läroplansmål och verkliga fenomen).
+
+De måste bli bekanta med de teoretiska grunderna för DGBL, lära sig om de specifika spel de kommer att använda: tekniker, gameplay, läroplan, resultat, stöd, utvärdering. För allt detta kommer vi att tillhandahålla en lista över digitala inlärningsspel som fallstudier för coacherna.
+
+Det är viktigt att känna till teorin och verktygen eftersom spel inte fungerar av sig själva och inte alla flyktingar/vuxna/coacher är bekväma med digitala spel.
+
+
+
+## Tips för att använda VG i klassrummet
+![](../assets/img/tips_vg_klassrum.webp)
+
+### Måste
+1. Lärare behöver inte vara inbitna gamers, men de bör ** åtminstone vara intresserade av dem**.
+2. Videospel bör inte vara den huvudsakliga metoden för att utbilda elever. De är bara **ett av de verktyg som finns tillgängliga**.
+3. **Kontrollera åldersrekommendationerna** på videospel. Undvik de som är för 18 år och äldre.
+4. Innan du väljer ett videospel, var tydlig med vilka **färdigheter och kompetenser** du vill utveckla.
+5. Elever blir **motiverade av att utvecklas** från nivå till nivå. Det är viktigt att inte sätta upp omöjliga utmaningar.
+6. Skolor måste vara utrustade med **lämplig teknik** innan man introducerar videospel i klassrummet.
+7. Elever kan bli beroende av videospel så att lära ut hur man **kontrollerar användningen** är också en del av klassrumsundervisningen.
 
 ### Plus
-- The educator should play the game prior to the intervention, in order to identify its possible limitations. 
-- The educator should adapt the game according to the educational scenario and correlate it with the traditional methods of teaching. 
-- The gaming intervention should have a specific time limit that should not be altered. 
-- During the gaming intervention the educator should first play with the students in order to make sure they understand the game and are able to proceed on their own, and afterwards supervise the students and associate the gaming content with educational goals. 
-- The educator should ask feedback from the students after the intervention and take into account their considerations and preferences for the design of next GBL experiences.
+- Pedagogen bör spela spelet före interventionen för att identifiera dess eventuella begränsningar. 
+- Läraren bör anpassa spelet efter det pedagogiska scenariot och korrelera det med de traditionella undervisningsmetoderna. 
+- Spelinterventionen bör ha en specifik tidsgräns som inte bör ändras. 
+- Under spelinterventionen bör utbildaren först spela med eleverna för att se till att de förstår spelet och kan fortsätta på egen hand, och därefter övervaka eleverna och koppla spelinnehållet till utbildningsmålen. 
+- Läraren bör be om feedback från studenterna efter interventionen och ta hänsyn till deras överväganden och preferenser för utformningen av nästa GBL-upplevelse.
 
-## A Digital Game Based Learning session
-We can summarise a DGBL session in these five steps:
+## En digital spelbaserad inlärningssession
+Vi kan sammanfatta en DGBL-session i dessa fem steg:
 
-### 1. Introduction to videogame
-The teacher explains the game and helps installing it on the students devices.
-Then tells the outcomes expected from playing this game.
+### 1. Introduktion till videospel
+Läraren förklarar spelet och hjälper till att installera det på elevernas enheter.
+Därefter berättar läraren vilka resultat som förväntas av att spela spelet.
 
-### 2. gameplay / experience
-autonomous activity: the student becomes player
+### 2. Spelupplevelse/upplevelse
+Självständig aktivitet: eleven blir spelare
 
-### 3. game results / scores
-autonomous activity: the player finish to play. check the score
+### 3. Spelresultat / poäng
+autonom aktivitet: spelaren avslutar spelet. kontrollerar poängen
 
-### 4. reflection / analysis
-student and the teacher analyse together the outcome
+### 4. reflektion/analys
+Eleven och läraren analyserar tillsammans resultatet.
 
-### 5. forming abstract concepts + real world application
+### 5. Formning av abstrakta begrepp + tillämpning i verkligheten
 
 
-## Teacher Skills
-The teacher has to develop or at least know something about these topics:
+## Lärarens färdigheter
+Läraren måste utveckla eller åtminstone veta något om dessa ämnen:
 
-- ICT / Basic Digital Skills
-- Minimal game playing experience
-- Deep understanding of how a game can help learning and its differences with a  classic book/course
-- Recognise different players skills and support their game play
-- Engage students in playing and progression
+- IKT/grundläggande digitala färdigheter
+- Minimal erfarenhet av att spela spel
+- Djup förståelse för hur ett spel kan bidra till inlärning och dess skillnader jämfört med en klassisk bok/kurs
+- Känna igen olika spelares färdigheter och stödja deras spelande
+- Engagera eleverna i spel och progression
 
-## Challenges
-There could be some difficulties and challenges to be solved in order to achieve better results in DGBL sessions.
+## Utmaningar
+Det kan finnas vissa svårigheter och utmaningar som måste lösas för att uppnå bättre resultat i DGBL-sessioner.
 
-**Curriculum**: it’s hard to find games that fit the current curriculum or to identify how a certain game can connect to the curriculum.
-Check out [commonsense.org/education](https://www.commonsense.org/education) for ideas. Remember that the best way to use games is as a supplemental reinforcement for your traditional teaching. Don’t look for games that will teach your curriculum. Instead, look for games that might approach the same subject area from a different perspective.
+**Läroplan**: det är svårt att hitta spel som passar den aktuella läroplanen eller att identifiera hur ett visst spel kan kopplas till läroplanen.
+Kolla in [commonsense.org/education](https://www.commonsense.org/education) för idéer. Kom ihåg att det bästa sättet att använda spel är som en extra förstärkning av din traditionella undervisning. Leta inte efter spel som lär ut din läroplan. Leta istället efter spel som kan närma sig samma ämnesområde från ett annat perspektiv.
 
-**Game related**: identify the accuracy and appropriateness of the content of the game. Irrelevant or distracting content from the game that could not be removed.
+**Spelsrelaterat**: identifiera om innehållet i spelet är korrekt och lämpligt. Irrelevant eller distraherande innehåll från spelet som inte kunde tas bort.
 
-**Attitudes**: persuading all stakeholders and non-players about the educational value of the game.
+**Attityder**: övertyga alla intressenter och icke-spelare om spelets pedagogiska värde.
 
-**Educators and Teachers support**: make them aware of how to use games more effectively in education.
+**Utbildare och lärarstöd**: göra dem medvetna om hur man använder spel mer effektivt i utbildningen.
 
-**Technology** many teacher are unfamiliar with technology. That’s okay. Most of the writing about game-based learning focuses on digital media, but the truth is that you don’t necessarily need devices. At the Quest To Learn school in New York City, game design is a way of thinking, a paradigm. A great deal of their curriculum uses paper-based games rather than digital games. 
+**Teknik** många lärare är inte bekanta med teknik. Det är helt okej. Det mesta som skrivs om spelbaserat lärande fokuserar på digitala medier, men sanningen är att du inte nödvändigtvis behöver enheter. På Quest To Learn-skolan i New York är speldesign ett sätt att tänka, ett paradigm. En stor del av deras läroplan använder pappersbaserade spel snarare än digitala spel. 
 
-**Assessment**: Traditional assessments do not often align with GBL, so new models and approaches must be considered.
+**Utvärdering**: Traditionella bedömningar ligger ofta inte i linje med GBL, så nya modeller och tillvägagångssätt måste övervägas.
 
-**Developers** encourage and support game developers in the creation of better educational games
+**Utvecklare** uppmuntrar och stöder spelutvecklare i skapandet av bättre utbildningsspel
 
-## Moderation
-The impact of video games on society has been the subject of numerous studies. For example a psychologist at the Internet Institute at Oxford University, published a study establishing how much time should children be allowed to devote to video gaming. He reports that those who played less than an hour were more emotionally stable, while those who played for around three hours a day developed social problems. Therefore, when it comes to video games, **moderation is key**. 
+## Moderering
+Videospelens inverkan på samhället har varit föremål för många studier. Till exempel har en psykolog vid Internet Institute vid Oxford University publicerat en studie som fastställer hur mycket tid barn bör tillåtas ägna åt videospel. Han rapporterar att de som spelade mindre än en timme var mer känslomässigt stabila, medan de som spelade omkring tre timmar om dagen utvecklade sociala problem. När det gäller videospel är det därför **moderation som gäller**. 
 
-## How to implement GBL?
-There are many strategies and ways for educators to incorporate game-based learning and EVGs into their curriculum and classroom. Here are three ways that teachers can follow to implement game-based learning:
+## Hur implementerar man GBL?
+Det finns många strategier och sätt för lärare att införliva spelbaserat lärande och EVG i sin läroplan och sitt klassrum. Här är tre sätt som lärare kan följa för att implementera spelbaserat lärande:
 
-### Games as shared Experience
-The EVGs selected plays more on experience, giving students the feel of being on a field trip. **Like a field trip**, students are first given instructions on what to expect and are then given freedom to explore an out-of-school location. And then back in the classroom, **instructors facilitate and emphasize the connections of the game to the curriculum**. These games, provide meaning for students.
-For example in MineCraft students build structures and “When night comes and creepers attack, only the students who stayed in fortified structures survive. After play, we discuss the difficulties of setting up a colony in a hostile environment. Students understand the dangers of settling new worlds because they have experienced them”.
+### Spel som delad erfarenhet
+De utvalda EVG:erna bygger mer på upplevelser och ger eleverna känslan av att vara på en studieresa. **Likt en studieresa** får eleverna först instruktioner om vad de kan förvänta sig och får sedan frihet att utforska en plats utanför skolan. När de sedan är tillbaka i klassrummet **underlättar lärarna och betonar spelets koppling till läroplanen**. Dessa spel ger mening för eleverna.
+I MineCraft bygger eleverna till exempel strukturer och "När natten kommer och kryp attackerar överlever bara de elever som stannat kvar i befästa strukturer. Efter spelet diskuterar vi svårigheterna med att etablera en koloni i en fientlig miljö. Eleverna förstår farorna med att bosätta sig i nya världar eftersom de har upplevt dem".
 
-### Games as Text
-These games allow users to decide the fate of the game. The game is built on a template uses player choice to tell a story. These include Examples include [Firewatch](http://www.firewatchgame.com/), an open-world game about being a park ranger; [Life Is Strange](https://lifeisstrange.square-enix-games.com/en-gb/), an emotional tale of friendships and bullying at a private school; [Her Story](https://www.herstorygame.com/), a nonlinear, police procedural whodunit; and [1979 Revolution: Black Friday](https://www.gamesforchange.org/games/1979-revolution-black-friday/), a political thriller set in the Iranian Revolution.
-Each game tells a *story*.
-**Assessing learning** with these games, educators can use Office 365 or Google Docs. For example, English literature teacher Paul Darvasi has his students play the point-and-click exploration game [Gone Home](https://gonehome.com/), which is about a dysfunctional family. Set in 1995, the game uses literary devices like mood, tone, and theme. He has students take screenshots as evidence and add them to a shared document. Collected screenshots later lead to projects like comparing reviews and then writing their own.
+### Spel som text
+Dessa spel låter användarna bestämma spelets öde. Spelet är byggt på en mall som använder spelarens val för att berätta en historia. Dessa inkluderar Exempel inkluderar [Firewatch](http://www.firewatchgame.com/), ett spel i en öppen värld om att vara parkvakt; [Life Is Strange](https://lifeisstrange.square-enix-games.com/en-gb/), en känslomässig berättelse om vänskap och mobbning på en privatskola; [Her Story](https://www.herstorygame.com/), en icke-linjär, polisprocedural whodunit; och [1979 Revolution: Black Friday](https://www.gamesforchange.org/games/1979-revolution-black-friday/), en politisk thriller som utspelar sig under den iranska revolutionen.
+Varje spel berättar en *historia*.
+**Bedömning av lärande** Med dessa spel kan lärare använda Office 365 eller Google Docs. Paul Darvasi, lärare i engelsk litteratur, låter till exempel sina elever spela peka-och-klicka-spelet [Gone Home] (https://gonehome.com/), som handlar om en dysfunktionell familj. Spelet utspelar sig 1995 och använder litterära hjälpmedel som stämning, ton och tema. Han låter eleverna ta skärmdumpar som bevis och lägga till dem i ett delat dokument. De insamlade skärmdumparna leder senare till projekt som att jämföra recensioner och sedan skriva egna.
 
-### Games as Models
-These games are built on model real-world systems. They give students the opportunity to create their own models within the game. A teacher states that he makes students play [Werewolf](https://teambuilding.com/blog/werewolf-game-rules), and discuss “different actions that mirror the events of the Salem witch trials, McCarthyism, and other witch hunts. I also have students play the board game [Pandemic](https://www.zmangames.com/en/games/pandemic/), as well as the mobile game [Plague, Inc](https://www.ndemiccreations.com/en/22-plague-inc). These games illustrate how diseases travel the interconnected networks of the world. Students learn how the bubonic plague traveled along the Silk Road.”. He states that these games model causes that have effects, which subsequently have effects that teaches the **21st-century skill of systems thinking**.
+### Spel som modeller
+Dessa spel bygger på modeller av verkliga system. De ger eleverna möjlighet att skapa sina egna modeller inom spelet. En lärare berättar att han låter eleverna spela [Werewolf] (https://teambuilding.com/blog/werewolf-game-rules) och diskutera "olika handlingar som speglar händelserna under häxprocesserna i Salem, McCarthyismen och andra häxjakter. Jag låter också eleverna spela brädspelet [Pandemic] (https://www.zmangames.com/en/games/pandemic/) och mobilspelet [Plague, Inc] (https://www.ndemiccreations.com/en/22-plague-inc). Dessa spel illustrerar hur sjukdomar sprids genom världens sammankopplade nätverk. Eleverna får lära sig hur böldpesten spreds längs Sidenvägen.". Han menar att dessa spel modellerar orsaker som får effekter, som i sin tur får effekter, vilket lär ut **21:a århundradets färdighet att tänka i system**.
 
-## Other tools
-Teachers also can create their own form of EVGs by creating learning games in Google Classroom
+## Andra verktyg
+Lärare kan också skapa sin egen form av EVG genom att skapa inlärningsspel i Google Classroom
 
-> 📽 #VIDEO [How to create learning games in Google Classroom](https://www.youtube.com/watch?v=5TOXvl3Vig4)
+> 📽 #VIDEO [Hur man skapar inlärningsspel i Google Classroom] (https://www.youtube.com/watch?v=5TOXvl3Vig4)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/5TOXvl3Vig4"></iframe>
 
-## Students pre-evaluation and setup 
+## Elevernas förhandsutvärdering och installation 
 
-### Setup device
-Install the game on the device and run it once.
-If needed do some Android tuning (notifications, for example)
+### Installera enheten
+Installera spelet på enheten och kör det en gång.
+Om det behövs kan du göra några Android-inställningar (t.ex. notifieringar)
 
-# Assessment of Learning from Digital Games
+## Bedömning av lärande från digitala spel
 
-The way in which any game is assessed is crucial if it is to be purposeful, to be seen as appropriate by the students and to encourage them to engage in the learning experience.
-There are seven aspects that should be examined when determining the effectiveness of game-based learning.
+Det sätt på vilket ett spel utvärderas är avgörande om det ska vara ändamålsenligt, ses som lämpligt av eleverna och uppmuntra dem att engagera sig i inlärningsupplevelsen.
+Det finns sju aspekter som bör undersökas när man fastställer hur effektivt spelbaserat lärande är.
 
-- **Learner performance** - whether learning has taken place and there is an improvement in learner performance. 
-- **Motivation** – the levels of student motivation, interest and participation in the game.
-- **Perceptions** - the views of the students towards areas such as the experience of time passing, the realism of the game, amounts of complexity, support received and levels of perceived proficiency within the game.
-- **Attitudes** - feelings of the learners and teachers towards the subject itself and the use of games for learning within that subject.
-- **Collaboration** - the regularity and effectiveness of collaboration. (Connolly et al. argue that this is optional and dependent on the game design; I would argue that in the context of adult learning with games collaboration is an important part of the learning design.)
-- **Preferences** - inclinations of the learners and teachers towards, for example, different learning styles or modes of interaction.
-- Game-Based Learning **Environment** - factors associated with the game itself, such as the design of the environment, use of scaffolding, usability, levels of social presence and the way in which the game is deployed.
+- **Lärarens prestation** - om lärandet har ägt rum och om det finns en förbättring i lärarens prestation. 
+- **Motivation** - nivån på elevernas motivation, intresse och deltagande i spelet.
+- **Uppfattningar** - elevernas syn på områden som upplevelsen av att tiden går, spelets realism, komplexitet, erhållet stöd och nivåer av upplevd skicklighet inom spelet.
+- **Attityder** - elevernas och lärarnas känslor inför ämnet i sig och användningen av spel för lärande inom detta ämne.
+- **Samarbete** - regelbundenheten och effektiviteten i samarbetet. (Connolly et al. hävdar att detta är valfritt och beroende av speldesignen; jag skulle vilja hävda att i samband med vuxenutbildning med spel är samarbete en viktig del av inlärningsdesignen).
+- **Preferenser** - elevernas och lärarnas inställning till exempelvis olika inlärningsstilar eller interaktionssätt.
+- Spelbaserat lärande **Miljö** - faktorer som är kopplade till själva spelet, t.ex. miljöns utformning, användning av stödstrukturer, användbarhet, nivåer av social närvaro och det sätt på vilket spelet används.
 
-## Evaluation Tools: Analytics
-The analysts part is the more important 
+### Utvärderingsverktyg: Analys
+Analysdelen är den viktigaste 
 
 ![](../assets/img/game_learning_analytics.webp)
 
-### Engagement Survey
-This questionnaire can be used after an activity has been completed to evaluate the level of engagement relative to another activity. In order to analyse the results and compare levels of engagement between two different activities the following steps should be taken.
+### Enkät om engagemang
+Detta frågeformulär kan användas efter att en aktivitet har slutförts för att utvärdera engagemangsnivån i förhållande till en annan aktivitet. För att analysera resultaten och jämföra engagemangsnivåerna mellan två olika aktiviteter bör följande steg tas.
 
-- Allocate a value to each answer, where strongly disagree = -2 to strongly agree = 2
-- For negative items (e.g. ‘I could not tell what effect my actions had’) reverse this scale.
-- Add up the total points to get a value for engagement with the activity.
+- Tilldela ett värde till varje svar, där "instämmer inte alls" = -2 till "instämmer helt" = 2
+- För negativa frågor (t.ex. "Jag kunde inte säga vilken effekt mina handlingar hade") vänd på denna skala.
+- Lägg ihop de totala poängen för att få ett värde för engagemang i aktiviteten.
 
-Thinking about the activity you have just undertaken, please indicate the level to which you agree with the following statements:
+När du tänker på den aktivitet du just har genomfört, ange i vilken grad du håller med om följande påståenden:
 
-> Strongly Disagree (-2) | Disagree (-1) | Neither agree nor disagree (0) | Agree (1) | Strongly Agree (2)
+> Instämmer inte alls (-2) | Instämmer inte alls (-1) | Varken instämmer eller instämmer inte (0) | Instämmer (1) | Instämmer helt (2)
 
-- I wanted to complete the activity
-- I found the activity frustrating
-- I felt that I could achieve the goal of the activity
-- I knew what I had to do to complete the activity
-- I found the activity boring
-- It wasn’t clear what I could and couldn’t do
-- It was clear what I could learn from the activity
-- I felt absorbed in the activity 
-- The activity was pointless
-- I was not interested in exploring the options available
-- I did not care how the activity ended
-- I felt that time passed quickly
-- I found the activity satisfying
-- The activity would not let me do what I wanted
-- I could not tell what effect my actions had
-- I did not enjoy the activity
-- Feedback I was given was useful
-- I found it easy to get started
+- Jag ville slutföra aktiviteten
+- Jag tyckte att aktiviteten var frustrerande
+- Jag kände att jag kunde uppnå målet med aktiviteten
+- Jag visste vad jag behövde göra för att slutföra aktiviteten
+- Jag tyckte att aktiviteten var tråkig
+- Det var inte tydligt vad jag kunde och inte kunde göra
+- Det var tydligt vad jag kunde lära mig av aktiviteten
+- Jag kände mig uppslukad av aktiviteten 
+- Aktiviteten var meningslös
+- Jag var inte intresserad av att utforska de tillgängliga alternativen
+- Jag brydde mig inte om hur aktiviteten slutade
+- Jag kände att tiden gick fort
+- Jag fann aktiviteten tillfredsställande
+- Aktiviteten lät mig inte göra vad jag ville
+- Jag kunde inte avgöra vilken effekt mina handlingar hade
+- Jag njöt inte av aktiviteten
+- Den feedback jag fick var användbar
+- Jag tyckte det var lätt att komma igång
 
 ---
-## Unit Review
-- At the end.. what do you think about DGBL?
-- What do you think is the best attitude using games in classroom?
-- What do you need to improve your teaching sessions?
-- Are you going to play more videogames from tomorrow?
-- Did you like this course?
-- Did you learn something new?
-- What did you like most?
-- Have you some suggestion to improve this course?
+## Genomgång av enheten
+- I slutet... vad tycker du om DGBL?
+- Vad tycker du är den bästa inställningen till att använda spel i klassrummet?
+- Vad behöver du för att förbättra din undervisning?
+- Kommer du att spela fler videospel från och med imorgon?
+- Tyckte du om den här kursen?
+- Lärde du dig något nytt?
+- Vad gillade du mest?
+- Har du några förslag på hur vi kan förbättra kursen?

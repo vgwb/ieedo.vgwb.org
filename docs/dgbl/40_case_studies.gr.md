@@ -1,247 +1,247 @@
 ---
-title: 4 - Case studies
+title: 4 - Μελέτες περιπτώσεων
 has_children: true
 has_toc: false
 nav_order: 40
 ---
-# 4. Case Studies
+# 4. Μελέτες περίπτωσης
 
-**Learning Objectives**  
+**Μαθησιακοί στόχοι**  
 
-- Which existing videogames can we use?
-- What can we learn using commercial videogames?
+- Ποια υπάρχοντα βιντεοπαιχνίδια μπορούμε να χρησιμοποιήσουμε;
+- Τι μπορούμε να μάθουμε χρησιμοποιώντας εμπορικά βιντεοπαιχνίδια;
 
-## Educational games
+## Εκπαιδευτικά παιχνίδια
 
-### Antura & the Letters
+### Antura & τα γράμματα
 ![](../assets/img/games/antura.webp)
 
-The educational goal of the game is to help players to acquire the basics of Arabic literacy, including Arabic letters, reading comprehension, and some vocabulary. But the game also has a social well-being objective to support flow, engagement, and motivation
+Ο εκπαιδευτικός στόχος του παιχνιδιού είναι να βοηθήσει τους παίκτες να αποκτήσουν τα βασικά στοιχεία του αραβικού γραμματισμού, συμπεριλαμβανομένων των αραβικών γραμμάτων, της κατανόησης της ανάγνωσης και κάποιου λεξιλογίου. Αλλά το παιχνίδι έχει επίσης έναν στόχο κοινωνικής ευημερίας για να υποστηρίξει τη ροή, την εμπλοκή και την παρακίνηση
 
-> **Curricular connections**: Language learning; Arabic literacy; social and emotional learning 
-> **Possible skills taught**: Recognizing letters (shapes, names, phonemes); syllables and word reading; vocabulary
+> **Συνδέσεις με το πρόγραμμα σπουδών**: Κοινωνική και συναισθηματική μάθηση. 
+> **Πιθανές δεξιότητες που διδάσκονται**: Αναγνώριση γραμμάτων (σχήματα, ονόματα, φωνήματα)- συλλαβές και ανάγνωση λέξεων- λεξιλόγιο.
 
-website: [antura.org](https://www.antura.org)
+Ιστοσελίδα: [antura.org](https://www.antura.org)
 
 ### Dragon Box
 ![dragonbox](../assets/img/games/dragonbox.webp)
 
-Through playing with the digital manipulatives in *DragonBox games*, students deeply understand the mathematical concepts through active engagement, all while learning at their own pace.  Each of our games are based around “digital manipulatives”.  These digital manipulatives were designed to be used as a teaching tool, along with classroom instruction and discussion.  
-Website: [dragonbox.com](https://dragonbox.com/)
+Μέσω του παιχνιδιού με τα ψηφιακά χειριστικά μέσα στα παιχνίδια *DragonBox*, οι μαθητές κατανοούν βαθιά τις μαθηματικές έννοιες μέσω της ενεργητικής εμπλοκής, ενώ παράλληλα μαθαίνουν με το δικό τους ρυθμό.  Κάθε ένα από τα παιχνίδια μας βασίζεται γύρω από τα "ψηφιακά χειριστικά".  Αυτοί οι ψηφιακοί χειριστικοί μηχανισμοί σχεδιάστηκαν για να χρησιμοποιηθούν ως διδακτικό εργαλείο, μαζί με τη διδασκαλία και τη συζήτηση στην τάξη.  
+Δικτυακός τόπος: [dragonbox.com](https://dragonbox.com/)
 
 ### Dumb Ways to Die
 ![](../assets/img/games/dumbways.webp)
 
-An Australian public campaign made by Metro Trains in Melbourne, Victoria, Australia, to promote railway safety.   
-Website: [dumbwaystodie.com](http://www.dumbwaystodie.com)
+Δημόσια καμπάνια της Αυστραλίας που έγινε από την Metro Trains στη Μελβούρνη της Βικτώριας, Αυστραλία, για την προώθηση της ασφάλειας των σιδηροδρόμων.   
+Δικτυακός τόπος: [dumbwaystodie.com](http://www.dumbwaystodie.com)
 
 ### iCivics
 ![icivics](../assets/img/games/icivics.webp)
 
-**iCivics** exists to engage students in meaningful civic learning. We provide teachers well-written, inventive, and free resources that enhance their practice and inspire their classrooms. about. **iCivics** reimagines civic education for American democracy.  
-Website: [icivics.org](https://www.icivics.org)
+Το **iCivics** υπάρχει για να εμπλέκει τους μαθητές σε ουσιαστική μάθηση των πολιτών. Παρέχουμε στους εκπαιδευτικούς καλογραμμένους, ευρηματικούς και δωρεάν πόρους που ενισχύουν την πρακτική τους και εμπνέουν τις τάξεις τους. about. Το **iCivics** επαναπροσδιορίζει την πολιτική εκπαίδευση για την αμερικανική δημοκρατία.  
+Δικτυακός τόπος: [icivics.org](https://www.icivics.org)
 
-### Other titles
-- [Ludwig](http://www.playludwig.com) - educational game for physics
-- [80 Days](https://www.inklestudios.com/80days/) - adaptive educational game for geography
-- [Roma Nova](https://www.irit.fr/~David.Panzoli/romanova.html) - teaching history with brain interfaces
-- [Bionigma](https://www.gcc.tu-darmstadt.de) - science game for protein exploration
-- [Meister Cody](https://www.meistercody.com) - educational game for dyscalculia
-- [Orwell: Keeping an Eye on You](https://www.osmoticstudios.com/orwell-keeping-an-eye-on-you/) - learn personal information data management
+### Άλλοι τίτλοι
+- [Ludwig](http://www.playludwig.com) - εκπαιδευτικό παιχνίδι για τη φυσική
+- [80 Days](https://www.inklestudios.com/80days/) - προσαρμοστικό εκπαιδευτικό παιχνίδι για τη γεωγραφία
+- [Roma Nova](https://www.irit.fr/~David.Panzoli/romanova.html) - διδασκαλία ιστορίας με εγκεφαλικές διεπαφές
+- [Bionigma](https://www.gcc.tu-darmstadt.de) - επιστημονικό παιχνίδι για την εξερεύνηση πρωτεϊνών
+- [Meister Cody](https://www.meistercody.com) - εκπαιδευτικό παιχνίδι για τη δυσαριθμησία
+- [Orwell: Keeping an Eye on You](https://www.osmoticstudios.com/orwell-keeping-an-eye-on-you/) - εκμάθηση διαχείρισης προσωπικών δεδομένων πληροφοριών
 
-## Health
+## Υγεία
 
-### The Game that can give you 10 extra years of life
+### Το παιχνίδι που μπορεί να σας χαρίσει 10 επιπλέον χρόνια ζωής
 
-Game designer Jane McGonigal firmly believes that video games are not just about mashing buttons and getting to the next level. In fact, during her talk at TEDGlobal 2012, McGonigal gave several surprising statistics: that online gaming can be more effective than pharmaceuticals in treating **clinical depression** and that just 30 minutes a day is correlated with significant **increases in happiness**.
+Η σχεδιάστρια παιχνιδιών Jane McGonigal πιστεύει ακράδαντα ότι τα βιντεοπαιχνίδια δεν είναι μόνο για να πατάς κουμπιά και να φτάνεις στο επόμενο επίπεδο. Στην πραγματικότητα, κατά τη διάρκεια της ομιλίας της στο TEDGlobal 2012, η McGonigal έδωσε αρκετά εκπληκτικά στατιστικά στοιχεία: ότι το online gaming μπορεί να είναι πιο αποτελεσματικό από τα φάρμακα στη θεραπεία της **κλινικής κατάθλιψης** και ότι μόλις 30 λεπτά την ημέρα συσχετίζονται με σημαντική **αύξηση της ευτυχίας**.
 
-📽 #VIDEO [The game that can give you 10 extra years of life](https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life)
-<iframe width="937" height="527" src="https://www.youtube.com/embed/lfBpsV1Hwqs" title="The game that can give you 10 extra years of life | Jane McGonigal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+📽 #VIDEO [Το παιχνίδι που μπορεί να σας χαρίσει 10 επιπλέον χρόνια ζωής](https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life)
+<iframe width="937" height="527" src="https://www.youtube.com/embed/lfBpsV1Hwqs" title="Το παιχνίδι που μπορεί να σας χαρίσει 10 επιπλέον χρόνια ζωής | Jane McGonigal" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Some titles
-- [Re-Mission](https://hopelab.org/case-study/re-mission/) - help young cancer patients with treatment compliance
-- [Zombie Run](https://zombiesrungame.com) - Run in the Real World. Become a Hero in Another.
-- [Play Forward](https://www.play2prevent.org/our-games/playforward-elm-city-stories/) - HIV prevention
-- Respir Games (asthma therapy)
-- BalanceFit (balance, coordination and strength training)
-- [NEUROvitalis](https://www.headapp.com/en/neurovitalis-en/) - personalized cognitive training
-- KickAss (autism game for adolescents)
-- [Zirkus Empathica](https://www.zirkus-empathico.de/) - autism game for children
-- [SPARX](https://www.sparx.org.nz/home) - mental health game for youths & adolescents
+### Μερικοί τίτλοι
+- [Re-Mission](https://hopelab.org/case-study/re-mission/) - Βοηθήστε τους νεαρούς καρκινοπαθείς με τη συμμόρφωση στη θεραπεία
+- [Zombie Run](https://zombiesrungame.com) - Τρέξτε στον πραγματικό κόσμο. Γίνε ήρωας σε έναν άλλο.
+- [Play Forward](https://www.play2prevent.org/our-games/playforward-elm-city-stories/) - Πρόληψη του HIV
+- Respir Games (θεραπεία άσθματος)
+- BalanceFit (προπόνηση ισορροπίας, συντονισμού και δύναμης)
+- [NEUROvitalis](https://www.headapp.com/en/neurovitalis-en/) - εξατομικευμένη γνωστική εκπαίδευση
+- KickAss (παιχνίδι αυτισμού για εφήβους)
+- [Zirkus Empathica](https://www.zirkus-empathico.de/) - παιχνίδι αυτισμού για παιδιά
+- [SPARX](https://www.sparx.org.nz/home) - παιχνίδι ψυχικής υγείας για νέους και εφήβους
 
-## Empathy
+## Ενσυναίσθηση
 
-> The ability to identify with or understand another's situation or feelings
+> Η ικανότητα να ταυτίζεσαι ή να κατανοείς την κατάσταση ή τα συναισθήματα κάποιου άλλου
 
 ### This War of Mine
 ![](../assets/img/games/thiswarofmine.webp)
 
-This War of Mine is a war survival game that differs from most war-themed video games by focusing on the civilian experience of war rather than front line combat. Characters have to make many difficult decisions in order to survive everyday dangers. There are various endings for each character, depending on the decisions made in the game.  
-Website: [thiswarofmine.com](http://www.thiswarofmine.com)
+Το This War of Mine είναι ένα παιχνίδι πολεμικής επιβίωσης που διαφέρει από τα περισσότερα βιντεοπαιχνίδια με θέμα τον πόλεμο, καθώς εστιάζει στην εμπειρία του πολέμου ως πολίτης και όχι στη μάχη της πρώτης γραμμής. Οι χαρακτήρες πρέπει να λάβουν πολλές δύσκολες αποφάσεις προκειμένου να επιβιώσουν από τους καθημερινούς κινδύνους. Υπάρχουν διάφορες καταλήξεις για κάθε χαρακτήρα, ανάλογα με τις αποφάσεις που λαμβάνονται στο παιχνίδι.  
+Δικτυακός τόπος: [thiswarofmine.com](http://www.thiswarofmine.com)
 
 ### Papers, Please
 ![](../assets/img/games/papers_please.webp)
 
-**Papers, Please** is a single-player “Dystopian Document Thriller” in which the player steps into the role of an immigration inspector in the fictional country of Arstotzka in the year 1982. As the player stands on the threshold between two different countries, a unique perspective of immigration and border security springs out of the mundane task of inspecting papers. On a second layer, the player must simultaneously provide for their family using the salary earned from the job, which pays based on how many people have been processed through in a day. Balancing border security with the needs of the family is uniquely human, creating a juxtaposition that is new and interesting.  
-Website: [papersplea.se](https://www.papersplea.se/)
+Το **Papers, Please** είναι ένα "δυστοπικό θρίλερ εγγράφων" για έναν παίκτη, στο οποίο ο παίκτης μπαίνει στο ρόλο ενός επιθεωρητή μετανάστευσης στη φανταστική χώρα Arstotzka το έτος 1982. Καθώς ο παίκτης στέκεται στο κατώφλι μεταξύ δύο διαφορετικών χωρών, μια μοναδική προοπτική της μετανάστευσης και της ασφάλειας των συνόρων ξεπηδά από το καθημερινό καθήκον του ελέγχου εγγράφων. Σε ένα δεύτερο επίπεδο, ο παίκτης πρέπει ταυτόχρονα να συντηρεί την οικογένειά του χρησιμοποιώντας τον μισθό που κερδίζει από τη δουλειά του, ο οποίος πληρώνεται ανάλογα με το πόσοι άνθρωποι έχουν περάσει από τη διαδικασία μέσα σε μια μέρα. Η εξισορρόπηση της ασφάλειας των συνόρων με τις ανάγκες της οικογένειας είναι μοναδικά ανθρώπινη, δημιουργώντας μια αντιπαράθεση που είναι νέα και ενδιαφέρουσα.  
+Δικτυακός τόπος: [papersplea.se](https://www.papersplea.se/)
 
 ### Bounden
 ![bounden](../assets/img/games/bounden.webp)
 
-**Bounden** is a smartphone dance game that gets players to use their bodies. Two people hold opposite ends of one smartphone then move together to keep a cursor over the ball. What starts as a novel way to interact with the game slowly encourages the two players to move creatively together as they complete each level.  
-website: [playbounden.com](http://playbounden.com)
+Το **Bounden** είναι ένα παιχνίδι χορού για smartphone που κάνει τους παίκτες να χρησιμοποιούν το σώμα τους. Δύο άτομα κρατούν τις αντίθετες άκρες ενός smartphone και στη συνέχεια κινούνται μαζί για να κρατήσουν τον κέρσορα πάνω από την μπάλα. Αυτό που ξεκινά ως ένας νέος τρόπος αλληλεπίδρασης με το παιχνίδι ενθαρρύνει σιγά σιγά τους δύο παίκτες να κινηθούν δημιουργικά μαζί καθώς ολοκληρώνουν κάθε επίπεδο.  
+δικτυακός τόπος: [playbounden.com](http://playbounden.com)
 
-## Ethics
-> Ethics is the art and science of analysing issues of good, bad, right, wrong, just, and unjust.
+## Ηθική
+> Η ηθική είναι η τέχνη και η επιστήμη της ανάλυσης των θεμάτων του καλού, του κακού, του σωστού, του λάθους, του δίκαιου και του άδικου.
 
 ### PeaceMaker
 ![peacemaker](../assets/img/games/peacemaker.webp)
 
-A government simulation game which simulates the Israeli–Palestinian conflict.   
-Website [peacemakergame.com](http://peacemakergame.com)
+Ένα παιχνίδι προσομοίωσης κυβέρνησης που προσομοιώνει την ισραηλινοπαλαιστινιακή σύγκρουση.   
+Ιστοσελίδα [peacemakergame.com](http://peacemakergame.com)
 
 ### Phone Story
 ![phone_story](../assets/img/games/phone_story.webp)
 
-Phone Story is a game for smartphone devices that attempts to provoke a critical reflection on its own technological platform. Under the shiny surface of our electronic gadgets, behind its polished interface, hides the product of a troubling supply chain that stretches across the globe. Phone Story represents this process with four educational games that make the player symbolically complicit in coltan extraction in Congo, outsourced labor in China, e-waste in Pakistan and gadget consumerism in the West.
+Το Phone Story είναι ένα παιχνίδι για συσκευές smartphone που επιχειρεί να προκαλέσει έναν κριτικό προβληματισμό για την ίδια την τεχνολογική πλατφόρμα. Κάτω από τη γυαλιστερή επιφάνεια των ηλεκτρονικών μας συσκευών, πίσω από το γυαλισμένο περιβάλλον της, κρύβεται το προϊόν μιας ανησυχητικής αλυσίδας εφοδιασμού που εκτείνεται σε ολόκληρο τον κόσμο. Το Phone Story αναπαριστά αυτή τη διαδικασία με τέσσερα εκπαιδευτικά παιχνίδια που καθιστούν τον παίκτη συμβολικά συνένοχο στην εξόρυξη κολτάνου στο Κονγκό, στην εργασία σε εξωτερικούς συνεργάτες στην Κίνα, στα ηλεκτρονικά απόβλητα στο Πακιστάν και στον καταναλωτισμό των γκάτζετ στη Δύση.
 http://phonestory.org
 
 ### Unmanned
 ![unmanned](../assets/img/games/unmanned.webp)
-Most video shoot-em-up video games make war seem action-packed and glamorous. Unmanned aims to paint a far more realistic portrait, casting players as a soldier dealing with boredom and traumatic dreams, in addition to military duties.
+Τα περισσότερα βιντεοπαιχνίδια shoot-em-up κάνουν τον πόλεμο να φαίνεται γεμάτος δράση και γοητευτικός. Το Unmanned στοχεύει να ζωγραφίσει ένα πολύ πιο ρεαλιστικό πορτρέτο, βάζοντας τους παίκτες ως στρατιώτες που αντιμετωπίζουν την πλήξη και τα τραυματικά όνειρα, εκτός από τα στρατιωτικά καθήκοντα.
 http://unmanned.molleindustria.org
 
 ### Data Dealer
-Data Dealer is an online game about collecting and selling personal data - full of irony and gleeful sarcasm. It'´'s a browser/serious/edu/impact game about digital culture and surveillance and aims to raise awareness about online privacy in a new and fun way.
+Το Data Dealer είναι ένα διαδικτυακό παιχνίδι για τη συλλογή και πώληση προσωπικών δεδομένων - γεμάτο ειρωνεία και χαρούμενο σαρκασμό. Πρόκειται για ένα browser/serious/edu/impact παιχνίδι για την ψηφιακή κουλτούρα και την επιτήρηση και στοχεύει στην ευαισθητοποίηση σχετικά με την προστασία της ιδιωτικής ζωής στο διαδίκτυο με έναν νέο και διασκεδαστικό τρόπο.
 
 https://datadealer.com
 
 ### Half the Sky Movement
 ![halfthesky](../assets/img/games/halfthesky.webp)
-The Game is a game-based adventure that aims to reach mainstream audiences to raise awareness and donations to empower women and girls around the world.
+Το παιχνίδι είναι μια περιπέτεια βασισμένη σε παιχνίδι που στοχεύει να προσεγγίσει το mainstream κοινό για να αυξήσει την ευαισθητοποίηση και τις δωρεές για την ενδυνάμωση των γυναικών και των κοριτσιών σε όλο τον κόσμο.
 
 http://www.halftheskymovement.org
 
 ### Fate of the World
 ![fateoftheworld](../assets/img/games/fateoftheworld.webp)
-Fate of the World is a dramatic global strategy game that puts all our futures in your hands. The game features a dramatic set of scenarios based on the latest science covering the next two centuries. You must manage a balancing act of protecting the Earth's resources and climate versus the needs of an ever-growing world population
+Το Fate of the World είναι ένα δραματικό παιχνίδι παγκόσμιας στρατηγικής που θέτει το μέλλον όλων μας στα χέρια σας. Το παιχνίδι διαθέτει ένα δραματικό σύνολο σεναρίων βασισμένων στην τελευταία λέξη της επιστήμης που καλύπτουν τους επόμενους δύο αιώνες. Πρέπει να διαχειριστείτε μια πράξη εξισορρόπησης της προστασίας των πόρων και του κλίματος της Γης έναντι των αναγκών ενός συνεχώς αυξανόμενου παγκόσμιου πληθυσμού
 
 https://www.soothsayergames.com
 
-## Other games for social good
+## Άλλα παιχνίδια για το κοινωνικό καλό
 
-**World Without Oil**  
-Also a McGonigal creation, players in this game are dropped into a world where oil resources have been tapped and where they must get creative to survive the massive global shortage. The best part of the game? It teaches easy ways to use less oil in the real world—habits that players report keeping up when they aren’t playing.  
-[website](http://www.worldwithoutoil.org)
+**Κόσμος χωρίς πετρέλαιο**  
+Επίσης μια δημιουργία της McGonigal, οι παίκτες σε αυτό το παιχνίδι πέφτουν σε έναν κόσμο όπου οι πόροι πετρελαίου έχουν εξαντληθεί και όπου πρέπει να γίνουν δημιουργικοί για να επιβιώσουν από τη μαζική παγκόσμια έλλειψη. Το καλύτερο μέρος του παιχνιδιού; Διδάσκει εύκολους τρόπους για να χρησιμοποιούν λιγότερο πετρέλαιο στον πραγματικό κόσμο - συνήθειες που οι παίκτες αναφέρουν ότι διατηρούν όταν δεν παίζουν.  
+[ιστοσελίδα](http://www.worldwithoutoil.org)
 
-**FoldIt**  
-An online protein folding game, FoldIt allows its quarter million players to help with scientific research by stabilizing strings of amino acids. Think of it like biological Tetris — FoldIt makes a competition out of biological pattern recognition, leading to innovative solutions to problems that have frustrated scientific communities for years.  
-[website](http://fold.it/portal)
+**Δίπλωμα**  
+Ένα online παιχνίδι αναδίπλωσης πρωτεϊνών, το FoldIt επιτρέπει στο ένα τέταρτο εκατομμυρίων παικτών του να βοηθήσουν στην επιστημονική έρευνα σταθεροποιώντας σειρές αμινοξέων. Σκεφτείτε το σαν βιολογικό Tetris - το FoldIt κάνει διαγωνισμό την αναγνώριση βιολογικών προτύπων, οδηγώντας σε καινοτόμες λύσεις σε προβλήματα που απογοήτευαν τις επιστημονικές κοινότητες για χρόνια.  
+[ιστοσελίδα](http://fold.it/portal)
 
 **WAY**   
-Communicating across languages and cultures isn’t easy. But in this online game, two anonymous players — culled from different locations around the globe — must learn how to speak to each other as they navigate obstacles. Developed by CoCo & Co, this game took top honors at this year’s Games for Change Awards.  
-[website](http://www.makeourway.com/)
+Η επικοινωνία μεταξύ γλωσσών και πολιτισμών δεν είναι εύκολη. Αλλά σε αυτό το διαδικτυακό παιχνίδι, δύο ανώνυμοι παίκτες - που προέρχονται από διαφορετικές τοποθεσίες σε όλο τον κόσμο - πρέπει να μάθουν πώς να μιλούν ο ένας στον άλλο καθώς περνούν τα εμπόδια. Το παιχνίδι αυτό, που αναπτύχθηκε από την CoCo & Co, πήρε την πρώτη θέση στα φετινά βραβεία Games for Change Awards.  
+[ιστοσελίδα](http://www.makeourway.com/)
 
 **Budget Hero**    
-Think you could balance the national budget? Then you’ll want to play this game from American Public Media, which lets players see what happens to the national deficit when they increase funding to programs or opt to make difficult cuts. “Every member of Congress should be required to play this game,” said one of its creators.  
-[website](http://www.marketplace.org/topics/economy/budget-hero)
+Πιστεύετε ότι μπορείτε να εξισορροπήσετε τον εθνικό προϋπολογισμό; Τότε θα θέλετε να παίξετε αυτό το παιχνίδι από τα American Public Media, το οποίο επιτρέπει στους παίκτες να δουν τι συμβαίνει στο εθνικό έλλειμμα όταν αυξάνουν τη χρηματοδότηση των προγραμμάτων ή επιλέγουν να κάνουν δύσκολες περικοπές. "Κάθε μέλος του Κογκρέσου θα πρέπει να υποχρεούται να παίζει αυτό το παιχνίδι", δήλωσε ένας από τους δημιουργούς του.  
+[ιστοσελίδα](http://www.marketplace.org/topics/economy/budget-hero)
 
 **Pain Squad**  
-Children and teenagers with cancer are often asked to keep pain diaries — paperwork that is not only boring but focuses their attention on their discomfort. The iOS app Pain Squad makes the whole process fun and interactive — while also helping doctors provide better treatments for young patients.  
-[website](http://www.campaignpage.ca/sickkidsapp/)
+Τα παιδιά και οι έφηβοι με καρκίνο καλούνται συχνά να κρατούν ημερολόγια πόνου - γραφειοκρατία που όχι μόνο είναι βαρετή, αλλά εστιάζει την προσοχή τους στη δυσφορία τους. Η εφαρμογή Pain Squad για iOS κάνει την όλη διαδικασία διασκεδαστική και διαδραστική - ενώ παράλληλα βοηθά τους γιατρούς να παρέχουν καλύτερες θεραπείες για τους νεαρούς ασθενείς.  
+[ιστοσελίδα](http://www.campaignpage.ca/sickkidsapp/)
 
-**Spent**  
-When your bank account is in the black, it’s easy to think that anyone could pull themselves out of poverty by their boot straps. But in this online game, players are charged with looking for work while surviving on $1000 a month — highlighting that poverty and unemployment are systematic and not just the result of character flaws.  
+**Αναλώθηκε**  
+Όταν ο τραπεζικός σας λογαριασμός είναι μαύρος, είναι εύκολο να σκεφτείτε ότι ο καθένας μπορεί να βγει από τη φτώχεια με τις μπότες του. Αλλά σε αυτό το διαδικτυακό παιχνίδι, οι παίκτες καλούνται να αναζητήσουν εργασία, ενώ επιβιώνουν με 1000 δολάρια το μήνα - τονίζοντας ότι η φτώχεια και η ανεργία είναι συστηματικές και όχι μόνο αποτέλεσμα ελαττωμάτων του χαρακτήρα.  
 [playspent.org](http://playspent.org/)
 
-**Evoke**  
-Created by the World Bank Institute in conjunction with McGonigal, this game is a 10-week crash course in social innovation, giving players challenges from “food security” to “urban resilience,” and encouraging them to become a think tank on local challenges.  
+**Ανάκληση**  
+Δημιουργήθηκε από το Ινστιτούτο της Παγκόσμιας Τράπεζας σε συνεργασία με την McGonigal, αυτό το παιχνίδι είναι ένα ταχύρρυθμο μάθημα 10 εβδομάδων στην κοινωνική καινοτομία, δίνοντας στους παίκτες προκλήσεις από την "επισιτιστική ασφάλεια" έως την "αστική ανθεκτικότητα" και ενθαρρύνοντάς τους να γίνουν μια δεξαμενή σκέψης για τις τοπικές προκλήσεις.  
 [www.urgentevoke.com](http://www.urgentevoke.com)
 
-## Training and simulation
+## Εκπαίδευση και προσομοίωση
 
-📽 #VIDEO [Build better cities with games](https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/)
-<iframe width="937" height="527" src="https://www.youtube.com/embed/qYUmI5kGsYk" title="How a video game might help us build better cities | Karoliina Korppoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+📽 #VIDEO [Χτίστε καλύτερες πόλεις με παιχνίδια](https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/)
+<iframe width="937" height="527" src="https://www.youtube.com/embed/qYUmI5kGsYk" title="Πώς ένα βιντεοπαιχνίδι μπορεί να μας βοηθήσει να οικοδομήσουμε καλύτερες πόλεις | Karoliina Korppoo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Some titles:
-- [Democracy](https://positech.co.uk/democracy/) - political strategy game
+Μερικοί τίτλοι: "Ο Τζέιμς Τζέιμς Τζέιμς Τζέιμς Τζέιμς":
+- [Democracy](https://positech.co.uk/democracy/) - παιχνίδι πολιτικής στρατηγικής
 - [Flight Simulator](https://www.flightsimulator.com)
-- [Lost Earth 2307](https://www.iosb.fraunhofer.de/en/projects-and-products/lost-earth-2307.html) - image interpretation, military
-- [Ship Simulator](https://www.shipsim.com) - Maritime Search and Rescue
-- [SchaVIS](https://www.youtube.com/watch?v=xMvV7oOJozw) - flooding simulation and prevention
-- [Sharkworld](https://www.xmediaworks.nl/en/portfolio-items/sharkworld-a-project-management-game/) - project management training
-- [Houthoff Buruma](https://annex.fandom.com/wiki/Houthoff_Buruma_The_Game) - recruitment and assessment
+- [Lost Earth 2307](https://www.iosb.fraunhofer.de/en/projects-and-products/lost-earth-2307.html) - ερμηνεία εικόνας, στρατιωτικό
+- [Ship Simulator](https://www.shipsim.com) - Θαλάσσια έρευνα και διάσωση
+- [SchaVIS](https://www.youtube.com/watch?v=xMvV7oOJozw) - προσομοίωση και πρόληψη πλημμυρών
+- [Sharkworld](https://www.xmediaworks.nl/en/portfolio-items/sharkworld-a-project-management-game/) - εκπαίδευση στη διαχείριση έργων
+- [Houthoff Buruma](https://annex.fandom.com/wiki/Houthoff_Buruma_The_Game) - πρόσληψη και αξιολόγηση
 
-## Commercial games
-For the selected games we try to extract the **curricular connections** (learning topics) and the **possible skills taught**.
+## Εμπορικά παιχνίδια
+Για τα επιλεγμένα παιχνίδια προσπαθούμε να εξάγουμε τις **μαθησιακές συνδέσεις** (θέματα μάθησης) και τις **πιθανές δεξιότητες που διδάσκονται**.
 
-## Adventure
+## Περιπέτεια
 
 ### Gone home
 ![](../assets/img/games/gonehome.webp)
 
-A first-person exploration game where the player plays as Kaitlin Greenbriar, a student returning from a trip abroad. Most disconcerting is the whereabouts of Kaitlin’s younger sister Sam who has vanished, though not without a trace. To help determine what happened to Sam, the player must follow clues and journal entries to uncover numerous secrets hidden throughout the house.
+Ένα παιχνίδι εξερεύνησης πρώτου προσώπου όπου ο παίκτης παίζει τον ρόλο της Kaitlin Greenbriar, μιας φοιτήτριας που επιστρέφει από ένα ταξίδι στο εξωτερικό. Το πιο ανησυχητικό είναι το πού βρίσκεται η μικρότερη αδελφή της Kaitlin, η Sam, η οποία έχει εξαφανιστεί, αν και όχι χωρίς ίχνη. Για να βοηθήσει να εξακριβωθεί τι συνέβη στη Σαμ, ο παίκτης πρέπει να ακολουθήσει στοιχεία και καταχωρήσεις ημερολογίου για να αποκαλύψει πολλά μυστικά που είναι κρυμμένα σε όλο το σπίτι.
 
-> **Curricular connections:** English language arts; narrative studies; social and emotional learning; media literacy  
-> **Possible skills taught:** Environmental storytelling; character development; genre; linear vs. nonlinear narrative; game mechanics and narrative; intertextuality; perspective-taking
+**Σύνδεση με το πρόγραμμα σπουδών:** Αγγλικές γλωσσικές τέχνες, αφηγηματικές σπουδές, κοινωνική και συναισθηματική μάθηση, γραμματισμός στα μέσα ενημέρωσης.  
+> **Πιθανές δεξιότητες που διδάσκονται:** Περιβαλλοντική αφήγηση- ανάπτυξη χαρακτήρων- είδος- γραμμική vs. μη γραμμική αφήγηση- μηχανισμοί παιχνιδιού και αφήγηση- διακειμενικότητα- λήψη προοπτικής
 
 ### The walking dead
 ![](../assets/img/games/thewalkingdead.webp)
 
-The Walking Dead tells the story Lee Everett, a teacher from Atlanta caught right in the middle of a zombie apocalypse. During the game, the player plays as Lee through the trials and challenges that he and other survivors have to overcome. The gameplay is fairly straightforward, consisting mostly of controlling Lee to explore his surroundings and choosing his dialogue lines in conversation with other characters. As part of this, the player needs to act on Lee’s behalf in difficult, complex moral dilemmas.
+Το The Walking Dead αφηγείται την ιστορία του Lee Everett, ενός δασκάλου από την Ατλάντα που βρέθηκε ακριβώς στη μέση μιας αποκάλυψης ζόμπι. Κατά τη διάρκεια του παιχνιδιού, ο παίκτης υποδύεται τον Lee μέσα από τις δοκιμασίες και τις προκλήσεις που πρέπει να ξεπεράσει αυτός και οι άλλοι επιζώντες. Το gameplay είναι αρκετά απλό, αποτελούμενο κυρίως από τον έλεγχο του Lee για να εξερευνήσει το περιβάλλον του και την επιλογή των ατάκες διαλόγου του σε συνομιλίες με άλλους χαρακτήρες. Στο πλαίσιο αυτό, ο παίκτης πρέπει να ενεργήσει για λογαριασμό του Lee σε δύσκολα, σύνθετα ηθικά διλήμματα.
 
-> **Curricular connections:** Moral philosophy; ethics; social norms, history of ideas  
-> **Possible skills taught:** Decision making; systems thinking; higher-order thinking skills, such as cause and effect; critical thinking; reflection; game-to-self connections; game-to-world connections; mindfulness
+**Σύνδεση με το αναλυτικό πρόγραμμα:** Ηθική φιλοσοφία, ηθική, κοινωνικοί κανόνες, ιστορία των ιδεών  
+> **Πιθανές δεξιότητες που διδάσκονται:** Λήψη αποφάσεων, συστημική σκέψη, δεξιότητες σκέψης ανώτερης τάξης, όπως αιτία και αποτέλεσμα, κριτική σκέψη, προβληματισμός, συνδέσεις παιχνιδιού με τον εαυτό, συνδέσεις παιχνιδιού με τον κόσμο, ενσυνειδητότητα.
 
-Tips:
-1. Teachers should play the episode they will be using at least twice, as deep knowledge of the game is crucial to make the necessary curricular connections.
-2. Teachers should encourage students to base their arguments on ethical theories, and not just their “gut feeling.”
+Συμβουλές:
+1. Οι εκπαιδευτικοί θα πρέπει να παίξουν το επεισόδιο που θα χρησιμοποιήσουν τουλάχιστον δύο φορές, καθώς η βαθιά γνώση του παιχνιδιού είναι ζωτικής σημασίας για την πραγματοποίηση των απαραίτητων συνδέσεων στο αναλυτικό πρόγραμμα.
+2. Οι εκπαιδευτικοί θα πρέπει να ενθαρρύνουν τους μαθητές να βασίζουν τα επιχειρήματά τους σε ηθικές θεωρίες και όχι μόνο στο "ένστικτό" τους.
 
 ### Life is Strange
 ![](../assets/img/games/lifeisstrange.webp)
 
-The player takes on role of the female character Max Caulfield, an eighteen-year-old photography student, who tries to save the people of the town from a catastrophic tornado that might befall the Bay. Playing the game through a third person perspective, the player controls the character Max’s movements to explore the game environments, to uncover the game stories through Max’s involvement in various events, and to make life-changing decisions for Max based on choices offered by the game’s branching narrative.
+Ο παίκτης αναλαμβάνει το ρόλο του γυναικείου χαρακτήρα Max Caulfield, μιας δεκαοκτάχρονης φοιτήτριας φωτογραφίας, η οποία προσπαθεί να σώσει τους κατοίκους της πόλης από έναν καταστροφικό ανεμοστρόβιλο που μπορεί να πλήξει τον κόλπο. Παίζοντας το παιχνίδι μέσω μιας προοπτικής τρίτου προσώπου, ο παίκτης ελέγχει τις κινήσεις του χαρακτήρα Max για να εξερευνήσει τα περιβάλλοντα του παιχνιδιού, να αποκαλύψει τις ιστορίες του παιχνιδιού μέσω της εμπλοκής της Max σε διάφορα γεγονότα και να λάβει αποφάσεις που αλλάζουν τη ζωή της Max με βάση τις επιλογές που προσφέρει η διακλαδισμένη αφήγηση του παιχνιδιού.
 
-The player confronts several challenging moral dilemmas that require the player to make decisions, which ultimately could benefit one character but could cause devastating consequences for another.
+Ο παίκτης έρχεται αντιμέτωπος με διάφορα προκλητικά ηθικά διλήμματα που απαιτούν από τον παίκτη να λάβει αποφάσεις, οι οποίες τελικά μπορεί να ωφελήσουν έναν χαρακτήρα αλλά να προκαλέσουν καταστροφικές συνέπειες για κάποιον άλλο.
 
-In addition, the player can undo consequences by activating the rewinding clock game mechanic to travel to prior timepoints, and by making different decisions that can shape future events.
+Επιπλέον, ο παίκτης μπορεί να αναιρέσει τις συνέπειες ενεργοποιώντας το μηχανισμό παιχνιδιού με το ρολόι που γυρίζει πίσω για να ταξιδέψει σε προηγούμενες χρονικές στιγμές και παίρνοντας διαφορετικές αποφάσεις που μπορούν να διαμορφώσουν τα μελλοντικά γεγονότα.
 
-> **Curricular connections:** Philosophy; ethics; logic; English language arts; social and emotional skills  
-> **Possible skills taught:** Philosophical analysis; ethical analysis; narrative design; logical thinking; analyzing moral dilemmas; narrative design
+**Σύνδεση με το αναλυτικό πρόγραμμα:** Φιλοσοφία, ηθική, λογική, αγγλικές γλωσσικές τέχνες, κοινωνικές και συναισθηματικές δεξιότητες.  
+> **Πιθανές δεξιότητες που διδάσκονται:** Φιλοσοφική ανάλυση- ηθική ανάλυση- αφηγηματικός σχεδιασμός- λογική σκέψη- ανάλυση ηθικών διλημμάτων- αφηγηματικός σχεδιασμός
 
-### Assassin’s Creed (series)
+### Assassin's Creed (σειρά)
 ![](../assets/img/games/assassin.webp)
-The series comprises ten narrative-driven standard game chapters, each covering different chronological eras and locations, with a narrative arc that spans from Ptolemaic Egypt through the Holy Land at the time of the third Crusade; Renaissance Italy; the Americas in the Colonial Era; and the French Revolution. Gameplay is centered on open-world exploration, collecting hints and evidence and gathering or delivering information
+Η σειρά αποτελείται από δέκα αφηγηματικά βασισμένα σε τυπικά κεφάλαια παιχνιδιών, καθένα από τα οποία καλύπτει διαφορετικές χρονολογικές εποχές και τοποθεσίες, με ένα αφηγηματικό τόξο που εκτείνεται από την Πτολεμαϊκή Αίγυπτο μέχρι τους Αγίους Τόπους την εποχή της τρίτης Σταυροφορίας, την Ιταλία της Αναγέννησης, την Αμερική της Αποικιακής Εποχής και τη Γαλλική Επανάσταση. Το gameplay επικεντρώνεται στην εξερεύνηση ανοιχτού κόσμου, τη συλλογή υποδείξεων και στοιχείων και τη συγκέντρωση ή την παροχή πληροφοριών
 
-> **Curricular connections**: World history; World cultures; arts; English language learning; language learning; history of art and architecture; colonial history; piratical history; music  
-> **Possible skills taught**: art and architecture appreciation; music appreciation; task-based problem solving; listening and reading comprehension (ESL, foreign languages); ethical decision-making; argumentation; empathy; analyzing moral dilemmas
+> **Συνδέσεις με το αναλυτικό πρόγραμμα**: ιστορία της τέχνης και της αρχιτεκτονικής, αποικιακή ιστορία, πειρατική ιστορία, μουσική.  
+> **Πιθανές δεξιότητες που διδάσκονται**: εκτίμηση της τέχνης και της αρχιτεκτονικής- εκτίμηση της μουσικής- επίλυση προβλημάτων με βάση το έργο- κατανόηση ακουστικών και αναγνωστικών κειμένων (ΕΑΠ, ξένες γλώσσες)- ηθική λήψη αποφάσεων- επιχειρηματολογία- ενσυναίσθηση- ανάλυση ηθικών διλημμάτων
 
 ### The Legend of Zelda: Breath of the Wild
 ![](../assets/img/games/zelda.webp)
 
-This game drops the player in a vast, open-world landscape, giving Link complete freedom to explore the game’s many locations as he takes on a plethora of adventures, monsters, and puzzles. Because the game encourages experimentation and exploration, each player can shape the story according to their own pace and skills.
+Αυτό το παιχνίδι ρίχνει τον παίκτη σε ένα τεράστιο, ανοιχτό τοπίο, δίνοντας στον Link πλήρη ελευθερία να εξερευνήσει τις πολλές τοποθεσίες του παιχνιδιού, καθώς αντιμετωπίζει μια πληθώρα περιπετειών, τεράτων και γρίφων. Επειδή το παιχνίδι ενθαρρύνει τον πειραματισμό και την εξερεύνηση, κάθε παίκτης μπορεί να διαμορφώσει την ιστορία σύμφωνα με τον δικό του ρυθμό και τις δικές του ικανότητες.
 
-> **Curricular connections:** Social and emotional skills; management  
-> **Possible skills taught**: Focus, organization, time management; working memory; executive function
+**Συνδέσεις με το αναλυτικό πρόγραμμα:** Κοινωνικές και συναισθηματικές δεξιότητες- διαχείριση  
+> **Πιθανές δεξιότητες που διδάσκονται**: Μνήμη εργασίας, εκτελεστική λειτουργία.
 
-**Tips:** 
-1. After the students play Breath of the Wild, teachers should ensure that they understand how the executive functioning skills were used in the game.
-2. One way teachers can support reflection on skills used in the game is by encouraging students to write down specific examples of when success completion of quests required the use of each skill.
+**Συμβουλές:** 
+1. Αφού οι μαθητές παίξουν το Breath of the Wild, οι εκπαιδευτικοί θα πρέπει να διασφαλίσουν ότι κατανοούν πώς χρησιμοποιήθηκαν οι δεξιότητες εκτελεστικής λειτουργίας στο παιχνίδι.
+2. Ένας τρόπος με τον οποίο οι εκπαιδευτικοί μπορούν να υποστηρίξουν τον αναστοχασμό σχετικά με τις δεξιότητες που χρησιμοποιήθηκαν στο παιχνίδι είναι ενθαρρύνοντας τους μαθητές να καταγράψουν συγκεκριμένα παραδείγματα για το πότε η επιτυχής ολοκλήρωση των αποστολών απαιτούσε τη χρήση κάθε δεξιότητας.
 
-## Platform
+## Πλατφόρμα
 
 ### Braid
 ![](../assets/img/games/braid.webp)
-BRAID is a side-scrolling adventure. Each of the game's six worlds features a different **time-shifting game mechanic** that is used to decipher a series of **mind-bending puzzles**. Depending on the level and circumstance, time might slow down, enemies might move forwards or backwards depending on the direction in which our little blue-suited hero is running, or the clock may stop altogether. **Players can rewind time** as much as they like at any time and in any level.
+Το BRAID είναι μια περιπέτεια πλευρικής κύλισης. Κάθε ένας από τους έξι κόσμους του παιχνιδιού διαθέτει έναν διαφορετικό **μηχανισμό παιχνιδιού που μετατοπίζει το χρόνο** και χρησιμοποιείται για την αποκρυπτογράφηση μιας σειράς από **παζλ που σπάει το μυαλό**. Ανάλογα με το επίπεδο και την περίσταση, ο χρόνος μπορεί να επιβραδυνθεί, οι εχθροί μπορεί να κινηθούν προς τα εμπρός ή προς τα πίσω ανάλογα με την κατεύθυνση προς την οποία τρέχει ο μικρός μας ήρωας με το μπλε κοστούμι, ή το ρολόι μπορεί να σταματήσει εντελώς. **Οι παίκτες μπορούν να γυρίσουν πίσω το χρόνο** όσο θέλουν ανά πάσα στιγμή και σε οποιοδήποτε επίπεδο.
 
 
-### Never Alone
+### Ποτέ μόνος
 ![](../assets/img/games/neveralone.webp)
 
-In Never Alone you play as a young Inupiat girl, Nuna, who goes off on a journey to discover the source of an eternal blizzard that is threatening to destroy her village. Along the way she encounters an Arctic fox and a series of spirit creatures who aid her in her journey. Never Alone is a puzzle platformer in which the player can either control both Nuna and her artic fox companion to solve a series of puzzles that require an understanding of how various Inupiat tools, environmental elements (e.g., wild animals and weather) and NPCs (usually in the form of Inupiat spirit creatures) work. 
+Στο Never Alone παίζετε ως ένα νεαρό κορίτσι Inupiat, η Nuna, η οποία ξεκινάει ένα ταξίδι για να ανακαλύψει την πηγή μιας αιώνιας χιονοθύελλας που απειλεί να καταστρέψει το χωριό της. Στην πορεία συναντά μια αλεπού της Αρκτικής και μια σειρά από πνευματικά πλάσματα που τη βοηθούν στο ταξίδι της. Το Never Alone είναι ένα παιχνίδι πλατφόρμας γρίφων στο οποίο ο παίκτης μπορεί είτε να ελέγξει τη Nuna είτε τη σύντροφό της, την αλεπού της, για να λύσει μια σειρά από γρίφους που απαιτούν κατανόηση του τρόπου με τον οποίο λειτουργούν διάφορα εργαλεία Inupiat, περιβαλλοντικά στοιχεία (π.χ. άγρια ζώα και καιρός) και NPCs (συνήθως με τη μορφή πνευματικών πλασμάτων Inupiat). 
 
-> **Curricular connections:** Social studies; social and emotional learning  
-> **Possible skills taught:** Systems thinking; collaboration; decision-making
+**Σύνδεση με το αναλυτικό πρόγραμμα:** Κοινωνικές σπουδές, κοινωνική και συναισθηματική μάθηση.  
+> **Πιθανές δεξιότητες που διδάσκονται:** Συστημική σκέψη- συνεργασία- λήψη αποφάσεων
 
 ### Super Mario Maker 2
 ![](../assets/img/games/supermariomaker.webp)
@@ -250,63 +250,63 @@ In Never Alone you play as a young Inupiat girl, Nuna, who goes off on a journey
 
 ### Keep Talking and Nobody Explodes
 ![](../assets/img/games/keeptalking.webp)
-Keep Talking and Nobody Explodes is a cooperative puzzle virtual reality (VR) game, where players must defuse a bomb in a specific number of minutes. The game places players in one of two roles, the VR player and the manual expert(s). The VR player wears a virtual reality headset while the manual experts access a separate resource called the bomb manual. Once the game starts, it transports the VR player into a window-less, police examination-style room with the bomb and some tools. Each bomb consists of a timer and a variety of modules containing complex symbols or sets of rules. The VR player can view, manipulate, rotate, and move the bomb and other objects in the room. In contrast, the manual expert cannot see the bomb but can peruse the bomb manual.
+Το Keep Talking and Nobody Explodes είναι ένα συνεργατικό παιχνίδι παζλ εικονικής πραγματικότητας (VR), όπου οι παίκτες πρέπει να εξουδετερώσουν μια βόμβα σε συγκεκριμένο αριθμό λεπτών. Το παιχνίδι τοποθετεί τους παίκτες σε έναν από τους δύο ρόλους, τον παίκτη εικονικής πραγματικότητας και τον/τους εμπειρογνώμονα/ες χειροκίνητης χρήσης. Ο παίκτης εικονικής πραγματικότητας φοράει ένα σετ ακουστικών εικονικής πραγματικότητας, ενώ οι εμπειρογνώμονες χειροκίνητης χρήσης έχουν πρόσβαση σε έναν ξεχωριστό πόρο που ονομάζεται εγχειρίδιο βόμβας. Μόλις ξεκινήσει το παιχνίδι, μεταφέρει τον παίκτη εικονικής πραγματικότητας σε ένα δωμάτιο χωρίς παράθυρα, τύπου αστυνομικής εξέτασης, με τη βόμβα και κάποια εργαλεία. Κάθε βόμβα αποτελείται από έναν χρονοδιακόπτη και διάφορες ενότητες που περιέχουν σύνθετα σύμβολα ή σύνολα κανόνων. Ο παίκτης VR μπορεί να δει, να χειριστεί, να περιστρέψει και να μετακινήσει τη βόμβα και άλλα αντικείμενα στο δωμάτιο. Αντίθετα, ο ειδικός χειρογράφων δεν μπορεί να δει τη βόμβα, αλλά μπορεί να μελετήσει το εγχειρίδιο της βόμβας.
 
-**Curricular connections**: Computer science; communication; English language arts; reading 
-**Possible skills taught**: Logic; Problem solving; verbal communication; reading comprehension; teamwork
+**Συνδέσεις με το πρόγραμμα σπουδών**: Επικοινωνία, Αγγλική γλώσσα, ανάγνωση. 
+**Πιθανές δεξιότητες που διδάσκονται**: Λογική- επίλυση προβλημάτων- προφορική επικοινωνία- κατανόηση κειμένου- ομαδική εργασία.
 
-### Threes!
+### Τρία!
 ![](../assets/img/games/threes.webp)
-**Curricular connections**: mathematics 
-**Possible skills taught**: Logic; Problem solving
+**Συνδέσεις με το αναλυτικό πρόγραμμα**: Μαθηματικά 
+**Πιθανές δεξιότητες που διδάσκονται**: Λογική; Επίλυση προβλημάτων
 
-### Ruzzle
+### Παζλ
 ![](../assets/img/games/ruzzle.webp)
-**Curricular connections**: communication; reading 
-**Possible skills taught**: Logic; Problem solving; verbal communication; reading comprehension; teamwork
+**Συνδέσεις με τη διδακτέα ύλη**: επικοινωνία- ανάγνωση 
+**Πιθανές δεξιότητες που διδάσκονται**: Λογική- επίλυση προβλημάτων- προφορική επικοινωνία- κατανόηση κειμένου- ομαδική εργασία.
 
 ### Monument Valley
 ![](../assets/img/games/monumentvalley.webp)
-Monument Valley is an MC Escher-inspired puzzle game that bends architecture and follows a silent princess through a captivating world. 
-What makes this unique is the game's landscapes. Players can drag and turn parts of certain buildings to create a path from one area to the next. And, in others, stepping on trigger squares will change gravity and have you walking along the side of a wall. The game's physics is based on perception, so if you're able to position elements so there appears to be a path, you can use it, even if that path wouldn't exist in the real world.
+Το Monument Valley είναι ένα παιχνίδι παζλ εμπνευσμένο από τον MC Escher, το οποίο λυγίζει την αρχιτεκτονική και ακολουθεί μια σιωπηλή πριγκίπισσα σε έναν μαγευτικό κόσμο. 
+Αυτό που το κάνει μοναδικό είναι τα τοπία του παιχνιδιού. Οι παίκτες μπορούν να σύρουν και να γυρίσουν τμήματα ορισμένων κτιρίων για να δημιουργήσουν μια διαδρομή από τη μια περιοχή στην άλλη. Και, σε άλλα, πατώντας σε τετράγωνα σκανδάλης θα αλλάξει η βαρύτητα και θα σας βάλει να περπατήσετε κατά μήκος της πλευράς ενός τοίχου. Η φυσική του παιχνιδιού βασίζεται στην αντίληψη, οπότε αν είστε σε θέση να τοποθετήσετε στοιχεία έτσι ώστε να φαίνεται ότι υπάρχει μονοπάτι, μπορείτε να το χρησιμοποιήσετε, ακόμη και αν αυτό το μονοπάτι δεν θα υπήρχε στον πραγματικό κόσμο.
 
-### The Room
+### Το δωμάτιο
 ![](../assets/img/games/theroom.webp)
 
-> **Curricular connections:** mathematics; social studies; art; media studies; computer science; psychology; sociology; anthropology; biology; chemistry  
-> **Possible skills taught:** information literacy; quantitative reasoning; critical thinking; technological literacy; programming
+> **Συνδέσεις με το πρόγραμμα σπουδών:** μαθηματικά, κοινωνικές σπουδές, τέχνη, σπουδές μέσων μαζικής ενημέρωσης, πληροφορική, ψυχολογία, κοινωνιολογία, ανθρωπολογία, βιολογία, χημεία.  
+> **Πιθανές δεξιότητες που διδάσκονται:** πληροφοριακή παιδεία, ποσοτική σκέψη, κριτική σκέψη, τεχνολογικός αλφαβητισμός, προγραμματισμός.
 
-### Portal 2
+### Πύλη 2
 ![](../assets/img/games/portal.webp)
-Portal 2 (Valve Corporation, 2011) is a sequel to the original Portal both of which are enormously popular first-person puzzle-platform games where the player moves around the environment by shooting starting and ending portals into otherwise disconnected surfaces, thereby creating a link through which the player may move objects, including themselves. The game requires **extensive spatial acuity** and was quickly recognized for its potential use for **learning physics, problem solving, and critical thinking**.
+Το Portal 2 (Valve Corporation, 2011) είναι η συνέχεια του αρχικού Portal, και τα δύο είναι εξαιρετικά δημοφιλή παιχνίδια παζλ-πλατφόρμας πρώτου προσώπου, όπου ο παίκτης κινείται στο περιβάλλον πυροβολώντας πύλες έναρξης και λήξης σε κατά τα άλλα ασύνδετες επιφάνειες, δημιουργώντας έτσι έναν σύνδεσμο μέσω του οποίου ο παίκτης μπορεί να μετακινεί αντικείμενα, συμπεριλαμβανομένου και του εαυτού του. Το παιχνίδι απαιτεί **εκτεταμένη χωρική οξύτητα** και αναγνωρίστηκε γρήγορα για την πιθανή χρήση του για **εκμάθηση της φυσικής, επίλυση προβλημάτων και κριτική σκέψη**.
 
-> **Curricular connections:** Physics, geometry, English language arts; social and emotional learning
-> **Possible skills taught:** Communication skills; teamwork; problem-solving; critical thinking; logical thinking; spatial analysis; employment/career skills
+**Σύνδεση με το αναλυτικό πρόγραμμα:** Φυσική, γεωμετρία, αγγλικές γλωσσικές τέχνες, κοινωνική και συναισθηματική μάθηση.
+> **Πιθανές δεξιότητες που διδάσκονται:** Δεξιότητες επικοινωνίας, ομαδική εργασία, επίλυση προβλημάτων, κριτική σκέψη, λογική σκέψη, χωρική ανάλυση, δεξιότητες απασχόλησης/καριέρας.
 
 {: .highlight }
-> How to use Portal 2 in a STEM / Physics classroom: [read here](https://www.foundry10.org/programs/games-and-learning/portal-2)
+> Πώς να χρησιμοποιήσετε το Portal 2 σε μια τάξη STEM / Φυσικής: [διαβάστε εδώ](https://www.foundry10.org/programs/games-and-learning/portal-2)
 
-## Role Play
+## Παιχνίδι ρόλων
 
 ### Final Fantasy serie
 ![](../assets/img/games/finalfantasy.webp)
-**Curricular connections:** Modern literature; science fiction; cultural studies; media studies, humanities; psychology; urban studies  
-**Possible skills taught:** critical thinking, creativity, ethical judgment
+**Συνδέσεις με το πρόγραμμα σπουδών:** Σύγχρονη λογοτεχνία- επιστημονική φαντασία- πολιτισμικές σπουδές- σπουδές μέσων μαζικής ενημέρωσης, ανθρωπιστικές επιστήμες- ψυχολογία- αστικές σπουδές  
+**Πιθανές δεξιότητες που διδάσκονται:** κριτική σκέψη, δημιουργικότητα, ηθική κρίση
 
 ### World of Warcraft
 ![](../assets/img/games/wow.webp)
-World of Warcraft (WoW) is one of the first and largest subscription-based massively multiplayer online role-playing games (MMORPGs) today. WoW offers players two factions (Alliance and Horde) who compete and collaborate to protect their world, Azeroth, against external and internal threats. Players can participate in a mix of activities such as **individual** and **collaborative** quests, gathering and crafting professions, raiding, battlegrounds, arenas, social and private text chat, and a combined open bid auction house. Players can also choose between individual gameplay, joining groups of up to 40 players, or joining guilds with 100s of members.
+Το World of Warcraft (WoW) είναι σήμερα ένα από τα πρώτα και μεγαλύτερα συνδρομητικά διαδικτυακά παιχνίδια ρόλων μαζικού πολλαπλασιασμού (MMORPGs). Το WoW προσφέρει στους παίκτες δύο φατρίες (Alliance και Horde) που ανταγωνίζονται και συνεργάζονται για να προστατεύσουν τον κόσμο τους, το Azeroth, από εξωτερικές και εσωτερικές απειλές. Οι παίκτες μπορούν να συμμετέχουν σε ένα μείγμα δραστηριοτήτων όπως **ατομικές** και **συνεργατικές** αποστολές, επαγγέλματα συλλογής και κατασκευής, επιδρομές, πεδία μάχης, αρένες, κοινωνική και ιδιωτική συνομιλία κειμένου και ένα συνδυασμένο δημοπρατήριο ανοικτών προσφορών. Οι παίκτες μπορούν επίσης να επιλέξουν μεταξύ ατομικού παιχνιδιού, συμμετοχής σε ομάδες έως 40 παικτών ή συμμετοχής σε συντεχνίες με 100 μέλη.
 
-> **Curricular connections:** Accounting; business; supply chain management  
-> **Possible skills taught:** Market research; financial statements; marketing; accounting spreadsheets; trading
+> **Σύνδεση με το πρόγραμμα σπουδών:** Λογιστική, επιχειρήσεις, διαχείριση εφοδιαστικής αλυσίδας  
+> **Πιθανές δεξιότητες που διδάσκονται:** Έρευνα αγοράς- οικονομικές καταστάσεις- μάρκετινγκ- λογιστικά λογιστικά φύλλα- εμπόριο
 
 ### Deus EX - Human Revolution
 ![](../assets/img/games/deusex.webp)
 
-An immersive cyberpunk environment with striking visuals, suspenseful storytelling and compelling characterization. The action shifts, as in cyberpunk novels, between mega cities or urban hubs. The game’s narrative and gameplay revolve around transhumanism.
+Ένα καθηλωτικό cyberpunk περιβάλλον με εντυπωσιακά γραφικά, συναρπαστική αφήγηση και συναρπαστικούς χαρακτήρες. Η δράση μετατοπίζεται, όπως στα cyberpunk μυθιστορήματα, μεταξύ μεγαλουπόλεων ή αστικών κέντρων. Η αφήγηση και το gameplay του παιχνιδιού περιστρέφονται γύρω από τον τρανσουμανισμό.
 
-**Curricular connections:** Modern literature; science fiction; cultural studies; media studies, humanities; psychology; urban studies  
-**Possible skills taught:** critical thinking, creativity, ethical judgment
+**Συνδέσεις με το πρόγραμμα σπουδών:** Σύγχρονη λογοτεχνία- επιστημονική φαντασία- πολιτισμικές σπουδές- σπουδές μέσων μαζικής ενημέρωσης, ανθρωπιστικές σπουδές- ψυχολογία- αστικές σπουδές  
+**Πιθανές δεξιότητες που διδάσκονται:** κριτική σκέψη, δημιουργικότητα, ηθική κρίση
 
 ## Shooter
 
@@ -315,94 +315,94 @@ An immersive cyberpunk environment with striking visuals, suspenseful storytelli
 
 ### Call of Duty
 ![](../assets/img/games/callofduty.webp)
-In the **single-player** campaign, the player takes on the roles of various characters, including a United States Marine and a British Special Air Service (SAS) operative. The player’s perspective changes dependent on the character and as the plot evolves through non-playable events and playable missions. Missions typically include objectives based around eliminating enemies, passing checkpoints, securing objectives against attackers or destroying an enemy location. In the **multiplayer** version, the series utilizes these mechanics for various team-based and deathmatch-based modes across various maps.
+Στην καμπάνια **ενός παίκτη**, ο παίκτης αναλαμβάνει τους ρόλους διαφόρων χαρακτήρων, μεταξύ των οποίων ένας πεζοναύτης των Ηνωμένων Πολιτειών και ένας Βρετανός πράκτορας της Ειδικής Υπηρεσίας Αεροπορίας (SAS). Η προοπτική του παίκτη αλλάζει ανάλογα με τον χαρακτήρα και καθώς η πλοκή εξελίσσεται μέσω μη παιγνύσιμων γεγονότων και παιγνύσιμων αποστολών. Οι αποστολές περιλαμβάνουν συνήθως στόχους που βασίζονται στην εξόντωση εχθρών, τη διέλευση σημείων ελέγχου, την εξασφάλιση στόχων από επιτιθέμενους ή την καταστροφή μιας εχθρικής τοποθεσίας. Στην έκδοση **πολλαπλών παικτών**, η σειρά χρησιμοποιεί αυτούς τους μηχανισμούς για διάφορους ομαδικούς και deathmatch τρόπους σε διάφορους χάρτες.
 
-> **Curricular connections:** History; politics; international relations; ethics   
-> **Possible skills taught:** Ethical decision-making; ethical design; analyzing moral dilemmas, narrative design
+> **Σύνδεση με τα μαθήματα:** Ιστορία, πολιτική, διεθνείς σχέσεις, ηθική.   
+> **Πιθανές δεξιότητες που διδάσκονται:** Ηθική λήψη αποφάσεων- ηθικός σχεδιασμός- ανάλυση ηθικών διλημμάτων, σχεδιασμός αφηγήσεων
 
 ### Fortnite
 ![](../assets/img/games/fortnite.webp)
-Fortnite is an online action game published by Epic Games in 2017. It is set in a near future and adopts a third person perspective and cartoonish aesthetics. It includes three different modalities.
+Το Fortnite είναι ένα διαδικτυακό παιχνίδι δράσης που δημοσιεύθηκε από την Epic Games το 2017. Τοποθετείται σε ένα κοντινό μέλλον και υιοθετεί προοπτική τρίτου προσώπου και καρτουνίστικη αισθητική. Περιλαμβάνει τρεις διαφορετικές λειτουργίες.
 
-- Fortnite: **Battle Royale** mimics the PlayerUnknown’s Battlegrounds formula by presenting a ludic system where up to 100 players compete in one-versus- one or team-versus-team modes.
-- Fortnite: **Save the World** is a cooperative survival experience where four players are asked to complete several missions against the game. Tasks span killing enemies, collecting materials, and building shelters for stopping armies of zombies.
-- Fortnite **Creative** is a creative mode that provides several editing tools. Players can build and craft different structures and objects on personalized islands.
+- Fortnite: **Battle Royale** μιμείται τη φόρμουλα του PlayerUnknown's Battlegrounds, παρουσιάζοντας ένα λουδιστικό σύστημα όπου έως και 100 παίκτες ανταγωνίζονται σε λειτουργίες one-versus-one ή team-versus-team.
+- Fortnite: **Save the World** είναι μια συνεργατική εμπειρία επιβίωσης όπου τέσσερις παίκτες καλούνται να ολοκληρώσουν διάφορες αποστολές ενάντια στο παιχνίδι. Οι αποστολές περιλαμβάνουν τη δολοφονία εχθρών, τη συλλογή υλικών και την κατασκευή καταφυγίων για να σταματήσουν στρατιές ζόμπι.
+- Το Fortnite **Creative** είναι μια δημιουργική λειτουργία που παρέχει διάφορα εργαλεία επεξεργασίας. Οι παίκτες μπορούν να χτίσουν και να κατασκευάσουν διάφορες κατασκευές και αντικείμενα σε εξατομικευμένα νησιά.
 
-> **Curricular connections:** Critical theory; digital cultures; educational technology; social and emotional learning  
-> **Possible skills taught:** Collaborative thinking; connectivist thinking; creativity; critical thinking; social media literacy
+> **Σύνδεση με το πρόγραμμα σπουδών:** Κριτική θεωρία- ψηφιακές κουλτούρες- εκπαιδευτική τεχνολογία- κοινωνική και συναισθηματική μάθηση.  
+> **Πιθανές δεξιότητες που διδάσκονται:** Συνεργατική σκέψη- συνδετιστική σκέψη- δημιουργικότητα- κριτική σκέψη- γραμματισμός στα μέσα κοινωνικής δικτύωσης
 
-## Sports
+## Αθλητισμός
 
 ### NBA2K14
 ![](../assets/img/games/nba.webp)
-**Curricular connections:** Social Studies; biomechanics; economics; biometrics; management **Possible skills taught:** Systems thinking; collaboration; decision-making; critical gaming vocabulary; critical thinking; historical awareness
+**Σύνδεση με το αναλυτικό πρόγραμμα:** Κοινωνικές σπουδές- εμβιομηχανική- οικονομικά- βιομετρία- διοίκηση **Πιθανές δεξιότητες που διδάσκονται:** Συστημική σκέψη- συνεργασία- λήψη αποφάσεων- λεξιλόγιο κρίσιμων παιχνιδιών- κριτική σκέψη- ιστορική συνείδηση
 
-## Strategy
+## Στρατηγική
 
-### Civilization 
+### Πολιτισμός 
 ![](../assets/img/games/civilization.webp)
-Players guide a civilization from the bronze age to the near-future competing against other humans or an artificially intelligent computer player, earning points for how powerful and advanced their civilization becomes. Before starting a game, players choose one of multiple civilizations to lead, each with unique gameplay abilities based on the circumstances or achievements of their real-life counterparts.
+Οι παίκτες καθοδηγούν έναν πολιτισμό από την εποχή του χαλκού έως το κοντινό μέλλον ανταγωνιζόμενοι άλλους ανθρώπους ή έναν τεχνητά ευφυή παίκτη υπολογιστή, κερδίζοντας πόντους για το πόσο ισχυρός και προηγμένος γίνεται ο πολιτισμός τους. Πριν ξεκινήσουν ένα παιχνίδι, οι παίκτες επιλέγουν έναν από τους πολλαπλούς πολιτισμούς που θα ηγηθούν, ο καθένας με μοναδικές ικανότητες παιχνιδιού που βασίζονται στις συνθήκες ή τα επιτεύγματα των αντίστοιχων πολιτισμών της πραγματικής ζωής.
 
-> **Curricular connections:** History; geography; civics; economics; sociology  
-> **Possible skills taught:** critical thinking; experimentation; cost-benefit analysis; cooperation; inquiry- based learning
+**Σύνδεση με το αναλυτικό πρόγραμμα:** Ιστορία, γεωγραφία, πολιτική αγωγή, οικονομία, κοινωνιολογία.  
+> **Πιθανές δεξιότητες που διδάσκονται:** κριτική σκέψη, πειραματισμός, ανάλυση κόστους-οφέλους, συνεργασία, διερευνητική μάθηση.
 
-**Tips:**
-1. Teachers should take time to learn the structure, controls, and mechanics of the game before introducing students to it.
-2. Students might have some initial frustration when learning how to play.
-3. Teachers can explore specific topics by creating their own custom game or scenario.
-Hundreds of free player-made mods can be found online.
+**Συμβουλές:**
+1. Οι εκπαιδευτικοί θα πρέπει να αφιερώσουν χρόνο για να μάθουν τη δομή, τον έλεγχο και τους μηχανισμούς του παιχνιδιού πριν εισαγάγουν τους μαθητές σε αυτό.
+2. Οι μαθητές μπορεί να έχουν κάποια αρχική απογοήτευση όταν μαθαίνουν πώς να παίζουν.
+3. Οι εκπαιδευτικοί μπορούν να εξερευνήσουν συγκεκριμένα θέματα δημιουργώντας το δικό τους προσαρμοσμένο παιχνίδι ή σενάριο.
+Στο διαδίκτυο μπορούν να βρεθούν εκατοντάδες δωρεάν mods που έχουν δημιουργηθεί από παίκτες.
 
 ### Pandemic
 ![](../assets/img/games/pandemic.webp)
-Pandemic is a cooperative game where a team of players take on unique roles (e.g., medic, scientist, researcher) as members of a global health organization who are charged with combating disease outbreaks and ultimately, curing four contagions as they emerge around the planet. Players are confronted with a collective choice as to how to best deploy their individual resources to confront immediate health conditions or develop a long-term plan to cure each illness.
+Το Pandemic είναι ένα συνεργατικό παιχνίδι όπου μια ομάδα παικτών αναλαμβάνει μοναδικούς ρόλους (π.χ. γιατρός, επιστήμονας, ερευνητής) ως μέλη ενός παγκόσμιου οργανισμού υγείας, οι οποίοι είναι επιφορτισμένοι με την καταπολέμηση των επιδημιών ασθενειών και, τελικά, με τη θεραπεία τεσσάρων μεταδοτικών ασθενειών που εμφανίζονται σε όλο τον πλανήτη. Οι παίκτες έρχονται αντιμέτωποι με μια συλλογική επιλογή ως προς το πώς θα χρησιμοποιήσουν καλύτερα τους ατομικούς τους πόρους για να αντιμετωπίσουν τις άμεσες συνθήκες υγείας ή να αναπτύξουν ένα μακροπρόθεσμο σχέδιο για τη θεραπεία κάθε ασθένειας.
 
-**Curricular connections:** Public policy; epidemiology; health; biology; social and emotional learning; information sciences  
+**Σύνδεση με το αναλυτικό πρόγραμμα:** Δημόσια πολιτική, επιδημιολογία, υγεία, βιολογία, κοινωνική και συναισθηματική μάθηση, επιστήμες της πληροφορίας.  
 
-**Possible skills taught:** Algorithm building; probability-based predicting; argumentation; rhetoric; collaboration; communication; advocacy; planning; decision making; logic
+**Πιθανές δεξιότητες που διδάσκονται:** Κατασκευή αλγορίθμων- πρόβλεψη βάσει πιθανοτήτων- επιχειρηματολογία- ρητορική- συνεργασία- επικοινωνία- συνηγορία- σχεδιασμός- λήψη αποφάσεων- λογική
 
 ### SimCity
 ![](../assets/img/games/simcity.webp)
 
-SimCity is a simulation video game with the main goal to develop a thriving city from small town beginnings. Players control the development of the city by defining development zones, installing technical infrastructure (e.g., traffic roads and water supply installments), and providing services (e.g., schools and fire departments). The type of development zones (industrial, commercial, or residential) determines the kinds of buildings that get automatically constructed in the zone. During the game, players must constantly ensure balanced development conditions, such as adherence to budgets and maintaining the satisfaction of citizens.
+Το SimCity είναι ένα βιντεοπαιχνίδι προσομοίωσης με κύριο στόχο την ανάπτυξη μιας ακμάζουσας πόλης από το ξεκίνημα μιας μικρής πόλης. Οι παίκτες ελέγχουν την ανάπτυξη της πόλης καθορίζοντας ζώνες ανάπτυξης, εγκαθιστώντας τεχνικές υποδομές (π.χ. δρόμους κυκλοφορίας και εγκαταστάσεις ύδρευσης) και παρέχοντας υπηρεσίες (π.χ. σχολεία και πυροσβεστικές υπηρεσίες). Ο τύπος των ζωνών ανάπτυξης (βιομηχανικές, εμπορικές ή οικιστικές) καθορίζει τα είδη των κτιρίων που κατασκευάζονται αυτόματα στη ζώνη. Κατά τη διάρκεια του παιχνιδιού, οι παίκτες πρέπει να διασφαλίζουν συνεχώς ισορροπημένες συνθήκες ανάπτυξης, όπως η τήρηση των προϋπολογισμών και η διατήρηση της ικανοποίησης των πολιτών.
 
-**Curricular connections**: urban and regional planning, urban development, urban geography, (governmental) policy making, technical infrastructure, environmental studies
+**Συνδέσεις με το πρόγραμμα σπουδών**: αστικός και περιφερειακός σχεδιασμός, αστική ανάπτυξη, αστική γεωγραφία, χάραξη (κυβερνητικής) πολιτικής, τεχνικές υποδομές, περιβαλλοντικές μελέτες
 
-**Possible skills taught:** systems thinking, system planning and control, system development, concept of sustainability
+**Πιθανές δεξιότητες που διδάσκονται:** συστημική σκέψη, σχεδιασμός και έλεγχος συστημάτων, ανάπτυξη συστημάτων, έννοια της βιωσιμότητας
 
 ### This War of Mine
 ![](../assets/img/games/thiswarofmine.webp)
-Unlike a typical war game where players usually assume the role of capable soldiers, this game puts the player into the shoes of a group of civilians who live in a besieged city trying to survive, aiming to promote empathy and awareness of real-world armed conflicts, and many believed it was achieved.
+Σε αντίθεση με ένα τυπικό πολεμικό παιχνίδι όπου οι παίκτες συνήθως αναλαμβάνουν το ρόλο ικανών στρατιωτών, αυτό το παιχνίδι βάζει τον παίκτη στη θέση μιας ομάδας πολιτών που ζουν σε μια πολιορκημένη πόλη και προσπαθούν να επιβιώσουν, με στόχο να προωθήσει την ενσυναίσθηση και την ευαισθητοποίηση για τις ένοπλες συγκρούσεις στον πραγματικό κόσμο, και πολλοί πίστεψαν ότι το πέτυχαν.
 
-**Curricular connections:** Social and emotional learning; ethics; game design
-**Possible skills taught:** Empathy; moral dilemmas; decision-making; narrative design
-**Tips:**
-1.  Game play can extend outside the classroom for a more complete experience.
-2.  For a more advanced study, students can start the game with a weaker character profile—instead of the initial settings suggested in Figure 3—to challenge the player’s morality and decision-making skills.
+**Συνδέσεις με το πρόγραμμα σπουδών:** Κοινωνική και συναισθηματική μάθηση- ηθική- σχεδιασμός παιχνιδιών
+**Πιθανές δεξιότητες που διδάσκονται:** Ενσυναίσθηση- ηθικά διλήμματα- λήψη αποφάσεων- σχεδιασμός αφηγήσεων
+**Συμβουλές:**
+1.  Το παιχνίδι μπορεί να επεκταθεί και εκτός της τάξης για μια πιο ολοκληρωμένη εμπειρία.
+2.  Για μια πιο προχωρημένη μελέτη, οι μαθητές μπορούν να ξεκινήσουν το παιχνίδι με ένα πιο αδύναμο προφίλ χαρακτήρα -αντί για τις αρχικές ρυθμίσεις που προτείνονται στην Εικόνα 3- για να προκαλέσουν την ηθική και τις δεξιότητες λήψης αποφάσεων του παίκτη.
 
-## Casual games
+## Περιστασιακά παιχνίδια
 
 ### Fancade
 ![](../assets/img/games/fancade.webp)
-Fancade is a huge collection of simple games. Play them instantly, or make your own game using drag-n-drop building blocks!
-website: [fancade.com](https://www.fancade.com)
+Το Fancade είναι μια τεράστια συλλογή απλών παιχνιδιών. Παίξτε τα αμέσως ή φτιάξτε το δικό σας παιχνίδι χρησιμοποιώντας δομικά στοιχεία drag-n-drop!
+δικτυακός τόπος: [fancade.com](https://www.fancade.com)
 
 ## Sandbox
 
 ### Minecraft
 ![](../assets/img/games/minecraft.webp)
-Minecraft is an open-world game, allowing players opportunity for unlimited exploration and creation. Gameplay takes place in a pixelated 3-D environment resembling a natural world with many different biomes (e.g. forests, tundra, and deserts). Every element of the world is made from blocks of corresponding materials. For example, trees are made from blocks of wood and ores in blocks of ore. Players can break apart and collect these blocks using their hands, or tools crafted in the game using found materials. Survival is the key objective of Minecraft, which is predicated on players’ ability to maintain both their own health and wellbeing.
+Το Minecraft είναι ένα παιχνίδι ανοιχτού κόσμου, που δίνει στους παίκτες την ευκαιρία για απεριόριστη εξερεύνηση και δημιουργία. Το gameplay λαμβάνει χώρα σε ένα τρισδιάστατο περιβάλλον με pixelated εικόνα που μοιάζει με φυσικό κόσμο με πολλούς διαφορετικούς βιοτόπους (π.χ. δάση, τούνδρα και έρημους). Κάθε στοιχείο του κόσμου είναι κατασκευασμένο από μπλοκ αντίστοιχων υλικών. Για παράδειγμα, τα δέντρα κατασκευάζονται από μπλοκ ξύλου και τα μεταλλεύματα από μπλοκ μεταλλεύματος. Οι παίκτες μπορούν να σπάσουν και να συλλέξουν αυτά τα μπλοκ χρησιμοποιώντας τα χέρια τους ή εργαλεία που κατασκευάζονται στο παιχνίδι χρησιμοποιώντας υλικά που έχουν βρεθεί. Η επιβίωση είναι ο βασικός στόχος του Minecraft, ο οποίος βασίζεται στην ικανότητα των παικτών να διατηρούν τόσο τη δική τους υγεία όσο και την ευημερία τους.
 
-**Curricular connections:** Foundational knowledge (English language arts, geography); meta-knowledge (cause and effect, narrative experience); humanistic knowledge (cultural competence)   
-**Possible skills taught:** Writing; critical thinking; exploration; experimentation; cause and effect; mapping; building; design; creativity; resource management; communication
+**Συνδέσεις με το αναλυτικό πρόγραμμα:** Θεμελιώδεις γνώσεις (αγγλική γλώσσα, γεωγραφία)- μετα-γνώση (αιτία και αποτέλεσμα, αφηγηματική εμπειρία)- ανθρωπιστική γνώση (πολιτισμική επάρκεια).   
+**Πιθανές δεξιότητες που διδάσκονται:** Συγγραφή, κριτική σκέψη, εξερεύνηση, πειραματισμός, αιτία και αποτέλεσμα, χαρτογράφηση, κατασκευή, σχεδιασμός, δημιουργικότητα, διαχείριση πόρων, επικοινωνία.
 
-website: [minecraft.net](https://www.minecraft.net)
+δικτυακός τόπος: [minecraft.net](https://www.minecraft.net)
 
 ### Kerbal Space Program
 ![](../assets/img/games/kerbal.webp)
 
-Take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbol solar system, constructing bases and space stations to expand the reach of your expedition.  
-website: [kerbalspaceprogram.com](https://www.kerbalspaceprogram.com)
+Αναλάβετε την ευθύνη του διαστημικού προγράμματος για την εξωγήινη φυλή γνωστή ως Kerbals. Έχετε πρόσβαση σε μια σειρά εξαρτημάτων για να συναρμολογήσετε πλήρως λειτουργικά διαστημόπλοια που πετούν (ή δεν πετούν) με βάση τη ρεαλιστική αεροδυναμική και τροχιακή φυσική. Εκτοξεύστε το πλήρωμά σας Kerbal σε τροχιά και πέρα από αυτήν (διατηρώντας το ζωντανό) για να εξερευνήσετε φεγγάρια και πλανήτες στο ηλιακό σύστημα Kerbol, κατασκευάζοντας βάσεις και διαστημικούς σταθμούς για να επεκτείνετε την εμβέλεια της αποστολής σας.  
+δικτυακός τόπος: [kerbalspaceprogram.com](https://www.kerbalspaceprogram.com)
 
 ---
-## Unit Review
-- describe a videogame you know and its curriculum connections and possible skills taught
+## Ανασκόπηση μονάδας
+- περιγράψτε ένα βιντεοπαιχνίδι που γνωρίζετε και τις συνδέσεις του με το πρόγραμμα σπουδών και τις πιθανές δεξιότητες που διδάσκονται

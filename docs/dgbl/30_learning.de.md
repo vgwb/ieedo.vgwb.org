@@ -1,262 +1,262 @@
 ---
-title: 3 - Games in Classroom
+title: 3 - Spiele im Klassenzimmer
 has_children: true
 has_toc: false
 nav_order: 30
 ---
-# 3. Games in classroom
+# 3. Spiele im Klassenzimmer
 
-**Learning Objectives**  
+**Lernziele**  
 
-- The Learning Principles of EVG
-- What we can learn with EVG?
-- Why implementing EVG is important?
+- Die Lernprinzipien von EVG
+- Was können wir mit EVG lernen?
+- Warum ist der Einsatz von EVG wichtig?
 
-## Positive impacts of gaming for students
+## Positive Auswirkungen von Spielen für Schüler
 
 ![](../assets/img/vg_positive_impact.webp)
 
 
-We have researching and discovering how much games and video games have a positive impact both in life and in education. 
+Wir haben erforscht und entdeckt, wie sehr sich Spiele und Videospiele sowohl im Leben als auch in der Bildung positiv auswirken. 
 
-- **Motivational** impact - encourages an incremental approach
-- **Cognitive** - improves attention, focus, and reaction time
-- **Social** - translates the social skills learned into relations outside the gaming environment
-- **Emotional** - encourages positive mood states and adaptive emotion regulation
+- **Motivationale** Wirkung - fördert einen schrittweisen Ansatz
+- **Kognitiv** - verbessert die Aufmerksamkeit, die Konzentration und die Reaktionszeit
+- **Sozial** - überträgt die erlernten sozialen Fähigkeiten auf Beziehungen außerhalb der Spielumgebung
+- Emotional** - fördert positive Stimmungslagen und adaptive Emotionsregulation
 
-## 21st Century Skills
-Students are prepared for the "globalized job market" because technology, effective instruction and authentic problems are combined so students learn collaboration, "critical-thinking", "communication skills" through the vehicle of DGBL.
+## Fähigkeiten des 21. Jahrhunderts
+Die Schüler werden auf den "globalisierten Arbeitsmarkt" vorbereitet, weil Technologie, effektiver Unterricht und authentische Probleme kombiniert werden, so dass die Schüler mit Hilfe von DGBL Zusammenarbeit, "kritisches Denken" und "Kommunikationsfähigkeiten" lernen.
 
-## What games provide
-Games bring together combination of motivating elements not found together in any other medium. Here we can see some games virtues and the positive consequence:
+## Was Spiele bieten
+Spiele vereinen eine Kombination von motivierenden Elementen, die in keinem anderen Medium zu finden sind. Hier sehen wir einige Tugenden von Spielen und die positiven Folgen:
 
-- Games are a form of fun -> _enjoyment and pleasure_
-- Games are a form of play -> intense and passionate *engagement*
-- Games are rules -> _structure_, limits, prohibited behaviour
-- Games are goals -> _motivation_ to keep going on
-- Games are interactive -> _doing_, the player has to do something
-- Games are adaptive -> _flow_, keeps the mind focused, excited and not bored.
-- Games have outcomes and feedback -> _learning_ by errors
-- Games have a win state -> ego _gratification_
-- Games have conflict/competition/challenge/opposition -> _adrenaline_
-- Games have problem solving -> sparks _creativity_
-- Games have peer interaction -> _social groups_ and communication
-- Games have characters and story -> _emotions_ and empathy
+- Spiele sind eine Form von Spaß -> _Vergnügen und Vergnügen_
+- Spiele sind eine Form des Spiels -> intensives und leidenschaftliches *Engagement*
+- Spiele sind Regeln -> _Struktur_, Grenzen, verbotenes Verhalten
+- Spiele sind Ziele -> _Motivation_ zum Weitermachen
+- Spiele sind interaktiv -> _Tun_, der Spieler muss etwas tun
+- Spiele sind adaptiv -> _Fluss_, hält den Geist fokussiert, erregt und langweilt nicht.
+- Spiele haben Ergebnisse und Feedback -> _Lernen_ durch Fehler
+- Spiele haben einen Gewinnstatus -> Ego _Befriedigung_
+- Spiele haben Konflikt/Wettbewerb/Herausforderung/Opposition -> _Adrenalin_
+- Spiele haben Problemlösung -> regt die _Kreativität_ an
+- Spiele bieten Interaktion mit Gleichaltrigen -> _soziale Gruppen_ und Kommunikation
+- Spiele haben Charaktere und Geschichten -> _Emotionen_ und Empathie
 
-## Learning Flow
-Educational Games a special "flow", which is
+## Lernfluss
+Lernspiele haben einen speziellen "Flow", der ist
 
 ![](../assets/img/cognitive_approach.png)
 
 
 ![](../assets/img/GBLModel.webp)
 
-## Video Games and new teaching methods
+## Videospiele und neue Lehrmethoden
 
-Recent studies have shown that introducing educational video games (EVG) and adopting a game-based learning teaching approach, has helped students achieve better learning performance, improved student **engagement**, promote **motivation** and **active processing** of educational content.
+Jüngste Studien haben gezeigt, dass die Einführung von Lernvideospielen (EVG) und die Anwendung eines spielbasierten Unterrichtsansatzes den Schülern zu besseren Lernleistungen verhelfen, das **Engagement** der Schüler verbessern, die **Motivation** und die **aktive Verarbeitung** von Lerninhalten fördern.
 
-Introducing video games into the classroom **enhances many learning and teaching skills** that can help elevate the educational experience of the classroom. This teaching method uses beneficial aspects of video games to transmit knowledge to students. It is based on **three key factors**:
+Die Einführung von Videospielen im Klassenzimmer **verbessert viele Lern- und Lehrfähigkeiten**, die dazu beitragen können, die pädagogische Erfahrung im Klassenzimmer zu verbessern. Diese Lehrmethode nutzt die positiven Aspekte von Videospielen, um den Schülern Wissen zu vermitteln. Sie stützt sich auf **drei Schlüsselfaktoren**:
 
-1. It breathes life into education: it transforms learning into an **enjoyable**, thrilling game without boring lessons. Students assimilate and retain information almost without noticing.
-2. It **boosts motivation**: students are the main characters in the story and their success is rewarded with medals, extra lives, bonuses, etc. This captures and keeps their interest in learning.
-3. It gives **opportunities to practice** students can apply the knowledge they acquire without getting into dangerous situations. This is what flight and navigation simulators, for instance, are all about.
+1. Sie haucht der Bildung Leben ein: Sie verwandelt das Lernen in ein **unterhaltsames**, spannendes Spiel ohne langweiligen Unterricht. Die Schüler nehmen die Informationen fast unbemerkt auf und behalten sie im Gedächtnis.
+2. Es **steigert die Motivation**: Die SchülerInnen sind die Hauptfiguren in der Geschichte und ihr Erfolg wird mit Medaillen, Extraleben, Boni usw. belohnt. Dadurch wird ihr Interesse am Lernen geweckt und aufrechterhalten.
+3. Es bietet **Gelegenheiten zum Üben**: Die Schüler können das erworbene Wissen anwenden, ohne in gefährliche Situationen zu geraten. Darum geht es zum Beispiel bei Flug- und Navigationssimulatoren.
 
 
-## How effective are video games in the classroom?
+## Wie effektiv sind Videospiele im Klassenzimmer?
 ![](../assets/img/vg_pro-cons.webp)
-Let's see some Pros and Cons of video games
+Sehen wir uns einige Vor- und Nachteile von Videospielen an
 
-### Pros
-- Improve Tech Literacy
-- Develop Multi-tasking mentality
-- Experience Teamwork
-- Practice Long-range planning
-- Provide Individualised instruction
+### Pro
+- Verbessert die technische Kompetenz
+- Multitasking-Mentalität entwickeln
+- Teamwork erleben
+- Langfristige Planung üben
+- Individualisierten Unterricht erteilen
 
-### Cons
-- Cost (higher than book-paper-pencil paradigm)
-- **Distraction** from other objectives
-- Social **isolation**
-- Shortened attention span
-- student **competitiveness** has been proven to get in the way of learning because students are more focused on winning the game instead of learning new skills.
-- The design of games that achieve a balance between learning and fun continues to pose a challenge
-- issues of unequal access and application
-- requires well-educated and supported teachers
+### Nachteile
+- Kosten (höher als beim Paradigma Buch-Papier-Bleistift)
+- **Ablenkung** von anderen Zielen
+- Soziale **Isolation**
+- Verkürzte Aufmerksamkeitsspanne
+- Es ist erwiesen, dass der **Wettkampf** der Schüler dem Lernen im Wege steht, weil sie sich mehr darauf konzentrieren, das Spiel zu gewinnen, als neue Fähigkeiten zu erlernen.
+- Die Entwicklung von Spielen, die ein Gleichgewicht zwischen Lernen und Spaß schaffen, stellt weiterhin eine Herausforderung dar
+- Fragen des ungleichen Zugangs und der Anwendung
+- erfordert gut ausgebildete und unterstützte Lehrkräfte
 
-## Learner Anxiety
-The DGBL has shown to lower students' anxiety and increase their effective communication which could lead to improved processing of new information. 
+## Ängste der Lernenden
+Die DGBL hat gezeigt, dass sie die Ängste der Schüler verringert und ihre effektive Kommunikation erhöht, was zu einer besseren Verarbeitung neuer Informationen führen könnte. 
 
 ---
-Let's see this video about why video games are such effective learning tools:
+Sehen wir uns dieses Video darüber an, warum Videospiele so effektive Lernwerkzeuge sind:
 
-> 📽 VIDEO [James Paul Gee on Learning with Video Games](https://youtu.be/JnEN2Sm4IIQ)
+> 📽 VIDEO [James Paul Gee über das Lernen mit Videospielen](https://youtu.be/JnEN2Sm4IIQ)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/JnEN2Sm4IIQ"></iframe>
 
-## Video Learning through "serious games" 
+## Video-Lernen durch "Serious Games" 
 
-📽 VIDEO [Video Learning through "serious games"](https://youtu.be/MUn3hVZ-ejk)
+📽 VIDEO [Video-Lernen durch "Serious Games"](https://youtu.be/MUn3hVZ-ejk)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/MUn3hVZ-ejk"></iframe>
 
 
 
-## Cognitive skills and games
+## Kognitive Fähigkeiten und Spiele
 
-Cognitive processes let you:
-1. Understand sensory inputs
-2. Elaborate information
-3. Remember and recall information
-4. Contextualise information and solve problems
+Kognitive Prozesse ermöglichen es Ihnen:
+1. Sinneseindrücke zu verstehen
+2. Informationen ausarbeiten
+3. Erinnern und Abrufen von Informationen
+4. Informationen in einen Kontext stellen und Probleme lösen
 
-Here is a list of cognitive skills that can be developed by playing Video Games, or a Video Game can be designed to develop a particular set of skills.
+Es folgt eine Liste kognitiver Fähigkeiten, die durch das Spielen von Videospielen entwickelt werden können, oder ein Videospiel kann so konzipiert sein, dass es eine bestimmte Gruppe von Fähigkeiten entwickelt.
 
-### Attention
+### Aufmerksamkeit
 
-**Focused Attention**  
-The ability to focus attention on a single stimulus
+**Fokussierte Aufmerksamkeit**  
+Die Fähigkeit, die Aufmerksamkeit auf einen einzigen Stimulus zu richten.
 
-**Divided Attention**  
-The ability to execute more than one action at a time, while paying attention to a few channels of information.
+**Geteilte Aufmerksamkeit**  
+Die Fähigkeit, mehr als eine Handlung gleichzeitig auszuführen, während die Aufmerksamkeit auf einige wenige Informationskanäle gerichtet ist.
 
 **Inhibition**  
-The ability to ignore irrelevant stimuli or suppress irrelevant reactions while performing a task.
+Die Fähigkeit, irrelevante Reize zu ignorieren oder irrelevante Reaktionen zu unterdrücken, während man eine Aufgabe ausführt.
 
-**Updating**  
-The ability to respond in a flexible and adaptive manner in order to keep up with the changes in the environment.
+**Aktualisieren**  
+Die Fähigkeit, flexibel und anpassungsfähig zu reagieren, um mit den Veränderungen in der Umwelt Schritt zu halten.
 
-### Memory
+### Gedächtnis
 
-**Short-Term Memory**  
-The ability to hold a small amount of information in a readily, available state for a short period of time.
+**Kurzzeitgedächtnis**  
+Die Fähigkeit, eine kleine Menge an Informationen für einen kurzen Zeitraum in einem leicht verfügbaren Zustand zu halten.
 
-**Naming**  
-The ability to retrieve a word from our semantic lexicon and is considered to be a basic ability.
+**Benennen**  
+Die Fähigkeit, ein Wort aus unserem semantischen Lexikon abzurufen, und wird als eine grundlegende Fähigkeit betrachtet.
 
-**Working Memory**  
-Refers to the temporary storage and manipulation of the information necessary for complex cognitive tasks.
+**Arbeitsgedächtnis**  
+Bezieht sich auf die vorübergehende Speicherung und Verarbeitung von Informationen, die für komplexe kognitive Aufgaben erforderlich sind.
 
-**Contextual Memory**  
-The conscious recall of the source and circumstances of a specific memory.
+**Kontextuelles Gedächtnis**  
+Das bewusste Erinnern an den Ursprung und die Umstände einer bestimmten Erinnerung.
 
-**Visual Short-Term Memory**  
-The ability to temporarily retain a small amount of visual information.
+**Visuelles Kurzzeitgedächtnis**  
+Die Fähigkeit, eine kleine Menge an visuellen Informationen vorübergehend zu behalten.
 
-**Non-verbal Memory**  
-The ability to store and retrieve information which are non-verbal by nature.
+**Nonverbales Gedächtnis**  
+Die Fähigkeit, Informationen, die nicht verbaler Natur sind, zu speichern und abzurufen.
 
-**Phonological Short-term Memory**  
-The ability to remember phonological information over a brief period of time.
+**Phonologisches Kurzzeitgedächtnis**  
+Die Fähigkeit, sich phonologische Informationen über einen kurzen Zeitraum zu merken.
 
-### Sensation and Perception
+### Empfindung und Wahrnehmung
 
-**Auditory perception**  
-Auditory Perception is the ability to perceive and understand the difference between sounds.
+**Auditive Wahrnehmung**  
+Die auditive Wahrnehmung ist die Fähigkeit, den Unterschied zwischen Geräuschen wahrzunehmen und zu verstehen.
 
-**Visual Perception**  
-The ability to interpret information from the effects of visible light reaching the eye.
+**Visuelle Wahrnehmung**  
+Die Fähigkeit, Informationen aus den Wirkungen des sichtbaren Lichts, das das Auge erreicht, zu interpretieren.
 
-**Spatial Perception**  
-The ability to evaluate how things are arranged in space, and investigate their relations in the environment.
+**Raumwahrnehmung**  
+Die Fähigkeit zu beurteilen, wie Dinge im Raum angeordnet sind, und ihre Beziehungen in der Umwelt zu untersuchen.
 
-**Visual Scanning**  
-The ability to actively find relevant information in our surroundings quickly and efficiently.
+**Visuelles Scannen**  
+Die Fähigkeit, aktiv, schnell und effizient relevante Informationen in unserer Umgebung zu finden.
 
-**Estimation**  
-The ability to estimate an object's future location based on its current speed and distance.
+**Schätzung**  
+Die Fähigkeit, den zukünftigen Standort eines Objekts auf der Grundlage seiner aktuellen Geschwindigkeit und Entfernung zu schätzen.
 
-**Width of Field of View**  
-Corresponds to amount of information we receive from around when looking straight ahead.
+**Breite des Sichtfelds**  
+Entspricht der Menge an Informationen, die wir aus der Umgebung erhalten, wenn wir geradeaus schauen.
 
-**Recognition**  
-The ability to retrieve information from the past and to recognise certain events, places or other information.
+**Wiedererkennen**  
+Die Fähigkeit, Informationen aus der Vergangenheit abzurufen und bestimmte Ereignisse, Orte oder andere Informationen zu erkennen.
 
-### Reasoning and Comprehension
+### Logisches Denken und Verstehen
 
-**Processing Speed**  
-Involves the ability to fluently perform easy or over-learned tasks.
+**Verarbeitungsgeschwindigkeit**  
+Bezieht sich auf die Fähigkeit, einfache oder übermäßig gelernte Aufgaben fließend auszuführen.
 
-**Planning**  
-The ability to "think ahead", to mentally anticipate the correct way to execute a task.
+**Planen**  
+Die Fähigkeit, "im Voraus zu denken" und geistig den richtigen Weg zur Ausführung einer Aufgabe zu antizipieren.
 
-**Shifting**  
-Ability to adapt behaviour and thoughts to new, changing, or unexpected circumstances
+**Umschalten**  
+Die Fähigkeit, Verhalten und Gedanken an neue, veränderte oder unerwartete Umstände anzupassen.
 
-### Coordination
+### Koordination
 
-**Hand-eye Coordination**  
-The level of sensitivity with which the hand and eye are synchronised.
+**Hand-Auge-Koordination**  
+Der Grad der Sensibilität, mit dem Hand und Auge synchronisiert werden.
 
-**Response Time**  
-The ability to perceive and process a simple stimulus and respond to it.
+**Reaktionszeit**  
+Die Fähigkeit, einen einfachen Reiz wahrzunehmen, zu verarbeiten und darauf zu reagieren.
 
-## Learning Principles
-Here are the 16 principles of good video-game based learning:
+## Lernprinzipien
+Hier sind die 16 Grundsätze für gutes videospielebasiertes Lernen:
 
-1. **Identity**: Players build a sense of identity throughout the video game, either through direct input or an on-screen character they inherit.
-2. **Interaction**: Communication occurs between the player and the game.
-3. **Production**: Gamers help produce the story through some form of interaction, such as choosing a path, solving a puzzle or completing a level.
-4. **Risk Taking**: Failing in a game holds few consequences in comparison to real life, empowering players to take risks.
-5. **Customized**: Games usually offer a level of customization so that users can play - and succeed - at their competency level.
-6. **Agency**: Players have control over the gaming environment.
-7. **Well-Ordered Problems**: The gaming environment contains problems that naturally lead into one another, allowing a player’s mastery to grow and evolve.
-8. **Challenge and Consideration**: Games offer a problem that challenges students’ assumed expertise.
-9. **Just in Time or On Demand**: Players receive information as they need it, not before, which teaches them patience and perseverance and improves critical-thinking abilities.
-10. **Situated Meanings**: Students learn new vocabulary words by experiencing them within game situations.
-11. **Pleasantly Frustrating**: The game should frustrate the student enough to challenge them but be easy enough that they believe and can overcome the problem(s) faced.
-12. **System Thinking**: Games make players think in a bigger picture, not just individual actions taken, helping them see how the pieces fit or can be fitted together.
-13. **Explore, Think Laterally, Rethink Goals**: Games force players to expand their situational knowledge and consider courses of action other than linear ones.
-14. **Smart Tools and Distributed Knowledge**: In-game tools help students understand the world. Through using them, they gain confidence to share their knowledge with others.
-15. **Cross-Functional Teams**: In multiplayer environments, players have different skills, forcing them to rely on each other - a needed soft skill for students.
-16. **Performance before Competence**: Competency occurs through taking action in the game, reversing the typical model in which students are required to learn before being allowed to act.
+1. **Identität**: Die Spieler bauen im Laufe des Videospiels ein Gefühl der Identität auf, entweder durch direkten Input oder durch einen Bildschirmcharakter, den sie erben.
+2. **Interaktion**: Es findet eine Kommunikation zwischen dem Spieler und dem Spiel statt.
+3. **Produktion**: Der Spieler trägt durch irgendeine Form der Interaktion zur Produktion der Geschichte bei, z. B. durch die Wahl eines Weges, das Lösen eines Rätsels oder das Abschließen eines Levels.
+4. **Risikobereitschaft**: Wenn man in einem Spiel scheitert, hat das im Vergleich zum wirklichen Leben kaum Konsequenzen, was die SpielerInnen dazu ermutigt, Risiken einzugehen.
+5. **Angepasst**: Spiele bieten in der Regel ein gewisses Maß an Anpassungsmöglichkeiten, so dass die BenutzerInnen auf ihrem Kompetenzniveau spielen - und Erfolg haben - können.
+6. **Agentur**: Die Spieler haben die Kontrolle über die Spielumgebung.
+7. **Geordnete Probleme**: Die Spielumgebung enthält Probleme, die auf natürliche Weise ineinander übergehen, so dass die Beherrschung des Spielers wachsen und sich weiterentwickeln kann.
+8. **Herausforderung und Überlegung**: Die Spiele bieten ein Problem, das das angenommene Fachwissen der Schüler herausfordert.
+9. **Just in Time oder On Demand**: Die Spieler erhalten die Informationen, wenn sie sie brauchen, nicht vorher, was sie Geduld und Ausdauer lehrt und ihre Fähigkeit zum kritischen Denken verbessert.
+10. **Situierte Bedeutungen**: Die Schüler lernen neue Vokabeln, indem sie sie in Spielsituationen erleben.
+11. **Angenehm frustierend**: Das Spiel sollte die Schüler so frustrieren, dass sie herausgefordert werden, aber auch so einfach sein, dass sie glauben, das Problem bzw. die Probleme lösen zu können.
+12. **Systemdenken**: Spiele regen die Spieler dazu an, in größeren Zusammenhängen zu denken, nicht nur in einzelnen Aktionen, und helfen ihnen zu erkennen, wie die Teile zusammenpassen oder zusammengefügt werden können.
+13. **Erforschen, querdenken, Ziele neu überdenken**: Spiele zwingen die Spieler dazu, ihr Situationswissen zu erweitern und andere als die linearen Handlungsmöglichkeiten in Betracht zu ziehen.
+14. **Smarte Werkzeuge und verteiltes Wissen**: Spielinterne Werkzeuge helfen den Schülern, die Welt zu verstehen. Durch ihre Verwendung gewinnen sie das Vertrauen, ihr Wissen mit anderen zu teilen.
+15. **Funktionsübergreifende Teams**: In Multiplayer-Umgebungen verfügen die Spieler über unterschiedliche Fähigkeiten, so dass sie gezwungen sind, sich aufeinander zu verlassen - eine notwendige Soft Skill für Schüler.
+16. **Leistung vor Kompetenz**: Die Kompetenz entsteht durch das Handeln im Spiel und kehrt das typische Modell um, bei dem die Schüler erst lernen müssen, bevor sie handeln dürfen.
 
-These learning principles should be applied to school learning at all times, not just through educational video games. They change the current trend for skill-and-drill, scripted instruction, and standardized multiple-choice testing.
+Diese Lernprinzipien sollten jederzeit auf das schulische Lernen angewendet werden, nicht nur bei Lernvideospielen. Sie ändern den derzeitigen Trend zu Skill-and-Drill, skriptbasiertem Unterricht und standardisierten Multiple-Choice-Tests.
 
-## What we can learn with EVG
-Today we can find videogames that can help in every learning field.
+## Was wir mit EVG lernen können
+Heute gibt es Videospiele, die in jedem Lernbereich helfen können.
 
-For example:
-- Language Learning / Literacy
-- Mathematics and Science (STEM)
-- Social Studies and History
-- Development of Cognitive Skills
+Zum Beispiel:
+- Sprachenlernen / Alphabetisierung
+- Mathematik und Naturwissenschaften (STEM)
+- Sozialkunde und Geschichte
+- Entwicklung von kognitiven Fähigkeiten
 - Rehabilitation
-- Music 
-- Art / Creative skills
-- Emotional Health / Wellbeing
-- Ethics and Ethical Thinking
+- Musik 
+- Kunst / Kreative Fähigkeiten
+- Emotionale Gesundheit / Wohlbefinden
+- Ethik und ethisches Denken
 - Management
 
-In the Case Studies chapter we'll see some examples.
+Im Kapitel Fallstudien werden wir einige Beispiele sehen.
 
-## When and why implement EVGs?
-You must remember that game-based learning and EVGs are tools that should supplement/facilitate your pedagogy, they are not the teacher. When using these techniques in your classroom, **do not grade play**, **instead assess the learning transfer** that has been facilitated from the game experience to the curriculum.
+## Wann und warum EVGs einsetzen?
+Denken Sie daran, dass spielbasiertes Lernen und EVGs Werkzeuge sind, die Ihre Pädagogik ergänzen/ermöglichen sollen, sie sind nicht die Lehrkraft. Wenn Sie diese Techniken in Ihrem Unterricht einsetzen, **benoten Sie nicht das Spiel**, **beurteilen Sie stattdessen den Lerntransfer**, der durch die Spielerfahrung auf den Lehrplan ermöglicht wurde.
 
-Therefore, choosing to implement EVGs should come as a reason to **enhance content delivery** and comprehension as well as **motivate students to understand** complex theories/content in a mind engaging and challenging manner.
+Die Entscheidung für den Einsatz von EVGs sollte daher ein Grund dafür sein, **die Vermittlung von Inhalten** und das Verständnis zu verbessern sowie **die Schüler zu motivieren, **komplexe Theorien/Inhalte auf eine den Geist ansprechende und herausfordernde Weise zu verstehen**.
 
-## 16 reasons as to why to implement EVGs in the classroom
+## 16 Gründe, warum EVGs im Unterricht eingesetzt werden sollten
 
-1. Promote technology exploration
-2. Develop problem-solving skills
-3. Develop educational mastery and complete tasks in a logical manner
-4. Develop reasoning and complexity thinking
-5. Develop fine motor skills
-6. Build interest in STEAM fields
-7. Teach Students basic programming
-8. Develop confidence and social skills
-9. Learn Collaboration skills
-10. Emphasize also individualized learning
-11. Provide a **safe environment** to explore and in which to **make mistakes**
-12. Learn through enjoyment and "fun"
-13. Contextualised, goal oriented instead of abstract learning
-14. Experiential learning: learning by doing
-15. Intrinsic motivation: playing is voluntary and self-driven
-16. Seamless accountability and feedback
+1. Förderung der Erkundung von Technologien
+2. Problemlösungsfähigkeiten entwickeln
+3. Beherrschung des Lernstoffs und logisches Lösen von Aufgaben
+4. Entwicklung von Argumentation und komplexem Denken
+5. Entwicklung feinmotorischer Fähigkeiten
+6. Interesse an STEAM-Bereichen wecken
+7. Den Schülern grundlegende Programmierkenntnisse vermitteln
+8. Entwicklung von Selbstvertrauen und sozialen Fähigkeiten
+9. Erlernen von Fähigkeiten zur Zusammenarbeit
+10. Betonen Sie auch individuelles Lernen
+11. Bieten Sie eine **sichere Umgebung**, um zu forschen und um **Fehler zu machen**.
+12. Lernen durch Freude und "Spaß"
+13. Kontextbezogenes, zielorientiertes statt abstraktes Lernen
+14. Erfahrungsorientiertes Lernen: Lernen durch Tun
+15. Intrinsische Motivation: Spielen ist freiwillig und selbstgesteuert
+16. Lückenlose Rechenschaftspflicht und Feedback
 
-📽 #VIDEO [What can schools learn from video games?](https://www.youtube.com/watch?v=3aQxga-SUBg)
+📽 #VIDEO [Was können Schulen von Videospielen lernen?](https://www.youtube.com/watch?v=3aQxga-SUBg)
 
 
 <iframe height="450" width="800" src="https://www.youtube.com/embed/3aQxga-SUBg"></iframe>
 
 ---
-## Unit review
-Discuss, in your opinion the importance of implementing game-based learning.
-Could there be complications to this process? if so, what would they be?
+## Überprüfung der Einheit
+Diskutieren Sie, wie wichtig es Ihrer Meinung nach ist, spielbasiertes Lernen zu implementieren.
+Könnte es bei diesem Prozess Komplikationen geben? Wenn ja, welche wären das?

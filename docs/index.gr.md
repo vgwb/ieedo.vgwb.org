@@ -3,7 +3,9 @@ title: Home
 ---
 # IEEDO
 
+![](assets/IEEDO_icon.webp)
+
 - [IEEDO App](app/index.md)
-  How to use the app
-- [DGBL course](dgbl/index.md)
-  What is Digital Games Based Learning
+  Πώς να χρησιμοποιήσετε την εφαρμογή
+- [Μάθημα DGBL](dgbl/index.md)
+  Τι είναι η μάθηση με βάση τα ψηφιακά παιχνίδια

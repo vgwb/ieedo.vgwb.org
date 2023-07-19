@@ -1,203 +1,201 @@
 ---
-title: 5 - Teacher Guide
+title: 5 - Lehrerhandbuch
 has_children: true
-has_toc: false
+has_toc: falsch
 nav_order: 50
 ---
-# 5.  Teacher guide
+# 5. Leitfaden für Lehrer
 
-**Learning Objectives**  
+**Lernziele**  
 
-- How to setup a DGBL session
-- What skills a teacher needs to develop
-- What challenges are there in DGBL?
-- What hardware do we need and how to set it up?
-- What Skills does student needs to start?
-- How to assess the outcome of a VG
-- What are game analytics?
-- What to assess?
+- Wie man eine DGBL-Sitzung einrichtet
+- Welche Fähigkeiten ein Lehrer entwickeln muss
+- Welche Herausforderungen gibt es bei DGBL?
+- Welche Hardware brauchen wir und wie richten wir sie ein?
+- Welche Fähigkeiten brauchen die Schüler für den Anfang?
+- Wie bewertet man das Ergebnis einer VG?
+- Was sind Spielanalysen?
+- Was ist zu bewerten?
 
-## How to use EVG in Classroom
+## Wie man EVG im Klassenzimmer einsetzt
 
-After learning about the benefits of educational video games and the characteristics of a good educational video game, we arrive at the question: how do we incorporate game-based learning for maximum benefit as well as when and where in the curriculum? Also, what about class management, how do we manage the environment of the class and students while playing the game?
+Nachdem wir die Vorteile von Lernvideospielen und die Merkmale eines guten Lernvideospiels kennengelernt haben, stellt sich die Frage, wie wir spielbasiertes Lernen optimal in den Lehrplan integrieren können und wann und wo? Wie sieht es mit dem Klassenmanagement aus, wie können wir die Umgebung der Klasse und der SchülerInnen während des Spielens managen?
 
-In this unit, we will answer all these questions and provide a guideline and tips that instructors can follow when deciding to select and implement an educational video game.
+In dieser Einheit werden wir all diese Fragen beantworten und einen Leitfaden und Tipps bereitstellen, an denen sich Lehrkräfte orientieren können, wenn sie ein Lernvideospiel auswählen und einsetzen möchten.
 
-> 📽 #VIDEO [Using Games in the Classroom](https://youtu.be/o6IELVV2xLQ)
+> 📽 #VIDEO [Spiele im Unterricht einsetzen] (https://youtu.be/o6IELVV2xLQ)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/o6IELVV2xLQ"></iframe>
-
-
 
 ## Teacher 2.0
 
-With the infusion of technology in the classroom, teachers are moving away from being sole presenters of information and are moving into the new roles of bring "facilitators".
-With this new role comes the excitement of presenting digital game-based learning to students that has been proven to increase students' desire to learn, lower their stress levels and provide new, proactive ways of learning needed 21st century skills. Furthermore, teachers/facilitators can rely on "new evaluation tools" that are rubric-like and can be used to evaluate and determine whether games will engage their students while teaching them. In conclusion, when teachers properly evaluate games to ascertain their usability in the classroom and then implement them correctly, they bring a new level of learning into the classroom that reinvigorates students' desire to learn while decreasing unwanted stress that inhibits those students' ability to excel.
+Mit dem Einzug der Technologie in die Klassenzimmer sind die Lehrer nicht mehr die alleinigen Vermittler von Informationen, sondern schlüpfen in die neue Rolle von "Vermittlern".
+Mit dieser neuen Rolle geht die Aufregung einher, den Schülern digitales, spielbasiertes Lernen zu präsentieren, das nachweislich die Lernlust der Schüler steigert, ihr Stressniveau senkt und neue, proaktive Wege zum Erlernen der erforderlichen Fähigkeiten des 21. Jahrhunderts bietet. Darüber hinaus können sich LehrerInnen/ModeratorInnen auf "neue Bewertungsinstrumente" verlassen, die wie Rubriken aussehen und mit denen sie bewerten und bestimmen können, ob die Spiele ihre SchülerInnen fesseln und sie gleichzeitig unterrichten. Zusammenfassend lässt sich sagen, dass Lehrkräfte, die Spiele richtig bewerten, um ihre Verwendbarkeit im Unterricht festzustellen, und sie dann richtig einsetzen, eine neue Lernebene in den Unterricht bringen, die den Wunsch der SchülerInnen zu lernen wiederbelebt und gleichzeitig unerwünschten Stress abbaut, der die Fähigkeit der SchülerInnen, gute Leistungen zu erbringen, hemmt.
 
 
 
 ![dgbl_flowchart](../assets/img/dgbl_flowchart.webp)
 
-## Approach
-The approach to Digital Game-Based Learning needs to be well planned and organized to engage in learning and to produce the appropriate outcomes.
+## Ansatz
+Die Herangehensweise an Digital Game-Based Learning muss gut geplant und organisiert sein, um das Lernen zu fördern und die entsprechenden Ergebnisse zu erzielen.
 
-The coaches must learn to set the stage, providing relevant game information and support the students in their attempts to construct, deconstruct and reconstruct relevant forms of knowledge (both in relation to the game context, curricular goals and real life phenomena).
+Die Trainer müssen lernen, die Bühne zu bereiten, indem sie relevante Spielinformationen bereitstellen und die SchülerInnen bei ihren Versuchen unterstützen, relevante Wissensformen zu konstruieren, zu dekonstruieren und zu rekonstruieren (sowohl in Bezug auf den Spielkontext, die Lehrplanziele als auch auf reale Phänomene).
 
-They must become familiar with the theoretical underpinnings of DGBL, learn about the specific games they will be using: techniques, gameplay, curriculum, outcomes, assistance, evaluation. For all that, we’ll provide a list of digital learning games as case studies for the coaches.
+Sie müssen sich mit den theoretischen Grundlagen von DGBL vertraut machen und sich mit den spezifischen Spielen, die sie verwenden werden, vertraut machen: Techniken, Spielablauf, Lehrplan, Ergebnisse, Hilfestellung, Bewertung. Für all das werden wir eine Liste von digitalen Lernspielen als Fallstudien für die Trainer bereitstellen.
 
-It is important to know the theory and the tools because games do not work by themselves and not all refugees/adults/coaches are comfortable with digital games.
+Es ist wichtig, die Theorie und die Werkzeuge zu kennen, da Spiele nicht von selbst funktionieren und nicht alle Flüchtlinge/Erwachsene/Trainer mit digitalen Spielen vertraut sind.
 
 
 
-## Tips for using VG in the classroom
+## Tipps für den Einsatz von VG im Klassenzimmer
 ![](../assets/img/tips_vg_classroom.webp)
 
-### Must
-1. Teachers do not need to be avid gamers, but they should **at least be interested in them**.
-2. Videogames should not be the main method for educating students. They are just **one of the tools available**.
-3. **Check the age recommendations** on videogames. Avoid those for 18 ears and over.
-4. Before you select a videogame, be clear about the **skills and competencies** you want to develop.
-5. Students are **motivated by progressing** from level to level. It Is Important not to set impossible challenges.
-6. Schools must be equipped with **suitable technology** before Introducing videogames into the classroom.
-7. Students can get hooked on videogames so teaching how to **control their use** is also part of classroom education.
+### Muss
+1. LehrerInnen müssen keine begeisterten Gamer sein, aber sie sollten **mindestens Interesse daran haben**.
+2. Videospiele sollten nicht die Hauptmethode sein, um Schüler zu unterrichten. Sie sind nur **eines der verfügbaren Werkzeuge**.
+3. **Prüfen Sie die Altersempfehlungen** für Videospiele. Vermeiden Sie Spiele, die für Kinder ab 18 Jahren geeignet sind.
+4. Bevor Sie ein Videospiel auswählen, sollten Sie sich über die **Fähigkeiten und Kompetenzen** im Klaren sein, die Sie entwickeln wollen.
+5. Schüler sind **motiviert, wenn sie von Level zu Level vorankommen**. Es ist wichtig, keine unmöglichen Herausforderungen zu stellen.
+6. Schulen müssen mit **geeigneter Technologie** ausgestattet sein, bevor sie Videospiele in den Unterricht einführen.
+7. Schülerinnen und Schüler können süchtig nach Videospielen werden, daher ist es auch Teil des Unterrichts, ihnen beizubringen, wie sie ihre Nutzung **kontrollieren** können.
 
 ### Plus
-- The educator should play the game prior to the intervention, in order to identify its possible limitations. 
-- The educator should adapt the game according to the educational scenario and correlate it with the traditional methods of teaching. 
-- The gaming intervention should have a specific time limit that should not be altered. 
-- During the gaming intervention the educator should first play with the students in order to make sure they understand the game and are able to proceed on their own, and afterwards supervise the students and associate the gaming content with educational goals. 
-- The educator should ask feedback from the students after the intervention and take into account their considerations and preferences for the design of next GBL experiences.
+- Der Pädagoge sollte das Spiel vor dem Einsatz spielen, um seine möglichen Grenzen zu erkennen. 
+- Der Pädagoge sollte das Spiel an das pädagogische Szenario anpassen und es mit den traditionellen Unterrichtsmethoden in Beziehung setzen. 
+- Die Spielintervention sollte ein bestimmtes Zeitlimit haben, das nicht verändert werden sollte. 
+- Während der Spielintervention sollte der Pädagoge zunächst mit den Schülern spielen, um sicherzustellen, dass sie das Spiel verstehen und in der Lage sind, selbstständig weiterzumachen, und anschließend die Schüler beaufsichtigen und die Spielinhalte mit den Lernzielen in Verbindung bringen. 
+- Der Pädagoge sollte die Schüler nach der Intervention um Feedback bitten und ihre Überlegungen und Präferenzen bei der Gestaltung der nächsten GBL-Erfahrungen berücksichtigen.
 
-## A Digital Game Based Learning session
-We can summarise a DGBL session in these five steps:
+## Eine Digital Game Based Learning-Sitzung
+Wir können eine DGBL-Sitzung in diesen fünf Schritten zusammenfassen:
 
-### 1. Introduction to videogame
-The teacher explains the game and helps installing it on the students devices.
-Then tells the outcomes expected from playing this game.
+### 1. Einführung in das Videospiel
+Der Lehrer erklärt das Spiel und hilft bei der Installation auf den Geräten der Schüler.
+Dann erklärt er die Ergebnisse, die vom Spielen des Spiels erwartet werden.
 
-### 2. gameplay / experience
-autonomous activity: the student becomes player
+### 2. Gameplay / Erfahrung
+Autonome Aktivität: der Schüler wird zum Spieler
 
-### 3. game results / scores
-autonomous activity: the player finish to play. check the score
+### 3. Spielergebnisse / Punktestand
+Autonome Aktivität: Der Spieler beendet das Spiel und überprüft den Spielstand.
 
-### 4. reflection / analysis
-student and the teacher analyse together the outcome
+### 4. Reflexion / Analyse
+Schüler und Lehrer analysieren gemeinsam das Ergebnis
 
-### 5. forming abstract concepts + real world application
+### 5. Bildung abstrakter Konzepte + Anwendung in der realen Welt
 
 
-## Teacher Skills
-The teacher has to develop or at least know something about these topics:
+## Lehrerkompetenzen
+Die Lehrkraft muss diese Themen entwickeln oder zumindest etwas darüber wissen:
 
-- ICT / Basic Digital Skills
-- Minimal game playing experience
-- Deep understanding of how a game can help learning and its differences with a  classic book/course
-- Recognise different players skills and support their game play
-- Engage students in playing and progression
+- IKT / Digitale Grundfertigkeiten
+- Minimale Spielerfahrung
+- Tiefes Verständnis dafür, wie ein Spiel beim Lernen helfen kann und wie es sich von einem klassischen Buch/Kurs unterscheidet
+- Erkennen der Fähigkeiten verschiedener Spieler und Unterstützung ihrer Spielweise
+- Schüler in das Spiel und die Progression einbinden
 
-## Challenges
-There could be some difficulties and challenges to be solved in order to achieve better results in DGBL sessions.
+## Herausforderungen
+Es könnte einige Schwierigkeiten und Herausforderungen geben, die zu lösen sind, um bessere Ergebnisse in DGBL-Sitzungen zu erzielen.
 
-**Curriculum**: it’s hard to find games that fit the current curriculum or to identify how a certain game can connect to the curriculum.
-Check out [commonsense.org/education](https://www.commonsense.org/education) for ideas. Remember that the best way to use games is as a supplemental reinforcement for your traditional teaching. Don’t look for games that will teach your curriculum. Instead, look for games that might approach the same subject area from a different perspective.
+**Lehrplan**: Es ist schwierig, Spiele zu finden, die in den aktuellen Lehrplan passen, oder herauszufinden, wie ein bestimmtes Spiel mit dem Lehrplan verbunden werden kann.
+Auf [commonsense.org/education] (https://www.commonsense.org/education) finden Sie Anregungen. Denken Sie daran, dass Sie Spiele am besten als Ergänzung zu Ihrem traditionellen Unterricht einsetzen sollten. Suchen Sie nicht nach Spielen, die Ihren Lehrplan unterrichten. Suchen Sie stattdessen nach Spielen, die denselben Themenbereich aus einer anderen Perspektive angehen.
 
-**Game related**: identify the accuracy and appropriateness of the content of the game. Irrelevant or distracting content from the game that could not be removed.
+**Spielbezogen**: Prüfen Sie die Richtigkeit und Angemessenheit des Spielinhalts. Irrelevante oder ablenkende Inhalte des Spiels, die nicht entfernt werden konnten.
 
-**Attitudes**: persuading all stakeholders and non-players about the educational value of the game.
+**Einstellungen**: Alle Beteiligten und Nicht-Spieler vom pädagogischen Wert des Spiels überzeugen.
 
-**Educators and Teachers support**: make them aware of how to use games more effectively in education.
+**Unterstützung von Pädagogen und Lehrern**: sie dafür sensibilisieren, wie man Spiele effektiver im Unterricht einsetzen kann.
 
-**Technology** many teacher are unfamiliar with technology. That’s okay. Most of the writing about game-based learning focuses on digital media, but the truth is that you don’t necessarily need devices. At the Quest To Learn school in New York City, game design is a way of thinking, a paradigm. A great deal of their curriculum uses paper-based games rather than digital games. 
+**Technologie**: Viele Lehrer sind mit der Technologie nicht vertraut. Das ist in Ordnung. Das meiste, was über spielbasiertes Lernen geschrieben wird, konzentriert sich auf digitale Medien, aber die Wahrheit ist, dass man nicht unbedingt Geräte braucht. An der Quest To Learn Schule in New York City ist Spieldesign eine Denkweise, ein Paradigma. Ein großer Teil des Lehrplans besteht aus papierbasierten Spielen und nicht aus digitalen Spielen. 
 
-**Assessment**: Traditional assessments do not often align with GBL, so new models and approaches must be considered.
+**Beurteilung**: Traditionelle Beurteilungen sind oft nicht mit GBL vereinbar, daher müssen neue Modelle und Ansätze in Betracht gezogen werden.
 
-**Developers** encourage and support game developers in the creation of better educational games
+**Entwickler** ermutigen und unterstützen Spieleentwickler bei der Entwicklung besserer Lernspiele
 
 ## Moderation
-The impact of video games on society has been the subject of numerous studies. For example a psychologist at the Internet Institute at Oxford University, published a study establishing how much time should children be allowed to devote to video gaming. He reports that those who played less than an hour were more emotionally stable, while those who played for around three hours a day developed social problems. Therefore, when it comes to video games, **moderation is key**. 
+Die Auswirkungen von Videospielen auf die Gesellschaft sind Gegenstand zahlreicher Studien. Ein Psychologe des Internet-Instituts der Universität Oxford veröffentlichte beispielsweise eine Studie, in der untersucht wurde, wie viel Zeit Kinder für Videospiele aufwenden dürfen. Er berichtet, dass diejenigen, die weniger als eine Stunde spielten, emotional stabiler waren, während diejenigen, die etwa drei Stunden pro Tag spielten, soziale Probleme entwickelten. Wenn es um Videospiele geht, ist also **Mäßigung der Schlüssel**. 
 
-## How to implement GBL?
-There are many strategies and ways for educators to incorporate game-based learning and EVGs into their curriculum and classroom. Here are three ways that teachers can follow to implement game-based learning:
+## Wie lässt sich GBL umsetzen?
+Es gibt viele Strategien und Möglichkeiten für Lehrkräfte, spielebasiertes Lernen und EVG in ihren Lehrplan und ihren Unterricht einzubinden. Im Folgenden werden drei Wege aufgezeigt, wie LehrerInnen spielbasiertes Lernen einführen können:
 
-### Games as shared Experience
-The EVGs selected plays more on experience, giving students the feel of being on a field trip. **Like a field trip**, students are first given instructions on what to expect and are then given freedom to explore an out-of-school location. And then back in the classroom, **instructors facilitate and emphasize the connections of the game to the curriculum**. These games, provide meaning for students.
-For example in MineCraft students build structures and “When night comes and creepers attack, only the students who stayed in fortified structures survive. After play, we discuss the difficulties of setting up a colony in a hostile environment. Students understand the dangers of settling new worlds because they have experienced them”.
+### Spiele als gemeinsame Erfahrung
+Die ausgewählten EVGs setzen mehr auf Erfahrung und geben den Schülern das Gefühl, auf einer Exkursion zu sein. **Wie bei einer Exkursion** erhalten die SchülerInnen zunächst Anweisungen, was sie erwartet, und haben dann die Freiheit, einen Ort außerhalb der Schule zu erkunden. Zurück im Klassenzimmer werden sie dann von den **Lehrern unterstützt und die Verbindungen zwischen dem Spiel und dem Lehrplan hervorgehoben**. Diese Spiele geben den Schülern einen Sinn.
+Bei MineCraft zum Beispiel bauen die SchülerInnen Strukturen und "Wenn die Nacht kommt und die Kriecher angreifen, überleben nur die SchülerInnen, die in befestigten Strukturen geblieben sind. Nach dem Spiel diskutieren wir über die Schwierigkeiten, eine Kolonie in einer feindlichen Umgebung zu gründen. Die Schülerinnen und Schüler verstehen die Gefahren der Besiedlung neuer Welten, weil sie sie selbst erlebt haben".
 
-### Games as Text
-These games allow users to decide the fate of the game. The game is built on a template uses player choice to tell a story. These include Examples include [Firewatch](http://www.firewatchgame.com/), an open-world game about being a park ranger; [Life Is Strange](https://lifeisstrange.square-enix-games.com/en-gb/), an emotional tale of friendships and bullying at a private school; [Her Story](https://www.herstorygame.com/), a nonlinear, police procedural whodunit; and [1979 Revolution: Black Friday](https://www.gamesforchange.org/games/1979-revolution-black-friday/), a political thriller set in the Iranian Revolution.
-Each game tells a *story*.
-**Assessing learning** with these games, educators can use Office 365 or Google Docs. For example, English literature teacher Paul Darvasi has his students play the point-and-click exploration game [Gone Home](https://gonehome.com/), which is about a dysfunctional family. Set in 1995, the game uses literary devices like mood, tone, and theme. He has students take screenshots as evidence and add them to a shared document. Collected screenshots later lead to projects like comparing reviews and then writing their own.
+### Spiele als Text
+Bei diesen Spielen können die Benutzer über das Schicksal des Spiels entscheiden. Das Spiel basiert auf einer Vorlage und nutzt die Entscheidungen der Spieler, um eine Geschichte zu erzählen. Beispiele hierfür sind [Firewatch](http://www.firewatchgame.com/), ein Open-World-Spiel über die Arbeit eines Parkwächters; [Life Is Strange](https://lifeisstrange.square-enix-games.com/en-gb/), eine emotionale Geschichte über Freundschaften und Mobbing an einer Privatschule; [Her Story](https://www.herstorygame.com/), ein nichtlinearer, polizeilicher Krimi; und [1979 Revolution: Black Friday](https://www.gamesforchange.org/games/1979-revolution-black-friday/), ein politischer Thriller, der in der iranischen Revolution spielt.
+Jedes Spiel erzählt eine *Geschichte*.
+Für die **Lernkontrolle** mit diesen Spielen können Lehrkräfte Office 365 oder Google Docs verwenden. Paul Darvasi, Lehrer für englische Literatur, lässt seine Schüler beispielsweise das Point-and-Click-Erkundungsspiel [Gone Home] (https://gonehome.com/) spielen, in dem es um eine zerrüttete Familie geht. Das Spiel spielt im Jahr 1995 und verwendet literarische Mittel wie Stimmung, Ton und Thema. Er lässt die Schüler Screenshots als Beweismittel anfertigen und sie zu einem gemeinsamen Dokument hinzufügen. Die gesammelten Screenshots führen später zu Projekten wie dem Vergleich von Rezensionen und dem Verfassen eigener Rezensionen.
 
-### Games as Models
-These games are built on model real-world systems. They give students the opportunity to create their own models within the game. A teacher states that he makes students play [Werewolf](https://teambuilding.com/blog/werewolf-game-rules), and discuss “different actions that mirror the events of the Salem witch trials, McCarthyism, and other witch hunts. I also have students play the board game [Pandemic](https://www.zmangames.com/en/games/pandemic/), as well as the mobile game [Plague, Inc](https://www.ndemiccreations.com/en/22-plague-inc). These games illustrate how diseases travel the interconnected networks of the world. Students learn how the bubonic plague traveled along the Silk Road.”. He states that these games model causes that have effects, which subsequently have effects that teaches the **21st-century skill of systems thinking**.
+### Spiele als Modelle
+Diese Spiele dienen als Modell für reale Systeme. Sie geben den SchülerInnen die Möglichkeit, ihre eigenen Modelle innerhalb des Spiels zu erstellen. Ein Lehrer berichtet, dass er seine Schüler [Werwolf] (https://teambuilding.com/blog/werewolf-game-rules) spielen und "verschiedene Handlungen diskutieren lässt, die die Ereignisse der Salemer Hexenprozesse, des McCarthyismus und anderer Hexenverfolgungen widerspiegeln. Ich lasse die Schüler auch das Brettspiel [Pandemic] (https://www.zmangames.com/en/games/pandemic/) und das Handyspiel [Plague, Inc] (https://www.ndemiccreations.com/en/22-plague-inc) spielen. Diese Spiele veranschaulichen, wie sich Krankheiten in den weltweiten Netzwerken verbreiten. Die Schüler lernen, wie sich die Beulenpest über die Seidenstraße verbreitete.". Er erklärt, dass diese Spiele Ursachen modellieren, die Auswirkungen haben, die wiederum Auswirkungen haben, wodurch die **Fähigkeit des Systemdenkens** des 21. Jahrhunderts gelehrt wird.
 
-## Other tools
-Teachers also can create their own form of EVGs by creating learning games in Google Classroom
+## Andere Werkzeuge
+Lehrkräfte können auch ihre eigene Form von EVGs erstellen, indem sie Lernspiele in Google Classroom erstellen
 
-> 📽 #VIDEO [How to create learning games in Google Classroom](https://www.youtube.com/watch?v=5TOXvl3Vig4)
+> 📽 #VIDEO [Wie man Lernspiele in Google Classroom erstellt](https://www.youtube.com/watch?v=5TOXvl3Vig4)
 <iframe height="450" width="800" src="https://www.youtube.com/embed/5TOXvl3Vig4"></iframe>
 
-## Students pre-evaluation and setup 
+## Vorbeurteilung und Einrichtung der Schüler 
 
-### Setup device
-Install the game on the device and run it once.
-If needed do some Android tuning (notifications, for example)
+### Gerät einrichten
+Installieren Sie das Spiel auf dem Gerät und lassen Sie es einmal laufen.
+Falls nötig, nehmen Sie einige Android-Einstellungen vor (z. B. Benachrichtigungen).
 
-# Assessment of Learning from Digital Games
+## Bewertung des Lernens mit digitalen Spielen
 
-The way in which any game is assessed is crucial if it is to be purposeful, to be seen as appropriate by the students and to encourage them to engage in the learning experience.
-There are seven aspects that should be examined when determining the effectiveness of game-based learning.
+Die Art und Weise, wie ein Spiel bewertet wird, ist von entscheidender Bedeutung, wenn es zielführend sein soll, von den Schülerinnen und Schülern als angemessen angesehen wird und sie dazu ermutigen soll, sich auf die Lernerfahrung einzulassen.
+Es gibt sieben Aspekte, die bei der Bestimmung der Effektivität von spielbasiertem Lernen untersucht werden sollten.
 
-- **Learner performance** - whether learning has taken place and there is an improvement in learner performance. 
-- **Motivation** – the levels of student motivation, interest and participation in the game.
-- **Perceptions** - the views of the students towards areas such as the experience of time passing, the realism of the game, amounts of complexity, support received and levels of perceived proficiency within the game.
-- **Attitudes** - feelings of the learners and teachers towards the subject itself and the use of games for learning within that subject.
-- **Collaboration** - the regularity and effectiveness of collaboration. (Connolly et al. argue that this is optional and dependent on the game design; I would argue that in the context of adult learning with games collaboration is an important part of the learning design.)
-- **Preferences** - inclinations of the learners and teachers towards, for example, different learning styles or modes of interaction.
-- Game-Based Learning **Environment** - factors associated with the game itself, such as the design of the environment, use of scaffolding, usability, levels of social presence and the way in which the game is deployed.
+- **Lernleistung** - ob ein Lernprozess stattgefunden hat und eine Verbesserung der Lernleistung zu verzeichnen ist. 
+- **Motivation** - der Grad der Motivation, des Interesses und der Beteiligung der Schüler am Spiel.
+- Wahrnehmungen** - die Ansichten der Schüler zu Bereichen wie Zeitablauf, Realismus des Spiels, Komplexität, erhaltene Unterstützung und Grad der wahrgenommenen Kompetenz im Spiel.
+- **Einstellungen** - Gefühle der Lernenden und Lehrenden gegenüber dem Fach selbst und dem Einsatz von Spielen zum Lernen in diesem Fach.
+- **Zusammenarbeit** - die Regelmäßigkeit und Effektivität der Zusammenarbeit. (Connolly et al. argumentieren, dass dies optional und abhängig vom Spieldesign ist; ich würde argumentieren, dass im Kontext der Erwachsenenbildung mit Spielen die Zusammenarbeit ein wichtiger Teil des Lerndesigns ist).
+- **Präferenzen** - Neigungen der Lernenden und Lehrenden, z. B. zu unterschiedlichen Lernstilen oder Interaktionsformen.
+- Game-Based Learning **Umgebung** - Faktoren, die mit dem Spiel selbst zusammenhängen, wie z. B. die Gestaltung der Umgebung, die Verwendung von Hilfsmitteln, die Benutzerfreundlichkeit, das Niveau der sozialen Präsenz und die Art und Weise, wie das Spiel eingesetzt wird.
 
-## Evaluation Tools: Analytics
-The analysts part is the more important 
+### Evaluierungs-Tools: Analytik
+Der Analysten-Teil ist der wichtigere 
 
-![](../assets/img/game_learning_analytics.webp)
+![](../assets/imgame_learning_analytics.webp)
 
-### Engagement Survey
-This questionnaire can be used after an activity has been completed to evaluate the level of engagement relative to another activity. In order to analyse the results and compare levels of engagement between two different activities the following steps should be taken.
+### Umfrage zum Engagement
+Dieser Fragebogen kann nach Abschluss einer Aktivität verwendet werden, um den Grad des Engagements im Vergleich zu einer anderen Aktivität zu bewerten. Um die Ergebnisse zu analysieren und den Grad des Engagements zwischen zwei verschiedenen Aktivitäten zu vergleichen, sollten die folgenden Schritte durchgeführt werden.
 
-- Allocate a value to each answer, where strongly disagree = -2 to strongly agree = 2
-- For negative items (e.g. ‘I could not tell what effect my actions had’) reverse this scale.
-- Add up the total points to get a value for engagement with the activity.
+- Ordnen Sie jeder Antwort einen Wert zu, wobei "stimme überhaupt nicht zu" = -2 und "stimme voll zu" = 2 ist.
+- Bei negativen Antworten (z. B. "Ich konnte nicht erkennen, welche Auswirkungen mein Handeln hatte") kehren Sie diese Skala um.
+- Addieren Sie die Gesamtpunkte, um einen Wert für das Engagement bei der Aktivität zu erhalten.
 
-Thinking about the activity you have just undertaken, please indicate the level to which you agree with the following statements:
+Wenn Sie an die Aktivität denken, die Sie gerade durchgeführt haben, geben Sie bitte an, inwieweit Sie den folgenden Aussagen zustimmen:
 
-> Strongly Disagree (-2) | Disagree (-1) | Neither agree nor disagree (0) | Agree (1) | Strongly Agree (2)
+> Stimmt überhaupt nicht zu (-2) | Stimmt nicht zu (-1) | Stimmt weder zu noch nicht zu (0) | Stimmt zu (1) | Stimmt voll und ganz zu (2)
 
-- I wanted to complete the activity
-- I found the activity frustrating
-- I felt that I could achieve the goal of the activity
-- I knew what I had to do to complete the activity
-- I found the activity boring
-- It wasn’t clear what I could and couldn’t do
-- It was clear what I could learn from the activity
-- I felt absorbed in the activity 
-- The activity was pointless
-- I was not interested in exploring the options available
-- I did not care how the activity ended
-- I felt that time passed quickly
-- I found the activity satisfying
-- The activity would not let me do what I wanted
-- I could not tell what effect my actions had
-- I did not enjoy the activity
-- Feedback I was given was useful
-- I found it easy to get started
+- Ich wollte die Aufgabe zu Ende bringen
+- Ich fand die Aufgabe frustrierend
+- Ich hatte das Gefühl, dass ich das Ziel der Aufgabe erreichen kann
+- Ich wusste, was ich tun musste, um die Aufgabe zu lösen
+- Ich fand die Aufgabe langweilig
+- Es war nicht klar, was ich tun konnte und was nicht
+- Es war klar, was ich bei der Aktivität lernen konnte
+- Ich fühlte mich in die Aktivität vertieft 
+- Die Aktivität war sinnlos
+- Ich war nicht daran interessiert, die verfügbaren Optionen zu erkunden
+- Es war mir egal, wie die Aktivität endete
+- Ich hatte das Gefühl, dass die Zeit schnell verging
+- Ich fand die Tätigkeit befriedigend
+- Die Tätigkeit ließ mich nicht das tun, was ich wollte
+- Ich konnte nicht sagen, welche Wirkung meine Handlungen hatten
+- Ich hatte keinen Spaß an der Aktivität
+- Das Feedback, das ich erhielt, war nützlich
+- Ich fand es einfach, damit anzufangen
 
 ---
-## Unit Review
-- At the end.. what do you think about DGBL?
-- What do you think is the best attitude using games in classroom?
-- What do you need to improve your teaching sessions?
-- Are you going to play more videogames from tomorrow?
-- Did you like this course?
-- Did you learn something new?
-- What did you like most?
-- Have you some suggestion to improve this course?
+## Überprüfung der Einheit
+- Was denken Sie am Ende über DGBL?
+- Was ist Ihrer Meinung nach die beste Einstellung zum Einsatz von Spielen im Klassenzimmer?
+- Was brauchen Sie, um Ihre Unterrichtsstunden zu verbessern?
+- Wirst du ab morgen mehr Videospiele spielen?
+- Hat Ihnen dieser Kurs gefallen?
+- Haben Sie etwas Neues gelernt?
+- Was hat Ihnen am besten gefallen?
+- Haben Sie einen Vorschlag zur Verbesserung des Kurses?

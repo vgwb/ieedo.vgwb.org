@@ -1,118 +1,120 @@
 ---
-title: 1 - What is DGBL
+title: 1 - Vad är DGBL
 nav_order: 10
 ---
-# What is DGBL
+# Vad är DGBL
 
-**Learning Objectives**
+**Mål för utbildningen**
 
-- DGBL definition
-- What is Engagement?
-- How Game Based Learning works
-- What skills does DGBL develop?
+- Definition av DGBL
+- Vad är engagemang?
+- Hur fungerar spelbaserat lärande?
+- Vilka färdigheter utvecklar DGBL?
 
-## Key Terms
-To start our journey, we have to introduce some common terms:
+## Viktiga termer
+För att påbörja vår resa måste vi introducera några vanliga termer:
 
-- Game
-- Learning
-- Digital Game Based Learning (DGBL)
-- Engagement
+- Spel
+- lärande
+- Digitalt spelbaserat lärande (DGBL)
+- Engagemang
 
-## What is a Game?
-Turning to discussions of what constitutes “games” in relation to learning, it is first important to recognize that across a range of disciplines and perspectives, definitions have varied. Synthesizing a number of these perspectives on games, play, and culture, we could use this definition:
+## Vad är ett spel?
+När det gäller diskussioner om vad som utgör "spel" i förhållande till lärande är det först viktigt att inse att definitionerna har varierat inom en rad olika discipliner och perspektiv. Om vi sammanfattar ett antal av dessa perspektiv på spel, lek och kultur skulle vi kunna använda denna definition:
 
-> A game as a system in which players engage in an artificial conflict, defined by rules, that results in a quantifiable outcome
+> Ett spel är ett system där spelare engagerar sig i en artificiell konflikt, definierad av regler, som resulterar i ett kvantifierbart resultat
 
-A game is a **system** because it involves a set of things (rules, objects, players, etc.) that affect each other within an environment to form a larger pattern that is different from any of the individual parts.
-A game also involves **players**-active participants interacting with the system of the game in order to experience the play of the game. Not all games need a conflict, a contest between players (e.g., solo games such as solitaire or cooperative games).
-All games involve **rules** that provide the structure out of which gameplay emerges, by delimiting what a player can or cannot do.
-Finally, this definition asserts that all games involve some kind of **quantifiable outcome** - in its simplest form, a state of victory or defeat. 
+Ett spel är ett **system** eftersom det involverar en uppsättning saker (regler, objekt, spelare, etc.) som påverkar varandra i en miljö för att bilda ett större mönster som skiljer sig från någon av de enskilda delarna.
+Ett spel involverar också **spelare** - aktiva deltagare som interagerar med spelsystemet för att uppleva spelet. Alla spel behöver inte en konflikt, en tävling mellan spelare (t.ex. solospel som patiens eller kooperativa spel).
+Alla spel innehåller **regler** som ger den struktur ur vilken spelet växer fram, genom att avgränsa vad en spelare kan eller inte kan göra.
+Slutligen innebär denna definition att alla spel inbegriper någon form av **kvantifierbart resultat** - i sin enklaste form ett tillstånd av seger eller nederlag. 
 
-## What is Learning
-Defining what constitutes _game-based learning_ in DGBL necessitates a recognition of the contested nature of _learning_ itself as a concept. Broadly speaking, there are two general metaphors that have been historically utilized by the educational research community to define and describe learning.
-1. The first view characterizes **learning as acquisition**, be it the acquisition of knowledge, skills, dispositions, behaviors, or other outcomes deemed desirable by educators and institutions. This generally aligns with what scholars call a *cognitive perspective on learning*, which emphasizes internal mental processes such as memory, decision-making, thinking, and knowledge construction as fundamental to learning. It also speaks to behaviorist conceptions of learning, which tend to emphasize *observable behaviors as indicators of learning*.
-2. The second metaphor characterizes **learning as participation** and emphasizes processes of socialization, mentorship, participation, and social practice. Within the field of education, this metaphor generally informs scholarship identified with a sociocultural perspective on learning, which tends to highlight social practices, identities, and relationships as core to learning.
+## Vad är lärande
+Att definiera vad som utgör _spelbaserat lärande_ i DGBL kräver ett erkännande av att _lärande_ i sig är ett omtvistat begrepp. I stort sett finns det två allmänna metaforer som historiskt sett har använts av utbildningsforskare för att definiera och beskriva inlärning.
 
-## What is game based learning?
+1. Det första synsättet karaktäriserar **lärande som förvärv**, vare sig det handlar om förvärv av kunskap, färdigheter, dispositioner, beteenden eller andra resultat som anses önskvärda av lärare och institutioner. Detta stämmer i allmänhet överens med vad forskare kallar ett *kognitivt perspektiv på lärande*, som betonar interna mentala processer som minne, beslutsfattande, tänkande och kunskapskonstruktion som grundläggande för lärande. Det talar också till behavioristiska uppfattningar om lärande, som tenderar att betona *observerbara beteenden som indikatorer på lärande*.
+2. Den andra metaforen beskriver **lärande som deltagande** och betonar processer som socialisering, mentorskap, deltagande och social praxis. Inom utbildningsområdet präglar denna metafor i allmänhet forskning som identifieras med ett sociokulturellt perspektiv på lärande, vilket tenderar att lyfta fram sociala praktiker, identiteter och relationer som centrala för lärandet.
 
-Game-based learning is a pedagogical approach that involves **designing learning activities through games where the game characteristics and game principles inhere within the learning activities themselves**.
+## Vad är spelbaserat lärande?
 
-The design of more engaging curriculum needs to include techniques that teaches students how to be **critical**, **confident** and **creative** as well as abilities that they will need for success in the **work-a-day future life**. Games have this techniques and features.
+Spelbaserat lärande är ett pedagogiskt tillvägagångssätt som innebär **att utforma lärandeaktiviteter genom spel där spelets egenskaper och spelprinciper finns i själva lärandeaktiviteterna**.
 
-**Gaming is inherently motivating**, which may allow learners to gain skills and knowledge, by leveraging entertainment and weaving it within learning environments. Research studies indicate that video games in particular have great engagement and education related benefits. 
+Utformningen av mer engagerande läroplaner måste inkludera tekniker som lär eleverna hur man är **kritisk**, **trygg** och **kreativ** samt förmågor som de kommer att behöva för att lyckas i det framtida **arbetslivet**. Spel har dessa tekniker och egenskaper.
+
+**Spel är i sig motiverande**, vilket kan göra det möjligt för elever att förvärva färdigheter och kunskaper genom att utnyttja underhållning och väva in det i inlärningsmiljöer. Forskningsstudier visar att videospel i synnerhet har stora engagemangs- och utbildningsrelaterade fördelar. 
 
 📽 #VIDEO [Games and the Future of Education](https://www.youtube.com/watch?v=BiK2MPeg8k4)
-<iframe width="740" height="450" src="https://www.youtube.com/embed/BiK2MPeg8k4" title="Games and the Future of Education | ABUNDANCE" frameborder="0"  allowfullscreen></iframe>
+<iframe width="740" height="450" src="https://www.youtube.com/embed/BiK2MPeg8k4" title="Games and the Future of Education | ABUNDANCE" frameborder="0" allowfullscreen></iframe>
 
-## Different types of GBL
+## Olika typer av GBL
 
-In order to understand GBL better, its different types can be examined along with taking the following into consideration: the **place** where the game happens, and the **environment** in which the students play. The three types of GBL are:
+För att förstå GBL bättre kan man undersöka dess olika typer och ta hänsyn till följande: **platsen** där spelet äger rum och **miljön** där eleverna spelar. De tre typerna av GBL är
 
-### Board games
-![gbl_boardgames](../assets/img/gbl_boardgames.webp)
+### Brädspel
 
-Board Games are usually played by one or more players around a table (they are also called Tabletop Games).
-Monopoly can be considered an educational game. It has all the necessary elements: a story, characters, points, competition, and many other aspects. There are many examples of Monopoly-like games for schools with modified rules for different subjects, like History Monopoly or Math Monopoly. Board Games are used with great success to explore and teach. But it's not the focus of _this_ course. 
+![gbl_brädspel](../assets/img/gbl_boardgames.webp)
 
-### Real life games
+Brädspel spelas vanligtvis av en eller flera spelare runt ett bord (de kallas också bordsspel).
+Monopol kan betraktas som ett pedagogiskt spel. Det har alla nödvändiga element: en berättelse, karaktärer, poäng, tävling och många andra aspekter. Det finns många exempel på Monopol-liknande spel för skolor med modifierade regler för olika ämnen, som Historiemonopol eller Matematikmonopol. Brädspel används med stor framgång för att utforska och lära ut. Men det är inte fokus för _denna_ kurs. 
+
+### Spel i verkliga livet
 
 ![gbl_reallife](../assets/img/gbl_reallife.webp)
 
-The environment here is the **real world**. This is probably the most motivating, but also the most stressful type of game. In this kind, students must move, act, use their body and their minds in order to play. This is the most immersive type and it provokes students in almost every aspect of their learning. Since there is the possibility to move into a certain space, the real life game is often connected to the **theatre**. It’s easy to find **role play** activities, as well as simulations or drama in this type of game learning. Students act “as if they were” a character of the game, make decisions according to their goals, the environment, and the rules (Living Role Playing Game). We'll see that the Augmented Reality technology allows digital games to be played in the real world.
+Miljön här är den **verkliga världen**. Detta är förmodligen den mest motiverande, men också den mest stressande typen av spel. I denna typ av spel måste eleverna röra sig, agera, använda sin kropp och sina sinnen för att kunna spela. Detta är den mest uppslukande typen och den provocerar eleverna i nästan varje aspekt av deras lärande. Eftersom det finns möjlighet att flytta in i ett visst utrymme är det verkliga spelet ofta kopplat till **teatern**. Det är lätt att hitta **rollspelsaktiviteter**, liksom simuleringar eller drama i denna typ av spelinlärning. Eleverna agerar "som om de vore" en karaktär i spelet och fattar beslut i enlighet med sina mål, miljön och reglerna (Living Role Playing Game). Vi kommer att se att Augmented Reality-tekniken gör det möjligt att spela digitala spel i den verkliga världen.
 
-### Digital games
-Just as analog games can take on a variety of forms, so too can digital games appear on a multitude of computer-based electronic platforms. These include games installed as software on personal computers, as well as games played through television-attached gaming consoles such as the Sony PlayStation or Microsoft Xbox. Digital game platforms also include dedicated handheld platforms, such as the Nintendo Gameboy and its various incarnations, as well as mobile smartphones and tablet computers. These games can be engaged as a single player, with multiple players in a single physical location, or with players across distances using online connective features.
+### Digitala spel
+Precis som analoga spel kan se ut på många olika sätt, kan även digitala spel förekomma på en mängd olika datorbaserade elektroniska plattformar. Hit hör spel som installeras som programvara på persondatorer, liksom spel som spelas via TVanslutna spelkonsoler som Sony PlayStation eller Microsoft Xbox. Digitala spelplattformar omfattar även handhållna plattformar, såsom Nintendo Gameboy och dess olika inkarnationer, samt mobila smartphones och surfplattor. Dessa spel kan spelas av en ensam spelare, av flera spelare på en och samma fysiska plats eller av spelare som befinner sig långt ifrån varandra med hjälp av onlinefunktioner.
 
-### Digital vs Analog games
-There are at least four key traits that distinguish digital games from non-digital ones. 
-1. The first is that digital games can offer experiences of **interactivity** that are generally characterized by both immediacy and focus. This is largely by virtue of the fact that digital games are programmed into computers. Programming provides increased **immediacy of feedback** because the system is **automated to respond to player input**. Programming also provides a narrowed range of interactivity because possible player inputs and outcomes are limited by what a digital game developer has programmed into the software.
-2. Second, digital games and digital media more broadly make use of a computer’s affordances for **collecting, storing, retrieving, manipulating, revealing, or even concealing information** in the form of images, text, animations, sound, and even **player behavioral data**.
-3. Third, due to their computational nature, digital games have the potential to **automate systems and procedures** that may be far more complex for non-digital games to simulate. Examples of these complex systems include simulated environmental features in computer-based role-playing games: terrain–movement interactions, lines of sight, weather cycles, and even interactions with animals or non-player characters in the virtual game world.
-4. Finally, many (although not all) contemporary digital games have the ability to **facilitate communication between players** across networks, such as the online networks that connect players in multiplayer, internet-connected games. These communication-facilitating features can include technologies that enable voice or text chat between players within a particular game.
+### Digitala vs analoga spel
+Det finns åtminstone fyra viktiga egenskaper som skiljer digitala spel från icke-digitala spel. 
 
-## What is Digital Game-Based Learning?
+1. Det första är att digitala spel kan erbjuda upplevelser av **interaktivitet** som i allmänhet kännetecknas av både omedelbarhet och fokus. Detta beror till stor del på att digitala spel är programmerade i datorer. Programmering ger ökad **omedelbar feedback** eftersom systemet är **automatiserat för att svara på spelarens input**. Programmering ger också ett begränsat utbud av interaktivitet eftersom spelarens möjliga input och resultat begränsas av vad en utvecklare av digitala spel har programmerat in i programvaran.
+2. För det andra använder digitala spel och digitala medier i större utsträckning datorns möjligheter att **samla in, lagra, hämta, manipulera, avslöja eller till och med dölja information** i form av bilder, text, animationer, ljud och till och med **spelarnas beteendedata**.
+3. För det tredje har digitala spel, på grund av sin beräkningsnatur, potential att **automatisera system och förfaranden** som kan vara mycket mer komplexa för icke-digitala spel att simulera. Exempel på sådana komplexa system är simulerade miljöegenskaper i datorbaserade rollspel: interaktioner mellan terräng och rörelse, siktlinjer, vädercykler och till och med interaktioner med djur eller icke-spelarkaraktärer i den virtuella spelvärlden.
+4. Slutligen har många (men inte alla) moderna digitala spel förmågan att **underlätta kommunikation mellan spelare** över nätverk, såsom de onlinenätverk som kopplar samman spelare i internetanslutna spel för flera spelare. Dessa kommunikationsfrämjande funktioner kan omfatta teknik som möjliggör röst- eller textchatt mellan spelare inom ett visst spel.
 
-Digital game-based learning refers to learning by solving problems or accomplishing tasks through computers, mobile phones, or tablets. There are several elements in digital game-based learning, such as *fun*, *play*, *goals*, *competition*, and *problem-solving*.
+## Vad är digitalt spelbaserat lärande?
 
-Studies have investigated DGBL in different subjects, such as Literacy, Maths, Sciences, and STEAM. The results indicate that DGBL could improve students’ learning motivation, learning performance, reduce their cognitive load and anxiety.
+Med digitalt spelbaserat lärande avses lärande genom att lösa problem eller utföra uppgifter med hjälp av datorer, mobiltelefoner eller surfplattor. Det finns flera element i digitalt spelbaserat lärande, till exempel *kul*, *lek*, *mål*, *tävling* och *problemlösning*.
 
-{: .highlight }
-> Game based learning (**GBL**) is a type of _game play_ that has _defined learning outcomes_.  
-> **Digital** game based learning (**DGBL**) refers to using actual digital video games as learning tools.
+Studier har undersökt DGBL i olika ämnen, såsom läskunnighet, matematik, naturvetenskap och STEAM. Resultaten visar att DGBL kan förbättra elevernas inlärningsmotivation, inlärningsprestationer, minska deras kognitiva belastning och ångest.
 
-A critical appraisal of the _game-based_ aspect of DGBL can help better situate the usage of this concept in theory and practice. Building on learning as an *acquisition metaphor*, one way to define game-based learning in DGBL is by the use of digital games to promote the acquisition of a variety of knowledge, skills, dispositions, or other educational outcomes. According to this definition, learning is game-based when digital games, or certain elements of digital games such as scorekeeping, are applied toward identifiable outcomes defined by educators or institutions. 
+> Spelbaserat lärande (**GBL**) är en typ av _spelande_ som har _definierade inlärningsresultat_.  
+> **Digital** spelbaserad inlärning (**DGBL**) avser användning av faktiska digitala videospel som inlärningsverktyg.
 
-Another framing of DGBL learning as participation metaphor, characterizes the _game-based_ aspect of DGBL as an inherent part of meaningfully participating in - that is, playing - games, regardless of their connection to some external educational outcome.
-According to this definition, **learning is always happening when someone plays a game**. **Having to solve problems, overcome obstacles, or collaborate with others within and around games are all dimensions of learning**. 
-As game designer and theorist Raph Koster noted in _A Theory of Fun_ book, a game is only “good” to the degree that it is “fun,” and a game is only fun to the degree which players are being challenged to learn to be successful in that game space.
+En kritisk utvärdering av den _spelbaserade_ aspekten av DGBL kan bidra till att bättre placera användningen av detta koncept i teori och praktik. Med utgångspunkt i lärande som en *förvärvsmetafor* är ett sätt att definiera spelbaserat lärande i DGBL att använda digitala spel för att främja förvärvandet av en mängd olika kunskaper, färdigheter, dispositioner eller andra utbildningsresultat. Enligt denna definition är lärandet spelbaserat när digitala spel, eller vissa element i digitala spel såsom poängräkning, används för att uppnå identifierbara resultat som definierats av lärare eller institutioner. 
 
-### Gamification
-_Gamification_, often categorized as a subconcept of DGBL, describes the implementation of certain aspects of digital games (visual displays of progress, automated reward systems, scoring leaderboards, virtual avatars, and others) into non-gaming contexts such as education, business management, marketing, and even physical exercise programs.
+En annan inramning av DGBL-inlärning som deltagarmetafor, karaktäriserar den _spelbaserade_ aspekten av DGBL som en inneboende del av att meningsfullt delta i - det vill säga spela - spel, oavsett deras koppling till något externt utbildningsresultat.
+Enligt denna definition sker **lärande alltid när någon spelar ett spel**. **Att behöva lösa problem, övervinna hinder eller samarbeta med andra i och kring spel är alla dimensioner av lärande**. 
+Som speldesignern och teoretikern Raph Koster konstaterade i boken _A Theory of Fun_ är ett spel bara "bra" i den utsträckning som det är "roligt", och ett spel är bara roligt i den utsträckning som spelarna utmanas att lära sig att vara framgångsrika i det spelutrymmet.
 
-## Engagement
+### Spelifiering
+_Gamification_, som ofta kategoriseras som ett underbegrepp till DGBL, beskriver implementeringen av vissa aspekter av digitala spel (visuell visning av framsteg, automatiska belöningssystem, topplistor, virtuella avatarer och annat) i sammanhang som inte handlar om spel, till exempel utbildning, företagsledning, marknadsföring och till och med fysiska träningsprogram.
 
-Engaging students in classroom content is always a hard task, and traditional forms of education have become expected and somewhat redundant, that the learning capacities of students are very weak. When students aren’t engaged, they’re more likely to disrupt class, less likely to accept challenges, have lower grades, and aren’t confident in their ability to learn.
+## Engagemang
 
-Additionally, **sustaining engagement** is very important to ensure that the student is gaining the most out of their learning experience and that their **cognitive skills are always stimulated**. Engaging through educational video games that are built on educational content has proven to be a great way not only to keep students engaged but also to **deliver complex theories/topics in an interactive manner** allowing students to have a **deeper comprehension of the content**.
+Att engagera eleverna i klassrumsinnehållet är alltid en svår uppgift, och traditionella utbildningsformer har blivit förväntade och något överflödiga, att elevernas inlärningsförmåga är mycket svag. När eleverna inte är engagerade är det mer sannolikt att de stör undervisningen, är mindre benägna att anta utmaningar, har lägre betyg och inte är övertygade om sin förmåga att lära sig.
 
-![games-engagement](../assets/img/games-engagement.webp)
+Dessutom är **underhållande engagemang** mycket viktigt för att säkerställa att eleven får ut mesta möjliga av sin inlärningsupplevelse och att deras **kognitiva färdigheter alltid stimuleras**. Att engagera sig genom pedagogiska videospel som bygger på pedagogiskt innehåll har visat sig vara ett utmärkt sätt att inte bara hålla eleverna engagerade utan också att **förmedla komplexa teorier/ämnen på ett interaktivt sätt** så att eleverna får en **djupare förståelse av innehållet**.
+
+![spel-engagemang](../assets/img/games-engagement.webp)
 
 
 ## Motivation
-Motivation is the force behind human performance. It can arise from physiological or psychological needs, thoughts, or emotions. Our physiological needs help us preserve optimal physical functioning, while psychological needs typically help us thrive.
-The source of motivation can come from within ourselves or be external to us.
-Both games and learning have to do with motivation, and we'll analyze this topic extensively in next chapter.
+Motivation är den kraft som ligger bakom mänskliga prestationer. Den kan uppstå ur fysiologiska eller psykologiska behov, tankar eller känslor. Våra fysiologiska behov hjälper oss att upprätthålla en optimal fysisk funktion, medan psykologiska behov vanligtvis hjälper oss att trivas.
+Källan till motivation kan komma inifrån oss själva eller vara extern.
+Både spel och inlärning har att göra med motivation, och vi kommer att analysera detta ämne ingående i nästa kapitel.
 
 ---
 
-## Unit review
-Now that we have established what is game-based learning and why using educational video games is beneficial, please respond to the following questions:
+## Genomgång av enheten
+Nu när vi har fastställt vad spelbaserat lärande är och varför det är fördelaktigt att använda pedagogiska videospel, vänligen svara på följande frågor:
 
-- who can use DGBL? (students, everyone, teachers, kids)
-- why is DGBL so powerful? (cheap, easy, engaging)
-- is Engagement good for learners? (yes, no, we don't know yet)
+- Vem kan använda DGBL? (studenter, alla, lärare, barn)
+- Varför är DGBL så kraftfullt? (billigt, enkelt, engagerande)
+- Är engagemang bra för elever? (ja, nej, vi vet inte ännu)
 
-- Create your own definition of game-based learning
-- How do you believe educational video games would support your pedagogical approaches and enhance your teaching methods?
-- How would you introduce educational video games in your classroom?
+- Skapa din egen definition av spelbaserat lärande
+- Hur tror du att pedagogiska videospel skulle stödja dina pedagogiska tillvägagångssätt och förbättra dina undervisningsmetoder?
+- Hur skulle du introducera pedagogiska videospel i ditt klassrum?
