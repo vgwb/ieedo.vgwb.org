@@ -46,7 +46,7 @@ Spel ger en kombination av motiverande element som inte finns tillsammans i någ
 ## Inlärningsflöde
 Utbildningsspel har ett speciellt "flöde", som är
 
-![](../assets/img/kognitiv_approach.png)
+![](../assets/img/cognitive_approach.png)
 
 
 ![](../assets/img/GBLModel.webp)

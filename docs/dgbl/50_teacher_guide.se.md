@@ -6,7 +6,7 @@ nav_order: 50
 ---
 # 5. Handledning för lärare
 
-**Mål för lärande  
+**Mål för lärande**  
 
 - Hur man sätter upp en DGBL-session
 - Vilka färdigheter behöver en lärare utveckla?
@@ -33,7 +33,7 @@ Med denna nya roll kommer spänningen i att presentera digitalt spelbaserat lär
 
 
 
-![dgbl_flödesschema](../assets/img/dgbl_flödesschema.webp)
+![dgbl_flowchart](../assets/img/dgbl_flowchart.webp)
 
 ## Tillvägagångssätt
 Tillvägagångssättet för digitalt spelbaserat lärande måste vara välplanerat och organiserat för att engagera eleverna i lärandet och för att uppnå lämpliga resultat.
@@ -47,7 +47,7 @@ Det är viktigt att känna till teorin och verktygen eftersom spel inte fungerar
 
 
 ## Tips för att använda VG i klassrummet
-![](../assets/img/tips_vg_klassrum.webp)
+![](../assets/img/tips_vg_classroom.webp)
 
 ### Måste
 1. Lärare behöver inte vara inbitna gamers, men de bör ** åtminstone vara intresserade av dem**.

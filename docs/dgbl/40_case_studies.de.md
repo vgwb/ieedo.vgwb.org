@@ -107,7 +107,7 @@ Phone Story ist ein Spiel für Smartphone-Geräte, das versucht, eine kritische 
 http://phonestory.org
 
 ### Unbemannt
-![unbemannt](../assets/img/games/unbemannt.webp)
+![unmanned](../assets/img/games/unmanned.webp)
 Die meisten Shoot-em-up-Videospiele lassen den Krieg actionreich und glamourös erscheinen. Unmanned versucht, ein weitaus realistischeres Bild zu zeichnen, indem es den Spieler in die Rolle eines Soldaten versetzt, der neben seinen militärischen Pflichten auch mit Langeweile und traumatischen Träumen zu kämpfen hat.
 http://unmanned.molleindustria.org
 
@@ -178,7 +178,7 @@ Für die ausgewählten Spiele versuchen wir, die **curricularen Verbindungen** (
 ## Abenteuer
 
 ### Gone home
-![](../assets/imgames/games/gonehome.webp)
+![](../assets/img/games/gonehome.webp)
 
 Ein First-Person-Erkundungsspiel, in dem der Spieler die Rolle von Kaitlin Greenbriar spielt, einer Studentin, die von einer Auslandsreise zurückkehrt. Am beunruhigendsten ist der Verbleib von Kaitlins jüngerer Schwester Sam, die verschwunden ist, wenn auch nicht spurlos. Um herauszufinden, was mit Sam passiert ist, muss der Spieler Hinweisen und Tagebucheinträgen folgen, um zahlreiche Geheimnisse im Haus zu lüften.
 
@@ -210,7 +210,7 @@ Darüber hinaus kann der Spieler die Folgen rückgängig machen, indem er die Sp
 > Mögliche vermittelte Fähigkeiten:** Philosophische Analyse; ethische Analyse; narratives Design; logisches Denken; Analyse moralischer Dilemmata; narratives Design
 
 ### Assassin's Creed (Serie)
-![](../assets/img/games/assassassin.webp)
+![](../assets/img/games/assassin.webp)
 Die Serie umfasst zehn erzählerisch orientierte Standardspielkapitel, die jeweils unterschiedliche Zeitepochen und Schauplätze abdecken, mit einem Erzählbogen, der vom ptolemäischen Ägypten über das Heilige Land zur Zeit des dritten Kreuzzugs, das Italien der Renaissance, das Amerika der Kolonialzeit und die Französische Revolution reicht. Der Schwerpunkt des Spiels liegt auf der Erkundung der offenen Welt, dem Sammeln von Hinweisen und Beweisen sowie der Beschaffung oder Übermittlung von Informationen.
 
 **Lehrplanverbindungen**: Weltgeschichte; Weltkulturen; Kunst; Englisch lernen; Sprachen lernen; Kunst- und Architekturgeschichte; Kolonialgeschichte; Piratengeschichte; Musik  

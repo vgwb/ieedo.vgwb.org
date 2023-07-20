@@ -83,13 +83,14 @@ Website: [thiswarofmine.com](http://www.thiswarofmine.com)
 ![](../assets/img/games/papers_please.webp)
 
 **Papers, Please** is a single-player “Dystopian Document Thriller” in which the player steps into the role of an immigration inspector in the fictional country of Arstotzka in the year 1982. As the player stands on the threshold between two different countries, a unique perspective of immigration and border security springs out of the mundane task of inspecting papers. On a second layer, the player must simultaneously provide for their family using the salary earned from the job, which pays based on how many people have been processed through in a day. Balancing border security with the needs of the family is uniquely human, creating a juxtaposition that is new and interesting.  
-Website: [papersplea.se](https://www.papersplea.se/)
+
+[website](https://www.papersplea.se/)
 
 ### Bounden
 ![bounden](../assets/img/games/bounden.webp)
 
 **Bounden** is a smartphone dance game that gets players to use their bodies. Two people hold opposite ends of one smartphone then move together to keep a cursor over the ball. What starts as a novel way to interact with the game slowly encourages the two players to move creatively together as they complete each level.  
-website: [playbounden.com](http://playbounden.com)
+[website](http://playbounden.com)
 
 ## Ethics
 > Ethics is the art and science of analysing issues of good, bad, right, wrong, just, and unjust.
@@ -104,29 +105,31 @@ Website [peacemakergame.com](http://peacemakergame.com)
 ![phone_story](../assets/img/games/phone_story.webp)
 
 Phone Story is a game for smartphone devices that attempts to provoke a critical reflection on its own technological platform. Under the shiny surface of our electronic gadgets, behind its polished interface, hides the product of a troubling supply chain that stretches across the globe. Phone Story represents this process with four educational games that make the player symbolically complicit in coltan extraction in Congo, outsourced labor in China, e-waste in Pakistan and gadget consumerism in the West.
-http://phonestory.org
+
+[website](http://phonestory.org)
 
 ### Unmanned
 ![unmanned](../assets/img/games/unmanned.webp)
 Most video shoot-em-up video games make war seem action-packed and glamorous. Unmanned aims to paint a far more realistic portrait, casting players as a soldier dealing with boredom and traumatic dreams, in addition to military duties.
-http://unmanned.molleindustria.org
+
+[website](http://unmanned.molleindustria.org)
 
 ### Data Dealer
 Data Dealer is an online game about collecting and selling personal data - full of irony and gleeful sarcasm. It'´'s a browser/serious/edu/impact game about digital culture and surveillance and aims to raise awareness about online privacy in a new and fun way.
 
-https://datadealer.com
+[website](https://datadealer.com)
 
 ### Half the Sky Movement
 ![halfthesky](../assets/img/games/halfthesky.webp)
 The Game is a game-based adventure that aims to reach mainstream audiences to raise awareness and donations to empower women and girls around the world.
 
-http://www.halftheskymovement.org
+<http://www.halftheskymovement.org>
 
 ### Fate of the World
 ![fateoftheworld](../assets/img/games/fateoftheworld.webp)
 Fate of the World is a dramatic global strategy game that puts all our futures in your hands. The game features a dramatic set of scenarios based on the latest science covering the next two centuries. You must manage a balancing act of protecting the Earth's resources and climate versus the needs of an ever-growing world population
 
-https://www.soothsayergames.com
+<https://www.soothsayergames.com>
 
 ## Other games for social good
 
@@ -225,6 +228,7 @@ This game drops the player in a vast, open-world landscape, giving Link complete
 > **Possible skills taught**: Focus, organization, time management; working memory; executive function
 
 **Tips:** 
+
 1. After the students play Breath of the Wild, teachers should ensure that they understand how the executive functioning skills were used in the game.
 2. One way teachers can support reflection on skills used in the game is by encouraging students to write down specific examples of when success completion of quests required the use of each skill.
 
@@ -376,15 +380,16 @@ Unlike a typical war game where players usually assume the role of capable soldi
 **Curricular connections:** Social and emotional learning; ethics; game design
 **Possible skills taught:** Empathy; moral dilemmas; decision-making; narrative design
 **Tips:**
-1.  Game play can extend outside the classroom for a more complete experience.
-2.  For a more advanced study, students can start the game with a weaker character profile—instead of the initial settings suggested in Figure 3—to challenge the player’s morality and decision-making skills.
+1. Game play can extend outside the classroom for a more complete experience.
+2. For a more advanced study, students can start the game with a weaker character profile to challenge the player’s morality and decision-making skills.
 
 ## Casual games
 
 ### Fancade
 ![](../assets/img/games/fancade.webp)
 Fancade is a huge collection of simple games. Play them instantly, or make your own game using drag-n-drop building blocks!
-website: [fancade.com](https://www.fancade.com)
+
+[www.fancade.com](https://www.fancade.com)
 
 ## Sandbox
 
@@ -395,13 +400,14 @@ Minecraft is an open-world game, allowing players opportunity for unlimited expl
 **Curricular connections:** Foundational knowledge (English language arts, geography); meta-knowledge (cause and effect, narrative experience); humanistic knowledge (cultural competence)   
 **Possible skills taught:** Writing; critical thinking; exploration; experimentation; cause and effect; mapping; building; design; creativity; resource management; communication
 
-website: [minecraft.net](https://www.minecraft.net)
+[www.minecraft.net](https://www.minecraft.net)
 
 ### Kerbal Space Program
 ![](../assets/img/games/kerbal.webp)
 
 Take charge of the space program for the alien race known as the Kerbals. You have access to an array of parts to assemble fully-functional spacecraft that flies (or doesn’t) based on realistic aerodynamic and orbital physics. Launch your Kerbal crew into orbit and beyond (while keeping them alive) to explore moons and planets in the Kerbol solar system, constructing bases and space stations to expand the reach of your expedition.  
-website: [kerbalspaceprogram.com](https://www.kerbalspaceprogram.com)
+
+[www.kerbalspaceprogram.com](https://www.kerbalspaceprogram.com)
 
 ---
 ## Unit Review

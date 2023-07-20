@@ -2,7 +2,7 @@
 title: Inledning
 ---
 # Digitalt spelbaserat lärande
-en introduktionsguide av [Videospel utan gränser](https://vgwb.org)
+en introduktionsguide av [Video Games Without Borders](https://vgwb.org)
 
 > "Riktiga, bra, allvarliga saker kan hända även i ett lekfullt ekosystem."
 

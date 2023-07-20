@@ -6,7 +6,7 @@ nav_order: 50
 ---
 # 5. Guía del profesor
 
-**Objetivos de aprendizaje  
+**Objetivos de aprendizaje**  
 
 - Cómo organizar una sesión de DGBL
 - Qué habilidades debe desarrollar un profesor
@@ -146,11 +146,11 @@ Si es necesario hacer algunos ajustes en Android (notificaciones, por ejemplo).
 La forma en que se evalúa un juego es crucial para que tenga sentido, para que los alumnos lo consideren apropiado y para animarles a participar en la experiencia de aprendizaje.
 Hay siete aspectos que deben examinarse a la hora de determinar la eficacia del aprendizaje basado en juegos.
 
-- Rendimiento del alumno**: si se ha producido el aprendizaje y hay una mejora en el rendimiento del alumno. 
+- **Rendimiento del alumno**: si se ha producido el aprendizaje y hay una mejora en el rendimiento del alumno. 
 - **Motivación** - los niveles de motivación, interés y participación de los alumnos en el juego.
-- Percepciones**: opiniones de los alumnos sobre aspectos como la experiencia del paso del tiempo, el realismo del juego, el grado de complejidad, el apoyo recibido y los niveles de competencia percibidos en el juego.
-- Actitudes**: sentimientos de los alumnos y profesores hacia la asignatura en sí y el uso de juegos para el aprendizaje dentro de esa asignatura.
-- Colaboración**: regularidad y eficacia de la colaboración. (Connolly et al. sostienen que esto es opcional y depende del diseño del juego; yo diría que en el contexto del aprendizaje de adultos con juegos la colaboración es una parte importante del diseño del aprendizaje).
+- **Percepciones**: opiniones de los alumnos sobre aspectos como la experiencia del paso del tiempo, el realismo del juego, el grado de complejidad, el apoyo recibido y los niveles de competencia percibidos en el juego.
+- **Actitudes**: sentimientos de los alumnos y profesores hacia la asignatura en sí y el uso de juegos para el aprendizaje dentro de esa asignatura.
+- **Colaboración**: regularidad y eficacia de la colaboración. (Connolly et al. sostienen que esto es opcional y depende del diseño del juego; yo diría que en el contexto del aprendizaje de adultos con juegos la colaboración es una parte importante del diseño del aprendizaje).
 - **Preferencias** - inclinaciones de los alumnos y profesores hacia, por ejemplo, diferentes estilos de aprendizaje o modos de interacción.
 - Aprendizaje basado en el juego **Entorno** - factores asociados al propio juego, como el diseño del entorno, el uso de andamiaje, la usabilidad, los niveles de presencia social y la forma en que se despliega el juego.
 

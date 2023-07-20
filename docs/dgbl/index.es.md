@@ -4,7 +4,7 @@ title: Introducción
 
 # Aprendizaje digital basado en juegos
 
-una guía introductoria de [Videojuegos sin Fronteras](https://vgwb.org)
+una guía introductoria de [Video Games Without Borders](https://vgwb.org)
 
 > "Cosas reales, buenas y serias pueden ocurrir incluso dentro de un ecosistema lúdico".
 

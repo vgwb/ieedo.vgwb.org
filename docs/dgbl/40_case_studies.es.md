@@ -6,7 +6,7 @@ nav_order: 40
 ---
 # 4. Casos prácticos
 
-**Objetivos de aprendizaje  
+**Objetivos de aprendizaje**  
 
 - ¿Qué videojuegos existentes podemos utilizar?
 - ¿Qué podemos aprender utilizando videojuegos comerciales?
@@ -36,18 +36,18 @@ Campaña pública australiana realizada por Metro Trains en Melbourne, Victoria,
 Sitio web: [dumbwaystodie.com](http://www.dumbwaystodie.com)
 
 ### iCivics
-iCivics](../assets/img/games/icivics.webp)
+![iCivics](../assets/img/games/icivics.webp)
 
 **iCivics** existe para implicar a los alumnos en un aprendizaje cívico significativo. Proporcionamos a los profesores recursos bien escritos, ingeniosos y gratuitos que mejoran su práctica e inspiran sus aulas. acerca de. **iCivics** reimagina la educación cívica para la democracia estadounidense.  
 Sitio web: [icivics.org](https://www.icivics.org)
 
 ### Otros títulos
-- Ludwig](http://www.playludwig.com) - juego educativo de física
-- 80 Days](https://www.inklestudios.com/80days/) - juego educativo adaptativo de geografía
-- Roma Nova](https://www.irit.fr/~David.Panzoli/romanova.html) - enseñanza de historia con interfaces cerebrales
-- Bionigma](https://www.gcc.tu-darmstadt.de) - juego científico para la exploración de proteínas
-- Meister Cody](https://www.meistercody.com) - juego educativo para la discalculia
-- Orwell: Keeping an Eye on You](https://www.osmoticstudios.com/orwell-keeping-an-eye-on-you/) - aprendizaje de la gestión de datos de información personal
+- [Ludwig](http://www.playludwig.com) - juego educativo de física
+- [80 Days](https://www.inklestudios.com/80days/) - juego educativo adaptativo de geografía
+- [Roma Nova](https://www.irit.fr/~David.Panzoli/romanova.html) - enseñanza de historia con interfaces cerebrales
+- [Bionigma](https://www.gcc.tu-darmstadt.de) - juego científico para la exploración de proteínas
+- [Meister Cody](https://www.meistercody.com) - juego educativo para la discalculia
+- [Orwell: Keeping an Eye on You](https://www.osmoticstudios.com/orwell-keeping-an-eye-on-you/) - aprendizaje de la gestión de datos de información personal
 
 ## Salud
 
@@ -59,15 +59,15 @@ La diseñadora de juegos Jane McGonigal cree firmemente que los videojuegos no c
 <iframe width="937" height="527" src="https://www.youtube.com/embed/lfBpsV1Hwqs" title="El juego que puede darte 10 años más de vida | Jane McGonigal" frameborder="0" allow="acelerómetro; autoplay; clipboard-write; encrypted-media; giroscopio; picture-in-picture" allowfullscreen></iframe>
 
 ### Algunos títulos
-- Re-Mission](https://hopelab.org/case-study/re-mission/) - ayuda a jóvenes enfermos de cáncer a cumplir el tratamiento
-- Zombie Run](https://zombiesrungame.com) - Corre en el mundo real. Conviértete en un héroe en otro.
-- Play Forward](https://www.play2prevent.org/our-games/playforward-elm-city-stories/) - prevención del VIH
+- [Re-Mission](https://hopelab.org/case-study/re-mission/) - ayuda a jóvenes enfermos de cáncer a cumplir el tratamiento
+- [Zombie Run](https://zombiesrungame.com) - Corre en el mundo real. Conviértete en un héroe en otro.
+- [Play Forward](https://www.play2prevent.org/our-games/playforward-elm-city-stories/) - prevención del VIH
 - Respir Games (terapia del asma)
 - BalanceFit (entrenamiento del equilibrio, la coordinación y la fuerza)
-- NEUROvitalis](https://www.headapp.com/en/neurovitalis-en/) - entrenamiento cognitivo personalizado
+- [NEUROvitalis](https://www.headapp.com/en/neurovitalis-en/) - entrenamiento cognitivo personalizado
 - KickAss (juego de autismo para adolescentes)
-- Zirkus Empathica](https://www.zirkus-empathico.de/) - juego de autismo para niños
-- SPARX](https://www.sparx.org.nz/home) - juego de salud mental para jóvenes y adolescentes
+- [Zirkus Empathica](https://www.zirkus-empathico.de/) - juego de autismo para niños
+- [SPARX](https://www.sparx.org.nz/home) - juego de salud mental para jóvenes y adolescentes
 
 ## Empatía
 
@@ -86,7 +86,7 @@ Página web: [thiswarofmine.com](http://www.thiswarofmine.com)
 Sitio web: [papersplea.se](https://www.papersplea.se/)
 
 ### Bounden
-Bounden](../assets/img/games/bounden.webp)
+[Bounden](../assets/img/games/bounden.webp)
 
 **Bounden** es un juego de baile para smartphone que obliga a los jugadores a usar el cuerpo. Dos personas sujetan los extremos opuestos de un smartphone y se mueven juntas para mantener el cursor sobre la pelota. Lo que empieza como una forma novedosa de interactuar con el juego, poco a poco anima a los dos jugadores a moverse juntos de forma creativa a medida que completan cada nivel.  
 página web: [playbounden.com](http://playbounden.com)
@@ -95,44 +95,47 @@ página web: [playbounden.com](http://playbounden.com)
 > La ética es el arte y la ciencia de analizar las cuestiones de lo bueno, lo malo, lo correcto, lo incorrecto, lo justo y lo injusto.
 
 ### PeaceMaker
-PeaceMaker](../assets/img/games/peacemaker.webp)
+[PeaceMaker](../assets/img/games/peacemaker.webp)
 
 Juego de simulación gubernamental que simula el conflicto palestino-israelí.   
 Sitio web [peacemakergame.com](http://peacemakergame.com)
 
 ### Phone Story
-Phone Story](../assets/img/games/phone_story.webp)
+![Phone Story](../assets/img/games/phone_story.webp)
 
 Phone Story es un juego para dispositivos smartphone que intenta provocar una reflexión crítica sobre su propia plataforma tecnológica. Bajo la brillante superficie de nuestros aparatos electrónicos, detrás de su pulida interfaz, se esconde el producto de una problemática cadena de suministro que se extiende por todo el planeta. Phone Story representa este proceso con cuatro juegos educativos que convierten al jugador en cómplice simbólico de la extracción de coltán en el Congo, el trabajo subcontratado en China, los residuos electrónicos en Pakistán y el consumismo de gadgets en Occidente.
-http://phonestory.org
+
+<http://phonestory.org>
 
 ### Sin tripulación
-Unmanned](../assets/img/games/unmanned.webp)
+![Unmanned](../assets/img/games/unmanned.webp)
 La mayoría de los videojuegos de disparos hacen que la guerra parezca llena de acción y glamour. El objetivo de Unmanned es pintar un retrato mucho más realista, poniendo a los jugadores en la piel de un soldado que se enfrenta al aburrimiento y a sueños traumáticos, además de a sus deberes militares.
-http://unmanned.molleindustria.org
+
+<http://unmanned.molleindustria.org>
 
 ### Data Dealer
 Data Dealer es un juego en línea sobre la recogida y venta de datos personales, lleno de ironía y alegre sarcasmo. Es un juego de navegador/serio/edu/impacto sobre la cultura digital y la vigilancia, y pretende concienciar sobre la privacidad en línea de una forma nueva y divertida.
 
-https://datadealer.com
+<https://datadealer.com>
 
-Movimiento ### Half the Sky
+### Movimiento Half the Sky
 El juego es una aventura basada en el juego.
 The Game es una aventura basada en juegos que pretende llegar al gran público para concienciar y recaudar donativos para empoderar a mujeres y niñas de todo el mundo.
 
-http://www.halftheskymovement.org
+<http://www.halftheskymovement.org>
 
 ### Fate of the World
-Destino del mundo](../assets/img/games/fateoftheworld.webp)
+![Destino del mundo](../assets/img/games/fateoftheworld.webp)
 Fate of the World es un dramático juego de estrategia global que pone nuestro futuro en tus manos. El juego presenta un dramático conjunto de escenarios basados en los últimos avances científicos que abarcan los próximos dos siglos. Deberás equilibrar la protección de los recursos y el clima de la Tierra con las necesidades de una población mundial en constante crecimiento.
 
-https://www.soothsayergames.com
+<https://www.soothsayergames.com>
 
 ## Otros juegos para el bien social
 
-**Un mundo sin petróleo  
-También creación de McGonigal, los jugadores de este juego se encuentran en un mundo en el que se han agotado los recursos petrolíferos y deben ser creativos para sobrevivir a la masiva escasez mundial. ¿Lo mejor del juego? Enseña formas sencillas de consumir menos petróleo en el mundo real, hábitos que los jugadores afirman mantener cuando no están jugando.  
-[página web](http://www.worldwithoutoil.org)
+**Un mundo sin petróleo**  
+También creación de McGonigal, los jugadores de este juego se encuentran en un mundo en el que se han agotado los recursos petrolíferos y deben ser creativos para sobrevivir a la masiva escasez mundial. ¿Lo mejor del juego? Enseña formas sencillas de consumir menos petróleo en el mundo real, hábitos que los jugadores afirman mantener cuando no están jugando. 
+
+[sitio web](http://www.worldwithoutoil.org)
 
 **FoldIt**  
 FoldIt, un juego en línea de plegado de proteínas, permite a su cuarto de millón de jugadores ayudar en la investigación científica estabilizando cadenas de aminoácidos. Es como el Tetris biológico: FoldIt convierte el reconocimiento de patrones biológicos en una competición que aporta soluciones innovadoras a problemas que han frustrado a las comunidades científicas durante años.  
@@ -142,9 +145,9 @@ FoldIt, un juego en línea de plegado de proteínas, permite a su cuarto de mill
 Comunicarse entre lenguas y culturas no es fácil. Pero en este juego en línea, dos jugadores anónimos de distintos lugares del mundo deben aprender a hablarse mientras sortean obstáculos. Desarrollado por CoCo & Co, este juego se llevó los máximos honores en los premios Games for Change de este año.  
 [sitio web](http://www.makeourway.com/)
 
-**Héroe del presupuesto    
+**Héroe del presupuesto**    
 ¿Crees que puedes equilibrar el presupuesto nacional? Entonces querrás jugar a este juego de American Public Media, que permite a los jugadores ver qué ocurre con el déficit nacional cuando aumentan la financiación de los programas u optan por hacer recortes difíciles. "Todos los miembros del Congreso deberían jugar a este juego", afirma uno de sus creadores.  
-[página web](http://www.marketplace.org/topics/economy/budget-hero)
+[sitio web](http://www.marketplace.org/topics/economy/budget-hero)
 
 **Escuadrón del dolor**  
 A menudo se pide a los niños y adolescentes con cáncer que lleven diarios de dolor, un papeleo que no sólo es aburrido sino que centra su atención en su malestar. La aplicación para iOS Pain Squad hace que todo el proceso sea divertido e interactivo, al tiempo que ayuda a los médicos a ofrecer mejores tratamientos a los jóvenes pacientes.  
@@ -154,7 +157,7 @@ A menudo se pide a los niños y adolescentes con cáncer que lleven diarios de d
 Cuando tu cuenta bancaria está en números negros, es fácil pensar que cualquiera puede salir de pobre por sus propios medios. Pero en este juego en línea, los jugadores tienen que buscar trabajo y sobrevivir con 1.000 dólares al mes, lo que demuestra que la pobreza y el desempleo son sistemáticos y no sólo el resultado de defectos de carácter.  
 [playspent.org](http://playspent.org/)
 
-**Evocar  
+**Evocar**  
 Creado por el Instituto del Banco Mundial en colaboración con McGonigal, este juego es un curso intensivo de 10 semanas sobre innovación social, en el que se plantean a los jugadores retos que van desde la "seguridad alimentaria" a la "resiliencia urbana", y se les anima a convertirse en un grupo de reflexión sobre los retos locales.  
 [www.urgentevoke.com](http://www.urgentevoke.com)
 
@@ -164,12 +167,12 @@ Creado por el Instituto del Banco Mundial en colaboración con McGonigal, este j
 <iframe width="937" height="527" src="https://www.youtube.com/embed/qYUmI5kGsYk" title="Cómo un videojuego puede ayudarnos a construir ciudades mejores | Karoliina Korppoo" frameborder="0" allow="acelerómetro; reproducción automática; portapapeles-escritura; medios codificados; giroscopio; imagen en imagen" allowfullscreen></iframe>
 
 Algunos títulos:
-- Democracy](https://positech.co.uk/democracy/) - juego de estrategia política
-- Simulador de vuelo](https://www.flightsimulator.com)
-- Lost Earth 2307](https://www.iosb.fraunhofer.de/en/projects-and-products/lost-earth-2307.html) - interpretación de imágenes, militar
+- [Democracy](https://positech.co.uk/democracy/) - juego de estrategia política
+- [Simulador de vuelo](https://www.flightsimulator.com)
+- [Lost Earth 2307](https://www.iosb.fraunhofer.de/en/projects-and-products/lost-earth-2307.html) - interpretación de imágenes, militar
 - [Ship Simulator](https://www.shipsim.com) - búsqueda y rescate marítimos
-- SchaVIS](https://www.youtube.com/watch?v=xMvV7oOJozw) - simulación y prevención de inundaciones
-- Sharkworld](https://www.xmediaworks.nl/en/portfolio-items/sharkworld-a-project-management-game/) - formación en gestión de proyectos
+- [SchaVIS](https://www.youtube.com/watch?v=xMvV7oOJozw) - simulación y prevención de inundaciones
+- [Sharkworld](https://www.xmediaworks.nl/en/portfolio-items/sharkworld-a-project-management-game/) - formación en gestión de proyectos
 - [Houthoff Buruma](https://annex.fandom.com/wiki/Houthoff_Buruma_The_Game) - contratación y evaluación
 
 ## Juegos comerciales
@@ -178,7 +181,7 @@ De los juegos seleccionados intentamos extraer las **conexiones curriculares** (
 ## Aventura
 
 ### Gone home
-(../assets/img/games/gonehome.webp)
+![gonehome](../assets/img/games/gonehome.webp)
 
 Un juego de exploración en primera persona en el que el jugador encarna a Kaitlin Greenbriar, una estudiante que regresa de un viaje al extranjero. Lo más desconcertante es el paradero de Sam, la hermana pequeña de Kaitlin, que ha desaparecido, aunque no sin dejar rastro. Para ayudar a determinar qué le ha ocurrido a Sam, el jugador debe seguir pistas y anotaciones en un diario para descubrir numerosos secretos ocultos por toda la casa.
 
@@ -190,10 +193,11 @@ Un juego de exploración en primera persona en el que el jugador encarna a Kaitl
 
 The Walking Dead cuenta la historia de Lee Everett, un profesor de Atlanta atrapado en pleno apocalipsis zombi. Durante el juego, el jugador encarna a Lee a través de las pruebas y desafíos que él y otros supervivientes tienen que superar. La jugabilidad es bastante sencilla y consiste principalmente en controlar a Lee para explorar su entorno y elegir sus líneas de diálogo en las conversaciones con otros personajes. Para ello, el jugador debe actuar en nombre de Lee en dilemas morales difíciles y complejos.
 
-> **Conexiones curriculares:** Filosofía moral; ética; normas sociales, historia de las ideas.  
-> Habilidades que se pueden enseñar:** Toma de decisiones; pensamiento sistémico; habilidades de pensamiento de orden superior, como causa y efecto; pensamiento crítico; reflexión; conexiones entre el juego y uno mismo; conexiones entre el juego y el mundo; atención plena.
+> **Conexiones curriculares:** Filosofía moral; ética; normas sociales, historia de las ideas.    
+> **Habilidades que se pueden enseñar:** Toma de decisiones; pensamiento sistémico; habilidades de pensamiento de orden superior, como causa y efecto; pensamiento crítico; reflexión; conexiones entre el juego y uno mismo; conexiones entre el juego y el mundo; atención plena.
 
 Consejos:
+
 1. Los profesores deben jugar al episodio que vayan a utilizar al menos dos veces, ya que un conocimiento profundo del juego es crucial para establecer las conexiones curriculares necesarias.
 2. Los profesores deben animar a los alumnos a basar sus argumentos en teorías éticas, y no sólo en sus "corazonadas".
 
@@ -207,13 +211,13 @@ El jugador se enfrenta a varios dilemas morales que le obligan a tomar decisione
 Además, el jugador puede deshacer las consecuencias activando el mecanismo de rebobinado del reloj para viajar a puntos temporales anteriores y tomando diferentes decisiones que pueden influir en los acontecimientos futuros.
 
 > **Conexiones curriculares:** Filosofía; ética; lógica; lengua inglesa; habilidades sociales y emocionales.  
-> Habilidades posibles:** Análisis filosófico; análisis ético; diseño narrativo; pensamiento lógico; análisis de dilemas morales; diseño narrativo.
+> **Habilidades posibles:** Análisis filosófico; análisis ético; diseño narrativo; pensamiento lógico; análisis de dilemas morales; diseño narrativo.
 
 ### Assassin's Creed (serie)
 ![](../assets/img/games/assassin.webp)
 La serie consta de diez capítulos de juego estándar basados en la narrativa, cada uno de los cuales abarca diferentes épocas y lugares cronológicos, con un arco narrativo que abarca desde el Egipto ptolemaico, pasando por Tierra Santa en la época de la tercera Cruzada, la Italia renacentista, las Américas en la época colonial y la Revolución Francesa. El juego se centra en la exploración del mundo abierto, la recogida de pistas y pruebas y la recopilación o entrega de información.
 
-> Conexiones curriculares Historia del mundo; Culturas del mundo; Artes; Aprendizaje de la lengua inglesa; Aprendizaje de idiomas; Historia del arte y la arquitectura; Historia colonial; Historia de la piratería; Música.  
+> **Conexiones curriculares**: Historia del mundo; Culturas del mundo; Artes; Aprendizaje de la lengua inglesa; Aprendizaje de idiomas; Historia del arte y la arquitectura; Historia colonial; Historia de la piratería; Música.  
 > **Habilidades posibles enseñadas**: apreciación del arte y la arquitectura; apreciación de la música; resolución de problemas basada en tareas; comprensión auditiva y lectora (ESL, lenguas extranjeras); toma de decisiones éticas; argumentación; empatía; análisis de dilemas morales.
 
 ### The Legend of Zelda: Breath of the Wild
@@ -225,8 +229,9 @@ Este juego sitúa al jugador en un vasto paisaje de mundo abierto, dando a Link 
 > **Posibles habilidades enseñadas**: Concentración, organización, gestión del tiempo; memoria de trabajo; función ejecutiva
 
 **Consejos:** 
+
 1. Después de que los estudiantes jueguen Breath of the Wild, los profesores deben asegurarse de que entienden cómo se utilizaron las habilidades de funcionamiento ejecutivo en el juego.
-2. 2. Una forma en que los profesores pueden apoyar la reflexión sobre las habilidades utilizadas en el juego es animando a los alumnos a escribir ejemplos concretos de cuándo la finalización con éxito de las misiones requirió el uso de cada habilidad.
+2. Una forma en que los profesores pueden apoyar la reflexión sobre las habilidades utilizadas en el juego es animando a los alumnos a escribir ejemplos concretos de cuándo la finalización con éxito de las misiones requirió el uso de cada habilidad.
 
 ## Plataforma
 
@@ -252,8 +257,8 @@ En Never Alone encarnas a una joven inupiat, Nuna, que emprende un viaje para de
 ![](../assets/img/games/keeptalking.webp)
 Keep Talking and Nobody Explodes es un juego cooperativo de realidad virtual (RV) en el que los jugadores deben desactivar una bomba en un número determinado de minutos. El juego sitúa a los jugadores en uno de los dos papeles siguientes: el jugador de RV y el experto o expertos manuales. El jugador de RV lleva un casco de realidad virtual, mientras que los expertos en manuales acceden a un recurso independiente llamado manual de bombas. Una vez que el juego comienza, transporta al jugador de RV a una sala sin ventanas, al estilo de un examen policial, con la bomba y algunas herramientas. Cada bomba consta de un temporizador y diversos módulos que contienen símbolos complejos o conjuntos de reglas. El jugador de RV puede ver, manipular, girar y mover la bomba y otros objetos de la sala. En cambio, el experto en manuales no puede ver la bomba, pero sí leer el manual de la misma.
 
-**Conexiones curriculares**: Informática; comunicación; lengua y literatura inglesas; lectura. 
-**Posibles habilidades enseñadas Lógica; resolución de problemas; comunicación verbal; comprensión lectora; trabajo en equipo
+**Conexiones curriculares**: Informática; comunicación; lengua y literatura inglesas; lectura.  
+**Posibles habilidades enseñadas**: Lógica; resolución de problemas; comunicación verbal; comprensión lectora; trabajo en equipo
 
 ### ¡Tres!
 ![](../assets/img/games/threes.webp)
@@ -346,7 +351,7 @@ Los jugadores guían a una civilización desde la Edad de Bronce hasta un futuro
 > **Conexiones curriculares:** Historia; geografía; educación cívica; economía; sociología.  
 > Habilidades que se pueden enseñar: pensamiento crítico, experimentación, análisis de costes y beneficios, cooperación, aprendizaje basado en la investigación.
 
-**Consejos
+**Consejos**
 1. Los profesores deben dedicar tiempo a aprender la estructura, los controles y la mecánica del juego antes de introducir a los alumnos en él.
 2. Los alumnos pueden sentir cierta frustración inicial al aprender a jugar.
 3. Los profesores pueden explorar temas específicos creando su propio juego o escenario personalizado.
@@ -376,8 +381,8 @@ A diferencia del típico juego de guerra en el que los jugadores suelen asumir e
 **Conexiones curriculares:** Aprendizaje social y emocional; ética; diseño de juegos.
 **Posibles habilidades enseñadas: empatía, dilemas morales, toma de decisiones, diseño narrativo.
 **Consejos:**
-1.  El juego puede extenderse fuera del aula para una experiencia más completa.
-2.  Para un estudio más avanzado, los alumnos pueden empezar el juego con un perfil de personaje más débil -en lugar de la configuración inicial sugerida en la Figura 3- para poner a prueba la moralidad y la capacidad de decisión del jugador.
+1. El juego puede extenderse fuera del aula para una experiencia más completa.
+2. Para un estudio más avanzado, los alumnos pueden empezar el juego con un perfil de personaje más débil para poner a prueba la moralidad y la capacidad de decisión del jugador.
 
 ## Juegos casuales
 
@@ -392,16 +397,16 @@ sitio web: [fancade.com](https://www.fancade.com)
 ![](../assets/img/games/minecraft.webp)
 Minecraft es un juego de mundo abierto que permite a los jugadores explorar y crear sin límites. El juego se desarrolla en un entorno 3D pixelado que se asemeja a un mundo natural con muchos biomas diferentes (por ejemplo, bosques, tundra y desiertos). Cada elemento del mundo está hecho de bloques de materiales correspondientes. Por ejemplo, los árboles están hechos de bloques de madera y las menas, de bloques de mineral. Los jugadores pueden romper y recoger estos bloques con sus manos o con herramientas fabricadas en el juego con materiales encontrados. La supervivencia es el objetivo clave de Minecraft, que se basa en la capacidad de los jugadores para mantener tanto su propia salud como su bienestar.
 
-**Conexiones curriculares:** Conocimientos básicos (lengua y literatura inglesas, geografía); metaconocimientos (causa y efecto, experiencia narrativa); conocimientos humanísticos (competencia cultural).   
+**Conexiones curriculares:** Conocimientos básicos (lengua y literatura inglesas, geografía); metaconocimientos (causa y efecto, experiencia narrativa); conocimientos humanísticos (competencia cultural).  
 **Posibles habilidades enseñadas:** Escritura; pensamiento crítico; exploración; experimentación; causa y efecto; cartografía; construcción; diseño; creatividad; gestión de recursos; comunicación.
 
-sitio web: [minecraft.net](https://www.minecraft.net)
+[minecraft.net](https://www.minecraft.net)
 
 ### Kerbal Space Program
 ![](../assets/img/games/kerbal.webp)
 
 Hazte cargo del programa espacial de la raza alienígena conocida como los Kerbals. Tienes acceso a una gran variedad de piezas para ensamblar naves espaciales totalmente funcionales que vuelan (o no) basándose en una física orbital y aerodinámica realista. Lanza a tu tripulación Kerbal a la órbita y más allá (manteniéndolos con vida) para explorar lunas y planetas del sistema solar Kerbol, construyendo bases y estaciones espaciales para ampliar el alcance de tu expedición.  
-Sitio web: [kerbalspaceprogram.com](https://www.kerbalspaceprogram.com)
+[kerbalspaceprogram.com](https://www.kerbalspaceprogram.com)
 
 ---
 ## Revisión de la unidad

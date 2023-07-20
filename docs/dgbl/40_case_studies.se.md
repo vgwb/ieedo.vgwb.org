@@ -6,7 +6,7 @@ nav_order: 40
 ---
 # 4. Fallstudier
 
-**Mål för inlärningen  
+**Mål för inlärningen**  
 
 - Vilka befintliga videospel kan vi använda?
 - Vad kan vi lära oss med hjälp av kommersiella videospel?
@@ -14,7 +14,7 @@ nav_order: 40
 ## Pedagogiska spel
 
 ### Antura & bokstäverna
-![](../assets/imgames/games/antura.webp)
+![](../assets/img/games/antura.webp)
 
 Det pedagogiska målet med spelet är att hjälpa spelarna att lära sig grunderna i arabisk läskunnighet, inklusive arabiska bokstäver, läsförståelse och ett visst ordförråd. Men spelet har också ett mål för socialt välbefinnande för att stödja flöde, engagemang och motivation
 
@@ -74,7 +74,7 @@ Speldesignern Jane McGonigal är övertygad om att videospel inte bara handlar o
 > Förmågan att identifiera sig med eller förstå en annan människas situation eller känslor
 
 ### Mitt krig
-![](../assets/imgames/games/thiswarofmine.webp)
+![](../assets/img/games/thiswarofmine.webp)
 
 This War of Mine är ett överlevnadsspel som skiljer sig från de flesta videospel med krigstema genom att fokusera på den civila upplevelsen av krig snarare än frontstrid. Karaktärerna måste fatta många svåra beslut för att överleva vardagliga faror. Det finns olika slut för varje karaktär, beroende på vilka beslut som fattas i spelet.  
 Webbplats: [thiswarofmine.com](http://www.thiswarofmine.com)
@@ -210,7 +210,7 @@ Dessutom kan spelaren ångra konsekvenserna genom att aktivera spelmekaniken fö
 > **Möjliga färdigheter som lärs ut:** Filosofisk analys; etisk analys; narrativ design; logiskt tänkande; analys av moraliska dilemman; narrativ design
 
 ### Assassin's Creed (serie)
-![](../assets/imgames/games/assassin.webp)
+![](../assets/img/games/assassin.webp)
 Serien består av tio berättelsedrivna standardspelkapitel som vart och ett täcker olika kronologiska epoker och platser, med en berättelsebåge som sträcker sig från Ptolemaiska Egypten genom det heliga landet vid tiden för det tredje korståget, renässansens Italien, Amerika under kolonialtiden och den franska revolutionen. Spelet går ut på att utforska den öppna världen, samla ledtrådar och bevis samt samla in eller leverera information
 
 ** Kopplingar till undervisningen**: Världshistoria; Världskulturer; Konst; Engelska; Språkinlärning; Konst- och arkitekturhistoria; Kolonialhistoria; Pirathistoria; Musik  
@@ -249,19 +249,19 @@ I Never Alone spelar du som en ung Inupiat-flicka, Nuna, som ger sig ut på en r
 ## Pussel
 
 ### Fortsätt prata och ingen exploderar
-![](../assets/imgames/games/keeptalking.webp)
+![](../assets/img/games/keeptalking.webp)
 Keep Talking and Nobody Explodes är ett kooperativt pusselspel i virtual reality (VR), där spelarna måste desarmera en bomb på ett visst antal minuter. I spelet har spelarna en av två roller, VR-spelaren och den eller de manuella experterna. VR-spelaren bär ett virtual reality-headset medan manual-experterna har tillgång till en separat resurs som kallas bombmanualen. När spelet startar förflyttas VR-spelaren till ett fönsterlöst rum i polisundersökningsstil med bomben och några verktyg. Varje bomb består av en timer och en mängd olika moduler som innehåller komplexa symboler eller regeluppsättningar. VR-spelaren kan se, manipulera, rotera och flytta bomben och andra föremål i rummet. Den manuella experten kan däremot inte se bomben men kan läsa igenom bombmanualen.
 
 **Kopplingar till läroplanen**: Datavetenskap; kommunikation; engelska; läsning 
 **Möjliga färdigheter som lärs ut**: Logik; problemlösning; verbal kommunikation; läsförståelse; lagarbete
 
 ### Treor!
-![](../assets/imgames/games/threes.webp)
+![](../assets/img/games/threes.webp)
 **Sammanhang med andra ämnen**: matematik 
 **Möjliga färdigheter som lärs ut**: Logik; Problemlösning
 
 ### Ruzzle
-![](../assets/imgames/spel/ruzzle.webp)
+![](../assets/img/games/ruzzle.webp)
 **Kunskapsanknytning**: kommunikation; läsning 
 **Möjliga färdigheter som lärs ut**: Logik; problemlösning; verbal kommunikation; läsförståelse; lagarbete
 
@@ -277,7 +277,7 @@ Det som gör Monument Valley unikt är spelets landskap. Spelare kan dra och vri
 > **Möjliga färdigheter som lärs ut:** informationskompetens, kvantitativt resonemang, kritiskt tänkande, teknisk kompetens, programmering
 
 ### Portal 2
-![](../assets/imgames/games/portal.webp)
+![](../assets/img/games/portal.webp)
 Portal 2 (Valve Corporation, 2011) är en uppföljare till det ursprungliga Portal, som båda är enormt populära förstapersonspussel-plattformsspel där spelaren rör sig runt i miljön genom att skjuta start- och slutportaler i annars frånkopplade ytor och därigenom skapa en länk genom vilken spelaren kan flytta föremål, inklusive sig själv. Spelet kräver **extensiv spatial skärpa** och uppmärksammades snabbt för sin potentiella användning för **inlärning av fysik, problemlösning och kritiskt tänkande**.
 
 > **Kunskapsanknytning: ** Fysik, geometri, engelska, socialt och emotionellt lärande
@@ -314,7 +314,7 @@ En uppslukande cyberpunk-miljö med slående visuella effekter, spännande berä
 ![](../assets/img/games/doom.webp)
 
 ### Call of Duty
-![](../assets/imgames/games/callofduty.webp)
+![](../assets/img/games/callofduty.webp)
 I **single-player**-kampanjen tar spelaren på sig rollen som olika karaktärer, bland annat en amerikansk marinsoldat och en brittisk SAS-agent (Special Air Service). Spelarens perspektiv ändras beroende på karaktären och i takt med att handlingen utvecklas genom icke-spelbara händelser och spelbara uppdrag. Uppdragen innehåller vanligtvis mål som bygger på att eliminera fiender, passera kontrollpunkter, säkra mål mot angripare eller förstöra en fientlig plats. I **multiplayer**-versionen använder serien denna mekanik för olika lagbaserade och deathmatch-baserade lägen över olika kartor.
 
 > **Kunskapsbakgrund:** Historia, politik, internationella relationer, etik   

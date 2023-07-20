@@ -148,7 +148,7 @@ Es gibt sieben Aspekte, die bei der Bestimmung der Effektivität von spielbasier
 
 - **Lernleistung** - ob ein Lernprozess stattgefunden hat und eine Verbesserung der Lernleistung zu verzeichnen ist. 
 - **Motivation** - der Grad der Motivation, des Interesses und der Beteiligung der Schüler am Spiel.
-- Wahrnehmungen** - die Ansichten der Schüler zu Bereichen wie Zeitablauf, Realismus des Spiels, Komplexität, erhaltene Unterstützung und Grad der wahrgenommenen Kompetenz im Spiel.
+- **Wahrnehmungen** - die Ansichten der Schüler zu Bereichen wie Zeitablauf, Realismus des Spiels, Komplexität, erhaltene Unterstützung und Grad der wahrgenommenen Kompetenz im Spiel.
 - **Einstellungen** - Gefühle der Lernenden und Lehrenden gegenüber dem Fach selbst und dem Einsatz von Spielen zum Lernen in diesem Fach.
 - **Zusammenarbeit** - die Regelmäßigkeit und Effektivität der Zusammenarbeit. (Connolly et al. argumentieren, dass dies optional und abhängig vom Spieldesign ist; ich würde argumentieren, dass im Kontext der Erwachsenenbildung mit Spielen die Zusammenarbeit ein wichtiger Teil des Lerndesigns ist).
 - **Präferenzen** - Neigungen der Lernenden und Lehrenden, z. B. zu unterschiedlichen Lernstilen oder Interaktionsformen.
@@ -157,7 +157,7 @@ Es gibt sieben Aspekte, die bei der Bestimmung der Effektivität von spielbasier
 ### Evaluierungs-Tools: Analytik
 Der Analysten-Teil ist der wichtigere 
 
-![](../assets/imgame_learning_analytics.webp)
+![](../assets/img/game_learning_analytics.webp)
 
 ### Umfrage zum Engagement
 Dieser Fragebogen kann nach Abschluss einer Aktivität verwendet werden, um den Grad des Engagements im Vergleich zu einer anderen Aktivität zu bewerten. Um die Ergebnisse zu analysieren und den Grad des Engagements zwischen zwei verschiedenen Aktivitäten zu vergleichen, sollten die folgenden Schritte durchgeführt werden.
