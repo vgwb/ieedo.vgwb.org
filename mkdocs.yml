@@ -1,9 +1,8 @@
-site_name: IEEDO
+site_name: IEEDO - DGBL
 site_url: https://ieedo.vgwb.org
-site_author: VGWB
-site_description: DGBL module for IEEDO project
-
-copyright: Open Source website by <a href="https://vgwb.org">vgwb.org</a>
+site_author: VGWB - Videogames Without Borders
+site_description: Digital Game Based Learning course for the IEEDO project
+copyright: CC BY 4.0 - <a href="https://vgwb.org">vgwb.org</a>
 
 theme:
   name: material
@@ -74,6 +73,7 @@ plugins:
       material_alternate: true
 
 repo_url: https://github.com/vgwb/ieedo.vgwb.org/
+repo_name: ieedo.vgwb.org
 edit_uri: edit/main/docs/
 
 extra_css:
