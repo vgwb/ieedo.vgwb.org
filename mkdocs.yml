@@ -13,6 +13,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
     edit: material/file-edit-outline
+    view: material/eye
   features:
     - navigation.footer
     - navigation.indexes
@@ -21,6 +22,7 @@ theme:
     - navigation.top
     - navigation.sections
     - announce.dismiss
+    - content.action.edit
   font:
     text: Roboto
     code: Roboto Mono
@@ -71,8 +73,8 @@ plugins:
           name: Swedish
       material_alternate: true
 
-#repo_url: https://github.com/vgwb/ieedo.vgwb.org/
-#edit_uri: edit/main/docs/
+repo_url: https://github.com/vgwb/ieedo.vgwb.org/
+edit_uri: edit/main/docs/
 
 extra_css:
   - assets/stylesheets/extra.css
