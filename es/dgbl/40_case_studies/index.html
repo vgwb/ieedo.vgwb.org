@@ -1,0 +1,2006 @@
+
+<!doctype html>
+<html lang="es" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Digital Game Based Learning course for the IEEDO project">
+      
+      
+        <meta name="author" content="Stefano Cecere @ VGWB">
+      
+      
+        <link rel="canonical" href="https://ieedo.vgwb.org/es/dgbl/40_case_studies/">
+      
+      
+        <link rel="prev" href="../30_learning/">
+      
+      
+        <link rel="next" href="../50_teacher_guide/">
+      
+      <link rel="icon" href="../../../assets/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.3, mkdocs-material-9.1.19">
+    
+    
+      
+        <title>4 - Casos prácticos - IEEDO - DGBL</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.eebd395e.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.ecc896b0.min.css">
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#4-casos-practicos" class="md-skip">
+          Saltar a contenido
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Cabecera">
+    <a href="../../" title="IEEDO - DGBL" class="md-header__button md-logo" aria-label="IEEDO - DGBL" data-md-component="logo">
+      
+  <img src="../../../assets/logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            IEEDO - DGBL
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              4 - Casos prácticos
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+            
+              <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+            
+            
+            
+            <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+            
+              <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+              </label>
+            
+          
+        </form>
+      
+    
+    
+      <div class="md-header__option">
+        <div class="md-select">
+          
+          <button class="md-header__button md-icon" aria-label="Seleccionar idioma">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12.87 15.07-2.54-2.51.03-.03A17.52 17.52 0 0 0 14.07 6H17V4h-7V2H8v2H1v2h11.17C11.5 7.92 10.44 9.75 9 11.35 8.07 10.32 7.3 9.19 6.69 8h-2c.73 1.63 1.73 3.17 2.98 4.56l-5.09 5.02L4 19l5-5 3.11 3.11.76-2.04M18.5 10h-2L12 22h2l1.12-3h4.75L21 22h2l-4.5-12m-2.62 7 1.62-4.33L19.12 17h-3.24Z"/></svg>
+          </button>
+          <div class="md-select__inner">
+            <ul class="md-select__list">
+              
+                <li class="md-select__item">
+                  <a href="../../../dgbl/40_case_studies/" hreflang="en" class="md-select__link">
+                    English
+                  </a>
+                </li>
+              
+                <li class="md-select__item">
+                  <a href="./" hreflang="es" class="md-select__link">
+                    Espanol
+                  </a>
+                </li>
+              
+                <li class="md-select__item">
+                  <a href="../../../de/dgbl/40_case_studies/" hreflang="de" class="md-select__link">
+                    German
+                  </a>
+                </li>
+              
+                <li class="md-select__item">
+                  <a href="../../../gr/dgbl/40_case_studies/" hreflang="gr" class="md-select__link">
+                    Greek
+                  </a>
+                </li>
+              
+                <li class="md-select__item">
+                  <a href="../../../se/dgbl/40_case_studies/" hreflang="se" class="md-select__link">
+                    Swedish
+                  </a>
+                </li>
+              
+            </ul>
+          </div>
+        </div>
+      </div>
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Búsqueda" placeholder="Búsqueda" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Buscar">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Limpiar" aria-label="Limpiar" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Inicializando búsqueda
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/vgwb/ieedo.vgwb.org/" title="Ir al repositorio" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    ieedo.vgwb.org
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navegación" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../" title="IEEDO - DGBL" class="md-nav__button md-logo" aria-label="IEEDO - DGBL" data-md-component="logo">
+      
+  <img src="../../../assets/logo.png" alt="logo">
+
+    </a>
+    IEEDO - DGBL
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/vgwb/ieedo.vgwb.org/" title="Ir al repositorio" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 496 512"><!--! Font Awesome Free 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2023 Fonticons, Inc.--><path d="M165.9 397.4c0 2-2.3 3.6-5.2 3.6-3.3.3-5.6-1.3-5.6-3.6 0-2 2.3-3.6 5.2-3.6 3-.3 5.6 1.3 5.6 3.6zm-31.1-4.5c-.7 2 1.3 4.3 4.3 4.9 2.6 1 5.6 0 6.2-2s-1.3-4.3-4.3-5.2c-2.6-.7-5.5.3-6.2 2.3zm44.2-1.7c-2.9.7-4.9 2.6-4.6 4.9.3 2 2.9 3.3 5.9 2.6 2.9-.7 4.9-2.6 4.6-4.6-.3-1.9-3-3.2-5.9-2.9zM244.8 8C106.1 8 0 113.3 0 252c0 110.9 69.8 205.8 169.5 239.2 12.8 2.3 17.3-5.6 17.3-12.1 0-6.2-.3-40.4-.3-61.4 0 0-70 15-84.7-29.8 0 0-11.4-29.1-27.8-36.6 0 0-22.9-15.7 1.6-15.4 0 0 24.9 2 38.6 25.8 21.9 38.6 58.6 27.5 72.9 20.9 2.3-16 8.8-27.1 16-33.7-55.9-6.2-112.3-14.3-112.3-110.5 0-27.5 7.6-41.3 23.6-58.9-2.6-6.5-11.1-33.3 2.6-67.9 20.9-6.5 69 27 69 27 20-5.6 41.5-8.5 62.8-8.5s42.8 2.9 62.8 8.5c0 0 48.1-33.6 69-27 13.7 34.7 5.2 61.4 2.6 67.9 16 17.7 25.8 31.5 25.8 58.9 0 96.5-58.9 104.2-114.8 110.5 9.2 7.9 17 22.9 17 46.4 0 33.7-.3 75.4-.3 83.6 0 6.5 4.6 14.4 17.3 12.1C428.2 457.8 496 362.9 496 252 496 113.3 383.5 8 244.8 8zM97.2 352.9c-1.3 1-1 3.3.7 5.2 1.6 1.6 3.9 2.3 5.2 1 1.3-1 1-3.3-.7-5.2-1.6-1.6-3.9-2.3-5.2-1zm-10.8-8.1c-.7 1.3.3 2.9 2.3 3.9 1.6 1 3.6.7 4.3-.7.7-1.3-.3-2.9-2.3-3.9-2-.6-3.6-.3-4.3.7zm32.4 35.6c-1.6 1.3-1 4.3 1.3 6.2 2.3 2.3 5.2 2.6 6.5 1 1.3-1.3.7-4.3-1.3-6.2-2.2-2.3-5.2-2.6-6.5-1zm-11.4-14.7c-1.6 1-1.6 3.6 0 5.9 1.6 2.3 4.3 3.3 5.6 2.3 1.6-1.3 1.6-3.9 0-6.2-1.4-2.3-4-3.3-5.6-2z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    ieedo.vgwb.org
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../" class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
+      
+      
+        
+          
+            
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../../app/">The IEEDO App</a>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
+        <label class="md-nav__title" for="__nav_2">
+          <span class="md-nav__icon md-icon"></span>
+          The IEEDO App
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+      
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+      
+      
+      
+      <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+      
+      
+        
+          
+            
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+          
+        
+      
+      
+        
+        
+        <div class="md-nav__link md-nav__link--index ">
+          <a href="../">Digital Game Based Learning</a>
+          
+            <label for="__nav_3">
+              <span class="md-nav__icon md-icon"></span>
+            </label>
+          
+        </div>
+      
+      <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Digital Game Based Learning
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../10_dgbl/" class="md-nav__link">
+        1 - What is DGBL
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../20_educational_videogames/" class="md-nav__link">
+        2 - Videojuegos educativos
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../30_learning/" class="md-nav__link">
+        3 - Juegos en el aula
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          4 - Casos prácticos
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        4 - Casos prácticos
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#juegos-educativos" class="md-nav__link">
+    Juegos educativos
+  </a>
+  
+    <nav class="md-nav" aria-label="Juegos educativos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#antura-y-las-letras" class="md-nav__link">
+    Antura y las Letras
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dragon-box" class="md-nav__link">
+    Dragon Box
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dumb-ways-to-die" class="md-nav__link">
+    Dumb Ways to Die
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#icivics" class="md-nav__link">
+    iCivics
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#otros-titulos" class="md-nav__link">
+    Otros títulos
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#salud" class="md-nav__link">
+    Salud
+  </a>
+  
+    <nav class="md-nav" aria-label="Salud">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#el-juego-que-puede-darte-10-anos-mas-de-vida" class="md-nav__link">
+    El juego que puede darte 10 años más de vida
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#algunos-titulos" class="md-nav__link">
+    Algunos títulos
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#empatia" class="md-nav__link">
+    Empatía
+  </a>
+  
+    <nav class="md-nav" aria-label="Empatía">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#this-war-of-mine" class="md-nav__link">
+    This War of Mine
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#papers-please" class="md-nav__link">
+    Papers, Please
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bounden" class="md-nav__link">
+    Bounden
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#etica" class="md-nav__link">
+    Ética
+  </a>
+  
+    <nav class="md-nav" aria-label="Ética">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#peacemaker" class="md-nav__link">
+    PeaceMaker
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phone-story" class="md-nav__link">
+    Phone Story
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sin-tripulacion" class="md-nav__link">
+    Sin tripulación
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#data-dealer" class="md-nav__link">
+    Data Dealer
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#movimiento-half-the-sky" class="md-nav__link">
+    Movimiento Half the Sky
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fate-of-the-world" class="md-nav__link">
+    Fate of the World
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#otros-juegos-para-el-bien-social" class="md-nav__link">
+    Otros juegos para el bien social
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#formacion-y-simulacion" class="md-nav__link">
+    Formación y simulación
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#juegos-comerciales" class="md-nav__link">
+    Juegos comerciales
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#aventura" class="md-nav__link">
+    Aventura
+  </a>
+  
+    <nav class="md-nav" aria-label="Aventura">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#gone-home" class="md-nav__link">
+    Gone home
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-walking-dead" class="md-nav__link">
+    The walking dead
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#life-is-strange" class="md-nav__link">
+    Life is Strange
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#assassins-creed-serie" class="md-nav__link">
+    Assassin's Creed (serie)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-legend-of-zelda-breath-of-the-wild" class="md-nav__link">
+    The Legend of Zelda: Breath of the Wild
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#plataforma" class="md-nav__link">
+    Plataforma
+  </a>
+  
+    <nav class="md-nav" aria-label="Plataforma">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#braid" class="md-nav__link">
+    Braid
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#never-alone" class="md-nav__link">
+    Never Alone
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#super-mario-maker-2" class="md-nav__link">
+    Super Mario Maker 2
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#puzzle" class="md-nav__link">
+    Puzzle
+  </a>
+  
+    <nav class="md-nav" aria-label="Puzzle">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#sigue-hablando-y-nadie-explotara" class="md-nav__link">
+    Sigue hablando y nadie explotará
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tres" class="md-nav__link">
+    ¡Tres!
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ruzzle" class="md-nav__link">
+    Ruzzle
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#monument-valley" class="md-nav__link">
+    Monument Valley
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#la-habitacion" class="md-nav__link">
+    La habitación
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#portal-2" class="md-nav__link">
+    Portal 2
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#juego-de-rol" class="md-nav__link">
+    Juego de rol
+  </a>
+  
+    <nav class="md-nav" aria-label="Juego de rol">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#serie-final-fantasy" class="md-nav__link">
+    Serie Final Fantasy
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#world-of-warcraft" class="md-nav__link">
+    World of Warcraft
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#deus-ex-human-revolution" class="md-nav__link">
+    Deus EX - Human Revolution
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shooter" class="md-nav__link">
+    Shooter
+  </a>
+  
+    <nav class="md-nav" aria-label="Shooter">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#doom" class="md-nav__link">
+    DOOM
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#call-of-duty" class="md-nav__link">
+    Call of Duty
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fortnite" class="md-nav__link">
+    Fortnite
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#deportes" class="md-nav__link">
+    Deportes
+  </a>
+  
+    <nav class="md-nav" aria-label="Deportes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#nba2k14" class="md-nav__link">
+    NBA2K14
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#estrategia" class="md-nav__link">
+    Estrategia
+  </a>
+  
+    <nav class="md-nav" aria-label="Estrategia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#civilizacion" class="md-nav__link">
+    Civilización
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pandemia" class="md-nav__link">
+    Pandemia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#simcity" class="md-nav__link">
+    SimCity
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#this-war-of-mine_1" class="md-nav__link">
+    This War of Mine
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#juegos-casuales" class="md-nav__link">
+    Juegos casuales
+  </a>
+  
+    <nav class="md-nav" aria-label="Juegos casuales">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#fancade" class="md-nav__link">
+    Fancade
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sandbox" class="md-nav__link">
+    Sandbox
+  </a>
+  
+    <nav class="md-nav" aria-label="Sandbox">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#minecraft" class="md-nav__link">
+    Minecraft
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kerbal-space-program" class="md-nav__link">
+    Kerbal Space Program
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#revision-de-la-unidad" class="md-nav__link">
+    Revisión de la unidad
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../50_teacher_guide/" class="md-nav__link">
+        5 - Guía del profesor
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../90_resources/" class="md-nav__link">
+        Resources
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Tabla de contenidos">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Tabla de contenidos
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#juegos-educativos" class="md-nav__link">
+    Juegos educativos
+  </a>
+  
+    <nav class="md-nav" aria-label="Juegos educativos">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#antura-y-las-letras" class="md-nav__link">
+    Antura y las Letras
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dragon-box" class="md-nav__link">
+    Dragon Box
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#dumb-ways-to-die" class="md-nav__link">
+    Dumb Ways to Die
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#icivics" class="md-nav__link">
+    iCivics
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#otros-titulos" class="md-nav__link">
+    Otros títulos
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#salud" class="md-nav__link">
+    Salud
+  </a>
+  
+    <nav class="md-nav" aria-label="Salud">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#el-juego-que-puede-darte-10-anos-mas-de-vida" class="md-nav__link">
+    El juego que puede darte 10 años más de vida
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#algunos-titulos" class="md-nav__link">
+    Algunos títulos
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#empatia" class="md-nav__link">
+    Empatía
+  </a>
+  
+    <nav class="md-nav" aria-label="Empatía">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#this-war-of-mine" class="md-nav__link">
+    This War of Mine
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#papers-please" class="md-nav__link">
+    Papers, Please
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#bounden" class="md-nav__link">
+    Bounden
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#etica" class="md-nav__link">
+    Ética
+  </a>
+  
+    <nav class="md-nav" aria-label="Ética">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#peacemaker" class="md-nav__link">
+    PeaceMaker
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#phone-story" class="md-nav__link">
+    Phone Story
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#sin-tripulacion" class="md-nav__link">
+    Sin tripulación
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#data-dealer" class="md-nav__link">
+    Data Dealer
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#movimiento-half-the-sky" class="md-nav__link">
+    Movimiento Half the Sky
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fate-of-the-world" class="md-nav__link">
+    Fate of the World
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#otros-juegos-para-el-bien-social" class="md-nav__link">
+    Otros juegos para el bien social
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#formacion-y-simulacion" class="md-nav__link">
+    Formación y simulación
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#juegos-comerciales" class="md-nav__link">
+    Juegos comerciales
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#aventura" class="md-nav__link">
+    Aventura
+  </a>
+  
+    <nav class="md-nav" aria-label="Aventura">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#gone-home" class="md-nav__link">
+    Gone home
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-walking-dead" class="md-nav__link">
+    The walking dead
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#life-is-strange" class="md-nav__link">
+    Life is Strange
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#assassins-creed-serie" class="md-nav__link">
+    Assassin's Creed (serie)
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#the-legend-of-zelda-breath-of-the-wild" class="md-nav__link">
+    The Legend of Zelda: Breath of the Wild
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#plataforma" class="md-nav__link">
+    Plataforma
+  </a>
+  
+    <nav class="md-nav" aria-label="Plataforma">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#braid" class="md-nav__link">
+    Braid
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#never-alone" class="md-nav__link">
+    Never Alone
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#super-mario-maker-2" class="md-nav__link">
+    Super Mario Maker 2
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#puzzle" class="md-nav__link">
+    Puzzle
+  </a>
+  
+    <nav class="md-nav" aria-label="Puzzle">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#sigue-hablando-y-nadie-explotara" class="md-nav__link">
+    Sigue hablando y nadie explotará
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#tres" class="md-nav__link">
+    ¡Tres!
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#ruzzle" class="md-nav__link">
+    Ruzzle
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#monument-valley" class="md-nav__link">
+    Monument Valley
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#la-habitacion" class="md-nav__link">
+    La habitación
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#portal-2" class="md-nav__link">
+    Portal 2
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#juego-de-rol" class="md-nav__link">
+    Juego de rol
+  </a>
+  
+    <nav class="md-nav" aria-label="Juego de rol">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#serie-final-fantasy" class="md-nav__link">
+    Serie Final Fantasy
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#world-of-warcraft" class="md-nav__link">
+    World of Warcraft
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#deus-ex-human-revolution" class="md-nav__link">
+    Deus EX - Human Revolution
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#shooter" class="md-nav__link">
+    Shooter
+  </a>
+  
+    <nav class="md-nav" aria-label="Shooter">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#doom" class="md-nav__link">
+    DOOM
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#call-of-duty" class="md-nav__link">
+    Call of Duty
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#fortnite" class="md-nav__link">
+    Fortnite
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#deportes" class="md-nav__link">
+    Deportes
+  </a>
+  
+    <nav class="md-nav" aria-label="Deportes">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#nba2k14" class="md-nav__link">
+    NBA2K14
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#estrategia" class="md-nav__link">
+    Estrategia
+  </a>
+  
+    <nav class="md-nav" aria-label="Estrategia">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#civilizacion" class="md-nav__link">
+    Civilización
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#pandemia" class="md-nav__link">
+    Pandemia
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#simcity" class="md-nav__link">
+    SimCity
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#this-war-of-mine_1" class="md-nav__link">
+    This War of Mine
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#juegos-casuales" class="md-nav__link">
+    Juegos casuales
+  </a>
+  
+    <nav class="md-nav" aria-label="Juegos casuales">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#fancade" class="md-nav__link">
+    Fancade
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#sandbox" class="md-nav__link">
+    Sandbox
+  </a>
+  
+    <nav class="md-nav" aria-label="Sandbox">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#minecraft" class="md-nav__link">
+    Minecraft
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#kerbal-space-program" class="md-nav__link">
+    Kerbal Space Program
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#revision-de-la-unidad" class="md-nav__link">
+    Revisión de la unidad
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+  
+    <a href="https://github.com/vgwb/ieedo.vgwb.org/edit/main/docs/dgbl/40_case_studies.es.md" title="Editar esta página" class="md-content__button md-icon">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M10 20H6V4h7v5h5v3.1l2-2V8l-6-6H6c-1.1 0-2 .9-2 2v16c0 1.1.9 2 2 2h4v-2m10.2-7c.1 0 .3.1.4.2l1.3 1.3c.2.2.2.6 0 .8l-1 1-2.1-2.1 1-1c.1-.1.2-.2.4-.2m0 3.9L14.1 23H12v-2.1l6.1-6.1 2.1 2.1Z"/></svg>
+    </a>
+  
+  
+
+
+<h1 id="4-casos-practicos">4. Casos prácticos</h1>
+<p><strong>Objetivos de aprendizaje</strong>  </p>
+<ul>
+<li>¿Qué videojuegos existentes podemos utilizar?</li>
+<li>¿Qué podemos aprender utilizando videojuegos comerciales?</li>
+</ul>
+<h2 id="juegos-educativos">Juegos educativos</h2>
+<h3 id="antura-y-las-letras">Antura y las Letras</h3>
+<p><img alt="" src="../../assets/img/games/antura.webp" /></p>
+<p>El objetivo educativo del juego es ayudar a los jugadores a adquirir las nociones básicas de la alfabetización árabe, incluidas las letras árabes, la comprensión lectora y algo de vocabulario. Pero el juego también tiene un objetivo de bienestar social para favorecer la fluidez, el compromiso y la motivación</p>
+<blockquote>
+<p>Conexiones curriculares Aprendizaje de idiomas; alfabetización árabe; aprendizaje social y emocional. 
+<strong>Habilidades posibles que se enseñan</strong>: Reconocimiento de letras (formas, nombres, fonemas); sílabas y lectura de palabras; vocabulario</p>
+</blockquote>
+<p>página web: <a href="https://www.antura.org">antura.org</a></p>
+<h3 id="dragon-box">Dragon Box</h3>
+<p>dragonbox](../assets/img/games/dragonbox.webp)</p>
+<p>Jugando con los manipulativos digitales de los juegos <em>DragonBox</em>, los alumnos comprenden en profundidad los conceptos matemáticos a través de una participación activa, todo ello mientras aprenden a su propio ritmo.  Cada uno de nuestros juegos se basa en "manipulativos digitales".  Estos manipulativos digitales se diseñaron para ser utilizados como herramienta didáctica, junto con la enseñanza y el debate en clase.<br />
+Sitio web: <a href="https://dragonbox.com/">dragonbox.com</a></p>
+<h3 id="dumb-ways-to-die">Dumb Ways to Die</h3>
+<p><img alt="" src="../../assets/img/games/dumbways.webp" /></p>
+<p>Campaña pública australiana realizada por Metro Trains en Melbourne, Victoria, Australia, para promover la seguridad ferroviaria. <br />
+Sitio web: <a href="http://www.dumbwaystodie.com">dumbwaystodie.com</a></p>
+<h3 id="icivics">iCivics</h3>
+<p><img alt="iCivics" src="../../assets/img/games/icivics.webp" /></p>
+<p><strong>iCivics</strong> existe para implicar a los alumnos en un aprendizaje cívico significativo. Proporcionamos a los profesores recursos bien escritos, ingeniosos y gratuitos que mejoran su práctica e inspiran sus aulas. acerca de. <strong>iCivics</strong> reimagina la educación cívica para la democracia estadounidense.<br />
+Sitio web: <a href="https://www.icivics.org">icivics.org</a></p>
+<h3 id="otros-titulos">Otros títulos</h3>
+<ul>
+<li><a href="http://www.playludwig.com">Ludwig</a> - juego educativo de física</li>
+<li><a href="https://www.inklestudios.com/80days/">80 Days</a> - juego educativo adaptativo de geografía</li>
+<li><a href="https://www.irit.fr/~David.Panzoli/romanova.html">Roma Nova</a> - enseñanza de historia con interfaces cerebrales</li>
+<li><a href="https://www.gcc.tu-darmstadt.de">Bionigma</a> - juego científico para la exploración de proteínas</li>
+<li><a href="https://www.meistercody.com">Meister Cody</a> - juego educativo para la discalculia</li>
+<li><a href="https://www.osmoticstudios.com/orwell-keeping-an-eye-on-you/">Orwell: Keeping an Eye on You</a> - aprendizaje de la gestión de datos de información personal</li>
+</ul>
+<h2 id="salud">Salud</h2>
+<h3 id="el-juego-que-puede-darte-10-anos-mas-de-vida">El juego que puede darte 10 años más de vida</h3>
+<p>La diseñadora de juegos Jane McGonigal cree firmemente que los videojuegos no consisten sólo en machacar botones y pasar al siguiente nivel. De hecho, durante su charla en TEDGlobal 2012, McGonigal dio varios datos estadísticos sorprendentes: que el juego online puede ser más eficaz que los fármacos para tratar la <strong>depresión clínica</strong> y que solo 30 minutos al día se correlacionan con <strong>aumentos significativos de la felicidad</strong>.</p>
+<p>📽 #VIDEO <a href="https://www.ted.com/talks/jane_mcgonigal_the_game_that_can_give_you_10_extra_years_of_life">El juego que puede darte 10 años más de vida</a></p>
+<iframe width="937" height="527" src="https://www.youtube.com/embed/lfBpsV1Hwqs" title="El juego que puede darte 10 años más de vida | Jane McGonigal" frameborder="0" allow="acelerómetro; autoplay; clipboard-write; encrypted-media; giroscopio; picture-in-picture" allowfullscreen></iframe>
+
+<h3 id="algunos-titulos">Algunos títulos</h3>
+<ul>
+<li><a href="https://hopelab.org/case-study/re-mission/">Re-Mission</a> - ayuda a jóvenes enfermos de cáncer a cumplir el tratamiento</li>
+<li><a href="https://zombiesrungame.com">Zombie Run</a> - Corre en el mundo real. Conviértete en un héroe en otro.</li>
+<li><a href="https://www.play2prevent.org/our-games/playforward-elm-city-stories/">Play Forward</a> - prevención del VIH</li>
+<li>Respir Games (terapia del asma)</li>
+<li>BalanceFit (entrenamiento del equilibrio, la coordinación y la fuerza)</li>
+<li><a href="https://www.headapp.com/en/neurovitalis-en/">NEUROvitalis</a> - entrenamiento cognitivo personalizado</li>
+<li>KickAss (juego de autismo para adolescentes)</li>
+<li><a href="https://www.zirkus-empathico.de/">Zirkus Empathica</a> - juego de autismo para niños</li>
+<li><a href="https://www.sparx.org.nz/home">SPARX</a> - juego de salud mental para jóvenes y adolescentes</li>
+</ul>
+<h2 id="empatia">Empatía</h2>
+<blockquote>
+<p>La capacidad de identificarse o comprender la situación o los sentimientos de otra persona</p>
+</blockquote>
+<h3 id="this-war-of-mine">This War of Mine</h3>
+<p><img alt="" src="../../assets/img/games/thiswarofmine.webp" /></p>
+<p>This War of Mine es un juego de supervivencia bélica que se diferencia de la mayoría de los videojuegos de temática bélica en que se centra en la experiencia civil de la guerra más que en el combate en primera línea. Los personajes tienen que tomar muchas decisiones difíciles para sobrevivir a los peligros cotidianos. Hay varios finales para cada personaje, dependiendo de las decisiones que tome en el juego.<br />
+Página web: <a href="http://www.thiswarofmine.com">thiswarofmine.com</a></p>
+<h3 id="papers-please">Papers, Please</h3>
+<p><img alt="" src="../../assets/img/games/papers_please.webp" /></p>
+<p><strong>Papers, Please</strong> es un "thriller documental distópico" para un solo jugador en el que el jugador se mete en el papel de un inspector de inmigración en el país ficticio de Arstotzka en el año 1982. Cuando el jugador se encuentra en el umbral entre dos países diferentes, de la mundana tarea de inspeccionar papeles surge una perspectiva única de la inmigración y la seguridad fronteriza. En un segundo nivel, el jugador debe, al mismo tiempo, mantener a su familia con el sueldo que gana en el trabajo, que se paga en función del número de personas que han pasado en un día. Equilibrar la seguridad fronteriza con las necesidades de la familia es algo exclusivamente humano, que crea una yuxtaposición nueva e interesante.<br />
+Sitio web: <a href="https://www.papersplea.se/">papersplea.se</a></p>
+<h3 id="bounden">Bounden</h3>
+<p><a href="../../assets/img/games/bounden.webp">Bounden</a></p>
+<p><strong>Bounden</strong> es un juego de baile para smartphone que obliga a los jugadores a usar el cuerpo. Dos personas sujetan los extremos opuestos de un smartphone y se mueven juntas para mantener el cursor sobre la pelota. Lo que empieza como una forma novedosa de interactuar con el juego, poco a poco anima a los dos jugadores a moverse juntos de forma creativa a medida que completan cada nivel.<br />
+página web: <a href="http://playbounden.com">playbounden.com</a></p>
+<h2 id="etica">Ética</h2>
+<blockquote>
+<p>La ética es el arte y la ciencia de analizar las cuestiones de lo bueno, lo malo, lo correcto, lo incorrecto, lo justo y lo injusto.</p>
+</blockquote>
+<h3 id="peacemaker">PeaceMaker</h3>
+<p><a href="../../assets/img/games/peacemaker.webp">PeaceMaker</a></p>
+<p>Juego de simulación gubernamental que simula el conflicto palestino-israelí. <br />
+Sitio web <a href="http://peacemakergame.com">peacemakergame.com</a></p>
+<h3 id="phone-story">Phone Story</h3>
+<p><img alt="Phone Story" src="../../assets/img/games/phone_story.webp" /></p>
+<p>Phone Story es un juego para dispositivos smartphone que intenta provocar una reflexión crítica sobre su propia plataforma tecnológica. Bajo la brillante superficie de nuestros aparatos electrónicos, detrás de su pulida interfaz, se esconde el producto de una problemática cadena de suministro que se extiende por todo el planeta. Phone Story representa este proceso con cuatro juegos educativos que convierten al jugador en cómplice simbólico de la extracción de coltán en el Congo, el trabajo subcontratado en China, los residuos electrónicos en Pakistán y el consumismo de gadgets en Occidente.</p>
+<p><a href="http://phonestory.org">http://phonestory.org</a></p>
+<h3 id="sin-tripulacion">Sin tripulación</h3>
+<p><img alt="Unmanned" src="../../assets/img/games/unmanned.webp" />
+La mayoría de los videojuegos de disparos hacen que la guerra parezca llena de acción y glamour. El objetivo de Unmanned es pintar un retrato mucho más realista, poniendo a los jugadores en la piel de un soldado que se enfrenta al aburrimiento y a sueños traumáticos, además de a sus deberes militares.</p>
+<p><a href="http://unmanned.molleindustria.org">http://unmanned.molleindustria.org</a></p>
+<h3 id="data-dealer">Data Dealer</h3>
+<p>Data Dealer es un juego en línea sobre la recogida y venta de datos personales, lleno de ironía y alegre sarcasmo. Es un juego de navegador/serio/edu/impacto sobre la cultura digital y la vigilancia, y pretende concienciar sobre la privacidad en línea de una forma nueva y divertida.</p>
+<p><a href="https://datadealer.com">https://datadealer.com</a></p>
+<h3 id="movimiento-half-the-sky">Movimiento Half the Sky</h3>
+<p>El juego es una aventura basada en el juego.
+The Game es una aventura basada en juegos que pretende llegar al gran público para concienciar y recaudar donativos para empoderar a mujeres y niñas de todo el mundo.</p>
+<p><a href="http://www.halftheskymovement.org">http://www.halftheskymovement.org</a></p>
+<h3 id="fate-of-the-world">Fate of the World</h3>
+<p><img alt="Destino del mundo" src="../../assets/img/games/fateoftheworld.webp" />
+Fate of the World es un dramático juego de estrategia global que pone nuestro futuro en tus manos. El juego presenta un dramático conjunto de escenarios basados en los últimos avances científicos que abarcan los próximos dos siglos. Deberás equilibrar la protección de los recursos y el clima de la Tierra con las necesidades de una población mundial en constante crecimiento.</p>
+<p><a href="https://www.soothsayergames.com">https://www.soothsayergames.com</a></p>
+<h2 id="otros-juegos-para-el-bien-social">Otros juegos para el bien social</h2>
+<p><strong>Un mundo sin petróleo</strong><br />
+También creación de McGonigal, los jugadores de este juego se encuentran en un mundo en el que se han agotado los recursos petrolíferos y deben ser creativos para sobrevivir a la masiva escasez mundial. ¿Lo mejor del juego? Enseña formas sencillas de consumir menos petróleo en el mundo real, hábitos que los jugadores afirman mantener cuando no están jugando. </p>
+<p><a href="http://www.worldwithoutoil.org">sitio web</a></p>
+<p><strong>FoldIt</strong><br />
+FoldIt, un juego en línea de plegado de proteínas, permite a su cuarto de millón de jugadores ayudar en la investigación científica estabilizando cadenas de aminoácidos. Es como el Tetris biológico: FoldIt convierte el reconocimiento de patrones biológicos en una competición que aporta soluciones innovadoras a problemas que han frustrado a las comunidades científicas durante años.<br />
+<a href="http://fold.it/portal">sitio web</a></p>
+<p><strong>VÍA</strong> <br />
+Comunicarse entre lenguas y culturas no es fácil. Pero en este juego en línea, dos jugadores anónimos de distintos lugares del mundo deben aprender a hablarse mientras sortean obstáculos. Desarrollado por CoCo &amp; Co, este juego se llevó los máximos honores en los premios Games for Change de este año.<br />
+<a href="http://www.makeourway.com/">sitio web</a></p>
+<p><strong>Héroe del presupuesto</strong>  <br />
+¿Crees que puedes equilibrar el presupuesto nacional? Entonces querrás jugar a este juego de American Public Media, que permite a los jugadores ver qué ocurre con el déficit nacional cuando aumentan la financiación de los programas u optan por hacer recortes difíciles. "Todos los miembros del Congreso deberían jugar a este juego", afirma uno de sus creadores.<br />
+<a href="http://www.marketplace.org/topics/economy/budget-hero">sitio web</a></p>
+<p><strong>Escuadrón del dolor</strong><br />
+A menudo se pide a los niños y adolescentes con cáncer que lleven diarios de dolor, un papeleo que no sólo es aburrido sino que centra su atención en su malestar. La aplicación para iOS Pain Squad hace que todo el proceso sea divertido e interactivo, al tiempo que ayuda a los médicos a ofrecer mejores tratamientos a los jóvenes pacientes.<br />
+<a href="http://www.campaignpage.ca/sickkidsapp/">sitio web</a></p>
+<p><strong>Gastado</strong><br />
+Cuando tu cuenta bancaria está en números negros, es fácil pensar que cualquiera puede salir de pobre por sus propios medios. Pero en este juego en línea, los jugadores tienen que buscar trabajo y sobrevivir con 1.000 dólares al mes, lo que demuestra que la pobreza y el desempleo son sistemáticos y no sólo el resultado de defectos de carácter.<br />
+<a href="http://playspent.org/">playspent.org</a></p>
+<p><strong>Evocar</strong><br />
+Creado por el Instituto del Banco Mundial en colaboración con McGonigal, este juego es un curso intensivo de 10 semanas sobre innovación social, en el que se plantean a los jugadores retos que van desde la "seguridad alimentaria" a la "resiliencia urbana", y se les anima a convertirse en un grupo de reflexión sobre los retos locales.<br />
+<a href="http://www.urgentevoke.com">www.urgentevoke.com</a></p>
+<h2 id="formacion-y-simulacion">Formación y simulación</h2>
+<p>📽 #VIDEO <a href="https://www.ted.com/talks/karoliina_korppoo_how_a_video_game_might_help_us_build_better_cities/">Construir mejores ciudades con juegos</a></p>
+<iframe width="937" height="527" src="https://www.youtube.com/embed/qYUmI5kGsYk" title="Cómo un videojuego puede ayudarnos a construir ciudades mejores | Karoliina Korppoo" frameborder="0" allow="acelerómetro; reproducción automática; portapapeles-escritura; medios codificados; giroscopio; imagen en imagen" allowfullscreen></iframe>
+
+<p>Algunos títulos:
+- <a href="https://positech.co.uk/democracy/">Democracy</a> - juego de estrategia política
+- <a href="https://www.flightsimulator.com">Simulador de vuelo</a>
+- <a href="https://www.iosb.fraunhofer.de/en/projects-and-products/lost-earth-2307.html">Lost Earth 2307</a> - interpretación de imágenes, militar
+- <a href="https://www.shipsim.com">Ship Simulator</a> - búsqueda y rescate marítimos
+- <a href="https://www.youtube.com/watch?v=xMvV7oOJozw">SchaVIS</a> - simulación y prevención de inundaciones
+- <a href="https://www.xmediaworks.nl/en/portfolio-items/sharkworld-a-project-management-game/">Sharkworld</a> - formación en gestión de proyectos
+- <a href="https://annex.fandom.com/wiki/Houthoff_Buruma_The_Game">Houthoff Buruma</a> - contratación y evaluación</p>
+<h2 id="juegos-comerciales">Juegos comerciales</h2>
+<p>De los juegos seleccionados intentamos extraer las <strong>conexiones curriculares</strong> (temas de aprendizaje) y las <strong>posibles competencias enseñadas</strong>.</p>
+<h2 id="aventura">Aventura</h2>
+<h3 id="gone-home">Gone home</h3>
+<p><img alt="gonehome" src="../../assets/img/games/gonehome.webp" /></p>
+<p>Un juego de exploración en primera persona en el que el jugador encarna a Kaitlin Greenbriar, una estudiante que regresa de un viaje al extranjero. Lo más desconcertante es el paradero de Sam, la hermana pequeña de Kaitlin, que ha desaparecido, aunque no sin dejar rastro. Para ayudar a determinar qué le ha ocurrido a Sam, el jugador debe seguir pistas y anotaciones en un diario para descubrir numerosos secretos ocultos por toda la casa.</p>
+<blockquote>
+<p><strong>Conexiones curriculares:</strong> Artes del lenguaje inglés; estudios narrativos; aprendizaje social y emocional; alfabetización mediática.<br />
+<strong>Habilidades posibles:</strong> Narrativa ambiental; desarrollo de personajes; género; narrativa lineal vs. no lineal; mecánica de juego y narrativa; intertextualidad; toma de perspectiva.</p>
+</blockquote>
+<h3 id="the-walking-dead">The walking dead</h3>
+<p><img alt="" src="../../assets/img/games/thewalkingdead.webp" /></p>
+<p>The Walking Dead cuenta la historia de Lee Everett, un profesor de Atlanta atrapado en pleno apocalipsis zombi. Durante el juego, el jugador encarna a Lee a través de las pruebas y desafíos que él y otros supervivientes tienen que superar. La jugabilidad es bastante sencilla y consiste principalmente en controlar a Lee para explorar su entorno y elegir sus líneas de diálogo en las conversaciones con otros personajes. Para ello, el jugador debe actuar en nombre de Lee en dilemas morales difíciles y complejos.</p>
+<blockquote>
+<p><strong>Conexiones curriculares:</strong> Filosofía moral; ética; normas sociales, historia de las ideas.  <br />
+<strong>Habilidades que se pueden enseñar:</strong> Toma de decisiones; pensamiento sistémico; habilidades de pensamiento de orden superior, como causa y efecto; pensamiento crítico; reflexión; conexiones entre el juego y uno mismo; conexiones entre el juego y el mundo; atención plena.</p>
+</blockquote>
+<p>Consejos:</p>
+<ol>
+<li>Los profesores deben jugar al episodio que vayan a utilizar al menos dos veces, ya que un conocimiento profundo del juego es crucial para establecer las conexiones curriculares necesarias.</li>
+<li>Los profesores deben animar a los alumnos a basar sus argumentos en teorías éticas, y no sólo en sus "corazonadas".</li>
+</ol>
+<h3 id="life-is-strange">Life is Strange</h3>
+<p><img alt="" src="../../assets/img/games/lifeisstrange.webp" /></p>
+<p>El jugador asume el papel del personaje femenino Max Caulfield, una estudiante de fotografía de dieciocho años, que intenta salvar a la gente del pueblo de un tornado catastrófico que podría caer sobre la bahía. Con una perspectiva en tercera persona, el jugador controla los movimientos de Max para explorar los entornos del juego, descubrir las historias a través de la participación de Max en diversos acontecimientos y tomar decisiones que cambian la vida de Max en función de las opciones que ofrece la narrativa ramificada del juego.</p>
+<p>El jugador se enfrenta a varios dilemas morales que le obligan a tomar decisiones que, en última instancia, pueden beneficiar a un personaje pero tener consecuencias devastadoras para otro.</p>
+<p>Además, el jugador puede deshacer las consecuencias activando el mecanismo de rebobinado del reloj para viajar a puntos temporales anteriores y tomando diferentes decisiones que pueden influir en los acontecimientos futuros.</p>
+<blockquote>
+<p><strong>Conexiones curriculares:</strong> Filosofía; ética; lógica; lengua inglesa; habilidades sociales y emocionales.<br />
+<strong>Habilidades posibles:</strong> Análisis filosófico; análisis ético; diseño narrativo; pensamiento lógico; análisis de dilemas morales; diseño narrativo.</p>
+</blockquote>
+<h3 id="assassins-creed-serie">Assassin's Creed (serie)</h3>
+<p><img alt="" src="../../assets/img/games/assassin.webp" />
+La serie consta de diez capítulos de juego estándar basados en la narrativa, cada uno de los cuales abarca diferentes épocas y lugares cronológicos, con un arco narrativo que abarca desde el Egipto ptolemaico, pasando por Tierra Santa en la época de la tercera Cruzada, la Italia renacentista, las Américas en la época colonial y la Revolución Francesa. El juego se centra en la exploración del mundo abierto, la recogida de pistas y pruebas y la recopilación o entrega de información.</p>
+<blockquote>
+<p><strong>Conexiones curriculares</strong>: Historia del mundo; Culturas del mundo; Artes; Aprendizaje de la lengua inglesa; Aprendizaje de idiomas; Historia del arte y la arquitectura; Historia colonial; Historia de la piratería; Música.<br />
+<strong>Habilidades posibles enseñadas</strong>: apreciación del arte y la arquitectura; apreciación de la música; resolución de problemas basada en tareas; comprensión auditiva y lectora (ESL, lenguas extranjeras); toma de decisiones éticas; argumentación; empatía; análisis de dilemas morales.</p>
+</blockquote>
+<h3 id="the-legend-of-zelda-breath-of-the-wild">The Legend of Zelda: Breath of the Wild</h3>
+<p><img alt="" src="../../assets/img/games/zelda.webp" /></p>
+<p>Este juego sitúa al jugador en un vasto paisaje de mundo abierto, dando a Link total libertad para explorar las numerosas localizaciones del juego mientras se enfrenta a una plétora de aventuras, monstruos y rompecabezas. Como el juego fomenta la experimentación y la exploración, cada jugador puede dar forma a la historia según su propio ritmo y habilidades.</p>
+<blockquote>
+<p><strong>Conexiones curriculares:</strong> Habilidades sociales y emocionales; gestión<br />
+<strong>Posibles habilidades enseñadas</strong>: Concentración, organización, gestión del tiempo; memoria de trabajo; función ejecutiva</p>
+</blockquote>
+<p><strong>Consejos:</strong> </p>
+<ol>
+<li>Después de que los estudiantes jueguen Breath of the Wild, los profesores deben asegurarse de que entienden cómo se utilizaron las habilidades de funcionamiento ejecutivo en el juego.</li>
+<li>Una forma en que los profesores pueden apoyar la reflexión sobre las habilidades utilizadas en el juego es animando a los alumnos a escribir ejemplos concretos de cuándo la finalización con éxito de las misiones requirió el uso de cada habilidad.</li>
+</ol>
+<h2 id="plataforma">Plataforma</h2>
+<h3 id="braid">Braid</h3>
+<p><img alt="" src="../../assets/img/games/braid.webp" />
+BRAID es una aventura de desplazamiento lateral. Cada uno de los seis mundos del juego presenta una <strong>mecánica de juego de cambio de tiempo</strong> diferente que se utiliza para descifrar una serie de <strong>descifrables rompecabezas</strong>. Según el nivel y las circunstancias, el tiempo puede ralentizarse, los enemigos pueden avanzar o retroceder dependiendo de la dirección en la que corra nuestro pequeño héroe de traje azul, o el reloj puede detenerse por completo. <strong>Los jugadores pueden rebobinar el tiempo</strong> tanto como quieran en cualquier momento y en cualquier nivel.</p>
+<h3 id="never-alone">Never Alone</h3>
+<p><img alt="" src="../../assets/img/games/neveralone.webp" /></p>
+<p>En Never Alone encarnas a una joven inupiat, Nuna, que emprende un viaje para descubrir el origen de una eterna ventisca que amenaza con destruir su aldea. Por el camino se encuentra con un zorro ártico y una serie de criaturas espirituales que la ayudan en su viaje. Never Alone es un juego de plataformas y puzles en el que el jugador puede controlar tanto a Nuna como a su compañero el zorro ártico para resolver una serie de rompecabezas que requieren comprender cómo funcionan diversas herramientas inupiat, los elementos del entorno (por ejemplo, los animales salvajes y el clima) y los PNJ (normalmente en forma de criaturas espirituales inupiat). </p>
+<blockquote>
+<p><strong>Conexiones curriculares:</strong> Estudios sociales; aprendizaje social y emocional.<br />
+Habilidades que pueden enseñarse: pensamiento sistémico, colaboración, toma de decisiones.</p>
+</blockquote>
+<h3 id="super-mario-maker-2">Super Mario Maker 2</h3>
+<p><img alt="" src="../../assets/img/games/supermariomaker.webp" /></p>
+<h2 id="puzzle">Puzzle</h2>
+<h3 id="sigue-hablando-y-nadie-explotara">Sigue hablando y nadie explotará</h3>
+<p><img alt="" src="../../assets/img/games/keeptalking.webp" />
+Keep Talking and Nobody Explodes es un juego cooperativo de realidad virtual (RV) en el que los jugadores deben desactivar una bomba en un número determinado de minutos. El juego sitúa a los jugadores en uno de los dos papeles siguientes: el jugador de RV y el experto o expertos manuales. El jugador de RV lleva un casco de realidad virtual, mientras que los expertos en manuales acceden a un recurso independiente llamado manual de bombas. Una vez que el juego comienza, transporta al jugador de RV a una sala sin ventanas, al estilo de un examen policial, con la bomba y algunas herramientas. Cada bomba consta de un temporizador y diversos módulos que contienen símbolos complejos o conjuntos de reglas. El jugador de RV puede ver, manipular, girar y mover la bomba y otros objetos de la sala. En cambio, el experto en manuales no puede ver la bomba, pero sí leer el manual de la misma.</p>
+<p><strong>Conexiones curriculares</strong>: Informática; comunicación; lengua y literatura inglesas; lectura.<br />
+<strong>Posibles habilidades enseñadas</strong>: Lógica; resolución de problemas; comunicación verbal; comprensión lectora; trabajo en equipo</p>
+<h3 id="tres">¡Tres!</h3>
+<p><img alt="" src="../../assets/img/games/threes.webp" />
+<strong>Conexiones curriculares</strong>: matemáticas 
+<strong>Posibles habilidades enseñadas</strong>: Lógica; Resolución de problemas</p>
+<h3 id="ruzzle">Ruzzle</h3>
+<p><img alt="" src="../../assets/img/games/ruzzle.webp" />
+<strong>Conexiones curriculares</strong>: comunicación; lectura 
+<strong>Posibles habilidades enseñadas</strong>: Lógica; resolución de problemas; comunicación verbal; comprensión lectora; trabajo en equipo</p>
+<h3 id="monument-valley">Monument Valley</h3>
+<p><img alt="" src="../../assets/img/games/monumentvalley.webp" />
+Monument Valley es un juego de puzles inspirado en MC Escher que dobla la arquitectura y sigue a una princesa silenciosa a través de un mundo cautivador. 
+Lo que lo hace único son los paisajes del juego. Los jugadores pueden arrastrar y girar partes de ciertos edificios para crear un camino de una zona a otra. Y, en otras, al pisar los cuadros de activación, la gravedad cambiará y el jugador caminará por el lateral de una pared. La física del juego se basa en la percepción, así que si eres capaz de colocar elementos de forma que parezca que hay un camino, puedes usarlo, aunque ese camino no existiera en el mundo real.</p>
+<h3 id="la-habitacion">La habitación</h3>
+<p><img alt="" src="../../assets/img/games/theroom.webp" /></p>
+<blockquote>
+<p><strong>Conexiones curriculares:</strong> matemáticas; estudios sociales; arte; estudios de medios de comunicación; informática; psicología; sociología; antropología; biología; química<br />
+<strong>Competencias posibles:</strong> alfabetización informacional; razonamiento cuantitativo; pensamiento crítico; alfabetización tecnológica; programación</p>
+</blockquote>
+<h3 id="portal-2">Portal 2</h3>
+<p><img alt="" src="../../assets/img/games/portal.webp" />
+Portal 2 (Valve Corporation, 2011) es una secuela del Portal original, ambos juegos de plataformas y puzles en primera persona enormemente populares en los que el jugador se mueve por el entorno disparando portales de inicio y fin en superficies que de otro modo estarían desconectadas, creando así un vínculo a través del cual el jugador puede mover objetos, incluido a sí mismo. El juego requiere una gran agudeza espacial y rápidamente se reconoció su potencial para el aprendizaje de la física, la resolución de problemas y el pensamiento crítico.</p>
+<blockquote>
+<p><strong>Conexiones curriculares:</strong> Física, geometría, lengua y literatura inglesas; aprendizaje social y emocional.
+Habilidades que pueden enseñarse:** Habilidades de comunicación; trabajo en equipo; resolución de problemas; pensamiento crítico; pensamiento lógico; análisis espacial; habilidades laborales/profesionales.</p>
+</blockquote>
+<p>{: .highlight }</p>
+<blockquote>
+<p>Cómo utilizar Portal 2 en un aula STEM / Física: <a href="https://www.foundry10.org/programs/games-and-learning/portal-2">leer aquí</a></p>
+</blockquote>
+<h2 id="juego-de-rol">Juego de rol</h2>
+<h3 id="serie-final-fantasy">Serie Final Fantasy</h3>
+<p><img alt="" src="../../assets/img/games/finalfantasy.webp" />
+<strong>Conexiones curriculares:</strong> Literatura moderna; ciencia ficción; estudios culturales; estudios de medios de comunicación, humanidades; psicología; estudios urbanos<br />
+<strong>Posibles habilidades enseñadas:</strong> pensamiento crítico, creatividad, juicio ético</p>
+<h3 id="world-of-warcraft">World of Warcraft</h3>
+<p><img alt="" src="../../assets/img/games/wow.webp" />
+World of Warcraft (WoW) es uno de los primeros y mayores juegos de rol multijugador masivo en línea (MMORPG) por suscripción de la actualidad. WoW ofrece a los jugadores dos facciones (Alianza y Horda) que compiten y colaboran para proteger su mundo, Azeroth, contra amenazas externas e internas. Los jugadores pueden participar en una mezcla de actividades como <strong>búsquedas individuales</strong> y <strong>colaborativas</strong>, profesiones de recolección y artesanía, incursiones, campos de batalla, arenas, chat de texto social y privado, y una casa de subastas combinada de pujas abiertas. Los jugadores también pueden elegir entre jugar individualmente, unirse a grupos de hasta 40 jugadores o unirse a gremios con cientos de miembros.</p>
+<blockquote>
+<p><strong>Conexiones curriculares:</strong> Contabilidad; negocios; gestión de la cadena de suministro.<br />
+<strong>Posibles habilidades enseñadas:</strong> Investigación de mercado; estados financieros; marketing; hojas de cálculo de contabilidad; comercio</p>
+</blockquote>
+<h3 id="deus-ex-human-revolution">Deus EX - Human Revolution</h3>
+<p><img alt="" src="../../assets/img/games/deusex.webp" /></p>
+<p>Un entorno ciberpunk envolvente con efectos visuales impactantes, una historia llena de suspense y una caracterización convincente. La acción transcurre, como en las novelas ciberpunk, entre megaciudades o centros urbanos. La narrativa y la jugabilidad del juego giran en torno al transhumanismo.</p>
+<p><strong>Conexiones curriculares: literatura moderna, ciencia ficción, estudios culturales, medios de comunicación, humanidades, psicología y estudios urbanos.<br />
+</strong>Posibles habilidades enseñadas: pensamiento crítico, creatividad, juicio ético.</p>
+<h2 id="shooter">Shooter</h2>
+<h3 id="doom">DOOM</h3>
+<p><img alt="" src="../../assets/img/games/doom.webp" /></p>
+<h3 id="call-of-duty">Call of Duty</h3>
+<p><img alt="" src="../../assets/img/games/callofduty.webp" />
+En la campaña para un jugador, el jugador asume el papel de varios personajes, entre ellos un marine de los Estados Unidos y un agente del Servicio Aéreo Especial (SAS) británico. La perspectiva del jugador cambia en función del personaje y a medida que evoluciona la trama a través de eventos no jugables y misiones jugables. Las misiones suelen incluir objetivos basados en eliminar enemigos, superar puntos de control, asegurar objetivos contra atacantes o destruir una ubicación enemiga. En la versión <strong>multijugador</strong>, la serie utiliza estas mecánicas para varios modos basados en equipos y deathmatch a través de varios mapas.</p>
+<blockquote>
+<p><strong>Conexiones curriculares:</strong> Historia; política; relaciones internacionales; ética. <br />
+<strong>Posibles habilidades enseñadas:</strong> Toma de decisiones éticas; diseño ético; análisis de dilemas morales, diseño narrativo</p>
+</blockquote>
+<h3 id="fortnite">Fortnite</h3>
+<p><img alt="" src="../../assets/img/games/fortnite.webp" />
+Fortnite es un juego de acción online publicado por Epic Games en 2017. Está ambientado en un futuro cercano y adopta una perspectiva en tercera persona y una estética caricaturesca. Incluye tres modalidades diferentes.</p>
+<ul>
+<li>Fortnite: <strong>Battle Royale</strong> imita la fórmula de PlayerUnknown's Battlegrounds presentando un sistema lúdico en el que compiten hasta 100 jugadores en modos uno contra uno o equipo contra equipo.</li>
+<li>Fortnite: <strong>Save the World</strong> es una experiencia de supervivencia cooperativa en la que cuatro jugadores deben completar varias misiones contra el juego. Las tareas abarcan matar enemigos, recoger materiales y construir refugios para detener ejércitos de zombis.</li>
+<li>Fortnite <strong>Creativo</strong> es un modo creativo que ofrece varias herramientas de edición. Los jugadores pueden construir y crear diferentes estructuras y objetos en islas personalizadas.</li>
+</ul>
+<blockquote>
+<p><strong>Conexiones curriculares:</strong> Teoría crítica; culturas digitales; tecnología educativa; aprendizaje social y emocional.<br />
+<strong>Habilidades posibles que se enseñan:</strong> Pensamiento colaborativo; pensamiento conectivista; creatividad; pensamiento crítico; alfabetización en medios sociales.</p>
+</blockquote>
+<h2 id="deportes">Deportes</h2>
+<h3 id="nba2k14">NBA2K14</h3>
+<p><img alt="" src="../../assets/img/games/nba.webp" />
+<strong>Conexiones curriculares:</strong> Estudios sociales; biomecánica; economía; biometría; gestión <strong>Habilidades posibles enseñadas:</strong> Pensamiento sistémico; colaboración; toma de decisiones; vocabulario crítico de juegos; pensamiento crítico; conciencia histórica</p>
+<h2 id="estrategia">Estrategia</h2>
+<h3 id="civilizacion">Civilización</h3>
+<p><img alt="" src="../../assets/img/games/civilization.webp" />
+Los jugadores guían a una civilización desde la Edad de Bronce hasta un futuro cercano compitiendo contra otros humanos o contra un ordenador artificialmente inteligente, ganando puntos según lo poderosa y avanzada que sea su civilización. Antes de empezar una partida, los jugadores eligen una de las múltiples civilizaciones que van a liderar, cada una de ellas con habilidades de juego únicas basadas en las circunstancias o logros de sus homólogas en la vida real.</p>
+<blockquote>
+<p><strong>Conexiones curriculares:</strong> Historia; geografía; educación cívica; economía; sociología.<br />
+Habilidades que se pueden enseñar: pensamiento crítico, experimentación, análisis de costes y beneficios, cooperación, aprendizaje basado en la investigación.</p>
+</blockquote>
+<p><strong>Consejos</strong>
+1. Los profesores deben dedicar tiempo a aprender la estructura, los controles y la mecánica del juego antes de introducir a los alumnos en él.
+2. Los alumnos pueden sentir cierta frustración inicial al aprender a jugar.
+3. Los profesores pueden explorar temas específicos creando su propio juego o escenario personalizado.
+En Internet se pueden encontrar cientos de mods gratuitos creados por jugadores.</p>
+<h3 id="pandemia">Pandemia</h3>
+<p><img alt="" src="../../assets/img/games/pandemic.webp" />
+Pandemic es un juego cooperativo en el que un equipo de jugadores asume roles únicos (por ejemplo, médico, científico, investigador) como miembros de una organización sanitaria mundial encargada de combatir brotes de enfermedades y, en última instancia, de curar cuatro contagios que surgen en todo el planeta. Los jugadores se enfrentan a una elección colectiva sobre la mejor manera de desplegar sus recursos individuales para hacer frente a las condiciones de salud inmediatas o desarrollar un plan a largo plazo para curar cada enfermedad.</p>
+<p><strong>Conexiones curriculares:</strong> Política pública; epidemiología; salud; biología; aprendizaje social y emocional; ciencias de la información.  </p>
+<p><strong>Posibles competencias enseñadas:</strong> Construcción de algoritmos; predicción basada en probabilidades; argumentación; retórica; colaboración; comunicación; defensa; planificación; toma de decisiones; lógica.</p>
+<h3 id="simcity">SimCity</h3>
+<p><img alt="" src="../../assets/img/games/simcity.webp" /></p>
+<p>SimCity es un videojuego de simulación cuyo objetivo principal es desarrollar una ciudad próspera a partir de los comienzos de un pequeño pueblo. Los jugadores controlan el desarrollo de la ciudad definiendo zonas de desarrollo, instalando infraestructuras técnicas (por ejemplo, vías de circulación e instalaciones de suministro de agua) y proporcionando servicios (por ejemplo, escuelas y bomberos). El tipo de zonas de desarrollo (industriales, comerciales o residenciales) determina los tipos de edificios que se construyen automáticamente en la zona. Durante el juego, los jugadores deben garantizar constantemente unas condiciones de desarrollo equilibradas, como el cumplimiento de los presupuestos y la satisfacción de los ciudadanos.</p>
+<p><strong>Conexiones curriculares</strong>: planificación urbana y regional, desarrollo urbano, geografía urbana, elaboración de políticas (gubernamentales), infraestructura técnica, estudios medioambientales.</p>
+<p><strong>Posibles competencias impartidas:</strong> pensamiento sistémico, planificación y control de sistemas, desarrollo de sistemas, concepto de sostenibilidad</p>
+<h3 id="this-war-of-mine_1">This War of Mine</h3>
+<p><img alt="" src="../../assets/img/games/thiswarofmine.webp" />
+A diferencia del típico juego de guerra en el que los jugadores suelen asumir el papel de soldados capaces, este juego pone al jugador en la piel de un grupo de civiles que viven en una ciudad asediada intentando sobrevivir, con el objetivo de fomentar la empatía y la concienciación sobre los conflictos armados del mundo real, y muchos creyeron que se consiguió.</p>
+<p><strong>Conexiones curriculares:</strong> Aprendizaje social y emocional; ética; diseño de juegos.
+<strong>Posibles habilidades enseñadas: empatía, dilemas morales, toma de decisiones, diseño narrativo.
+</strong>Consejos:**
+1. El juego puede extenderse fuera del aula para una experiencia más completa.
+2. Para un estudio más avanzado, los alumnos pueden empezar el juego con un perfil de personaje más débil para poner a prueba la moralidad y la capacidad de decisión del jugador.</p>
+<h2 id="juegos-casuales">Juegos casuales</h2>
+<h3 id="fancade">Fancade</h3>
+<p><img alt="" src="../../assets/img/games/fancade.webp" />
+Fancade es una enorme colección de juegos sencillos. Juega al instante o crea tu propio juego arrastrando y soltando bloques de construcción.
+sitio web: <a href="https://www.fancade.com">fancade.com</a></p>
+<h2 id="sandbox">Sandbox</h2>
+<h3 id="minecraft">Minecraft</h3>
+<p><img alt="" src="../../assets/img/games/minecraft.webp" />
+Minecraft es un juego de mundo abierto que permite a los jugadores explorar y crear sin límites. El juego se desarrolla en un entorno 3D pixelado que se asemeja a un mundo natural con muchos biomas diferentes (por ejemplo, bosques, tundra y desiertos). Cada elemento del mundo está hecho de bloques de materiales correspondientes. Por ejemplo, los árboles están hechos de bloques de madera y las menas, de bloques de mineral. Los jugadores pueden romper y recoger estos bloques con sus manos o con herramientas fabricadas en el juego con materiales encontrados. La supervivencia es el objetivo clave de Minecraft, que se basa en la capacidad de los jugadores para mantener tanto su propia salud como su bienestar.</p>
+<p><strong>Conexiones curriculares:</strong> Conocimientos básicos (lengua y literatura inglesas, geografía); metaconocimientos (causa y efecto, experiencia narrativa); conocimientos humanísticos (competencia cultural).<br />
+<strong>Posibles habilidades enseñadas:</strong> Escritura; pensamiento crítico; exploración; experimentación; causa y efecto; cartografía; construcción; diseño; creatividad; gestión de recursos; comunicación.</p>
+<p><a href="https://www.minecraft.net">minecraft.net</a></p>
+<h3 id="kerbal-space-program">Kerbal Space Program</h3>
+<p><img alt="" src="../../assets/img/games/kerbal.webp" /></p>
+<p>Hazte cargo del programa espacial de la raza alienígena conocida como los Kerbals. Tienes acceso a una gran variedad de piezas para ensamblar naves espaciales totalmente funcionales que vuelan (o no) basándose en una física orbital y aerodinámica realista. Lanza a tu tripulación Kerbal a la órbita y más allá (manteniéndolos con vida) para explorar lunas y planetas del sistema solar Kerbol, construyendo bases y estaciones espaciales para ampliar el alcance de tu expedición.<br />
+<a href="https://www.kerbalspaceprogram.com">kerbalspaceprogram.com</a></p>
+<hr />
+<h2 id="revision-de-la-unidad">Revisión de la unidad</h2>
+<ul>
+<li>describe un videojuego que conozcas y sus conexiones curriculares y posibles habilidades enseñadas</li>
+</ul>
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8v12Z"/></svg>
+            Volver al principio
+          </button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+      <nav class="md-footer__inner md-grid" aria-label="Pie" >
+        
+          
+          <a href="../30_learning/" class="md-footer__link md-footer__link--prev" aria-label="Anterior: 3 - Juegos en el aula" rel="prev">
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+            </div>
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Anterior
+              </span>
+              <div class="md-ellipsis">
+                3 - Juegos en el aula
+              </div>
+            </div>
+          </a>
+        
+        
+          
+          <a href="../50_teacher_guide/" class="md-footer__link md-footer__link--next" aria-label="Siguiente: 5 - Guía del profesor" rel="next">
+            <div class="md-footer__title">
+              <span class="md-footer__direction">
+                Siguiente
+              </span>
+              <div class="md-ellipsis">
+                5 - Guía del profesor
+              </div>
+            </div>
+            <div class="md-footer__button md-icon">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+            </div>
+          </a>
+        
+      </nav>
+    
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      CC BY 4.0 - <a href="https://vgwb.org">vgwb.org</a>
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.footer", "navigation.indexes", "navigation.top", "navigation.sections", "announce.dismiss", "content.action.edit"], "search": "../../../assets/javascripts/workers/search.74e28a9f.min.js", "translations": {"clipboard.copied": "Copiado al portapapeles", "clipboard.copy": "Copiar al portapapeles", "search.result.more.one": "1 m\u00e1s en esta p\u00e1gina", "search.result.more.other": "# m\u00e1s en esta p\u00e1gina", "search.result.none": "No se encontraron documentos", "search.result.one": "1 documento encontrado", "search.result.other": "# documentos encontrados", "search.result.placeholder": "Teclee para comenzar b\u00fasqueda", "search.result.term.missing": "Falta", "select.version": "Seleccionar versi\u00f3n"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.220ee61c.min.js"></script>
+      
+    
+  </body>
+</html>
